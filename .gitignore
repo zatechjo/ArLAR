@@ -64,5 +64,8 @@ next-env.d.ts
 /public/documents/
 /public/Arab Flags/
 
+# Supabase CLI working state is machine-specific.
+/supabase/.temp/
+
 .vercel
 .env*

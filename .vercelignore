@@ -9,3 +9,9 @@ public/Arab Flags/**
 /.tmp/
 *.log
 *.err
+
+# Source migration material and local tooling are not needed at runtime.
+/data/**
+/docs/**
+/scripts/**
+/supabase/**
