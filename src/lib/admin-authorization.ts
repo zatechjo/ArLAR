@@ -39,11 +39,14 @@ export const requireAdminSession = cache(async (): Promise<AdminActor> => {
   const supabase = await createSupabaseServerClient();
   const { data: { user }, error: authError } = await supabase.auth.getUser();
   if (authError || !user) {
-    console.error("[admin-auth] Supabase user lookup failed", {
-      code: authError?.code,
-      message: authError?.message,
-      hasUser: Boolean(user),
-    });
+    const missingSession = authError?.name === "AuthSessionMissingError" || authError?.message === "Auth session missing!";
+    if (authError && !missingSession) {
+      console.error("[admin-auth] Supabase user lookup failed", {
+        code: authError.code,
+        message: authError.message,
+        hasUser: Boolean(user),
+      });
+    }
     redirect("/admin?error=auth_required");
   }
 
