@@ -10,8 +10,7 @@ public/Arab Flags/**
 *.log
 *.err
 
-# Source migration material and local tooling are not needed at runtime.
-/data/**
+# Local tooling and database source files are not needed at runtime.
 /docs/**
 /scripts/**
 /supabase/**
