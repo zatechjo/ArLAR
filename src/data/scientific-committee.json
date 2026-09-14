@@ -1,0 +1,277 @@
+{
+  "sourceUrl": "https://www.arabrheumatology.org/scientific-committee",
+  "people": [
+    {
+      "id": "scientific-001",
+      "slug": "nizar-abdullateef-jasim",
+      "sortOrder": 1,
+      "group": "leadership",
+      "fullName": "Nizar AbdulLateef Jasim, MD",
+      "displayRole": "President of the ArLAR Scientific Committee",
+      "countryName": "Iraq",
+      "flagFilename": "iq-iraq.png",
+      "bio": [
+        "Senior Consultant Rheumatologist",
+        "Professor of Medicine at the University of Baghdad College of Medicine",
+        "President of the Iraqi League for Bone and Joint Health",
+        "President of the Pan-Arab Osteoporosis Society"
+      ],
+      "imageFilename": "nizar-abdullateef-jasim.jpg",
+      "imagePosition": "50% 26%"
+    },
+    {
+      "id": "scientific-002",
+      "slug": "chafia-dahou-makhloufi",
+      "sortOrder": 2,
+      "group": "members",
+      "fullName": "Chafia Dahou Makhloufi, MD",
+      "displayRole": "Professor of Rheumatology",
+      "countryName": "Algeria",
+      "flagFilename": "dz-algeria.png",
+      "bio": [
+        "Professor of Rheumatology",
+        "Member of the ArLAR Scientific Committee representing Algeria"
+      ],
+      "imageFilename": "chafia-dahou-makhloufi.jpg"
+    },
+    {
+      "id": "scientific-003",
+      "slug": "hachemi-djoudi",
+      "sortOrder": 3,
+      "group": "members",
+      "fullName": "Hachemi Djoudi, MD",
+      "displayRole": "Professor of Rheumatology",
+      "countryName": "Algeria",
+      "flagFilename": "dz-algeria.png",
+      "bio": [
+        "Professor of Rheumatology",
+        "President of the Algerian Society for Rheumatology (SAR)"
+      ],
+      "imageFilename": "hachemi-djoudi.jpg"
+    },
+    {
+      "id": "scientific-004",
+      "slug": "bassel-el-zorkany",
+      "sortOrder": 4,
+      "group": "members",
+      "fullName": "Bassel El Zorkany, MD",
+      "displayRole": "Professor of Rheumatology",
+      "countryName": "Egypt",
+      "flagFilename": "eg-egypt.png",
+      "bio": [
+        "Professor of Rheumatology",
+        "Professor and Head of the Rheumatology Department at Cairo University"
+      ],
+      "imageFilename": "bassel-el-zorkany.jpg"
+    },
+    {
+      "id": "scientific-005",
+      "slug": "mohammad-abu-jbarah",
+      "sortOrder": 5,
+      "group": "members",
+      "fullName": "Mohammad Abu Jbarah, MD",
+      "displayRole": "Senior Consultant Rheumatologist",
+      "countryName": "Jordan",
+      "flagFilename": "jo-jordan.png",
+      "bio": [
+        "Senior Consultant Rheumatologist",
+        "Based in Zarqa, Jordan"
+      ],
+      "imageFilename": "mohammad-abu-jbarah.jpg"
+    },
+    {
+      "id": "scientific-006",
+      "slug": "amjad-al-qadi",
+      "sortOrder": 6,
+      "group": "members",
+      "fullName": "Amjad Al Qadi, MD",
+      "displayRole": "Consultant Rheumatologist",
+      "countryName": "Kuwait",
+      "flagFilename": "kw-kuwait.png",
+      "bio": [
+        "Consultant Rheumatologist",
+        "Al-Sabah Hospital, Ministry of Health, Kuwait"
+      ],
+      "imageFilename": "amjad-al-qadi.jpg"
+    },
+    {
+      "id": "scientific-007",
+      "slug": "imad-uthman",
+      "sortOrder": 7,
+      "group": "members",
+      "fullName": "Imad Uthman, MD",
+      "displayRole": "Professor and Head of Rheumatology",
+      "countryName": "Lebanon",
+      "flagFilename": "lb-lebanon.png",
+      "bio": [
+        "Professor and Head of the Rheumatology Department at the American University of Beirut Medical Center",
+        "Member of the ArLAR Scientific Committee representing Lebanon"
+      ],
+      "imageFilename": "imad-uthman.png"
+    },
+    {
+      "id": "scientific-008",
+      "slug": "soad-hashad",
+      "sortOrder": 8,
+      "group": "members",
+      "fullName": "Soad Hashad, MD",
+      "displayRole": "Consultant Pediatric Rheumatologist",
+      "countryName": "Libya",
+      "flagFilename": "ly-libya.png",
+      "bio": [
+        "Consultant Pediatric Rheumatologist and one of the founders of the Pediatric Rheumatology Outpatient Department at Tripoli Children’s Hospital, established in 2008",
+        "Member of the ArLAR Scientific Committee representing Libya"
+      ],
+      "imageFilename": "soad-hashad.jpg"
+    },
+    {
+      "id": "scientific-009",
+      "slug": "abdellah-el-maghraoui",
+      "sortOrder": 9,
+      "group": "members",
+      "fullName": "Abdellah El Maghraoui, MD",
+      "displayRole": "Professor of Rheumatology",
+      "countryName": "Morocco",
+      "flagFilename": "ma-morocco.png",
+      "bio": [
+        "Professor of Rheumatology",
+        "Past President of the Moroccan Society for Rheumatology",
+        "Chief Editor of La Revue Marocaine de Rhumatologie"
+      ],
+      "imageFilename": "abdellah-el-maghraoui.png"
+    },
+    {
+      "id": "scientific-010",
+      "slug": "tariq-al-araimi",
+      "sortOrder": 10,
+      "group": "members",
+      "fullName": "Tariq Al Araimi, MD",
+      "displayRole": "Consultant Rheumatologist",
+      "countryName": "Oman",
+      "flagFilename": "om-oman.png",
+      "bio": [
+        "Consultant Rheumatologist",
+        "Member of the ArLAR Scientific Committee representing Oman"
+      ],
+      "imageFilename": "tariq-al-araimi.jpg"
+    },
+    {
+      "id": "scientific-011",
+      "slug": "elias-saba",
+      "sortOrder": 11,
+      "group": "members",
+      "fullName": "Elias Saba, MD",
+      "displayRole": "Senior Consultant Rheumatologist",
+      "countryName": "Palestine",
+      "flagFilename": "ps-palestine.png",
+      "bio": [
+        "Senior Consultant Rheumatologist in Bethlehem, Palestine",
+        "President of the Palestinian Osteoporosis Prevention Society"
+      ],
+      "imageFilename": "elias-saba.jpeg"
+    },
+    {
+      "id": "scientific-012",
+      "slug": "samar-al-emadi",
+      "sortOrder": 12,
+      "group": "members",
+      "fullName": "Samar Al Emadi, MD",
+      "displayRole": "Senior Consultant Rheumatologist",
+      "countryName": "Qatar",
+      "flagFilename": "qa-qatar.svg",
+      "bio": [
+        "Senior Consultant Rheumatologist in Doha, Qatar",
+        "President of the Qatar Rheumatology Society (QRS)"
+      ],
+      "imageFilename": "samar-al-emadi.jpg"
+    },
+    {
+      "id": "scientific-013",
+      "slug": "hanan-al-rayes",
+      "sortOrder": 13,
+      "group": "members",
+      "fullName": "Hanan Al-Rayes, MD",
+      "displayRole": "Consultant Rheumatologist",
+      "countryName": "Saudi Arabia",
+      "flagFilename": "sa-saudi-arabia.png",
+      "bio": [
+        "Consultant Rheumatologist with a subspecialty in lupus",
+        "Associate Professor at King Faisal University College of Medicine",
+        "President of the Saudi Society for Rheumatology (SSR)"
+      ],
+      "imageFilename": "hanan-al-rayes.jpg"
+    },
+    {
+      "id": "scientific-014",
+      "slug": "abdelgaffar-mohammed",
+      "sortOrder": 14,
+      "group": "members",
+      "fullName": "Abdelgaffar Mohammed, MD, MRCP, FRCP",
+      "displayRole": "Scientific Committee Member",
+      "countryName": "Sudan",
+      "flagFilename": "sd-sudan.png",
+      "bio": [],
+      "imageFilename": "abdelgaffar-mohammed.jpg"
+    },
+    {
+      "id": "scientific-015",
+      "slug": "abdalrazak-hassan",
+      "sortOrder": 15,
+      "group": "members",
+      "fullName": "Abdalrazak Hassan, MD",
+      "displayRole": "Consultant Rheumatologist",
+      "countryName": "Syria",
+      "flagFilename": "sy-syria.webp",
+      "bio": [
+        "Consultant Rheumatologist",
+        "Member of the ArLAR Scientific Committee representing Syria"
+      ],
+      "imageFilename": "abdalrazak-hassan.png"
+    },
+    {
+      "id": "scientific-016",
+      "slug": "elyes-bouajina",
+      "sortOrder": 16,
+      "group": "members",
+      "fullName": "Elyes Bouajina, MD",
+      "displayRole": "Professor of Rheumatology",
+      "countryName": "Tunisia",
+      "flagFilename": "tn-tunisia.png",
+      "bio": [
+        "Professor of Rheumatology",
+        "President of La Ligue Tunisienne Anti Rhumatismale (LITAR)"
+      ],
+      "imageFilename": "elyes-bouajina.jpg"
+    },
+    {
+      "id": "scientific-017",
+      "slug": "muna-almutairi",
+      "sortOrder": 17,
+      "group": "members",
+      "fullName": "Muna AlMutairi, MD",
+      "displayRole": "Consultant Pediatric Rheumatologist",
+      "countryName": "Kuwait",
+      "flagFilename": "kw-kuwait.png",
+      "bio": [
+        "President of the Pediatric Rheumatologist Arab Group (PRAG)",
+        "Consultant of Pediatric Rheumatology at Al Adan Hospital, State of Kuwait"
+      ],
+      "imageFilename": "muna-almutairi.jpg"
+    },
+    {
+      "id": "scientific-018",
+      "slug": "khalid-alnaqbi",
+      "sortOrder": 18,
+      "group": "members",
+      "fullName": "Prof. Khalid Alnaqbi",
+      "displayRole": "Chief of Rheumatology",
+      "countryName": "United Arab Emirates",
+      "flagFilename": "ae-united-arab-emirates.png",
+      "bio": [
+        "Chief of Rheumatology",
+        "Assistant Professor at United Arab Emirates University in Al Ain, United Arab Emirates"
+      ],
+      "imageFilename": "khalid-alnaqbi.jpg"
+    }
+  ]
+}

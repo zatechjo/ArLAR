@@ -1,0 +1,3961 @@
+{
+  "meta": {
+    "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021",
+    "sourceFile": "Pasted text(20260810-122725).txt",
+    "pageTitle": "ArLAR21 Jordan e-Congress | ArLAR",
+    "videoCount": 80,
+    "videoGalleryCount": 5,
+    "uniqueSpeakerCount": 76,
+    "trackCount": 29,
+    "totalVideoDurationSeconds": 97026,
+    "totalVideoDurationHuman": "26h 57m 6s",
+    "pageSpecificAssetCount": 90,
+    "reviewNotes": [
+      "The source states the event date as 3–7 March 2021 but also describes it as a four-day scientific program; both source statements are preserved.",
+      "Dr. Basel Masri's roles are historical page copy ('ArLAR President JSR President') and should not be treated as current office-holder data.",
+      "YouTube upload dates are media metadata and are often months/years after the March 2021 congress; they are not congress-session dates.",
+      "Some video titles or track labels contain source spelling/casing inconsistencies (for example 'Musculoskeltal', varying ArLAR21 capitalization, and extra whitespace). Source wording is preserved; normalized track whitespace is provided separately.",
+      "Two gallery titles are visibly truncated in the source (Thao Pham and Jean Yves Reginster). Their full talk titles are recovered from the VideoObject description field.",
+      "For John Kanis, the source gallery name contains the symposium label while the VideoObject description contains the actual talk title. Both fields are preserved separately.",
+      "The source page contains 80 distinct VideoObject entries across five Wix video-gallery ItemLists."
+    ]
+  },
+  "pageCopy": {
+    "replayIntro": "During the unprecedented times of the Covid-19 pandemic in March 2021, the ArLAR21 Jordan e-Congress pivoted to a fully online format. We understand that attendees may have missed certain sessions. Therefore, we've curated all the e-Congress recordings and sessions here, allowing you to catch up or revisit them at your leisure. Dive into the comprehensive content and enhance your ArLAR21 experience from the comfort of your home.",
+    "replayHeading": "ArLAR21 Jordan E-Congress",
+    "replayLearnMoreUrl": "https://www.arabrheumatology.org/arlarjordan2021#arlar21",
+    "theme": "Raising awareness of high-quality Rheumatology practice to empower Rheumatologists in the Arab world to excel in their specialty",
+    "dateDisplay": "3-7 March 2021",
+    "eventHeading": "Ar LAR 21 Jordan e-Congress",
+    "officialLanguages": "English",
+    "salutation": "Dear Colleagues and Partners,",
+    "announcement": "​",
+    "covidPostponement": "The Jordanian Society of Rheumatology- JSR is pleased to announce the upcoming “Arab League of Associations for Rheumatology- ArLAR Congress: Ar LAR 21 Jordan e-Congress , which will be held in conjunction with the 6th International e-Congress of the Jordanian Society of Rheumatology from 3-7 March 2021, in a virtual set-up",
+    "themeExplanation": "As you are aware, our congress was supposed to be held last year, but due to COVID-19 Pandemic, we were forced to postpone it and to cope with the virtual transformation with ArLAR College©.",
+    "programDescription": "The main theme of the Ar LAR 21 Jordan e-Congress is “Raising awareness of high-quality Rheumatology practice to empower Rheumatologists in the Arab world to excel in their specialty”. The theme reflects the growing recognition of the power and importance of exchanging cutting-edge scientific and clinical information to improve patient care. The e-Congress aims to further knowledge in the Rheumatology field, contributing significantly to a better understanding of the complexity of diseases, addressing updates in their pathogenesis and management. It presents an opportunity to listen to top speakers, network with renowned Rheumatologists from the Arab region and around the world, leading to an enhanced output of research and improved care in the field.",
+    "programItems": [
+      "The Ar LAR 21 Jordan e-Congress is a four-day scientific program, which will be of high interest to academicians, physicians, researchers, and others with an interest in Rheumatology, where distinguished and renowned speakers will deliver remarkable presentations, workshops, and poster sessions.",
+      "",
+      "It will include:",
+      "Adult Rheumatology 2 parallel sessions"
+    ],
+    "congressPresident": {
+      "name": "Pediatric Rheumatology session",
+      "rolesSource": "Poster sessions",
+      "congressRole": "Post-e-Congress Abstracts Sessions."
+    }
+  },
+  "videos": [
+    {
+      "order": 1,
+      "galleryGroup": 1,
+      "galleryPosition": 1,
+      "speaker": "",
+      "titleSource": "ArLAR21 Jordan Congress Opening",
+      "titleFull": "ArLAR21 Jordan Congress Opening",
+      "trackSource": "",
+      "trackNormalized": "",
+      "descriptionSource": "ArLAR21 Jordan Congress Opening",
+      "youtubeId": "XgW3RDQ7HVY",
+      "embedUrl": "https://www.youtube.com/embed/XgW3RDQ7HVY",
+      "watchUrl": "https://www.youtube.com/watch?v=XgW3RDQ7HVY",
+      "thumbnailUrl": "https://i.ytimg.com/vi/XgW3RDQ7HVY/mqdefault.jpg",
+      "uploadDate": "2023-10-04T10:10:25.864Z",
+      "durationISO": "PT35M39S",
+      "durationSeconds": 2139,
+      "durationHuman": "35m 39s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 2,
+      "galleryGroup": 1,
+      "galleryPosition": 2,
+      "speaker": "",
+      "titleSource": "ArLAR21 Jordan Opening Final",
+      "titleFull": "ArLAR21 Jordan Opening Final",
+      "trackSource": "",
+      "trackNormalized": "",
+      "descriptionSource": "ArLAR21 Jordan Opening Final",
+      "youtubeId": "6g_RDQe7P6I",
+      "embedUrl": "https://www.youtube.com/embed/6g_RDQe7P6I",
+      "watchUrl": "https://www.youtube.com/watch?v=6g_RDQe7P6I",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6g_RDQe7P6I/mqdefault.jpg",
+      "uploadDate": "2023-10-04T10:12:08.892Z",
+      "durationISO": "PT30M13S",
+      "durationSeconds": 1813,
+      "durationHuman": "30m 13s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 3,
+      "galleryGroup": 1,
+      "galleryPosition": 3,
+      "speaker": "Iain McInnes",
+      "titleSource": "Rheumatology in Review: Where We are Today?",
+      "titleFull": "Rheumatology in Review: Where We are Today?",
+      "trackSource": "From The leading Rheumatology Leagues",
+      "trackNormalized": "From The leading Rheumatology Leagues",
+      "descriptionSource": "From The leading Rheumatology Leagues",
+      "youtubeId": "rkcfWQfTF-g",
+      "embedUrl": "https://www.youtube.com/embed/rkcfWQfTF-g",
+      "watchUrl": "https://www.youtube.com/watch?v=rkcfWQfTF-g",
+      "thumbnailUrl": "https://i.ytimg.com/vi/rkcfWQfTF-g/mqdefault.jpg",
+      "uploadDate": "2021-08-29T21:32:05.399Z",
+      "durationISO": "PT18M35S",
+      "durationSeconds": 1115,
+      "durationHuman": "18m 35s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 4,
+      "galleryGroup": 1,
+      "galleryPosition": 4,
+      "speaker": "Syed Atiqul Haq",
+      "titleSource": "Diagnosis of Infectious Vasculitis",
+      "titleFull": "Diagnosis of Infectious Vasculitis",
+      "trackSource": "From The Leading Rheumatology Experts",
+      "trackNormalized": "From The Leading Rheumatology Experts",
+      "descriptionSource": "From The Leading Rheumatology Experts",
+      "youtubeId": "qyllgEORJ-s",
+      "embedUrl": "https://www.youtube.com/embed/qyllgEORJ-s",
+      "watchUrl": "https://www.youtube.com/watch?v=qyllgEORJ-s",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qyllgEORJ-s/mqdefault.jpg",
+      "uploadDate": "2021-08-29T21:34:41.972Z",
+      "durationISO": "PT18M",
+      "durationSeconds": 1080,
+      "durationHuman": "18m",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 5,
+      "galleryGroup": 1,
+      "galleryPosition": 5,
+      "speaker": "David Karp",
+      "titleSource": "Can We Prevent Rheumatic Diseases?",
+      "titleFull": "Can We Prevent Rheumatic Diseases?",
+      "trackSource": "From The Leading Rheumatology Experts",
+      "trackNormalized": "From The Leading Rheumatology Experts",
+      "descriptionSource": "From The Leading Rheumatology Experts",
+      "youtubeId": "D7PqGlqD3hs",
+      "embedUrl": "https://www.youtube.com/embed/D7PqGlqD3hs",
+      "watchUrl": "https://www.youtube.com/watch?v=D7PqGlqD3hs",
+      "thumbnailUrl": "https://i.ytimg.com/vi/D7PqGlqD3hs/mqdefault.jpg",
+      "uploadDate": "2021-08-29T22:21:11.914Z",
+      "durationISO": "PT20M49S",
+      "durationSeconds": 1249,
+      "durationHuman": "20m 49s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 6,
+      "galleryGroup": 1,
+      "galleryPosition": 6,
+      "speaker": "Arnaud Constantin",
+      "titleSource": "ESPOIR Cohort: What Have we Learned so Far?",
+      "titleFull": "ESPOIR Cohort: What Have we Learned so Far?",
+      "trackSource": "Rheumatoid Arthritis I",
+      "trackNormalized": "Rheumatoid Arthritis I",
+      "descriptionSource": "Rheumatoid Arthritis I",
+      "youtubeId": "Xr0pdNNHUcA",
+      "embedUrl": "https://www.youtube.com/embed/Xr0pdNNHUcA",
+      "watchUrl": "https://www.youtube.com/watch?v=Xr0pdNNHUcA",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Xr0pdNNHUcA/mqdefault.jpg",
+      "uploadDate": "2021-08-31T04:10:22.018Z",
+      "durationISO": "PT16M39S",
+      "durationSeconds": 999,
+      "durationHuman": "16m 39s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 7,
+      "galleryGroup": 1,
+      "galleryPosition": 7,
+      "speaker": "Nasra Al Adhoubi",
+      "titleSource": "ACR20 New Guidelines for RA Treatment",
+      "titleFull": "ACR20 New Guidelines for RA Treatment",
+      "trackSource": "Rheumatoid Arthritis I",
+      "trackNormalized": "Rheumatoid Arthritis I",
+      "descriptionSource": "Rheumatoid Arthritis I",
+      "youtubeId": "7MySK_HhARM",
+      "embedUrl": "https://www.youtube.com/embed/7MySK_HhARM",
+      "watchUrl": "https://www.youtube.com/watch?v=7MySK_HhARM",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7MySK_HhARM/mqdefault.jpg",
+      "uploadDate": "2021-08-31T04:10:37.766Z",
+      "durationISO": "PT22M28S",
+      "durationSeconds": 1348,
+      "durationHuman": "22m 28s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 8,
+      "galleryGroup": 1,
+      "galleryPosition": 8,
+      "speaker": "Bassel Al Zorkani",
+      "titleSource": "Challenges in Axial SpA Management in the Region",
+      "titleFull": "Challenges in Axial SpA Management in the Region",
+      "trackSource": "Spondyloarthritis I",
+      "trackNormalized": "Spondyloarthritis I",
+      "descriptionSource": "Spondyloarthritis I",
+      "youtubeId": "USI8coocHNM",
+      "embedUrl": "https://www.youtube.com/embed/USI8coocHNM",
+      "watchUrl": "https://www.youtube.com/watch?v=USI8coocHNM",
+      "thumbnailUrl": "https://i.ytimg.com/vi/USI8coocHNM/mqdefault.jpg",
+      "uploadDate": "2021-09-01T04:13:33.380Z",
+      "durationISO": "PT20M55S",
+      "durationSeconds": 1255,
+      "durationHuman": "20m 55s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 9,
+      "galleryGroup": 1,
+      "galleryPosition": 9,
+      "speaker": "Thao Pham",
+      "titleSource": "Radiographic et Non-Radiographic Axial Spondyloarthritis: Diagnosis and Response to....",
+      "titleFull": "Radiographic et Non-Radiographic Axial Spondyloarthritis: Diagnosis and Response to Treatment",
+      "trackSource": "Spondyloarthritis I",
+      "trackNormalized": "Spondyloarthritis I",
+      "descriptionSource": "Radiographic et Non-Radiographic Axial Spondyloarthritis: Diagnosis and Response to Treatment\n\nSpondyloarthritis I",
+      "youtubeId": "AnrYJsJjdaA",
+      "embedUrl": "https://www.youtube.com/embed/AnrYJsJjdaA",
+      "watchUrl": "https://www.youtube.com/watch?v=AnrYJsJjdaA",
+      "thumbnailUrl": "https://i.ytimg.com/vi/AnrYJsJjdaA/mqdefault.jpg",
+      "uploadDate": "2021-09-01T04:13:48.101Z",
+      "durationISO": "PT27M18S",
+      "durationSeconds": 1638,
+      "durationHuman": "27m 18s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 10,
+      "galleryGroup": 2,
+      "galleryPosition": 1,
+      "speaker": "Nadera Sweiss",
+      "titleSource": "Sarcoidosis Update",
+      "titleFull": "Sarcoidosis Update",
+      "trackSource": "Inflammatory Rheumatic Diseases I",
+      "trackNormalized": "Inflammatory Rheumatic Diseases I",
+      "descriptionSource": "Inflammatory Rheumatic Diseases I",
+      "youtubeId": "TO29A8cgNoc",
+      "embedUrl": "https://www.youtube.com/embed/TO29A8cgNoc",
+      "watchUrl": "https://www.youtube.com/watch?v=TO29A8cgNoc",
+      "thumbnailUrl": "https://i.ytimg.com/vi/TO29A8cgNoc/mqdefault.jpg",
+      "uploadDate": "2021-08-31T05:07:16.688Z",
+      "durationISO": "PT20M13S",
+      "durationSeconds": 1213,
+      "durationHuman": "20m 13s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 11,
+      "galleryGroup": 2,
+      "galleryPosition": 2,
+      "speaker": "Mustafa Al Izzi",
+      "titleSource": "What's New with Familial Mediterranean Fever",
+      "titleFull": "What's New with Familial Mediterranean Fever",
+      "trackSource": "Inflammatory Rheumatic Diseases I",
+      "trackNormalized": "Inflammatory Rheumatic Diseases I",
+      "descriptionSource": "Inflammatory Rheumatic Diseases I",
+      "youtubeId": "hrnIeTUhFEY",
+      "embedUrl": "https://www.youtube.com/embed/hrnIeTUhFEY",
+      "watchUrl": "https://www.youtube.com/watch?v=hrnIeTUhFEY",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hrnIeTUhFEY/mqdefault.jpg",
+      "uploadDate": "2021-08-31T04:13:12.162Z",
+      "durationISO": "PT22M43S",
+      "durationSeconds": 1363,
+      "durationHuman": "22m 43s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 12,
+      "galleryGroup": 2,
+      "galleryPosition": 3,
+      "speaker": "Sami Salman",
+      "titleSource": "Update on the Management of Behçet Disease",
+      "titleFull": "Update on the Management of Behçet Disease",
+      "trackSource": "Inflammatory Rheumatic Diseases I",
+      "trackNormalized": "Inflammatory Rheumatic Diseases I",
+      "descriptionSource": "Inflammatory Rheumatic Diseases I",
+      "youtubeId": "DdlYGK6V6mI",
+      "embedUrl": "https://www.youtube.com/embed/DdlYGK6V6mI",
+      "watchUrl": "https://www.youtube.com/watch?v=DdlYGK6V6mI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/DdlYGK6V6mI/mqdefault.jpg",
+      "uploadDate": "2021-08-31T05:07:35.788Z",
+      "durationISO": "PT15M5S",
+      "durationSeconds": 905,
+      "durationHuman": "15m 5s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 13,
+      "galleryGroup": 2,
+      "galleryPosition": 4,
+      "speaker": "Wafa Madanat",
+      "titleSource": "Behçet's Disease in the Arab World",
+      "titleFull": "Behçet's Disease in the Arab World",
+      "trackSource": "Inflammatory Rheumatic Diseases I",
+      "trackNormalized": "Inflammatory Rheumatic Diseases I",
+      "descriptionSource": "Inflammatory Rheumatic Diseases I",
+      "youtubeId": "mTyKnmlrVg8",
+      "embedUrl": "https://www.youtube.com/embed/mTyKnmlrVg8",
+      "watchUrl": "https://www.youtube.com/watch?v=mTyKnmlrVg8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/mTyKnmlrVg8/mqdefault.jpg",
+      "uploadDate": "2021-08-31T05:07:50.190Z",
+      "durationISO": "PT21M30S",
+      "durationSeconds": 1290,
+      "durationHuman": "21m 30s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 14,
+      "galleryGroup": 2,
+      "galleryPosition": 5,
+      "speaker": "Nelly Ziade",
+      "titleSource": "COVID-19 Pandemic on the Rheumatology Practice in the Arab Countries",
+      "titleFull": "COVID-19 Pandemic on the Rheumatology Practice in the Arab Countries",
+      "trackSource": "COVID 19   Rheumatic Diseases",
+      "trackNormalized": "COVID 19 Rheumatic Diseases",
+      "descriptionSource": "COVID 19   Rheumatic Diseases",
+      "youtubeId": "TQZsqK-w_U8",
+      "embedUrl": "https://www.youtube.com/embed/TQZsqK-w_U8",
+      "watchUrl": "https://www.youtube.com/watch?v=TQZsqK-w_U8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/TQZsqK-w_U8/mqdefault.jpg",
+      "uploadDate": "2021-09-01T04:14:42.465Z",
+      "durationISO": "PT12M4S",
+      "durationSeconds": 724,
+      "durationHuman": "12m 4s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 15,
+      "galleryGroup": 2,
+      "galleryPosition": 6,
+      "speaker": "Fatemah Abutiban",
+      "titleSource": "Are Patients with Rheumatic Diseases at Higher Risk of Severe COVID 19?",
+      "titleFull": "Are Patients with Rheumatic Diseases at Higher Risk of Severe COVID 19?",
+      "trackSource": "COVID 19   Rheumatic Diseases",
+      "trackNormalized": "COVID 19 Rheumatic Diseases",
+      "descriptionSource": "COVID 19   Rheumatic Diseases",
+      "youtubeId": "q3nqvSsUGBQ",
+      "embedUrl": "https://www.youtube.com/embed/q3nqvSsUGBQ",
+      "watchUrl": "https://www.youtube.com/watch?v=q3nqvSsUGBQ",
+      "thumbnailUrl": "https://i.ytimg.com/vi/q3nqvSsUGBQ/mqdefault.jpg",
+      "uploadDate": "2021-09-01T04:14:04.735Z",
+      "durationISO": "PT15M18S",
+      "durationSeconds": 918,
+      "durationHuman": "15m 18s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 16,
+      "galleryGroup": 2,
+      "galleryPosition": 7,
+      "speaker": "Suhad Al Qurashi",
+      "titleSource": "Should Rheumatologists be Involved on the Management of COVID-19?",
+      "titleFull": "Should Rheumatologists be Involved on the Management of COVID-19?",
+      "trackSource": "COVID 19   Rheumatic Diseases",
+      "trackNormalized": "COVID 19 Rheumatic Diseases",
+      "descriptionSource": "COVID 19   Rheumatic Diseases",
+      "youtubeId": "GUidofo2QSQ",
+      "embedUrl": "https://www.youtube.com/embed/GUidofo2QSQ",
+      "watchUrl": "https://www.youtube.com/watch?v=GUidofo2QSQ",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GUidofo2QSQ/mqdefault.jpg",
+      "uploadDate": "2021-09-01T04:15:19.123Z",
+      "durationISO": "PT15M23S",
+      "durationSeconds": 923,
+      "durationHuman": "15m 23s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 17,
+      "galleryGroup": 2,
+      "galleryPosition": 8,
+      "speaker": "Xavier Mariette",
+      "titleSource": "Immunomodulators Drugs and COVID -19",
+      "titleFull": "Immunomodulators Drugs and COVID -19",
+      "trackSource": "COVID 19   Rheumatic Diseases",
+      "trackNormalized": "COVID 19 Rheumatic Diseases",
+      "descriptionSource": "COVID 19   Rheumatic Diseases",
+      "youtubeId": "iQvs5cZPK7Y",
+      "embedUrl": "https://www.youtube.com/embed/iQvs5cZPK7Y",
+      "watchUrl": "https://www.youtube.com/watch?v=iQvs5cZPK7Y",
+      "thumbnailUrl": "https://i.ytimg.com/vi/iQvs5cZPK7Y/mqdefault.jpg",
+      "uploadDate": "2021-09-01T04:15:19.123Z",
+      "durationISO": "PT25M3S",
+      "durationSeconds": 1503,
+      "durationHuman": "25m 3s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 18,
+      "galleryGroup": 2,
+      "galleryPosition": 9,
+      "speaker": "Majda Al Khoury",
+      "titleSource": "Juvenile Spondyloarthritis",
+      "titleFull": "Juvenile Spondyloarthritis",
+      "trackSource": "Juvenile Idiopathic Arthritis JIA",
+      "trackNormalized": "Juvenile Idiopathic Arthritis JIA",
+      "descriptionSource": "Juvenile Idiopathic Arthritis JIA",
+      "youtubeId": "ufWfMd2aZZQ",
+      "embedUrl": "https://www.youtube.com/embed/ufWfMd2aZZQ",
+      "watchUrl": "https://www.youtube.com/watch?v=ufWfMd2aZZQ",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ufWfMd2aZZQ/mqdefault.jpg",
+      "uploadDate": "2021-09-01T19:57:39.690Z",
+      "durationISO": "PT20M45S",
+      "durationSeconds": 1245,
+      "durationHuman": "20m 45s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 19,
+      "galleryGroup": 2,
+      "galleryPosition": 10,
+      "speaker": "Sulaiman Al Mayouf",
+      "titleSource": "Familial Juvenile Arthritis",
+      "titleFull": "Familial Juvenile Arthritis",
+      "trackSource": "Juvenile Idiopathic Arthritis JIA",
+      "trackNormalized": "Juvenile Idiopathic Arthritis JIA",
+      "descriptionSource": "Juvenile Idiopathic Arthritis JIA",
+      "youtubeId": "uKw0Zc7d290",
+      "embedUrl": "https://www.youtube.com/embed/uKw0Zc7d290",
+      "watchUrl": "https://www.youtube.com/watch?v=uKw0Zc7d290",
+      "thumbnailUrl": "https://i.ytimg.com/vi/uKw0Zc7d290/mqdefault.jpg",
+      "uploadDate": "2021-09-02T05:04:19.938Z",
+      "durationISO": "PT20M14S",
+      "durationSeconds": 1214,
+      "durationHuman": "20m 14s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 20,
+      "galleryGroup": 2,
+      "galleryPosition": 11,
+      "speaker": "Abdulrahman Asiri",
+      "titleSource": "Gut Microbiota in Children with Juvenile Idiopathic Arthritis",
+      "titleFull": "Gut Microbiota in Children with Juvenile Idiopathic Arthritis",
+      "trackSource": "Juvenile Idiopathic Arthritis JIA",
+      "trackNormalized": "Juvenile Idiopathic Arthritis JIA",
+      "descriptionSource": "Juvenile Idiopathic Arthritis JIA",
+      "youtubeId": "hneF1IbovBI",
+      "embedUrl": "https://www.youtube.com/embed/hneF1IbovBI",
+      "watchUrl": "https://www.youtube.com/watch?v=hneF1IbovBI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hneF1IbovBI/mqdefault.jpg",
+      "uploadDate": "2021-09-01T19:57:39.689Z",
+      "durationISO": "PT16M2S",
+      "durationSeconds": 962,
+      "durationHuman": "16m 2s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 21,
+      "galleryGroup": 2,
+      "galleryPosition": 12,
+      "speaker": "Motasem Alsuweiti",
+      "titleSource": "Systemic Onset JIA in Jordanian Children: Single Center Experience",
+      "titleFull": "Systemic Onset JIA in Jordanian Children: Single Center Experience",
+      "trackSource": "Juvenile Idiopathic Arthritis JIA",
+      "trackNormalized": "Juvenile Idiopathic Arthritis JIA",
+      "descriptionSource": "Juvenile Idiopathic Arthritis JIA",
+      "youtubeId": "cE3IuRsjhlg",
+      "embedUrl": "https://www.youtube.com/embed/cE3IuRsjhlg",
+      "watchUrl": "https://www.youtube.com/watch?v=cE3IuRsjhlg",
+      "thumbnailUrl": "https://i.ytimg.com/vi/cE3IuRsjhlg/mqdefault.jpg",
+      "uploadDate": "2021-09-02T05:05:17.444Z",
+      "durationISO": "PT10M19S",
+      "durationSeconds": 619,
+      "durationHuman": "10m 19s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 22,
+      "galleryGroup": 2,
+      "galleryPosition": 13,
+      "speaker": "Francis Berenbaum",
+      "titleSource": "Targeted Therapies in Osteoarthritis: Are we Close?",
+      "titleFull": "Targeted Therapies in Osteoarthritis: Are we Close?",
+      "trackSource": "Osteoarthritis Low Back Pain",
+      "trackNormalized": "Osteoarthritis Low Back Pain",
+      "descriptionSource": "Osteoarthritis Low Back Pain",
+      "youtubeId": "03jnvRJD4Bc",
+      "embedUrl": "https://www.youtube.com/embed/03jnvRJD4Bc",
+      "watchUrl": "https://www.youtube.com/watch?v=03jnvRJD4Bc",
+      "thumbnailUrl": "https://i.ytimg.com/vi/03jnvRJD4Bc/mqdefault.jpg",
+      "uploadDate": "2021-08-31T05:10:33.832Z",
+      "durationISO": "PT26M46S",
+      "durationSeconds": 1606,
+      "durationHuman": "26m 46s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 23,
+      "galleryGroup": 2,
+      "galleryPosition": 14,
+      "speaker": "Rene Westhoven",
+      "titleSource": "Are all Biologics the Same for the Treatment of Rheumatic Diseases?",
+      "titleFull": "Are all Biologics the Same for the Treatment of Rheumatic Diseases?",
+      "trackSource": "Update on Biologic Therapy in Rheumatic Diseases",
+      "trackNormalized": "Update on Biologic Therapy in Rheumatic Diseases",
+      "descriptionSource": "Update on Biologic Therapy in Rheumatic Diseases",
+      "youtubeId": "6y8k3E5xYf0",
+      "embedUrl": "https://www.youtube.com/embed/6y8k3E5xYf0",
+      "watchUrl": "https://www.youtube.com/watch?v=6y8k3E5xYf0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6y8k3E5xYf0/mqdefault.jpg",
+      "uploadDate": "2021-09-01T06:06:05.659Z",
+      "durationISO": "PT24M10S",
+      "durationSeconds": 1450,
+      "durationHuman": "24m 10s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 24,
+      "galleryGroup": 2,
+      "galleryPosition": 15,
+      "speaker": "Mohammed Hammoudeh",
+      "titleSource": "Tapering or Stop Biologics, How and Why?",
+      "titleFull": "Tapering or Stop Biologics, How and Why?",
+      "trackSource": "Update on Biologic Therapy in Rheumatic Diseases",
+      "trackNormalized": "Update on Biologic Therapy in Rheumatic Diseases",
+      "descriptionSource": "Update on Biologic Therapy in Rheumatic Diseases",
+      "youtubeId": "1YG8_Jwh8vw",
+      "embedUrl": "https://www.youtube.com/embed/1YG8_Jwh8vw",
+      "watchUrl": "https://www.youtube.com/watch?v=1YG8_Jwh8vw",
+      "thumbnailUrl": "https://i.ytimg.com/vi/1YG8_Jwh8vw/mqdefault.jpg",
+      "uploadDate": "2021-09-01T06:06:05.659Z",
+      "durationISO": "PT25M59S",
+      "durationSeconds": 1559,
+      "durationHuman": "25m 59s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 25,
+      "galleryGroup": 2,
+      "galleryPosition": 16,
+      "speaker": "Mohamed Abu Shukair",
+      "titleSource": "Vaccination of Children with Rheumatic Diseases",
+      "titleFull": "Vaccination of Children with Rheumatic Diseases",
+      "trackSource": "Diagnostic and therapeutic challenges",
+      "trackNormalized": "Diagnostic and therapeutic challenges",
+      "descriptionSource": "Diagnostic and therapeutic challenges",
+      "youtubeId": "dEdcyAyd3AI",
+      "embedUrl": "https://www.youtube.com/embed/dEdcyAyd3AI",
+      "watchUrl": "https://www.youtube.com/watch?v=dEdcyAyd3AI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dEdcyAyd3AI/mqdefault.jpg",
+      "uploadDate": "2021-09-02T05:05:17.443Z",
+      "durationISO": "PT24M15S",
+      "durationSeconds": 1455,
+      "durationHuman": "24m 15s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 26,
+      "galleryGroup": 2,
+      "galleryPosition": 17,
+      "speaker": "Mabruka Zletni",
+      "titleSource": "Methotrexate Intolerance in JIA: Tripoli Children’s Hospital",
+      "titleFull": "Methotrexate Intolerance in JIA: Tripoli Children’s Hospital",
+      "trackSource": "Diagnostic and therapeutic challenges",
+      "trackNormalized": "Diagnostic and therapeutic challenges",
+      "descriptionSource": "Diagnostic and therapeutic challenges",
+      "youtubeId": "UwZApuOg28Q",
+      "embedUrl": "https://www.youtube.com/embed/UwZApuOg28Q",
+      "watchUrl": "https://www.youtube.com/watch?v=UwZApuOg28Q",
+      "thumbnailUrl": "https://i.ytimg.com/vi/UwZApuOg28Q/mqdefault.jpg",
+      "uploadDate": "2021-09-02T05:04:19.938Z",
+      "durationISO": "PT18M49S",
+      "durationSeconds": 1129,
+      "durationHuman": "18m 49s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 27,
+      "galleryGroup": 3,
+      "galleryPosition": 1,
+      "speaker": "Cyrus Cooper",
+      "titleSource": "The Treatment Gap in Osteoporosis: A Medical and Ethical Concern",
+      "titleFull": "The Treatment Gap in Osteoporosis: A Medical and Ethical Concern",
+      "trackSource": "Osteoporosis Iof - Esceo Symposium “New Insights In The Management Of Osteoporosis”",
+      "trackNormalized": "Osteoporosis Iof - Esceo Symposium “New Insights In The Management Of Osteoporosis”",
+      "descriptionSource": "Osteoporosis Iof - Esceo Symposium “New Insights In The Management Of Osteoporosis”",
+      "youtubeId": "rlM0p1uVmhY",
+      "embedUrl": "https://www.youtube.com/embed/rlM0p1uVmhY",
+      "watchUrl": "https://www.youtube.com/watch?v=rlM0p1uVmhY",
+      "thumbnailUrl": "https://i.ytimg.com/vi/rlM0p1uVmhY/mqdefault.jpg",
+      "uploadDate": "2021-09-01T03:44:20.780Z",
+      "durationISO": "PT19M42S",
+      "durationSeconds": 1182,
+      "durationHuman": "19m 42s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 28,
+      "galleryGroup": 3,
+      "galleryPosition": 2,
+      "speaker": "Rene Rizzoli",
+      "titleSource": "Nutritional Approach of Osteoporosis and Fracture Prevention",
+      "titleFull": "Nutritional Approach of Osteoporosis and Fracture Prevention",
+      "trackSource": "Osteoporosis Iof - Esceo Symposium “New Insights In The Management Of Osteoporosis”",
+      "trackNormalized": "Osteoporosis Iof - Esceo Symposium “New Insights In The Management Of Osteoporosis”",
+      "descriptionSource": "Osteoporosis Iof - Esceo Symposium “New Insights In The Management Of Osteoporosis”",
+      "youtubeId": "tfIUOdVkS2k",
+      "embedUrl": "https://www.youtube.com/embed/tfIUOdVkS2k",
+      "watchUrl": "https://www.youtube.com/watch?v=tfIUOdVkS2k",
+      "thumbnailUrl": "https://i.ytimg.com/vi/tfIUOdVkS2k/mqdefault.jpg",
+      "uploadDate": "2021-09-01T03:45:03.849Z",
+      "durationISO": "PT14M23S",
+      "durationSeconds": 863,
+      "durationHuman": "14m 23s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 29,
+      "galleryGroup": 3,
+      "galleryPosition": 3,
+      "speaker": "John Kanis",
+      "titleSource": "Osteoporosis Iof - Esceo Symposium “New Insights In The Management Of Osteoporosis\"",
+      "titleFull": "The ESCEO Algorithm for the Management of Patients at Low, High and Very High Risk of Osteoporotic Fractures",
+      "trackSource": "Osteoporosis Iof - Esceo Symposium “New Insights In The Management Of Osteoporosis”",
+      "trackNormalized": "Osteoporosis Iof - Esceo Symposium “New Insights In The Management Of Osteoporosis”",
+      "descriptionSource": "The ESCEO Algorithm for the Management of Patients at Low, High and Very High Risk of Osteoporotic Fractures",
+      "youtubeId": "ofMZU7_G83U",
+      "embedUrl": "https://www.youtube.com/embed/ofMZU7_G83U",
+      "watchUrl": "https://www.youtube.com/watch?v=ofMZU7_G83U",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ofMZU7_G83U/mqdefault.jpg",
+      "uploadDate": "2021-09-01T06:28:58.496Z",
+      "durationISO": "PT15M15S",
+      "durationSeconds": 915,
+      "durationHuman": "15m 15s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 30,
+      "galleryGroup": 3,
+      "galleryPosition": 4,
+      "speaker": "Jean Yves Reginster",
+      "titleSource": "New Insights in the Management of Osteoporosis with Bone Forming Agent.....",
+      "titleFull": "New Insights in the Management of Osteoporosis with Bone Forming Agents: How to Use Them to Close the Osteoporosis Treatment Gap",
+      "trackSource": "Osteoporosis Iof - Esceo Symposium “New Insights In The Management Of Osteoporosis”",
+      "trackNormalized": "Osteoporosis Iof - Esceo Symposium “New Insights In The Management Of Osteoporosis”",
+      "descriptionSource": "New Insights in the Management of Osteoporosis with Bone Forming Agents: How to Use Them to Close the Osteoporosis Treatment Gap\n\nOsteoporosis Iof - Esceo Symposium “New Insights In The Management Of Osteoporosis”",
+      "youtubeId": "D4zRhajEzOU",
+      "embedUrl": "https://www.youtube.com/embed/D4zRhajEzOU",
+      "watchUrl": "https://www.youtube.com/watch?v=D4zRhajEzOU",
+      "thumbnailUrl": "https://i.ytimg.com/vi/D4zRhajEzOU/mqdefault.jpg",
+      "uploadDate": "2021-09-01T03:44:38.204Z",
+      "durationISO": "PT16M56S",
+      "durationSeconds": 1016,
+      "durationHuman": "16m 56s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 31,
+      "galleryGroup": 3,
+      "galleryPosition": 5,
+      "speaker": "Marie Kostine",
+      "titleSource": "Classification of Dermatomyositis & Polymyositis",
+      "titleFull": "Classification of Dermatomyositis & Polymyositis",
+      "trackSource": "Connective Tissue Diseases",
+      "trackNormalized": "Connective Tissue Diseases",
+      "descriptionSource": "Connective Tissue Diseases",
+      "youtubeId": "Kq1zp5joHnY",
+      "embedUrl": "https://www.youtube.com/embed/Kq1zp5joHnY",
+      "watchUrl": "https://www.youtube.com/watch?v=Kq1zp5joHnY",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Kq1zp5joHnY/mqdefault.jpg",
+      "uploadDate": "2021-09-01T06:28:58.495Z",
+      "durationISO": "PT23M23S",
+      "durationSeconds": 1403,
+      "durationHuman": "23m 23s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 32,
+      "galleryGroup": 3,
+      "galleryPosition": 6,
+      "speaker": "Ali Jawad",
+      "titleSource": "Classification of Dermatomyositis & Polymyositis",
+      "titleFull": "Classification of Dermatomyositis & Polymyositis",
+      "trackSource": "Connective Tissue Diseases",
+      "trackNormalized": "Connective Tissue Diseases",
+      "descriptionSource": "Connective Tissue Diseases",
+      "youtubeId": "MwMarRSw54c",
+      "embedUrl": "https://www.youtube.com/embed/MwMarRSw54c",
+      "watchUrl": "https://www.youtube.com/watch?v=MwMarRSw54c",
+      "thumbnailUrl": "https://i.ytimg.com/vi/MwMarRSw54c/mqdefault.jpg",
+      "uploadDate": "2021-09-01T06:27:10.569Z",
+      "durationISO": "PT20M58S",
+      "durationSeconds": 1258,
+      "durationHuman": "20m 58s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 33,
+      "galleryGroup": 3,
+      "galleryPosition": 7,
+      "speaker": "Mohammed Omair",
+      "titleSource": "Impact of COVID-19 on Connective Tissue Diseases",
+      "titleFull": "Impact of COVID-19 on Connective Tissue Diseases",
+      "trackSource": "Connective Tissue Diseases",
+      "trackNormalized": "Connective Tissue Diseases",
+      "descriptionSource": "Connective Tissue Diseases",
+      "youtubeId": "xEiHMZ9QjpA",
+      "embedUrl": "https://www.youtube.com/embed/xEiHMZ9QjpA",
+      "watchUrl": "https://www.youtube.com/watch?v=xEiHMZ9QjpA",
+      "thumbnailUrl": "https://i.ytimg.com/vi/xEiHMZ9QjpA/mqdefault.jpg",
+      "uploadDate": "2021-09-01T06:28:58.495Z",
+      "durationISO": "PT12M51S",
+      "durationSeconds": 771,
+      "durationHuman": "12m 51s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 34,
+      "galleryGroup": 3,
+      "galleryPosition": 8,
+      "speaker": "Samia Salah",
+      "titleSource": "Neuropsychiatric Lupus in Children",
+      "titleFull": "Neuropsychiatric Lupus in Children",
+      "trackSource": "Systemic Connective Tissue Diseases",
+      "trackNormalized": "Systemic Connective Tissue Diseases",
+      "descriptionSource": "Systemic Connective Tissue Diseases",
+      "youtubeId": "yHvSTZgdj1w",
+      "embedUrl": "https://www.youtube.com/embed/yHvSTZgdj1w",
+      "watchUrl": "https://www.youtube.com/watch?v=yHvSTZgdj1w",
+      "thumbnailUrl": "https://i.ytimg.com/vi/yHvSTZgdj1w/mqdefault.jpg",
+      "uploadDate": "2021-09-02T05:05:17.446Z",
+      "durationISO": "PT15M59S",
+      "durationSeconds": 959,
+      "durationHuman": "15m 59s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 35,
+      "galleryGroup": 3,
+      "galleryPosition": 9,
+      "speaker": "Buthaina Al Adba",
+      "titleSource": "Neurosarcoidosis in Children, An Update",
+      "titleFull": "Neurosarcoidosis in Children, An Update",
+      "trackSource": "Systemic Connective Tissue Diseases",
+      "trackNormalized": "Systemic Connective Tissue Diseases",
+      "descriptionSource": "Systemic Connective Tissue Diseases",
+      "youtubeId": "g_cFbxlDKwI",
+      "embedUrl": "https://www.youtube.com/embed/g_cFbxlDKwI",
+      "watchUrl": "https://www.youtube.com/watch?v=g_cFbxlDKwI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/g_cFbxlDKwI/mqdefault.jpg",
+      "uploadDate": "2021-09-02T05:05:17.446Z",
+      "durationISO": "PT18M14S",
+      "durationSeconds": 1094,
+      "durationHuman": "18m 14s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 36,
+      "galleryGroup": 3,
+      "galleryPosition": 10,
+      "speaker": "Nouran Abaza",
+      "titleSource": "Ultrasound Physics",
+      "titleFull": "Ultrasound Physics",
+      "trackSource": "Arlar21 Musculoskeletal Ultrasound Workshop: Basic Sonography Of Musculoskeletal Tissues",
+      "trackNormalized": "Arlar21 Musculoskeletal Ultrasound Workshop: Basic Sonography Of Musculoskeletal Tissues",
+      "descriptionSource": "Arlar21 Musculoskeletal Ultrasound Workshop: Basic Sonography Of Musculoskeletal Tissues",
+      "youtubeId": "tcKAknOCCeQ",
+      "embedUrl": "https://www.youtube.com/embed/tcKAknOCCeQ",
+      "watchUrl": "https://www.youtube.com/watch?v=tcKAknOCCeQ",
+      "thumbnailUrl": "https://i.ytimg.com/vi/tcKAknOCCeQ/mqdefault.jpg",
+      "uploadDate": "2021-09-01T03:43:40.586Z",
+      "durationISO": "PT14M34S",
+      "durationSeconds": 874,
+      "durationHuman": "14m 34s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 37,
+      "galleryGroup": 3,
+      "galleryPosition": 11,
+      "speaker": "Ghita Harifi",
+      "titleSource": "Knobology",
+      "titleFull": "Knobology",
+      "trackSource": "ArLAR21 Musculoskeletal Ultrasound Workshop: Basic Sonography Of Musculoskeletal Tissues",
+      "trackNormalized": "ArLAR21 Musculoskeletal Ultrasound Workshop: Basic Sonography Of Musculoskeletal Tissues",
+      "descriptionSource": "ArLAR21 Musculoskeletal Ultrasound Workshop: Basic Sonography Of Musculoskeletal Tissues",
+      "youtubeId": "neT66yV03oE",
+      "embedUrl": "https://www.youtube.com/embed/neT66yV03oE",
+      "watchUrl": "https://www.youtube.com/watch?v=neT66yV03oE",
+      "thumbnailUrl": "https://i.ytimg.com/vi/neT66yV03oE/mqdefault.jpg",
+      "uploadDate": "2021-09-01T03:16:40.633Z",
+      "durationISO": "PT16M8S",
+      "durationSeconds": 968,
+      "durationHuman": "16m 8s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 38,
+      "galleryGroup": 3,
+      "galleryPosition": 12,
+      "speaker": "Hatem Saad",
+      "titleSource": "Bone",
+      "titleFull": "Bone",
+      "trackSource": "Arlar21 Musculoskeletal Ultrasound Workshop: Basic Sonography Of Musculoskeletal Tissues",
+      "trackNormalized": "Arlar21 Musculoskeletal Ultrasound Workshop: Basic Sonography Of Musculoskeletal Tissues",
+      "descriptionSource": "Arlar21 Musculoskeletal Ultrasound Workshop: Basic Sonography Of Musculoskeletal Tissues",
+      "youtubeId": "BESccN7XMeE",
+      "embedUrl": "https://www.youtube.com/embed/BESccN7XMeE",
+      "watchUrl": "https://www.youtube.com/watch?v=BESccN7XMeE",
+      "thumbnailUrl": "https://i.ytimg.com/vi/BESccN7XMeE/mqdefault.jpg",
+      "uploadDate": "2021-09-01T03:17:02.772Z",
+      "durationISO": "PT15M32S",
+      "durationSeconds": 932,
+      "durationHuman": "15m 32s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 39,
+      "galleryGroup": 3,
+      "galleryPosition": 13,
+      "speaker": "Kawther Ben Abdelghani",
+      "titleSource": "Cartilage",
+      "titleFull": "Cartilage",
+      "trackSource": "Arlar21 Musculoskeletal Ultrasound Workshop: Basic Sonography Of Musculoskeletal Tissues",
+      "trackNormalized": "Arlar21 Musculoskeletal Ultrasound Workshop: Basic Sonography Of Musculoskeletal Tissues",
+      "descriptionSource": "Arlar21 Musculoskeletal Ultrasound Workshop: Basic Sonography Of Musculoskeletal Tissues",
+      "youtubeId": "N2xgnmaQeQM",
+      "embedUrl": "https://www.youtube.com/embed/N2xgnmaQeQM",
+      "watchUrl": "https://www.youtube.com/watch?v=N2xgnmaQeQM",
+      "thumbnailUrl": "https://i.ytimg.com/vi/N2xgnmaQeQM/mqdefault.jpg",
+      "uploadDate": "2021-09-01T03:18:25.833Z",
+      "durationISO": "PT13M53S",
+      "durationSeconds": 833,
+      "durationHuman": "13m 53s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 40,
+      "galleryGroup": 3,
+      "galleryPosition": 14,
+      "speaker": "Basant Elnady",
+      "titleSource": "Tendon",
+      "titleFull": "Tendon",
+      "trackSource": "Arlar21 Musculoskeletal Ultrasound Workshop: Basic Sonography Of Musculoskeletal Tissues",
+      "trackNormalized": "Arlar21 Musculoskeletal Ultrasound Workshop: Basic Sonography Of Musculoskeletal Tissues",
+      "descriptionSource": "Arlar21 Musculoskeletal Ultrasound Workshop: Basic Sonography Of Musculoskeletal Tissues",
+      "youtubeId": "gGfq4eGUbkU",
+      "embedUrl": "https://www.youtube.com/embed/gGfq4eGUbkU",
+      "watchUrl": "https://www.youtube.com/watch?v=gGfq4eGUbkU",
+      "thumbnailUrl": "https://i.ytimg.com/vi/gGfq4eGUbkU/mqdefault.jpg",
+      "uploadDate": "2021-09-01T03:45:15.374Z",
+      "durationISO": "PT4M59S",
+      "durationSeconds": 299,
+      "durationHuman": "4m 59s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 41,
+      "galleryGroup": 3,
+      "galleryPosition": 15,
+      "speaker": "Mohamed Mortada",
+      "titleSource": "Nerve",
+      "titleFull": "Nerve",
+      "trackSource": "Arlar21 Musculoskeletal Ultrasound Workshop: Basic Sonography Of Musculoskeletal Tissues",
+      "trackNormalized": "Arlar21 Musculoskeletal Ultrasound Workshop: Basic Sonography Of Musculoskeletal Tissues",
+      "descriptionSource": "Arlar21 Musculoskeletal Ultrasound Workshop: Basic Sonography Of Musculoskeletal Tissues",
+      "youtubeId": "sWNKj4Di70Y",
+      "embedUrl": "https://www.youtube.com/embed/sWNKj4Di70Y",
+      "watchUrl": "https://www.youtube.com/watch?v=sWNKj4Di70Y",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sWNKj4Di70Y/mqdefault.jpg",
+      "uploadDate": "2021-09-01T03:43:22.067Z",
+      "durationISO": "PT15M48S",
+      "durationSeconds": 948,
+      "durationHuman": "15m 48s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 42,
+      "galleryGroup": 3,
+      "galleryPosition": 16,
+      "speaker": "Izzat Khanger",
+      "titleSource": "Muscle",
+      "titleFull": "Muscle",
+      "trackSource": "Arlar21 Musculoskeletal Ultrasound Workshop: Basic Sonography Of Musculoskeletal Tissues",
+      "trackNormalized": "Arlar21 Musculoskeletal Ultrasound Workshop: Basic Sonography Of Musculoskeletal Tissues",
+      "descriptionSource": "Arlar21 Musculoskeletal Ultrasound Workshop: Basic Sonography Of Musculoskeletal Tissues",
+      "youtubeId": "ZaqtmeGDC0s",
+      "embedUrl": "https://www.youtube.com/embed/ZaqtmeGDC0s",
+      "watchUrl": "https://www.youtube.com/watch?v=ZaqtmeGDC0s",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZaqtmeGDC0s/mqdefault.jpg",
+      "uploadDate": "2021-09-01T03:18:04.960Z",
+      "durationISO": "PT13M50S",
+      "durationSeconds": 830,
+      "durationHuman": "13m 50s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 43,
+      "galleryGroup": 3,
+      "galleryPosition": 17,
+      "speaker": "Suad Hannawi",
+      "titleSource": "Comorbidity in Rheumatoid Arthritis in the Arab Countries",
+      "titleFull": "Comorbidity in Rheumatoid Arthritis in the Arab Countries",
+      "trackSource": "Comorbidities in Rheumatic Diseases",
+      "trackNormalized": "Comorbidities in Rheumatic Diseases",
+      "descriptionSource": "Comorbidities in Rheumatic Diseases",
+      "youtubeId": "FYOvtXUZ7Ms",
+      "embedUrl": "https://www.youtube.com/embed/FYOvtXUZ7Ms",
+      "watchUrl": "https://www.youtube.com/watch?v=FYOvtXUZ7Ms",
+      "thumbnailUrl": "https://i.ytimg.com/vi/FYOvtXUZ7Ms/mqdefault.jpg",
+      "uploadDate": "2021-09-01T03:03:06.567Z",
+      "durationISO": "PT22M11S",
+      "durationSeconds": 1331,
+      "durationHuman": "22m 11s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 44,
+      "galleryGroup": 3,
+      "galleryPosition": 18,
+      "speaker": "Pascal Richette",
+      "titleSource": "Gout & Comorbidities",
+      "titleFull": "Gout & Comorbidities",
+      "trackSource": "Comorbidities in Rheumatic Diseases",
+      "trackNormalized": "Comorbidities in Rheumatic Diseases",
+      "descriptionSource": "Comorbidities in Rheumatic Diseases",
+      "youtubeId": "fii02sZdCTQ",
+      "embedUrl": "https://www.youtube.com/embed/fii02sZdCTQ",
+      "watchUrl": "https://www.youtube.com/watch?v=fii02sZdCTQ",
+      "thumbnailUrl": "https://i.ytimg.com/vi/fii02sZdCTQ/mqdefault.jpg",
+      "uploadDate": "2021-09-01T03:03:19.266Z",
+      "durationISO": "PT24M37S",
+      "durationSeconds": 1477,
+      "durationHuman": "24m 37s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 45,
+      "galleryGroup": 3,
+      "galleryPosition": 19,
+      "speaker": "Wala Abdelrahman",
+      "titleSource": "Update in Raynaud Phenomenon Management",
+      "titleFull": "Update in Raynaud Phenomenon Management",
+      "trackSource": "Systemic Sclerosis",
+      "trackNormalized": "Systemic Sclerosis",
+      "descriptionSource": "Systemic Sclerosis",
+      "youtubeId": "yxBrq3pSIW4",
+      "embedUrl": "https://www.youtube.com/embed/yxBrq3pSIW4",
+      "watchUrl": "https://www.youtube.com/watch?v=yxBrq3pSIW4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/yxBrq3pSIW4/mqdefault.jpg",
+      "uploadDate": "2021-09-01T06:28:58.497Z",
+      "durationISO": "PT29M40S",
+      "durationSeconds": 1780,
+      "durationHuman": "29m 40s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 46,
+      "galleryGroup": 3,
+      "galleryPosition": 20,
+      "speaker": "Yannick Allanore",
+      "titleSource": "Systemic Sclerosis Innovative Treatment Target 2021",
+      "titleFull": "Systemic Sclerosis Innovative Treatment Target 2021",
+      "trackSource": "Systemic Sclerosis",
+      "trackNormalized": "Systemic Sclerosis",
+      "descriptionSource": "Systemic Sclerosis",
+      "youtubeId": "vMKi1mmeENk",
+      "embedUrl": "https://www.youtube.com/embed/vMKi1mmeENk",
+      "watchUrl": "https://www.youtube.com/watch?v=vMKi1mmeENk",
+      "thumbnailUrl": "https://i.ytimg.com/vi/vMKi1mmeENk/mqdefault.jpg",
+      "uploadDate": "2021-09-01T06:28:58.497Z",
+      "durationISO": "PT27M4S",
+      "durationSeconds": 1624,
+      "durationHuman": "27m 4s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 47,
+      "galleryGroup": 3,
+      "galleryPosition": 21,
+      "speaker": "Jubran Alqanatish",
+      "titleSource": "MIS-C: Experience from Saudi Arabia",
+      "titleFull": "MIS-C: Experience from Saudi Arabia",
+      "trackSource": "Multisystem Inflammatory Syndrome in Children MIS C",
+      "trackNormalized": "Multisystem Inflammatory Syndrome in Children MIS C",
+      "descriptionSource": "Multisystem Inflammatory Syndrome in Children MIS C",
+      "youtubeId": "SZyXHimH_vQ",
+      "embedUrl": "https://www.youtube.com/embed/SZyXHimH_vQ",
+      "watchUrl": "https://www.youtube.com/watch?v=SZyXHimH_vQ",
+      "thumbnailUrl": "https://i.ytimg.com/vi/SZyXHimH_vQ/mqdefault.jpg",
+      "uploadDate": "2021-09-02T05:05:17.445Z",
+      "durationISO": "PT20M49S",
+      "durationSeconds": 1249,
+      "durationHuman": "20m 49s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 48,
+      "galleryGroup": 3,
+      "galleryPosition": 22,
+      "speaker": "Hala M Lotfi",
+      "titleSource": "MIS-C: Experience from Egypt",
+      "titleFull": "MIS-C: Experience from Egypt",
+      "trackSource": "Multisystem Inflammatory Syndrome in Children MIS C",
+      "trackNormalized": "Multisystem Inflammatory Syndrome in Children MIS C",
+      "descriptionSource": "Multisystem Inflammatory Syndrome in Children MIS C",
+      "youtubeId": "h6BYUnnuozw",
+      "embedUrl": "https://www.youtube.com/embed/h6BYUnnuozw",
+      "watchUrl": "https://www.youtube.com/watch?v=h6BYUnnuozw",
+      "thumbnailUrl": "https://i.ytimg.com/vi/h6BYUnnuozw/mqdefault.jpg",
+      "uploadDate": "2021-09-02T05:05:17.445Z",
+      "durationISO": "PT26M49S",
+      "durationSeconds": 1609,
+      "durationHuman": "26m 49s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 49,
+      "galleryGroup": 3,
+      "galleryPosition": 23,
+      "speaker": "Fayhan Al Roqi",
+      "titleSource": "Up-to-Date Immunological Bases of MIS-C",
+      "titleFull": "Up-to-Date Immunological Bases of MIS-C",
+      "trackSource": "Multisystem Inflammatory Syndrome in Children MIS C",
+      "trackNormalized": "Multisystem Inflammatory Syndrome in Children MIS C",
+      "descriptionSource": "Multisystem Inflammatory Syndrome in Children MIS C",
+      "youtubeId": "GBKd74c_4hQ",
+      "embedUrl": "https://www.youtube.com/embed/GBKd74c_4hQ",
+      "watchUrl": "https://www.youtube.com/watch?v=GBKd74c_4hQ",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GBKd74c_4hQ/mqdefault.jpg",
+      "uploadDate": "2021-09-01T19:57:39.689Z",
+      "durationISO": "PT18M36S",
+      "durationSeconds": 1116,
+      "durationHuman": "18m 36s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 50,
+      "galleryGroup": 3,
+      "galleryPosition": 24,
+      "speaker": "Mahdi Abu Salameh",
+      "titleSource": "Polymyalgia Rheumatica Update",
+      "titleFull": "Polymyalgia Rheumatica Update",
+      "trackSource": "Inflammatory Rheumatic Diseases II",
+      "trackNormalized": "Inflammatory Rheumatic Diseases II",
+      "descriptionSource": "Inflammatory Rheumatic Diseases II",
+      "youtubeId": "m94135BCo40",
+      "embedUrl": "https://www.youtube.com/embed/m94135BCo40",
+      "watchUrl": "https://www.youtube.com/watch?v=m94135BCo40",
+      "thumbnailUrl": "https://i.ytimg.com/vi/m94135BCo40/mqdefault.jpg",
+      "uploadDate": "2021-09-01T03:04:09.034Z",
+      "durationISO": "PT24M14S",
+      "durationSeconds": 1454,
+      "durationHuman": "24m 14s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 51,
+      "galleryGroup": 3,
+      "galleryPosition": 25,
+      "speaker": "Suzan Al Attar",
+      "titleSource": "Early Inflammatory Arthritis",
+      "titleFull": "Early Inflammatory Arthritis",
+      "trackSource": "Inflammatory Rheumatic Diseases II",
+      "trackNormalized": "Inflammatory Rheumatic Diseases II",
+      "descriptionSource": "Inflammatory Rheumatic Diseases II",
+      "youtubeId": "wcSzOkSXDu8",
+      "embedUrl": "https://www.youtube.com/embed/wcSzOkSXDu8",
+      "watchUrl": "https://www.youtube.com/watch?v=wcSzOkSXDu8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wcSzOkSXDu8/mqdefault.jpg",
+      "uploadDate": "2021-09-01T03:16:07.131Z",
+      "durationISO": "PT22M13S",
+      "durationSeconds": 1333,
+      "durationHuman": "22m 13s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 52,
+      "galleryGroup": 3,
+      "galleryPosition": 26,
+      "speaker": "Avin Maroof",
+      "titleSource": "Insight on CPP Crystal Inflammatory Arthritis",
+      "titleFull": "Insight on CPP Crystal Inflammatory Arthritis",
+      "trackSource": "Inflammatory Rheumatic Diseases II",
+      "trackNormalized": "Inflammatory Rheumatic Diseases II",
+      "descriptionSource": "Inflammatory Rheumatic Diseases II",
+      "youtubeId": "GWn3QGjr4DQ",
+      "embedUrl": "https://www.youtube.com/embed/GWn3QGjr4DQ",
+      "watchUrl": "https://www.youtube.com/watch?v=GWn3QGjr4DQ",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GWn3QGjr4DQ/mqdefault.jpg",
+      "uploadDate": "2021-09-01T03:14:18.783Z",
+      "durationISO": "PT18M5S",
+      "durationSeconds": 1085,
+      "durationHuman": "18m 5s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 53,
+      "galleryGroup": 3,
+      "galleryPosition": 27,
+      "speaker": "Khaled Hadidi",
+      "titleSource": "SLE: Experience in Thousands",
+      "titleFull": "SLE: Experience in Thousands",
+      "trackSource": "Systemic Lupus Erythematosus  I",
+      "trackNormalized": "Systemic Lupus Erythematosus I",
+      "descriptionSource": "Systemic Lupus Erythematosus  I",
+      "youtubeId": "-kbRV3fbKmE",
+      "embedUrl": "https://www.youtube.com/embed/-kbRV3fbKmE",
+      "watchUrl": "https://www.youtube.com/watch?v=-kbRV3fbKmE",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-kbRV3fbKmE/mqdefault.jpg",
+      "uploadDate": "2021-09-01T06:28:58.496Z",
+      "durationISO": "PT18M55S",
+      "durationSeconds": 1135,
+      "durationHuman": "18m 55s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 54,
+      "galleryGroup": 3,
+      "galleryPosition": 28,
+      "speaker": "Christophe Richez",
+      "titleSource": "Platelets involvement in Lupus Pathogenesis",
+      "titleFull": "Platelets involvement in Lupus Pathogenesis",
+      "trackSource": "Systemic Lupus Erythematosus  I",
+      "trackNormalized": "Systemic Lupus Erythematosus I",
+      "descriptionSource": "Systemic Lupus Erythematosus  I",
+      "youtubeId": "d3YGLVhF__k",
+      "embedUrl": "https://www.youtube.com/embed/d3YGLVhF__k",
+      "watchUrl": "https://www.youtube.com/watch?v=d3YGLVhF__k",
+      "thumbnailUrl": "https://i.ytimg.com/vi/d3YGLVhF__k/mqdefault.jpg",
+      "uploadDate": "2021-09-01T06:28:58.496Z",
+      "durationISO": "PT24M21S",
+      "durationSeconds": 1461,
+      "durationHuman": "24m 21s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 55,
+      "galleryGroup": 3,
+      "galleryPosition": 29,
+      "speaker": "Hanan Al Rayes",
+      "titleSource": "Biologics in the Treatment of Systemic Lupus Erythematous",
+      "titleFull": "Biologics in the Treatment of Systemic Lupus Erythematous",
+      "trackSource": "Systemic Lupus Erythematosus  I",
+      "trackNormalized": "Systemic Lupus Erythematosus I",
+      "descriptionSource": "Systemic Lupus Erythematosus  I",
+      "youtubeId": "2xK3FwYg1Zk",
+      "embedUrl": "https://www.youtube.com/embed/2xK3FwYg1Zk",
+      "watchUrl": "https://www.youtube.com/watch?v=2xK3FwYg1Zk",
+      "thumbnailUrl": "https://i.ytimg.com/vi/2xK3FwYg1Zk/mqdefault.jpg",
+      "uploadDate": "2021-09-01T06:28:58.497Z",
+      "durationISO": "PT25M41S",
+      "durationSeconds": 1541,
+      "durationHuman": "25m 41s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 56,
+      "galleryGroup": 3,
+      "galleryPosition": 30,
+      "speaker": "Sima Abu Al Saoud",
+      "titleSource": "Challenging Cases in Pediatric Rheumatology: Case 1",
+      "titleFull": "Challenging Cases in Pediatric Rheumatology: Case 1",
+      "trackSource": "Challenging Cases in Pediatric Rheumatology",
+      "trackNormalized": "Challenging Cases in Pediatric Rheumatology",
+      "descriptionSource": "Challenging Cases in Pediatric Rheumatology",
+      "youtubeId": "4hPEltDCRGk",
+      "embedUrl": "https://www.youtube.com/embed/4hPEltDCRGk",
+      "watchUrl": "https://www.youtube.com/watch?v=4hPEltDCRGk",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4hPEltDCRGk/mqdefault.jpg",
+      "uploadDate": "2021-09-02T05:05:17.445Z",
+      "durationISO": "PT11M57S",
+      "durationSeconds": 717,
+      "durationHuman": "11m 57s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 57,
+      "galleryGroup": 4,
+      "galleryPosition": 1,
+      "speaker": "Christopher Edwards",
+      "titleSource": "Treating RA at Different Ages",
+      "titleFull": "Treating RA at Different Ages",
+      "trackSource": "Rheumatoid Arthritis II",
+      "trackNormalized": "Rheumatoid Arthritis II",
+      "descriptionSource": "Rheumatoid Arthritis II",
+      "youtubeId": "xZ9gca6SARg",
+      "embedUrl": "https://www.youtube.com/embed/xZ9gca6SARg",
+      "watchUrl": "https://www.youtube.com/watch?v=xZ9gca6SARg",
+      "thumbnailUrl": "https://i.ytimg.com/vi/xZ9gca6SARg/mqdefault.jpg",
+      "uploadDate": "2021-09-01T03:46:53.968Z",
+      "durationISO": "PT24M54S",
+      "durationSeconds": 1494,
+      "durationHuman": "24m 54s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 58,
+      "galleryGroup": 4,
+      "galleryPosition": 2,
+      "speaker": "Rene Marc Flipo",
+      "titleSource": "Remission in RA Myth or Real",
+      "titleFull": "Remission in RA Myth or Real",
+      "trackSource": "Rheumatoid Arthritis II",
+      "trackNormalized": "Rheumatoid Arthritis II",
+      "descriptionSource": "Rheumatoid Arthritis II",
+      "youtubeId": "kq82mdbixdc",
+      "embedUrl": "https://www.youtube.com/embed/kq82mdbixdc",
+      "watchUrl": "https://www.youtube.com/watch?v=kq82mdbixdc",
+      "thumbnailUrl": "https://i.ytimg.com/vi/kq82mdbixdc/mqdefault.jpg",
+      "uploadDate": "2021-09-01T03:47:06.609Z",
+      "durationISO": "PT21M13S",
+      "durationSeconds": 1273,
+      "durationHuman": "21m 13s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 59,
+      "galleryGroup": 4,
+      "galleryPosition": 3,
+      "speaker": "Ziad Al Rawi",
+      "titleSource": "Sjögren’s Syndrome - Iraqi Experience",
+      "titleFull": "Sjögren’s Syndrome - Iraqi Experience",
+      "trackSource": "Sjogren Syndrome",
+      "trackNormalized": "Sjogren Syndrome",
+      "descriptionSource": "Sjogren Syndrome",
+      "youtubeId": "hlqRCkTM-IA",
+      "embedUrl": "https://www.youtube.com/embed/hlqRCkTM-IA",
+      "watchUrl": "https://www.youtube.com/watch?v=hlqRCkTM-IA",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hlqRCkTM-IA/mqdefault.jpg",
+      "uploadDate": "2021-09-01T06:28:58.498Z",
+      "durationISO": "PT18M3S",
+      "durationSeconds": 1083,
+      "durationHuman": "18m 3s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 60,
+      "galleryGroup": 4,
+      "galleryPosition": 4,
+      "speaker": "Gaetane Nocturne",
+      "titleSource": "Update on Sjögren’s Syndrome: From Pathogenesis to Treatment",
+      "titleFull": "Update on Sjögren’s Syndrome: From Pathogenesis to Treatment",
+      "trackSource": "Sjogren Syndrome",
+      "trackNormalized": "Sjogren Syndrome",
+      "descriptionSource": "Sjogren Syndrome",
+      "youtubeId": "PRNT7rx_dkk",
+      "embedUrl": "https://www.youtube.com/embed/PRNT7rx_dkk",
+      "watchUrl": "https://www.youtube.com/watch?v=PRNT7rx_dkk",
+      "thumbnailUrl": "https://i.ytimg.com/vi/PRNT7rx_dkk/mqdefault.jpg",
+      "uploadDate": "2021-09-01T06:28:58.498Z",
+      "durationISO": "PT28M21S",
+      "durationSeconds": 1701,
+      "durationHuman": "28m 21s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 61,
+      "galleryGroup": 4,
+      "galleryPosition": 5,
+      "speaker": "Adel Mahmoud",
+      "titleSource": "GRAPPA Psoriatic Arthritis Recommendations-Guideline",
+      "titleFull": "GRAPPA Psoriatic Arthritis Recommendations-Guideline",
+      "trackSource": "Spondyloarthritis II",
+      "trackNormalized": "Spondyloarthritis II",
+      "descriptionSource": "Spondyloarthritis II",
+      "youtubeId": "uc7AVfDv_E8",
+      "embedUrl": "https://www.youtube.com/embed/uc7AVfDv_E8",
+      "watchUrl": "https://www.youtube.com/watch?v=uc7AVfDv_E8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/uc7AVfDv_E8/mqdefault.jpg",
+      "uploadDate": "2021-09-01T03:47:21.844Z",
+      "durationISO": "PT19M3S",
+      "durationSeconds": 1143,
+      "durationHuman": "19m 3s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 62,
+      "galleryGroup": 4,
+      "galleryPosition": 6,
+      "speaker": "Cedric Lukas",
+      "titleSource": "axSpA DESIR Cohort",
+      "titleFull": "axSpA DESIR Cohort",
+      "trackSource": "Spondyloarthritis II",
+      "trackNormalized": "Spondyloarthritis II",
+      "descriptionSource": "Spondyloarthritis II",
+      "youtubeId": "9BfiD0vIBNY",
+      "embedUrl": "https://www.youtube.com/embed/9BfiD0vIBNY",
+      "watchUrl": "https://www.youtube.com/watch?v=9BfiD0vIBNY",
+      "thumbnailUrl": "https://i.ytimg.com/vi/9BfiD0vIBNY/mqdefault.jpg",
+      "uploadDate": "2021-09-01T03:47:56.023Z",
+      "durationISO": "PT20M10S",
+      "durationSeconds": 1210,
+      "durationHuman": "20m 10s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 63,
+      "galleryGroup": 4,
+      "galleryPosition": 7,
+      "speaker": "Arvind Kaul",
+      "titleSource": "Ankylosing Spondylitis: Old Disease, New Mechanisms",
+      "titleFull": "Ankylosing Spondylitis: Old Disease, New Mechanisms",
+      "trackSource": "Spondyloarthritis II",
+      "trackNormalized": "Spondyloarthritis II",
+      "descriptionSource": "Spondyloarthritis II",
+      "youtubeId": "Emn0iDblJe8",
+      "embedUrl": "https://www.youtube.com/embed/Emn0iDblJe8",
+      "watchUrl": "https://www.youtube.com/watch?v=Emn0iDblJe8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Emn0iDblJe8/mqdefault.jpg",
+      "uploadDate": "2021-09-01T03:47:40.505Z",
+      "durationISO": "PT20M8S",
+      "durationSeconds": 1208,
+      "durationHuman": "20m 8s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 64,
+      "galleryGroup": 4,
+      "galleryPosition": 8,
+      "speaker": "Amjad Al Kadi",
+      "titleSource": "Classification of SLE",
+      "titleFull": "Classification of SLE",
+      "trackSource": "Systemic Lupus Erythematosus  II",
+      "trackNormalized": "Systemic Lupus Erythematosus II",
+      "descriptionSource": "Systemic Lupus Erythematosus  II",
+      "youtubeId": "ivG1so-zQrA",
+      "embedUrl": "https://www.youtube.com/embed/ivG1so-zQrA",
+      "watchUrl": "https://www.youtube.com/watch?v=ivG1so-zQrA",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ivG1so-zQrA/mqdefault.jpg",
+      "uploadDate": "2021-09-01T06:28:58.498Z",
+      "durationISO": "PT18M34S",
+      "durationSeconds": 1114,
+      "durationHuman": "18m 34s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 65,
+      "galleryGroup": 4,
+      "galleryPosition": 9,
+      "speaker": "Randa Farah",
+      "titleSource": "Updates on the Management of Lupus Nephritis",
+      "titleFull": "Updates on the Management of Lupus Nephritis",
+      "trackSource": "Systemic Lupus Erythematosus  II",
+      "trackNormalized": "Systemic Lupus Erythematosus II",
+      "descriptionSource": "Systemic Lupus Erythematosus  II",
+      "youtubeId": "R6HutS6UtX8",
+      "embedUrl": "https://www.youtube.com/embed/R6HutS6UtX8",
+      "watchUrl": "https://www.youtube.com/watch?v=R6HutS6UtX8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/R6HutS6UtX8/mqdefault.jpg",
+      "uploadDate": "2021-09-01T19:57:39.687Z",
+      "durationISO": "PT21M34S",
+      "durationSeconds": 1294,
+      "durationHuman": "21m 34s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 66,
+      "galleryGroup": 4,
+      "galleryPosition": 10,
+      "speaker": "Imad Uthman",
+      "titleSource": "Updates on Antiphospholipid Syndrome",
+      "titleFull": "Updates on Antiphospholipid Syndrome",
+      "trackSource": "Systemic Lupus Erythematosus  II",
+      "trackNormalized": "Systemic Lupus Erythematosus II",
+      "descriptionSource": "Systemic Lupus Erythematosus  II",
+      "youtubeId": "M3SVUdjJhWk",
+      "embedUrl": "https://www.youtube.com/embed/M3SVUdjJhWk",
+      "watchUrl": "https://www.youtube.com/watch?v=M3SVUdjJhWk",
+      "thumbnailUrl": "https://i.ytimg.com/vi/M3SVUdjJhWk/mqdefault.jpg",
+      "uploadDate": "2021-09-01T06:28:58.499Z",
+      "durationISO": "PT17M57S",
+      "durationSeconds": 1077,
+      "durationHuman": "17m 57s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 67,
+      "galleryGroup": 5,
+      "galleryPosition": 1,
+      "speaker": "Divi Cornec",
+      "titleSource": "Vasculitis Classification",
+      "titleFull": "Vasculitis Classification",
+      "trackSource": "Vasculitis",
+      "trackNormalized": "Vasculitis",
+      "descriptionSource": "Vasculitis",
+      "youtubeId": "_1DRG0dPfWc",
+      "embedUrl": "https://www.youtube.com/embed/_1DRG0dPfWc",
+      "watchUrl": "https://www.youtube.com/watch?v=_1DRG0dPfWc",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_1DRG0dPfWc/mqdefault.jpg",
+      "uploadDate": "2021-09-01T04:12:54.569Z",
+      "durationISO": "PT22M58S",
+      "durationSeconds": 1378,
+      "durationHuman": "22m 58s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 68,
+      "galleryGroup": 5,
+      "galleryPosition": 2,
+      "speaker": "Nezam Altorok",
+      "titleSource": "Single Organ Vasculitis",
+      "titleFull": "Single Organ Vasculitis",
+      "trackSource": "Vasculitis",
+      "trackNormalized": "Vasculitis",
+      "descriptionSource": "Vasculitis",
+      "youtubeId": "m-EbMeEu4Q4",
+      "embedUrl": "https://www.youtube.com/embed/m-EbMeEu4Q4",
+      "watchUrl": "https://www.youtube.com/watch?v=m-EbMeEu4Q4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/m-EbMeEu4Q4/mqdefault.jpg",
+      "uploadDate": "2021-09-01T05:43:51.120Z",
+      "durationISO": "PT25M38S",
+      "durationSeconds": 1538,
+      "durationHuman": "25m 38s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 69,
+      "galleryGroup": 5,
+      "galleryPosition": 3,
+      "speaker": "Debashish Danda",
+      "titleSource": "ANCA Associated Vasculitis Treatment",
+      "titleFull": "ANCA Associated Vasculitis Treatment",
+      "trackSource": "Vasculitis",
+      "trackNormalized": "Vasculitis",
+      "descriptionSource": "Vasculitis",
+      "youtubeId": "PB_-u_m7AoM",
+      "embedUrl": "https://www.youtube.com/embed/PB_-u_m7AoM",
+      "watchUrl": "https://www.youtube.com/watch?v=PB_-u_m7AoM",
+      "thumbnailUrl": "https://i.ytimg.com/vi/PB_-u_m7AoM/mqdefault.jpg",
+      "uploadDate": "2021-09-01T04:12:34.000Z",
+      "durationISO": "PT35M53S",
+      "durationSeconds": 2153,
+      "durationHuman": "35m 53s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 70,
+      "galleryGroup": 5,
+      "galleryPosition": 4,
+      "speaker": "Samar Al Emadi",
+      "titleSource": "Pregnancy in Rheumatic Diseases - Introduction",
+      "titleFull": "Pregnancy in Rheumatic Diseases - Introduction",
+      "trackSource": "Rheumatic Diseases   Pregnancy",
+      "trackNormalized": "Rheumatic Diseases Pregnancy",
+      "descriptionSource": "Rheumatic Diseases   Pregnancy",
+      "youtubeId": "OVDfA_7PgAI",
+      "embedUrl": "https://www.youtube.com/embed/OVDfA_7PgAI",
+      "watchUrl": "https://www.youtube.com/watch?v=OVDfA_7PgAI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/OVDfA_7PgAI/mqdefault.jpg",
+      "uploadDate": "2021-09-01T19:57:39.688Z",
+      "durationISO": "PT16M44S",
+      "durationSeconds": 1004,
+      "durationHuman": "16m 44s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 71,
+      "galleryGroup": 5,
+      "galleryPosition": 5,
+      "speaker": "Christopher Edwards",
+      "titleSource": "Pregnant Women with APS What to do?",
+      "titleFull": "Pregnant Women with APS What to do?",
+      "trackSource": "Rheumatic Diseases   Pregnancy",
+      "trackNormalized": "Rheumatic Diseases Pregnancy",
+      "descriptionSource": "Rheumatic Diseases   Pregnancy",
+      "youtubeId": "H5cvs0RByf0",
+      "embedUrl": "https://www.youtube.com/embed/H5cvs0RByf0",
+      "watchUrl": "https://www.youtube.com/watch?v=H5cvs0RByf0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/H5cvs0RByf0/mqdefault.jpg",
+      "uploadDate": "2021-09-01T19:57:39.688Z",
+      "durationISO": "PT15M35S",
+      "durationSeconds": 935,
+      "durationHuman": "15m 35s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 72,
+      "galleryGroup": 5,
+      "galleryPosition": 6,
+      "speaker": "Ala Al Heresh",
+      "titleSource": "The Management of SLE in Pregnant Women",
+      "titleFull": "The Management of SLE in Pregnant Women",
+      "trackSource": "Rheumatic Diseases   Pregnancy",
+      "trackNormalized": "Rheumatic Diseases Pregnancy",
+      "descriptionSource": "Rheumatic Diseases   Pregnancy",
+      "youtubeId": "fOX7ZyXT_2c",
+      "embedUrl": "https://www.youtube.com/embed/fOX7ZyXT_2c",
+      "watchUrl": "https://www.youtube.com/watch?v=fOX7ZyXT_2c",
+      "thumbnailUrl": "https://i.ytimg.com/vi/fOX7ZyXT_2c/mqdefault.jpg",
+      "uploadDate": "2021-09-01T19:57:39.687Z",
+      "durationISO": "PT17M57S",
+      "durationSeconds": 1077,
+      "durationHuman": "17m 57s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 73,
+      "galleryGroup": 5,
+      "galleryPosition": 7,
+      "speaker": "",
+      "titleSource": "ArLAR21 Jordan Congress Closing",
+      "titleFull": "ArLAR21 Jordan Congress Closing",
+      "trackSource": "",
+      "trackNormalized": "",
+      "descriptionSource": "ArLAR21 Jordan Congress Closing",
+      "youtubeId": "vflWV-IV3QU",
+      "embedUrl": "https://www.youtube.com/embed/vflWV-IV3QU",
+      "watchUrl": "https://www.youtube.com/watch?v=vflWV-IV3QU",
+      "thumbnailUrl": "https://i.ytimg.com/vi/vflWV-IV3QU/mqdefault.jpg",
+      "uploadDate": "2023-10-04T10:34:00.733Z",
+      "durationISO": "PT27M14S",
+      "durationSeconds": 1634,
+      "durationHuman": "27m 14s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 74,
+      "galleryGroup": 5,
+      "galleryPosition": 8,
+      "speaker": "Bahiri Rachid",
+      "titleSource": "Synovitis",
+      "titleFull": "Synovitis",
+      "trackSource": "Arlar21 Musculoskeltal Ultrasound Workshop: Sonography Of Musculoskeletal Lesions",
+      "trackNormalized": "Arlar21 Musculoskeltal Ultrasound Workshop: Sonography Of Musculoskeletal Lesions",
+      "descriptionSource": "Arlar21 Musculoskeltal Ultrasound Workshop: Sonography Of Musculoskeletal Lesions",
+      "youtubeId": "wXeIsCQ9T4c",
+      "embedUrl": "https://www.youtube.com/embed/wXeIsCQ9T4c",
+      "watchUrl": "https://www.youtube.com/watch?v=wXeIsCQ9T4c",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wXeIsCQ9T4c/mqdefault.jpg",
+      "uploadDate": "2021-09-01T03:48:07.216Z",
+      "durationISO": "PT20M5S",
+      "durationSeconds": 1205,
+      "durationHuman": "20m 5s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 75,
+      "galleryGroup": 5,
+      "galleryPosition": 9,
+      "speaker": "Samy Slimani",
+      "titleSource": "Tenosynovitis",
+      "titleFull": "Tenosynovitis",
+      "trackSource": "Arlar21 Musculoskeltal Ultrasound Workshop: Sonography Of Musculoskeletal Lesions",
+      "trackNormalized": "Arlar21 Musculoskeltal Ultrasound Workshop: Sonography Of Musculoskeletal Lesions",
+      "descriptionSource": "Arlar21 Musculoskeltal Ultrasound Workshop: Sonography Of Musculoskeletal Lesions",
+      "youtubeId": "Pz52nQWBELo",
+      "embedUrl": "https://www.youtube.com/embed/Pz52nQWBELo",
+      "watchUrl": "https://www.youtube.com/watch?v=Pz52nQWBELo",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Pz52nQWBELo/mqdefault.jpg",
+      "uploadDate": "2021-09-01T03:49:38.783Z",
+      "durationISO": "PT23M18S",
+      "durationSeconds": 1398,
+      "durationHuman": "23m 18s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 76,
+      "galleryGroup": 5,
+      "galleryPosition": 10,
+      "speaker": "Radwa ElKhouly",
+      "titleSource": "Bone Lesions",
+      "titleFull": "Bone Lesions",
+      "trackSource": "Arlar21 Musculoskeltal Ultrasound Workshop: Sonography Of Musculoskeletal Lesions",
+      "trackNormalized": "Arlar21 Musculoskeltal Ultrasound Workshop: Sonography Of Musculoskeletal Lesions",
+      "descriptionSource": "Arlar21 Musculoskeltal Ultrasound Workshop: Sonography Of Musculoskeletal Lesions",
+      "youtubeId": "HYxQGhp2muc",
+      "embedUrl": "https://www.youtube.com/embed/HYxQGhp2muc",
+      "watchUrl": "https://www.youtube.com/watch?v=HYxQGhp2muc",
+      "thumbnailUrl": "https://i.ytimg.com/vi/HYxQGhp2muc/mqdefault.jpg",
+      "uploadDate": "2021-09-01T03:49:13.159Z",
+      "durationISO": "PT21M14S",
+      "durationSeconds": 1274,
+      "durationHuman": "21m 14s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 77,
+      "galleryGroup": 5,
+      "galleryPosition": 11,
+      "speaker": "Hala Fayed",
+      "titleSource": "Cartilage Lesions",
+      "titleFull": "Cartilage Lesions",
+      "trackSource": "Arlar21 Musculoskeltal Ultrasound Workshop: Sonography Of Musculoskeletal Lesions",
+      "trackNormalized": "Arlar21 Musculoskeltal Ultrasound Workshop: Sonography Of Musculoskeletal Lesions",
+      "descriptionSource": "Arlar21 Musculoskeltal Ultrasound Workshop: Sonography Of Musculoskeletal Lesions",
+      "youtubeId": "R20sHlY5KKc",
+      "embedUrl": "https://www.youtube.com/embed/R20sHlY5KKc",
+      "watchUrl": "https://www.youtube.com/watch?v=R20sHlY5KKc",
+      "thumbnailUrl": "https://i.ytimg.com/vi/R20sHlY5KKc/mqdefault.jpg",
+      "uploadDate": "2021-09-01T03:48:25.871Z",
+      "durationISO": "PT19M41S",
+      "durationSeconds": 1181,
+      "durationHuman": "19m 41s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 78,
+      "galleryGroup": 5,
+      "galleryPosition": 12,
+      "speaker": "Adeeba Al Herz",
+      "titleSource": "How to Establish an ArLAR Registry",
+      "titleFull": "How to Establish an ArLAR Registry",
+      "trackSource": "Workshop on the Arab Registries",
+      "trackNormalized": "Workshop on the Arab Registries",
+      "descriptionSource": "Workshop on the Arab Registries",
+      "youtubeId": "3Rqv4mre8qg",
+      "embedUrl": "https://www.youtube.com/embed/3Rqv4mre8qg",
+      "watchUrl": "https://www.youtube.com/watch?v=3Rqv4mre8qg",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3Rqv4mre8qg/mqdefault.jpg",
+      "uploadDate": "2021-09-01T19:57:39.688Z",
+      "durationISO": "PT14M17S",
+      "durationSeconds": 857,
+      "durationHuman": "14m 17s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 79,
+      "galleryGroup": 5,
+      "galleryPosition": 13,
+      "speaker": "Nizar Abdulateef",
+      "titleSource": "Data From Iraqi National Registry of Rheumatic Diseases-7000 Cases",
+      "titleFull": "Data From Iraqi National Registry of Rheumatic Diseases-7000 Cases",
+      "trackSource": "Workshop on the Arab Registries",
+      "trackNormalized": "Workshop on the Arab Registries",
+      "descriptionSource": "Workshop on the Arab Registries",
+      "youtubeId": "_ghmVM8O9JM",
+      "embedUrl": "https://www.youtube.com/embed/_ghmVM8O9JM",
+      "watchUrl": "https://www.youtube.com/watch?v=_ghmVM8O9JM",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_ghmVM8O9JM/mqdefault.jpg",
+      "uploadDate": "2021-09-01T19:57:39.690Z",
+      "durationISO": "PT14M3S",
+      "durationSeconds": 843,
+      "durationHuman": "14m 3s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 80,
+      "galleryGroup": 5,
+      "galleryPosition": 14,
+      "speaker": "Ihsane Hamamouchi",
+      "titleSource": "The Moroccan Registry of Biological Treatments RBSMR",
+      "titleFull": "The Moroccan Registry of Biological Treatments RBSMR",
+      "trackSource": "Workshop on the Arab Registries",
+      "trackNormalized": "Workshop on the Arab Registries",
+      "descriptionSource": "Workshop on the Arab Registries",
+      "youtubeId": "NFMKOthNBjg",
+      "embedUrl": "https://www.youtube.com/embed/NFMKOthNBjg",
+      "watchUrl": "https://www.youtube.com/watch?v=NFMKOthNBjg",
+      "thumbnailUrl": "https://i.ytimg.com/vi/NFMKOthNBjg/mqdefault.jpg",
+      "uploadDate": "2021-09-01T19:57:39.689Z",
+      "durationISO": "PT19M41S",
+      "durationSeconds": 1181,
+      "durationHuman": "19m 41s",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    }
+  ],
+  "tracks": [
+    {
+      "order": 1,
+      "track": "From The leading Rheumatology Leagues",
+      "videoCount": 1,
+      "totalDurationSeconds": 1115,
+      "totalDurationHuman": "18m 35s",
+      "videoOrders": [
+        3
+      ]
+    },
+    {
+      "order": 2,
+      "track": "From The Leading Rheumatology Experts",
+      "videoCount": 2,
+      "totalDurationSeconds": 2329,
+      "totalDurationHuman": "38m 49s",
+      "videoOrders": [
+        4,
+        5
+      ]
+    },
+    {
+      "order": 3,
+      "track": "Rheumatoid Arthritis I",
+      "videoCount": 2,
+      "totalDurationSeconds": 2347,
+      "totalDurationHuman": "39m 7s",
+      "videoOrders": [
+        6,
+        7
+      ]
+    },
+    {
+      "order": 4,
+      "track": "Spondyloarthritis I",
+      "videoCount": 2,
+      "totalDurationSeconds": 2893,
+      "totalDurationHuman": "48m 13s",
+      "videoOrders": [
+        8,
+        9
+      ]
+    },
+    {
+      "order": 5,
+      "track": "Inflammatory Rheumatic Diseases I",
+      "videoCount": 4,
+      "totalDurationSeconds": 4771,
+      "totalDurationHuman": "1h 19m 31s",
+      "videoOrders": [
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "order": 6,
+      "track": "COVID 19 Rheumatic Diseases",
+      "videoCount": 4,
+      "totalDurationSeconds": 4068,
+      "totalDurationHuman": "1h 7m 48s",
+      "videoOrders": [
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "order": 7,
+      "track": "Juvenile Idiopathic Arthritis JIA",
+      "videoCount": 4,
+      "totalDurationSeconds": 4040,
+      "totalDurationHuman": "1h 7m 20s",
+      "videoOrders": [
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "order": 8,
+      "track": "Osteoarthritis Low Back Pain",
+      "videoCount": 1,
+      "totalDurationSeconds": 1606,
+      "totalDurationHuman": "26m 46s",
+      "videoOrders": [
+        22
+      ]
+    },
+    {
+      "order": 9,
+      "track": "Update on Biologic Therapy in Rheumatic Diseases",
+      "videoCount": 2,
+      "totalDurationSeconds": 3009,
+      "totalDurationHuman": "50m 9s",
+      "videoOrders": [
+        23,
+        24
+      ]
+    },
+    {
+      "order": 10,
+      "track": "Diagnostic and therapeutic challenges",
+      "videoCount": 2,
+      "totalDurationSeconds": 2584,
+      "totalDurationHuman": "43m 4s",
+      "videoOrders": [
+        25,
+        26
+      ]
+    },
+    {
+      "order": 11,
+      "track": "Osteoporosis Iof - Esceo Symposium “New Insights In The Management Of Osteoporosis”",
+      "videoCount": 4,
+      "totalDurationSeconds": 3976,
+      "totalDurationHuman": "1h 6m 16s",
+      "videoOrders": [
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "order": 12,
+      "track": "Connective Tissue Diseases",
+      "videoCount": 3,
+      "totalDurationSeconds": 3432,
+      "totalDurationHuman": "57m 12s",
+      "videoOrders": [
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "order": 13,
+      "track": "Systemic Connective Tissue Diseases",
+      "videoCount": 2,
+      "totalDurationSeconds": 2053,
+      "totalDurationHuman": "34m 13s",
+      "videoOrders": [
+        34,
+        35
+      ]
+    },
+    {
+      "order": 14,
+      "track": "Arlar21 Musculoskeletal Ultrasound Workshop: Basic Sonography Of Musculoskeletal Tissues",
+      "videoCount": 6,
+      "totalDurationSeconds": 4716,
+      "totalDurationHuman": "1h 18m 36s",
+      "videoOrders": [
+        36,
+        38,
+        39,
+        40,
+        41,
+        42
+      ]
+    },
+    {
+      "order": 15,
+      "track": "ArLAR21 Musculoskeletal Ultrasound Workshop: Basic Sonography Of Musculoskeletal Tissues",
+      "videoCount": 1,
+      "totalDurationSeconds": 968,
+      "totalDurationHuman": "16m 8s",
+      "videoOrders": [
+        37
+      ]
+    },
+    {
+      "order": 16,
+      "track": "Comorbidities in Rheumatic Diseases",
+      "videoCount": 2,
+      "totalDurationSeconds": 2808,
+      "totalDurationHuman": "46m 48s",
+      "videoOrders": [
+        43,
+        44
+      ]
+    },
+    {
+      "order": 17,
+      "track": "Systemic Sclerosis",
+      "videoCount": 2,
+      "totalDurationSeconds": 3404,
+      "totalDurationHuman": "56m 44s",
+      "videoOrders": [
+        45,
+        46
+      ]
+    },
+    {
+      "order": 18,
+      "track": "Multisystem Inflammatory Syndrome in Children MIS C",
+      "videoCount": 3,
+      "totalDurationSeconds": 3974,
+      "totalDurationHuman": "1h 6m 14s",
+      "videoOrders": [
+        47,
+        48,
+        49
+      ]
+    },
+    {
+      "order": 19,
+      "track": "Inflammatory Rheumatic Diseases II",
+      "videoCount": 3,
+      "totalDurationSeconds": 3872,
+      "totalDurationHuman": "1h 4m 32s",
+      "videoOrders": [
+        50,
+        51,
+        52
+      ]
+    },
+    {
+      "order": 20,
+      "track": "Systemic Lupus Erythematosus I",
+      "videoCount": 3,
+      "totalDurationSeconds": 4137,
+      "totalDurationHuman": "1h 8m 57s",
+      "videoOrders": [
+        53,
+        54,
+        55
+      ]
+    },
+    {
+      "order": 21,
+      "track": "Challenging Cases in Pediatric Rheumatology",
+      "videoCount": 1,
+      "totalDurationSeconds": 717,
+      "totalDurationHuman": "11m 57s",
+      "videoOrders": [
+        56
+      ]
+    },
+    {
+      "order": 22,
+      "track": "Rheumatoid Arthritis II",
+      "videoCount": 2,
+      "totalDurationSeconds": 2767,
+      "totalDurationHuman": "46m 7s",
+      "videoOrders": [
+        57,
+        58
+      ]
+    },
+    {
+      "order": 23,
+      "track": "Sjogren Syndrome",
+      "videoCount": 2,
+      "totalDurationSeconds": 2784,
+      "totalDurationHuman": "46m 24s",
+      "videoOrders": [
+        59,
+        60
+      ]
+    },
+    {
+      "order": 24,
+      "track": "Spondyloarthritis II",
+      "videoCount": 3,
+      "totalDurationSeconds": 3561,
+      "totalDurationHuman": "59m 21s",
+      "videoOrders": [
+        61,
+        62,
+        63
+      ]
+    },
+    {
+      "order": 25,
+      "track": "Systemic Lupus Erythematosus II",
+      "videoCount": 3,
+      "totalDurationSeconds": 3485,
+      "totalDurationHuman": "58m 5s",
+      "videoOrders": [
+        64,
+        65,
+        66
+      ]
+    },
+    {
+      "order": 26,
+      "track": "Vasculitis",
+      "videoCount": 3,
+      "totalDurationSeconds": 5069,
+      "totalDurationHuman": "1h 24m 29s",
+      "videoOrders": [
+        67,
+        68,
+        69
+      ]
+    },
+    {
+      "order": 27,
+      "track": "Rheumatic Diseases Pregnancy",
+      "videoCount": 3,
+      "totalDurationSeconds": 3016,
+      "totalDurationHuman": "50m 16s",
+      "videoOrders": [
+        70,
+        71,
+        72
+      ]
+    },
+    {
+      "order": 28,
+      "track": "Arlar21 Musculoskeltal Ultrasound Workshop: Sonography Of Musculoskeletal Lesions",
+      "videoCount": 4,
+      "totalDurationSeconds": 5058,
+      "totalDurationHuman": "1h 24m 18s",
+      "videoOrders": [
+        74,
+        75,
+        76,
+        77
+      ]
+    },
+    {
+      "order": 29,
+      "track": "Workshop on the Arab Registries",
+      "videoCount": 3,
+      "totalDurationSeconds": 2881,
+      "totalDurationHuman": "48m 1s",
+      "videoOrders": [
+        78,
+        79,
+        80
+      ]
+    }
+  ],
+  "speakers": [
+    {
+      "order": 1,
+      "speaker": "Iain McInnes",
+      "videoCount": 1,
+      "videoOrders": [
+        3
+      ],
+      "talkTitles": [
+        "Rheumatology in Review: Where We are Today?"
+      ],
+      "tracks": [
+        "From The leading Rheumatology Leagues"
+      ]
+    },
+    {
+      "order": 2,
+      "speaker": "Syed Atiqul Haq",
+      "videoCount": 1,
+      "videoOrders": [
+        4
+      ],
+      "talkTitles": [
+        "Diagnosis of Infectious Vasculitis"
+      ],
+      "tracks": [
+        "From The Leading Rheumatology Experts"
+      ]
+    },
+    {
+      "order": 3,
+      "speaker": "David Karp",
+      "videoCount": 1,
+      "videoOrders": [
+        5
+      ],
+      "talkTitles": [
+        "Can We Prevent Rheumatic Diseases?"
+      ],
+      "tracks": [
+        "From The Leading Rheumatology Experts"
+      ]
+    },
+    {
+      "order": 4,
+      "speaker": "Arnaud Constantin",
+      "videoCount": 1,
+      "videoOrders": [
+        6
+      ],
+      "talkTitles": [
+        "ESPOIR Cohort: What Have we Learned so Far?"
+      ],
+      "tracks": [
+        "Rheumatoid Arthritis I"
+      ]
+    },
+    {
+      "order": 5,
+      "speaker": "Nasra Al Adhoubi",
+      "videoCount": 1,
+      "videoOrders": [
+        7
+      ],
+      "talkTitles": [
+        "ACR20 New Guidelines for RA Treatment"
+      ],
+      "tracks": [
+        "Rheumatoid Arthritis I"
+      ]
+    },
+    {
+      "order": 6,
+      "speaker": "Bassel Al Zorkani",
+      "videoCount": 1,
+      "videoOrders": [
+        8
+      ],
+      "talkTitles": [
+        "Challenges in Axial SpA Management in the Region"
+      ],
+      "tracks": [
+        "Spondyloarthritis I"
+      ]
+    },
+    {
+      "order": 7,
+      "speaker": "Thao Pham",
+      "videoCount": 1,
+      "videoOrders": [
+        9
+      ],
+      "talkTitles": [
+        "Radiographic et Non-Radiographic Axial Spondyloarthritis: Diagnosis and Response to Treatment"
+      ],
+      "tracks": [
+        "Spondyloarthritis I"
+      ]
+    },
+    {
+      "order": 8,
+      "speaker": "Nadera Sweiss",
+      "videoCount": 1,
+      "videoOrders": [
+        10
+      ],
+      "talkTitles": [
+        "Sarcoidosis Update"
+      ],
+      "tracks": [
+        "Inflammatory Rheumatic Diseases I"
+      ]
+    },
+    {
+      "order": 9,
+      "speaker": "Mustafa Al Izzi",
+      "videoCount": 1,
+      "videoOrders": [
+        11
+      ],
+      "talkTitles": [
+        "What's New with Familial Mediterranean Fever"
+      ],
+      "tracks": [
+        "Inflammatory Rheumatic Diseases I"
+      ]
+    },
+    {
+      "order": 10,
+      "speaker": "Sami Salman",
+      "videoCount": 1,
+      "videoOrders": [
+        12
+      ],
+      "talkTitles": [
+        "Update on the Management of Behçet Disease"
+      ],
+      "tracks": [
+        "Inflammatory Rheumatic Diseases I"
+      ]
+    },
+    {
+      "order": 11,
+      "speaker": "Wafa Madanat",
+      "videoCount": 1,
+      "videoOrders": [
+        13
+      ],
+      "talkTitles": [
+        "Behçet's Disease in the Arab World"
+      ],
+      "tracks": [
+        "Inflammatory Rheumatic Diseases I"
+      ]
+    },
+    {
+      "order": 12,
+      "speaker": "Nelly Ziade",
+      "videoCount": 1,
+      "videoOrders": [
+        14
+      ],
+      "talkTitles": [
+        "COVID-19 Pandemic on the Rheumatology Practice in the Arab Countries"
+      ],
+      "tracks": [
+        "COVID 19 Rheumatic Diseases"
+      ]
+    },
+    {
+      "order": 13,
+      "speaker": "Fatemah Abutiban",
+      "videoCount": 1,
+      "videoOrders": [
+        15
+      ],
+      "talkTitles": [
+        "Are Patients with Rheumatic Diseases at Higher Risk of Severe COVID 19?"
+      ],
+      "tracks": [
+        "COVID 19 Rheumatic Diseases"
+      ]
+    },
+    {
+      "order": 14,
+      "speaker": "Suhad Al Qurashi",
+      "videoCount": 1,
+      "videoOrders": [
+        16
+      ],
+      "talkTitles": [
+        "Should Rheumatologists be Involved on the Management of COVID-19?"
+      ],
+      "tracks": [
+        "COVID 19 Rheumatic Diseases"
+      ]
+    },
+    {
+      "order": 15,
+      "speaker": "Xavier Mariette",
+      "videoCount": 1,
+      "videoOrders": [
+        17
+      ],
+      "talkTitles": [
+        "Immunomodulators Drugs and COVID -19"
+      ],
+      "tracks": [
+        "COVID 19 Rheumatic Diseases"
+      ]
+    },
+    {
+      "order": 16,
+      "speaker": "Majda Al Khoury",
+      "videoCount": 1,
+      "videoOrders": [
+        18
+      ],
+      "talkTitles": [
+        "Juvenile Spondyloarthritis"
+      ],
+      "tracks": [
+        "Juvenile Idiopathic Arthritis JIA"
+      ]
+    },
+    {
+      "order": 17,
+      "speaker": "Sulaiman Al Mayouf",
+      "videoCount": 1,
+      "videoOrders": [
+        19
+      ],
+      "talkTitles": [
+        "Familial Juvenile Arthritis"
+      ],
+      "tracks": [
+        "Juvenile Idiopathic Arthritis JIA"
+      ]
+    },
+    {
+      "order": 18,
+      "speaker": "Abdulrahman Asiri",
+      "videoCount": 1,
+      "videoOrders": [
+        20
+      ],
+      "talkTitles": [
+        "Gut Microbiota in Children with Juvenile Idiopathic Arthritis"
+      ],
+      "tracks": [
+        "Juvenile Idiopathic Arthritis JIA"
+      ]
+    },
+    {
+      "order": 19,
+      "speaker": "Motasem Alsuweiti",
+      "videoCount": 1,
+      "videoOrders": [
+        21
+      ],
+      "talkTitles": [
+        "Systemic Onset JIA in Jordanian Children: Single Center Experience"
+      ],
+      "tracks": [
+        "Juvenile Idiopathic Arthritis JIA"
+      ]
+    },
+    {
+      "order": 20,
+      "speaker": "Francis Berenbaum",
+      "videoCount": 1,
+      "videoOrders": [
+        22
+      ],
+      "talkTitles": [
+        "Targeted Therapies in Osteoarthritis: Are we Close?"
+      ],
+      "tracks": [
+        "Osteoarthritis Low Back Pain"
+      ]
+    },
+    {
+      "order": 21,
+      "speaker": "Rene Westhoven",
+      "videoCount": 1,
+      "videoOrders": [
+        23
+      ],
+      "talkTitles": [
+        "Are all Biologics the Same for the Treatment of Rheumatic Diseases?"
+      ],
+      "tracks": [
+        "Update on Biologic Therapy in Rheumatic Diseases"
+      ]
+    },
+    {
+      "order": 22,
+      "speaker": "Mohammed Hammoudeh",
+      "videoCount": 1,
+      "videoOrders": [
+        24
+      ],
+      "talkTitles": [
+        "Tapering or Stop Biologics, How and Why?"
+      ],
+      "tracks": [
+        "Update on Biologic Therapy in Rheumatic Diseases"
+      ]
+    },
+    {
+      "order": 23,
+      "speaker": "Mohamed Abu Shukair",
+      "videoCount": 1,
+      "videoOrders": [
+        25
+      ],
+      "talkTitles": [
+        "Vaccination of Children with Rheumatic Diseases"
+      ],
+      "tracks": [
+        "Diagnostic and therapeutic challenges"
+      ]
+    },
+    {
+      "order": 24,
+      "speaker": "Mabruka Zletni",
+      "videoCount": 1,
+      "videoOrders": [
+        26
+      ],
+      "talkTitles": [
+        "Methotrexate Intolerance in JIA: Tripoli Children’s Hospital"
+      ],
+      "tracks": [
+        "Diagnostic and therapeutic challenges"
+      ]
+    },
+    {
+      "order": 25,
+      "speaker": "Cyrus Cooper",
+      "videoCount": 1,
+      "videoOrders": [
+        27
+      ],
+      "talkTitles": [
+        "The Treatment Gap in Osteoporosis: A Medical and Ethical Concern"
+      ],
+      "tracks": [
+        "Osteoporosis Iof - Esceo Symposium “New Insights In The Management Of Osteoporosis”"
+      ]
+    },
+    {
+      "order": 26,
+      "speaker": "Rene Rizzoli",
+      "videoCount": 1,
+      "videoOrders": [
+        28
+      ],
+      "talkTitles": [
+        "Nutritional Approach of Osteoporosis and Fracture Prevention"
+      ],
+      "tracks": [
+        "Osteoporosis Iof - Esceo Symposium “New Insights In The Management Of Osteoporosis”"
+      ]
+    },
+    {
+      "order": 27,
+      "speaker": "John Kanis",
+      "videoCount": 1,
+      "videoOrders": [
+        29
+      ],
+      "talkTitles": [
+        "The ESCEO Algorithm for the Management of Patients at Low, High and Very High Risk of Osteoporotic Fractures"
+      ],
+      "tracks": [
+        "Osteoporosis Iof - Esceo Symposium “New Insights In The Management Of Osteoporosis”"
+      ]
+    },
+    {
+      "order": 28,
+      "speaker": "Jean Yves Reginster",
+      "videoCount": 1,
+      "videoOrders": [
+        30
+      ],
+      "talkTitles": [
+        "New Insights in the Management of Osteoporosis with Bone Forming Agents: How to Use Them to Close the Osteoporosis Treatment Gap"
+      ],
+      "tracks": [
+        "Osteoporosis Iof - Esceo Symposium “New Insights In The Management Of Osteoporosis”"
+      ]
+    },
+    {
+      "order": 29,
+      "speaker": "Marie Kostine",
+      "videoCount": 1,
+      "videoOrders": [
+        31
+      ],
+      "talkTitles": [
+        "Classification of Dermatomyositis & Polymyositis"
+      ],
+      "tracks": [
+        "Connective Tissue Diseases"
+      ]
+    },
+    {
+      "order": 30,
+      "speaker": "Ali Jawad",
+      "videoCount": 1,
+      "videoOrders": [
+        32
+      ],
+      "talkTitles": [
+        "Classification of Dermatomyositis & Polymyositis"
+      ],
+      "tracks": [
+        "Connective Tissue Diseases"
+      ]
+    },
+    {
+      "order": 31,
+      "speaker": "Mohammed Omair",
+      "videoCount": 1,
+      "videoOrders": [
+        33
+      ],
+      "talkTitles": [
+        "Impact of COVID-19 on Connective Tissue Diseases"
+      ],
+      "tracks": [
+        "Connective Tissue Diseases"
+      ]
+    },
+    {
+      "order": 32,
+      "speaker": "Samia Salah",
+      "videoCount": 1,
+      "videoOrders": [
+        34
+      ],
+      "talkTitles": [
+        "Neuropsychiatric Lupus in Children"
+      ],
+      "tracks": [
+        "Systemic Connective Tissue Diseases"
+      ]
+    },
+    {
+      "order": 33,
+      "speaker": "Buthaina Al Adba",
+      "videoCount": 1,
+      "videoOrders": [
+        35
+      ],
+      "talkTitles": [
+        "Neurosarcoidosis in Children, An Update"
+      ],
+      "tracks": [
+        "Systemic Connective Tissue Diseases"
+      ]
+    },
+    {
+      "order": 34,
+      "speaker": "Nouran Abaza",
+      "videoCount": 1,
+      "videoOrders": [
+        36
+      ],
+      "talkTitles": [
+        "Ultrasound Physics"
+      ],
+      "tracks": [
+        "Arlar21 Musculoskeletal Ultrasound Workshop: Basic Sonography Of Musculoskeletal Tissues"
+      ]
+    },
+    {
+      "order": 35,
+      "speaker": "Ghita Harifi",
+      "videoCount": 1,
+      "videoOrders": [
+        37
+      ],
+      "talkTitles": [
+        "Knobology"
+      ],
+      "tracks": [
+        "ArLAR21 Musculoskeletal Ultrasound Workshop: Basic Sonography Of Musculoskeletal Tissues"
+      ]
+    },
+    {
+      "order": 36,
+      "speaker": "Hatem Saad",
+      "videoCount": 1,
+      "videoOrders": [
+        38
+      ],
+      "talkTitles": [
+        "Bone"
+      ],
+      "tracks": [
+        "Arlar21 Musculoskeletal Ultrasound Workshop: Basic Sonography Of Musculoskeletal Tissues"
+      ]
+    },
+    {
+      "order": 37,
+      "speaker": "Kawther Ben Abdelghani",
+      "videoCount": 1,
+      "videoOrders": [
+        39
+      ],
+      "talkTitles": [
+        "Cartilage"
+      ],
+      "tracks": [
+        "Arlar21 Musculoskeletal Ultrasound Workshop: Basic Sonography Of Musculoskeletal Tissues"
+      ]
+    },
+    {
+      "order": 38,
+      "speaker": "Basant Elnady",
+      "videoCount": 1,
+      "videoOrders": [
+        40
+      ],
+      "talkTitles": [
+        "Tendon"
+      ],
+      "tracks": [
+        "Arlar21 Musculoskeletal Ultrasound Workshop: Basic Sonography Of Musculoskeletal Tissues"
+      ]
+    },
+    {
+      "order": 39,
+      "speaker": "Mohamed Mortada",
+      "videoCount": 1,
+      "videoOrders": [
+        41
+      ],
+      "talkTitles": [
+        "Nerve"
+      ],
+      "tracks": [
+        "Arlar21 Musculoskeletal Ultrasound Workshop: Basic Sonography Of Musculoskeletal Tissues"
+      ]
+    },
+    {
+      "order": 40,
+      "speaker": "Izzat Khanger",
+      "videoCount": 1,
+      "videoOrders": [
+        42
+      ],
+      "talkTitles": [
+        "Muscle"
+      ],
+      "tracks": [
+        "Arlar21 Musculoskeletal Ultrasound Workshop: Basic Sonography Of Musculoskeletal Tissues"
+      ]
+    },
+    {
+      "order": 41,
+      "speaker": "Suad Hannawi",
+      "videoCount": 1,
+      "videoOrders": [
+        43
+      ],
+      "talkTitles": [
+        "Comorbidity in Rheumatoid Arthritis in the Arab Countries"
+      ],
+      "tracks": [
+        "Comorbidities in Rheumatic Diseases"
+      ]
+    },
+    {
+      "order": 42,
+      "speaker": "Pascal Richette",
+      "videoCount": 1,
+      "videoOrders": [
+        44
+      ],
+      "talkTitles": [
+        "Gout & Comorbidities"
+      ],
+      "tracks": [
+        "Comorbidities in Rheumatic Diseases"
+      ]
+    },
+    {
+      "order": 43,
+      "speaker": "Wala Abdelrahman",
+      "videoCount": 1,
+      "videoOrders": [
+        45
+      ],
+      "talkTitles": [
+        "Update in Raynaud Phenomenon Management"
+      ],
+      "tracks": [
+        "Systemic Sclerosis"
+      ]
+    },
+    {
+      "order": 44,
+      "speaker": "Yannick Allanore",
+      "videoCount": 1,
+      "videoOrders": [
+        46
+      ],
+      "talkTitles": [
+        "Systemic Sclerosis Innovative Treatment Target 2021"
+      ],
+      "tracks": [
+        "Systemic Sclerosis"
+      ]
+    },
+    {
+      "order": 45,
+      "speaker": "Jubran Alqanatish",
+      "videoCount": 1,
+      "videoOrders": [
+        47
+      ],
+      "talkTitles": [
+        "MIS-C: Experience from Saudi Arabia"
+      ],
+      "tracks": [
+        "Multisystem Inflammatory Syndrome in Children MIS C"
+      ]
+    },
+    {
+      "order": 46,
+      "speaker": "Hala M Lotfi",
+      "videoCount": 1,
+      "videoOrders": [
+        48
+      ],
+      "talkTitles": [
+        "MIS-C: Experience from Egypt"
+      ],
+      "tracks": [
+        "Multisystem Inflammatory Syndrome in Children MIS C"
+      ]
+    },
+    {
+      "order": 47,
+      "speaker": "Fayhan Al Roqi",
+      "videoCount": 1,
+      "videoOrders": [
+        49
+      ],
+      "talkTitles": [
+        "Up-to-Date Immunological Bases of MIS-C"
+      ],
+      "tracks": [
+        "Multisystem Inflammatory Syndrome in Children MIS C"
+      ]
+    },
+    {
+      "order": 48,
+      "speaker": "Mahdi Abu Salameh",
+      "videoCount": 1,
+      "videoOrders": [
+        50
+      ],
+      "talkTitles": [
+        "Polymyalgia Rheumatica Update"
+      ],
+      "tracks": [
+        "Inflammatory Rheumatic Diseases II"
+      ]
+    },
+    {
+      "order": 49,
+      "speaker": "Suzan Al Attar",
+      "videoCount": 1,
+      "videoOrders": [
+        51
+      ],
+      "talkTitles": [
+        "Early Inflammatory Arthritis"
+      ],
+      "tracks": [
+        "Inflammatory Rheumatic Diseases II"
+      ]
+    },
+    {
+      "order": 50,
+      "speaker": "Avin Maroof",
+      "videoCount": 1,
+      "videoOrders": [
+        52
+      ],
+      "talkTitles": [
+        "Insight on CPP Crystal Inflammatory Arthritis"
+      ],
+      "tracks": [
+        "Inflammatory Rheumatic Diseases II"
+      ]
+    },
+    {
+      "order": 51,
+      "speaker": "Khaled Hadidi",
+      "videoCount": 1,
+      "videoOrders": [
+        53
+      ],
+      "talkTitles": [
+        "SLE: Experience in Thousands"
+      ],
+      "tracks": [
+        "Systemic Lupus Erythematosus I"
+      ]
+    },
+    {
+      "order": 52,
+      "speaker": "Christophe Richez",
+      "videoCount": 1,
+      "videoOrders": [
+        54
+      ],
+      "talkTitles": [
+        "Platelets involvement in Lupus Pathogenesis"
+      ],
+      "tracks": [
+        "Systemic Lupus Erythematosus I"
+      ]
+    },
+    {
+      "order": 53,
+      "speaker": "Hanan Al Rayes",
+      "videoCount": 1,
+      "videoOrders": [
+        55
+      ],
+      "talkTitles": [
+        "Biologics in the Treatment of Systemic Lupus Erythematous"
+      ],
+      "tracks": [
+        "Systemic Lupus Erythematosus I"
+      ]
+    },
+    {
+      "order": 54,
+      "speaker": "Sima Abu Al Saoud",
+      "videoCount": 1,
+      "videoOrders": [
+        56
+      ],
+      "talkTitles": [
+        "Challenging Cases in Pediatric Rheumatology: Case 1"
+      ],
+      "tracks": [
+        "Challenging Cases in Pediatric Rheumatology"
+      ]
+    },
+    {
+      "order": 55,
+      "speaker": "Christopher Edwards",
+      "videoCount": 2,
+      "videoOrders": [
+        57,
+        71
+      ],
+      "talkTitles": [
+        "Treating RA at Different Ages",
+        "Pregnant Women with APS What to do?"
+      ],
+      "tracks": [
+        "Rheumatic Diseases Pregnancy",
+        "Rheumatoid Arthritis II"
+      ]
+    },
+    {
+      "order": 56,
+      "speaker": "Rene Marc Flipo",
+      "videoCount": 1,
+      "videoOrders": [
+        58
+      ],
+      "talkTitles": [
+        "Remission in RA Myth or Real"
+      ],
+      "tracks": [
+        "Rheumatoid Arthritis II"
+      ]
+    },
+    {
+      "order": 57,
+      "speaker": "Ziad Al Rawi",
+      "videoCount": 1,
+      "videoOrders": [
+        59
+      ],
+      "talkTitles": [
+        "Sjögren’s Syndrome - Iraqi Experience"
+      ],
+      "tracks": [
+        "Sjogren Syndrome"
+      ]
+    },
+    {
+      "order": 58,
+      "speaker": "Gaetane Nocturne",
+      "videoCount": 1,
+      "videoOrders": [
+        60
+      ],
+      "talkTitles": [
+        "Update on Sjögren’s Syndrome: From Pathogenesis to Treatment"
+      ],
+      "tracks": [
+        "Sjogren Syndrome"
+      ]
+    },
+    {
+      "order": 59,
+      "speaker": "Adel Mahmoud",
+      "videoCount": 1,
+      "videoOrders": [
+        61
+      ],
+      "talkTitles": [
+        "GRAPPA Psoriatic Arthritis Recommendations-Guideline"
+      ],
+      "tracks": [
+        "Spondyloarthritis II"
+      ]
+    },
+    {
+      "order": 60,
+      "speaker": "Cedric Lukas",
+      "videoCount": 1,
+      "videoOrders": [
+        62
+      ],
+      "talkTitles": [
+        "axSpA DESIR Cohort"
+      ],
+      "tracks": [
+        "Spondyloarthritis II"
+      ]
+    },
+    {
+      "order": 61,
+      "speaker": "Arvind Kaul",
+      "videoCount": 1,
+      "videoOrders": [
+        63
+      ],
+      "talkTitles": [
+        "Ankylosing Spondylitis: Old Disease, New Mechanisms"
+      ],
+      "tracks": [
+        "Spondyloarthritis II"
+      ]
+    },
+    {
+      "order": 62,
+      "speaker": "Amjad Al Kadi",
+      "videoCount": 1,
+      "videoOrders": [
+        64
+      ],
+      "talkTitles": [
+        "Classification of SLE"
+      ],
+      "tracks": [
+        "Systemic Lupus Erythematosus II"
+      ]
+    },
+    {
+      "order": 63,
+      "speaker": "Randa Farah",
+      "videoCount": 1,
+      "videoOrders": [
+        65
+      ],
+      "talkTitles": [
+        "Updates on the Management of Lupus Nephritis"
+      ],
+      "tracks": [
+        "Systemic Lupus Erythematosus II"
+      ]
+    },
+    {
+      "order": 64,
+      "speaker": "Imad Uthman",
+      "videoCount": 1,
+      "videoOrders": [
+        66
+      ],
+      "talkTitles": [
+        "Updates on Antiphospholipid Syndrome"
+      ],
+      "tracks": [
+        "Systemic Lupus Erythematosus II"
+      ]
+    },
+    {
+      "order": 65,
+      "speaker": "Divi Cornec",
+      "videoCount": 1,
+      "videoOrders": [
+        67
+      ],
+      "talkTitles": [
+        "Vasculitis Classification"
+      ],
+      "tracks": [
+        "Vasculitis"
+      ]
+    },
+    {
+      "order": 66,
+      "speaker": "Nezam Altorok",
+      "videoCount": 1,
+      "videoOrders": [
+        68
+      ],
+      "talkTitles": [
+        "Single Organ Vasculitis"
+      ],
+      "tracks": [
+        "Vasculitis"
+      ]
+    },
+    {
+      "order": 67,
+      "speaker": "Debashish Danda",
+      "videoCount": 1,
+      "videoOrders": [
+        69
+      ],
+      "talkTitles": [
+        "ANCA Associated Vasculitis Treatment"
+      ],
+      "tracks": [
+        "Vasculitis"
+      ]
+    },
+    {
+      "order": 68,
+      "speaker": "Samar Al Emadi",
+      "videoCount": 1,
+      "videoOrders": [
+        70
+      ],
+      "talkTitles": [
+        "Pregnancy in Rheumatic Diseases - Introduction"
+      ],
+      "tracks": [
+        "Rheumatic Diseases Pregnancy"
+      ]
+    },
+    {
+      "order": 69,
+      "speaker": "Ala Al Heresh",
+      "videoCount": 1,
+      "videoOrders": [
+        72
+      ],
+      "talkTitles": [
+        "The Management of SLE in Pregnant Women"
+      ],
+      "tracks": [
+        "Rheumatic Diseases Pregnancy"
+      ]
+    },
+    {
+      "order": 70,
+      "speaker": "Bahiri Rachid",
+      "videoCount": 1,
+      "videoOrders": [
+        74
+      ],
+      "talkTitles": [
+        "Synovitis"
+      ],
+      "tracks": [
+        "Arlar21 Musculoskeltal Ultrasound Workshop: Sonography Of Musculoskeletal Lesions"
+      ]
+    },
+    {
+      "order": 71,
+      "speaker": "Samy Slimani",
+      "videoCount": 1,
+      "videoOrders": [
+        75
+      ],
+      "talkTitles": [
+        "Tenosynovitis"
+      ],
+      "tracks": [
+        "Arlar21 Musculoskeltal Ultrasound Workshop: Sonography Of Musculoskeletal Lesions"
+      ]
+    },
+    {
+      "order": 72,
+      "speaker": "Radwa ElKhouly",
+      "videoCount": 1,
+      "videoOrders": [
+        76
+      ],
+      "talkTitles": [
+        "Bone Lesions"
+      ],
+      "tracks": [
+        "Arlar21 Musculoskeltal Ultrasound Workshop: Sonography Of Musculoskeletal Lesions"
+      ]
+    },
+    {
+      "order": 73,
+      "speaker": "Hala Fayed",
+      "videoCount": 1,
+      "videoOrders": [
+        77
+      ],
+      "talkTitles": [
+        "Cartilage Lesions"
+      ],
+      "tracks": [
+        "Arlar21 Musculoskeltal Ultrasound Workshop: Sonography Of Musculoskeletal Lesions"
+      ]
+    },
+    {
+      "order": 74,
+      "speaker": "Adeeba Al Herz",
+      "videoCount": 1,
+      "videoOrders": [
+        78
+      ],
+      "talkTitles": [
+        "How to Establish an ArLAR Registry"
+      ],
+      "tracks": [
+        "Workshop on the Arab Registries"
+      ]
+    },
+    {
+      "order": 75,
+      "speaker": "Nizar Abdulateef",
+      "videoCount": 1,
+      "videoOrders": [
+        79
+      ],
+      "talkTitles": [
+        "Data From Iraqi National Registry of Rheumatic Diseases-7000 Cases"
+      ],
+      "tracks": [
+        "Workshop on the Arab Registries"
+      ]
+    },
+    {
+      "order": 76,
+      "speaker": "Ihsane Hamamouchi",
+      "videoCount": 1,
+      "videoOrders": [
+        80
+      ],
+      "talkTitles": [
+        "The Moroccan Registry of Biological Treatments RBSMR"
+      ],
+      "tracks": [
+        "Workshop on the Arab Registries"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "order": 1,
+      "assetType": "congress_logo",
+      "name": "Asset 2.png",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_53b6db0e61a243afa28f9803d08dcfa4~mv2.png/v1/fill/w_213,h_95,al_c,q_95,usm_0.66_1.00_0.01,enc_avif,quality_auto/Asset%202.png",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_53b6db0e61a243afa28f9803d08dcfa4~mv2.png",
+      "fileName": "arlar21-congress-logo.png",
+      "localPath": "public/images/arlar21/page/arlar21-congress-logo.png",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 2,
+      "assetType": "replay_hero",
+      "name": "ArLAR21 Replay",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_7b16f385a44949ca9a5c24f46485bd48~mv2.png/v1/crop/x_0,y_215,w_882,h_620/fill/w_376,h_262,al_c,q_95,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot%202023-10-04%20120305.png",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_7b16f385a44949ca9a5c24f46485bd48~mv2.png",
+      "fileName": "arlar21-replay.png",
+      "localPath": "public/images/arlar21/page/arlar21-replay.png",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 3,
+      "assetType": "congress_president_photo",
+      "name": "7.jpg",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_f2ac6936e3734c058e935634f0913d8e~mv2.jpg/v1/crop/x_0,y_3,w_3012,h_3012/fill/w_187,h_187,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/7.jpg",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_f2ac6936e3734c058e935634f0913d8e~mv2.jpg",
+      "fileName": "basel-masri.jpg",
+      "localPath": "public/images/arlar21/page/basel-masri.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 4,
+      "assetType": "congress_president_signature",
+      "name": "Basel Masri signature.png",
+      "displayUrl": "https://static.wixstatic.com/media/7cc206_52891e30e56542baa5199d80e22b71cc~mv2.png/v1/fill/w_162,h_42,al_c,q_95,usm_0.66_1.00_0.01,enc_avif,quality_auto/Basel%20Masri%20signature.png",
+      "originalUrl": "https://static.wixstatic.com/media/7cc206_52891e30e56542baa5199d80e22b71cc~mv2.png",
+      "fileName": "basel-masri-signature.png",
+      "localPath": "public/images/arlar21/page/basel-masri-signature.png",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 5,
+      "assetType": "sponsor_strip_source",
+      "name": "Asset 1.png",
+      "displayUrl": "https://static.wixstatic.com/media/7cc206_bef8239ff482474d9c7dc4fa74c8e122~mv2.png/v1/crop/x_40,y_0,w_1634,h_310/fill/w_690,h_131,al_c,q_95,usm_0.66_1.00_0.01,enc_avif,quality_auto/Asset%201.png",
+      "originalUrl": "https://static.wixstatic.com/media/7cc206_bef8239ff482474d9c7dc4fa74c8e122~mv2.png",
+      "fileName": "sponsor-strip.png",
+      "localPath": "public/images/arlar21/sponsors/sponsor-strip.png",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 6,
+      "assetType": "sponsors_thank_you",
+      "name": "Sponsors THANK YOU.png",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_b2ad450923e846cfa143275eca26b36f~mv2.png/v1/crop/x_0,y_1,w_2754,h_1856/fill/w_856,h_578,al_c,q_95,usm_0.66_1.00_0.01,enc_avif,quality_auto/Sponsors%20THANK%20YOU.png",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_b2ad450923e846cfa143275eca26b36f~mv2.png",
+      "fileName": "sponsors-thank-you.png",
+      "localPath": "public/images/arlar21/sponsors/sponsors-thank-you.png",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 7,
+      "assetType": "sponsor_strip_crop",
+      "name": "Sponsor strip crop 1",
+      "displayUrl": "https://static.wixstatic.com/media/7cc206_bef8239ff482474d9c7dc4fa74c8e122~mv2.png/v1/crop/x_40,y_0,w_1634,h_310/fill/w_690,h_131,al_c,q_95,usm_0.66_1.00_0.01,enc_avif,quality_auto/Asset%201.png",
+      "originalUrl": "https://static.wixstatic.com/media/7cc206_bef8239ff482474d9c7dc4fa74c8e122~mv2.png",
+      "fileName": "sponsor-strip-crop-1.png",
+      "localPath": "public/images/arlar21/sponsors/sponsor-strip-crop-1.png",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 8,
+      "assetType": "sponsor_strip_crop",
+      "name": "Sponsor strip crop 2",
+      "displayUrl": "https://static.wixstatic.com/media/7cc206_bef8239ff482474d9c7dc4fa74c8e122~mv2.png/v1/crop/x_0,y_680,w_1674,h_199/fill/w_706,h_84,al_c,q_95,usm_0.66_1.00_0.01,enc_avif,quality_auto/Asset%201.png",
+      "originalUrl": "https://static.wixstatic.com/media/7cc206_bef8239ff482474d9c7dc4fa74c8e122~mv2.png",
+      "fileName": "sponsor-strip-crop-2.png",
+      "localPath": "public/images/arlar21/sponsors/sponsor-strip-crop-2.png",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 9,
+      "assetType": "sponsor_strip_crop",
+      "name": "Sponsor strip crop 3",
+      "displayUrl": "https://static.wixstatic.com/media/7cc206_bef8239ff482474d9c7dc4fa74c8e122~mv2.png/v1/crop/x_0,y_393,w_1674,h_282/fill/w_706,h_119,al_c,q_95,usm_0.66_1.00_0.01,enc_avif,quality_auto/Asset%201.png",
+      "originalUrl": "https://static.wixstatic.com/media/7cc206_bef8239ff482474d9c7dc4fa74c8e122~mv2.png",
+      "fileName": "sponsor-strip-crop-3.png",
+      "localPath": "public/images/arlar21/sponsors/sponsor-strip-crop-3.png",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 10,
+      "assetType": "sponsor_strip_crop",
+      "name": "Sponsor strip crop 4",
+      "displayUrl": "https://static.wixstatic.com/media/7cc206_bef8239ff482474d9c7dc4fa74c8e122~mv2.png/v1/crop/x_0,y_874,w_1674,h_142/fill/w_706,h_60,al_c,q_95,usm_0.66_1.00_0.01,enc_avif,quality_auto/Asset%201.png",
+      "originalUrl": "https://static.wixstatic.com/media/7cc206_bef8239ff482474d9c7dc4fa74c8e122~mv2.png",
+      "fileName": "sponsor-strip-crop-4.png",
+      "localPath": "public/images/arlar21/sponsors/sponsor-strip-crop-4.png",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 11,
+      "assetType": "video_thumbnail",
+      "name": "ArLAR21 Jordan Congress Opening",
+      "displayUrl": "https://i.ytimg.com/vi/XgW3RDQ7HVY/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/XgW3RDQ7HVY/mqdefault.jpg",
+      "fileName": "001-XgW3RDQ7HVY.jpg",
+      "localPath": "public/images/arlar21/videos/001-XgW3RDQ7HVY.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 12,
+      "assetType": "video_thumbnail",
+      "name": "ArLAR21 Jordan Opening Final",
+      "displayUrl": "https://i.ytimg.com/vi/6g_RDQe7P6I/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/6g_RDQe7P6I/mqdefault.jpg",
+      "fileName": "002-6g_RDQe7P6I.jpg",
+      "localPath": "public/images/arlar21/videos/002-6g_RDQe7P6I.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 13,
+      "assetType": "video_thumbnail",
+      "name": "Rheumatology in Review: Where We are Today?",
+      "displayUrl": "https://i.ytimg.com/vi/rkcfWQfTF-g/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/rkcfWQfTF-g/mqdefault.jpg",
+      "fileName": "003-rkcfWQfTF-g.jpg",
+      "localPath": "public/images/arlar21/videos/003-rkcfWQfTF-g.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 14,
+      "assetType": "video_thumbnail",
+      "name": "Diagnosis of Infectious Vasculitis",
+      "displayUrl": "https://i.ytimg.com/vi/qyllgEORJ-s/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/qyllgEORJ-s/mqdefault.jpg",
+      "fileName": "004-qyllgEORJ-s.jpg",
+      "localPath": "public/images/arlar21/videos/004-qyllgEORJ-s.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 15,
+      "assetType": "video_thumbnail",
+      "name": "Can We Prevent Rheumatic Diseases?",
+      "displayUrl": "https://i.ytimg.com/vi/D7PqGlqD3hs/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/D7PqGlqD3hs/mqdefault.jpg",
+      "fileName": "005-D7PqGlqD3hs.jpg",
+      "localPath": "public/images/arlar21/videos/005-D7PqGlqD3hs.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 16,
+      "assetType": "video_thumbnail",
+      "name": "ESPOIR Cohort: What Have we Learned so Far?",
+      "displayUrl": "https://i.ytimg.com/vi/Xr0pdNNHUcA/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/Xr0pdNNHUcA/mqdefault.jpg",
+      "fileName": "006-Xr0pdNNHUcA.jpg",
+      "localPath": "public/images/arlar21/videos/006-Xr0pdNNHUcA.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 17,
+      "assetType": "video_thumbnail",
+      "name": "ACR20 New Guidelines for RA Treatment",
+      "displayUrl": "https://i.ytimg.com/vi/7MySK_HhARM/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/7MySK_HhARM/mqdefault.jpg",
+      "fileName": "007-7MySK_HhARM.jpg",
+      "localPath": "public/images/arlar21/videos/007-7MySK_HhARM.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 18,
+      "assetType": "video_thumbnail",
+      "name": "Challenges in Axial SpA Management in the Region",
+      "displayUrl": "https://i.ytimg.com/vi/USI8coocHNM/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/USI8coocHNM/mqdefault.jpg",
+      "fileName": "008-USI8coocHNM.jpg",
+      "localPath": "public/images/arlar21/videos/008-USI8coocHNM.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 19,
+      "assetType": "video_thumbnail",
+      "name": "Radiographic et Non-Radiographic Axial Spondyloarthritis: Diagnosis and Response to Treatment",
+      "displayUrl": "https://i.ytimg.com/vi/AnrYJsJjdaA/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/AnrYJsJjdaA/mqdefault.jpg",
+      "fileName": "009-AnrYJsJjdaA.jpg",
+      "localPath": "public/images/arlar21/videos/009-AnrYJsJjdaA.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 20,
+      "assetType": "video_thumbnail",
+      "name": "Sarcoidosis Update",
+      "displayUrl": "https://i.ytimg.com/vi/TO29A8cgNoc/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/TO29A8cgNoc/mqdefault.jpg",
+      "fileName": "010-TO29A8cgNoc.jpg",
+      "localPath": "public/images/arlar21/videos/010-TO29A8cgNoc.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 21,
+      "assetType": "video_thumbnail",
+      "name": "What's New with Familial Mediterranean Fever",
+      "displayUrl": "https://i.ytimg.com/vi/hrnIeTUhFEY/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/hrnIeTUhFEY/mqdefault.jpg",
+      "fileName": "011-hrnIeTUhFEY.jpg",
+      "localPath": "public/images/arlar21/videos/011-hrnIeTUhFEY.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 22,
+      "assetType": "video_thumbnail",
+      "name": "Update on the Management of Behçet Disease",
+      "displayUrl": "https://i.ytimg.com/vi/DdlYGK6V6mI/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/DdlYGK6V6mI/mqdefault.jpg",
+      "fileName": "012-DdlYGK6V6mI.jpg",
+      "localPath": "public/images/arlar21/videos/012-DdlYGK6V6mI.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 23,
+      "assetType": "video_thumbnail",
+      "name": "Behçet's Disease in the Arab World",
+      "displayUrl": "https://i.ytimg.com/vi/mTyKnmlrVg8/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/mTyKnmlrVg8/mqdefault.jpg",
+      "fileName": "013-mTyKnmlrVg8.jpg",
+      "localPath": "public/images/arlar21/videos/013-mTyKnmlrVg8.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 24,
+      "assetType": "video_thumbnail",
+      "name": "COVID-19 Pandemic on the Rheumatology Practice in the Arab Countries",
+      "displayUrl": "https://i.ytimg.com/vi/TQZsqK-w_U8/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/TQZsqK-w_U8/mqdefault.jpg",
+      "fileName": "014-TQZsqK-w_U8.jpg",
+      "localPath": "public/images/arlar21/videos/014-TQZsqK-w_U8.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 25,
+      "assetType": "video_thumbnail",
+      "name": "Are Patients with Rheumatic Diseases at Higher Risk of Severe COVID 19?",
+      "displayUrl": "https://i.ytimg.com/vi/q3nqvSsUGBQ/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/q3nqvSsUGBQ/mqdefault.jpg",
+      "fileName": "015-q3nqvSsUGBQ.jpg",
+      "localPath": "public/images/arlar21/videos/015-q3nqvSsUGBQ.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 26,
+      "assetType": "video_thumbnail",
+      "name": "Should Rheumatologists be Involved on the Management of COVID-19?",
+      "displayUrl": "https://i.ytimg.com/vi/GUidofo2QSQ/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/GUidofo2QSQ/mqdefault.jpg",
+      "fileName": "016-GUidofo2QSQ.jpg",
+      "localPath": "public/images/arlar21/videos/016-GUidofo2QSQ.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 27,
+      "assetType": "video_thumbnail",
+      "name": "Immunomodulators Drugs and COVID -19",
+      "displayUrl": "https://i.ytimg.com/vi/iQvs5cZPK7Y/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/iQvs5cZPK7Y/mqdefault.jpg",
+      "fileName": "017-iQvs5cZPK7Y.jpg",
+      "localPath": "public/images/arlar21/videos/017-iQvs5cZPK7Y.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 28,
+      "assetType": "video_thumbnail",
+      "name": "Juvenile Spondyloarthritis",
+      "displayUrl": "https://i.ytimg.com/vi/ufWfMd2aZZQ/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/ufWfMd2aZZQ/mqdefault.jpg",
+      "fileName": "018-ufWfMd2aZZQ.jpg",
+      "localPath": "public/images/arlar21/videos/018-ufWfMd2aZZQ.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 29,
+      "assetType": "video_thumbnail",
+      "name": "Familial Juvenile Arthritis",
+      "displayUrl": "https://i.ytimg.com/vi/uKw0Zc7d290/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/uKw0Zc7d290/mqdefault.jpg",
+      "fileName": "019-uKw0Zc7d290.jpg",
+      "localPath": "public/images/arlar21/videos/019-uKw0Zc7d290.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 30,
+      "assetType": "video_thumbnail",
+      "name": "Gut Microbiota in Children with Juvenile Idiopathic Arthritis",
+      "displayUrl": "https://i.ytimg.com/vi/hneF1IbovBI/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/hneF1IbovBI/mqdefault.jpg",
+      "fileName": "020-hneF1IbovBI.jpg",
+      "localPath": "public/images/arlar21/videos/020-hneF1IbovBI.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 31,
+      "assetType": "video_thumbnail",
+      "name": "Systemic Onset JIA in Jordanian Children: Single Center Experience",
+      "displayUrl": "https://i.ytimg.com/vi/cE3IuRsjhlg/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/cE3IuRsjhlg/mqdefault.jpg",
+      "fileName": "021-cE3IuRsjhlg.jpg",
+      "localPath": "public/images/arlar21/videos/021-cE3IuRsjhlg.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 32,
+      "assetType": "video_thumbnail",
+      "name": "Targeted Therapies in Osteoarthritis: Are we Close?",
+      "displayUrl": "https://i.ytimg.com/vi/03jnvRJD4Bc/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/03jnvRJD4Bc/mqdefault.jpg",
+      "fileName": "022-03jnvRJD4Bc.jpg",
+      "localPath": "public/images/arlar21/videos/022-03jnvRJD4Bc.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 33,
+      "assetType": "video_thumbnail",
+      "name": "Are all Biologics the Same for the Treatment of Rheumatic Diseases?",
+      "displayUrl": "https://i.ytimg.com/vi/6y8k3E5xYf0/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/6y8k3E5xYf0/mqdefault.jpg",
+      "fileName": "023-6y8k3E5xYf0.jpg",
+      "localPath": "public/images/arlar21/videos/023-6y8k3E5xYf0.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 34,
+      "assetType": "video_thumbnail",
+      "name": "Tapering or Stop Biologics, How and Why?",
+      "displayUrl": "https://i.ytimg.com/vi/1YG8_Jwh8vw/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/1YG8_Jwh8vw/mqdefault.jpg",
+      "fileName": "024-1YG8_Jwh8vw.jpg",
+      "localPath": "public/images/arlar21/videos/024-1YG8_Jwh8vw.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 35,
+      "assetType": "video_thumbnail",
+      "name": "Vaccination of Children with Rheumatic Diseases",
+      "displayUrl": "https://i.ytimg.com/vi/dEdcyAyd3AI/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/dEdcyAyd3AI/mqdefault.jpg",
+      "fileName": "025-dEdcyAyd3AI.jpg",
+      "localPath": "public/images/arlar21/videos/025-dEdcyAyd3AI.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 36,
+      "assetType": "video_thumbnail",
+      "name": "Methotrexate Intolerance in JIA: Tripoli Children’s Hospital",
+      "displayUrl": "https://i.ytimg.com/vi/UwZApuOg28Q/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/UwZApuOg28Q/mqdefault.jpg",
+      "fileName": "026-UwZApuOg28Q.jpg",
+      "localPath": "public/images/arlar21/videos/026-UwZApuOg28Q.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 37,
+      "assetType": "video_thumbnail",
+      "name": "The Treatment Gap in Osteoporosis: A Medical and Ethical Concern",
+      "displayUrl": "https://i.ytimg.com/vi/rlM0p1uVmhY/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/rlM0p1uVmhY/mqdefault.jpg",
+      "fileName": "027-rlM0p1uVmhY.jpg",
+      "localPath": "public/images/arlar21/videos/027-rlM0p1uVmhY.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 38,
+      "assetType": "video_thumbnail",
+      "name": "Nutritional Approach of Osteoporosis and Fracture Prevention",
+      "displayUrl": "https://i.ytimg.com/vi/tfIUOdVkS2k/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/tfIUOdVkS2k/mqdefault.jpg",
+      "fileName": "028-tfIUOdVkS2k.jpg",
+      "localPath": "public/images/arlar21/videos/028-tfIUOdVkS2k.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 39,
+      "assetType": "video_thumbnail",
+      "name": "The ESCEO Algorithm for the Management of Patients at Low, High and Very High Risk of Osteoporotic Fractures",
+      "displayUrl": "https://i.ytimg.com/vi/ofMZU7_G83U/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/ofMZU7_G83U/mqdefault.jpg",
+      "fileName": "029-ofMZU7_G83U.jpg",
+      "localPath": "public/images/arlar21/videos/029-ofMZU7_G83U.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 40,
+      "assetType": "video_thumbnail",
+      "name": "New Insights in the Management of Osteoporosis with Bone Forming Agents: How to Use Them to Close the Osteoporosis Treatment Gap",
+      "displayUrl": "https://i.ytimg.com/vi/D4zRhajEzOU/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/D4zRhajEzOU/mqdefault.jpg",
+      "fileName": "030-D4zRhajEzOU.jpg",
+      "localPath": "public/images/arlar21/videos/030-D4zRhajEzOU.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 41,
+      "assetType": "video_thumbnail",
+      "name": "Classification of Dermatomyositis & Polymyositis",
+      "displayUrl": "https://i.ytimg.com/vi/Kq1zp5joHnY/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/Kq1zp5joHnY/mqdefault.jpg",
+      "fileName": "031-Kq1zp5joHnY.jpg",
+      "localPath": "public/images/arlar21/videos/031-Kq1zp5joHnY.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 42,
+      "assetType": "video_thumbnail",
+      "name": "Classification of Dermatomyositis & Polymyositis",
+      "displayUrl": "https://i.ytimg.com/vi/MwMarRSw54c/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/MwMarRSw54c/mqdefault.jpg",
+      "fileName": "032-MwMarRSw54c.jpg",
+      "localPath": "public/images/arlar21/videos/032-MwMarRSw54c.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 43,
+      "assetType": "video_thumbnail",
+      "name": "Impact of COVID-19 on Connective Tissue Diseases",
+      "displayUrl": "https://i.ytimg.com/vi/xEiHMZ9QjpA/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/xEiHMZ9QjpA/mqdefault.jpg",
+      "fileName": "033-xEiHMZ9QjpA.jpg",
+      "localPath": "public/images/arlar21/videos/033-xEiHMZ9QjpA.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 44,
+      "assetType": "video_thumbnail",
+      "name": "Neuropsychiatric Lupus in Children",
+      "displayUrl": "https://i.ytimg.com/vi/yHvSTZgdj1w/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/yHvSTZgdj1w/mqdefault.jpg",
+      "fileName": "034-yHvSTZgdj1w.jpg",
+      "localPath": "public/images/arlar21/videos/034-yHvSTZgdj1w.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 45,
+      "assetType": "video_thumbnail",
+      "name": "Neurosarcoidosis in Children, An Update",
+      "displayUrl": "https://i.ytimg.com/vi/g_cFbxlDKwI/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/g_cFbxlDKwI/mqdefault.jpg",
+      "fileName": "035-g_cFbxlDKwI.jpg",
+      "localPath": "public/images/arlar21/videos/035-g_cFbxlDKwI.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 46,
+      "assetType": "video_thumbnail",
+      "name": "Ultrasound Physics",
+      "displayUrl": "https://i.ytimg.com/vi/tcKAknOCCeQ/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/tcKAknOCCeQ/mqdefault.jpg",
+      "fileName": "036-tcKAknOCCeQ.jpg",
+      "localPath": "public/images/arlar21/videos/036-tcKAknOCCeQ.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 47,
+      "assetType": "video_thumbnail",
+      "name": "Knobology",
+      "displayUrl": "https://i.ytimg.com/vi/neT66yV03oE/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/neT66yV03oE/mqdefault.jpg",
+      "fileName": "037-neT66yV03oE.jpg",
+      "localPath": "public/images/arlar21/videos/037-neT66yV03oE.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 48,
+      "assetType": "video_thumbnail",
+      "name": "Bone",
+      "displayUrl": "https://i.ytimg.com/vi/BESccN7XMeE/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/BESccN7XMeE/mqdefault.jpg",
+      "fileName": "038-BESccN7XMeE.jpg",
+      "localPath": "public/images/arlar21/videos/038-BESccN7XMeE.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 49,
+      "assetType": "video_thumbnail",
+      "name": "Cartilage",
+      "displayUrl": "https://i.ytimg.com/vi/N2xgnmaQeQM/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/N2xgnmaQeQM/mqdefault.jpg",
+      "fileName": "039-N2xgnmaQeQM.jpg",
+      "localPath": "public/images/arlar21/videos/039-N2xgnmaQeQM.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 50,
+      "assetType": "video_thumbnail",
+      "name": "Tendon",
+      "displayUrl": "https://i.ytimg.com/vi/gGfq4eGUbkU/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/gGfq4eGUbkU/mqdefault.jpg",
+      "fileName": "040-gGfq4eGUbkU.jpg",
+      "localPath": "public/images/arlar21/videos/040-gGfq4eGUbkU.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 51,
+      "assetType": "video_thumbnail",
+      "name": "Nerve",
+      "displayUrl": "https://i.ytimg.com/vi/sWNKj4Di70Y/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/sWNKj4Di70Y/mqdefault.jpg",
+      "fileName": "041-sWNKj4Di70Y.jpg",
+      "localPath": "public/images/arlar21/videos/041-sWNKj4Di70Y.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 52,
+      "assetType": "video_thumbnail",
+      "name": "Muscle",
+      "displayUrl": "https://i.ytimg.com/vi/ZaqtmeGDC0s/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/ZaqtmeGDC0s/mqdefault.jpg",
+      "fileName": "042-ZaqtmeGDC0s.jpg",
+      "localPath": "public/images/arlar21/videos/042-ZaqtmeGDC0s.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 53,
+      "assetType": "video_thumbnail",
+      "name": "Comorbidity in Rheumatoid Arthritis in the Arab Countries",
+      "displayUrl": "https://i.ytimg.com/vi/FYOvtXUZ7Ms/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/FYOvtXUZ7Ms/mqdefault.jpg",
+      "fileName": "043-FYOvtXUZ7Ms.jpg",
+      "localPath": "public/images/arlar21/videos/043-FYOvtXUZ7Ms.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 54,
+      "assetType": "video_thumbnail",
+      "name": "Gout & Comorbidities",
+      "displayUrl": "https://i.ytimg.com/vi/fii02sZdCTQ/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/fii02sZdCTQ/mqdefault.jpg",
+      "fileName": "044-fii02sZdCTQ.jpg",
+      "localPath": "public/images/arlar21/videos/044-fii02sZdCTQ.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 55,
+      "assetType": "video_thumbnail",
+      "name": "Update in Raynaud Phenomenon Management",
+      "displayUrl": "https://i.ytimg.com/vi/yxBrq3pSIW4/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/yxBrq3pSIW4/mqdefault.jpg",
+      "fileName": "045-yxBrq3pSIW4.jpg",
+      "localPath": "public/images/arlar21/videos/045-yxBrq3pSIW4.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 56,
+      "assetType": "video_thumbnail",
+      "name": "Systemic Sclerosis Innovative Treatment Target 2021",
+      "displayUrl": "https://i.ytimg.com/vi/vMKi1mmeENk/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/vMKi1mmeENk/mqdefault.jpg",
+      "fileName": "046-vMKi1mmeENk.jpg",
+      "localPath": "public/images/arlar21/videos/046-vMKi1mmeENk.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 57,
+      "assetType": "video_thumbnail",
+      "name": "MIS-C: Experience from Saudi Arabia",
+      "displayUrl": "https://i.ytimg.com/vi/SZyXHimH_vQ/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/SZyXHimH_vQ/mqdefault.jpg",
+      "fileName": "047-SZyXHimH_vQ.jpg",
+      "localPath": "public/images/arlar21/videos/047-SZyXHimH_vQ.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 58,
+      "assetType": "video_thumbnail",
+      "name": "MIS-C: Experience from Egypt",
+      "displayUrl": "https://i.ytimg.com/vi/h6BYUnnuozw/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/h6BYUnnuozw/mqdefault.jpg",
+      "fileName": "048-h6BYUnnuozw.jpg",
+      "localPath": "public/images/arlar21/videos/048-h6BYUnnuozw.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 59,
+      "assetType": "video_thumbnail",
+      "name": "Up-to-Date Immunological Bases of MIS-C",
+      "displayUrl": "https://i.ytimg.com/vi/GBKd74c_4hQ/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/GBKd74c_4hQ/mqdefault.jpg",
+      "fileName": "049-GBKd74c_4hQ.jpg",
+      "localPath": "public/images/arlar21/videos/049-GBKd74c_4hQ.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 60,
+      "assetType": "video_thumbnail",
+      "name": "Polymyalgia Rheumatica Update",
+      "displayUrl": "https://i.ytimg.com/vi/m94135BCo40/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/m94135BCo40/mqdefault.jpg",
+      "fileName": "050-m94135BCo40.jpg",
+      "localPath": "public/images/arlar21/videos/050-m94135BCo40.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 61,
+      "assetType": "video_thumbnail",
+      "name": "Early Inflammatory Arthritis",
+      "displayUrl": "https://i.ytimg.com/vi/wcSzOkSXDu8/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/wcSzOkSXDu8/mqdefault.jpg",
+      "fileName": "051-wcSzOkSXDu8.jpg",
+      "localPath": "public/images/arlar21/videos/051-wcSzOkSXDu8.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 62,
+      "assetType": "video_thumbnail",
+      "name": "Insight on CPP Crystal Inflammatory Arthritis",
+      "displayUrl": "https://i.ytimg.com/vi/GWn3QGjr4DQ/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/GWn3QGjr4DQ/mqdefault.jpg",
+      "fileName": "052-GWn3QGjr4DQ.jpg",
+      "localPath": "public/images/arlar21/videos/052-GWn3QGjr4DQ.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 63,
+      "assetType": "video_thumbnail",
+      "name": "SLE: Experience in Thousands",
+      "displayUrl": "https://i.ytimg.com/vi/-kbRV3fbKmE/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/-kbRV3fbKmE/mqdefault.jpg",
+      "fileName": "053--kbRV3fbKmE.jpg",
+      "localPath": "public/images/arlar21/videos/053--kbRV3fbKmE.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 64,
+      "assetType": "video_thumbnail",
+      "name": "Platelets involvement in Lupus Pathogenesis",
+      "displayUrl": "https://i.ytimg.com/vi/d3YGLVhF__k/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/d3YGLVhF__k/mqdefault.jpg",
+      "fileName": "054-d3YGLVhF__k.jpg",
+      "localPath": "public/images/arlar21/videos/054-d3YGLVhF__k.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 65,
+      "assetType": "video_thumbnail",
+      "name": "Biologics in the Treatment of Systemic Lupus Erythematous",
+      "displayUrl": "https://i.ytimg.com/vi/2xK3FwYg1Zk/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/2xK3FwYg1Zk/mqdefault.jpg",
+      "fileName": "055-2xK3FwYg1Zk.jpg",
+      "localPath": "public/images/arlar21/videos/055-2xK3FwYg1Zk.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 66,
+      "assetType": "video_thumbnail",
+      "name": "Challenging Cases in Pediatric Rheumatology: Case 1",
+      "displayUrl": "https://i.ytimg.com/vi/4hPEltDCRGk/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/4hPEltDCRGk/mqdefault.jpg",
+      "fileName": "056-4hPEltDCRGk.jpg",
+      "localPath": "public/images/arlar21/videos/056-4hPEltDCRGk.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 67,
+      "assetType": "video_thumbnail",
+      "name": "Treating RA at Different Ages",
+      "displayUrl": "https://i.ytimg.com/vi/xZ9gca6SARg/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/xZ9gca6SARg/mqdefault.jpg",
+      "fileName": "057-xZ9gca6SARg.jpg",
+      "localPath": "public/images/arlar21/videos/057-xZ9gca6SARg.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 68,
+      "assetType": "video_thumbnail",
+      "name": "Remission in RA Myth or Real",
+      "displayUrl": "https://i.ytimg.com/vi/kq82mdbixdc/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/kq82mdbixdc/mqdefault.jpg",
+      "fileName": "058-kq82mdbixdc.jpg",
+      "localPath": "public/images/arlar21/videos/058-kq82mdbixdc.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 69,
+      "assetType": "video_thumbnail",
+      "name": "Sjögren’s Syndrome - Iraqi Experience",
+      "displayUrl": "https://i.ytimg.com/vi/hlqRCkTM-IA/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/hlqRCkTM-IA/mqdefault.jpg",
+      "fileName": "059-hlqRCkTM-IA.jpg",
+      "localPath": "public/images/arlar21/videos/059-hlqRCkTM-IA.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 70,
+      "assetType": "video_thumbnail",
+      "name": "Update on Sjögren’s Syndrome: From Pathogenesis to Treatment",
+      "displayUrl": "https://i.ytimg.com/vi/PRNT7rx_dkk/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/PRNT7rx_dkk/mqdefault.jpg",
+      "fileName": "060-PRNT7rx_dkk.jpg",
+      "localPath": "public/images/arlar21/videos/060-PRNT7rx_dkk.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 71,
+      "assetType": "video_thumbnail",
+      "name": "GRAPPA Psoriatic Arthritis Recommendations-Guideline",
+      "displayUrl": "https://i.ytimg.com/vi/uc7AVfDv_E8/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/uc7AVfDv_E8/mqdefault.jpg",
+      "fileName": "061-uc7AVfDv_E8.jpg",
+      "localPath": "public/images/arlar21/videos/061-uc7AVfDv_E8.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 72,
+      "assetType": "video_thumbnail",
+      "name": "axSpA DESIR Cohort",
+      "displayUrl": "https://i.ytimg.com/vi/9BfiD0vIBNY/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/9BfiD0vIBNY/mqdefault.jpg",
+      "fileName": "062-9BfiD0vIBNY.jpg",
+      "localPath": "public/images/arlar21/videos/062-9BfiD0vIBNY.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 73,
+      "assetType": "video_thumbnail",
+      "name": "Ankylosing Spondylitis: Old Disease, New Mechanisms",
+      "displayUrl": "https://i.ytimg.com/vi/Emn0iDblJe8/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/Emn0iDblJe8/mqdefault.jpg",
+      "fileName": "063-Emn0iDblJe8.jpg",
+      "localPath": "public/images/arlar21/videos/063-Emn0iDblJe8.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 74,
+      "assetType": "video_thumbnail",
+      "name": "Classification of SLE",
+      "displayUrl": "https://i.ytimg.com/vi/ivG1so-zQrA/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/ivG1so-zQrA/mqdefault.jpg",
+      "fileName": "064-ivG1so-zQrA.jpg",
+      "localPath": "public/images/arlar21/videos/064-ivG1so-zQrA.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 75,
+      "assetType": "video_thumbnail",
+      "name": "Updates on the Management of Lupus Nephritis",
+      "displayUrl": "https://i.ytimg.com/vi/R6HutS6UtX8/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/R6HutS6UtX8/mqdefault.jpg",
+      "fileName": "065-R6HutS6UtX8.jpg",
+      "localPath": "public/images/arlar21/videos/065-R6HutS6UtX8.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 76,
+      "assetType": "video_thumbnail",
+      "name": "Updates on Antiphospholipid Syndrome",
+      "displayUrl": "https://i.ytimg.com/vi/M3SVUdjJhWk/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/M3SVUdjJhWk/mqdefault.jpg",
+      "fileName": "066-M3SVUdjJhWk.jpg",
+      "localPath": "public/images/arlar21/videos/066-M3SVUdjJhWk.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 77,
+      "assetType": "video_thumbnail",
+      "name": "Vasculitis Classification",
+      "displayUrl": "https://i.ytimg.com/vi/_1DRG0dPfWc/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/_1DRG0dPfWc/mqdefault.jpg",
+      "fileName": "067-_1DRG0dPfWc.jpg",
+      "localPath": "public/images/arlar21/videos/067-_1DRG0dPfWc.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 78,
+      "assetType": "video_thumbnail",
+      "name": "Single Organ Vasculitis",
+      "displayUrl": "https://i.ytimg.com/vi/m-EbMeEu4Q4/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/m-EbMeEu4Q4/mqdefault.jpg",
+      "fileName": "068-m-EbMeEu4Q4.jpg",
+      "localPath": "public/images/arlar21/videos/068-m-EbMeEu4Q4.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 79,
+      "assetType": "video_thumbnail",
+      "name": "ANCA Associated Vasculitis Treatment",
+      "displayUrl": "https://i.ytimg.com/vi/PB_-u_m7AoM/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/PB_-u_m7AoM/mqdefault.jpg",
+      "fileName": "069-PB_-u_m7AoM.jpg",
+      "localPath": "public/images/arlar21/videos/069-PB_-u_m7AoM.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 80,
+      "assetType": "video_thumbnail",
+      "name": "Pregnancy in Rheumatic Diseases - Introduction",
+      "displayUrl": "https://i.ytimg.com/vi/OVDfA_7PgAI/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/OVDfA_7PgAI/mqdefault.jpg",
+      "fileName": "070-OVDfA_7PgAI.jpg",
+      "localPath": "public/images/arlar21/videos/070-OVDfA_7PgAI.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 81,
+      "assetType": "video_thumbnail",
+      "name": "Pregnant Women with APS What to do?",
+      "displayUrl": "https://i.ytimg.com/vi/H5cvs0RByf0/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/H5cvs0RByf0/mqdefault.jpg",
+      "fileName": "071-H5cvs0RByf0.jpg",
+      "localPath": "public/images/arlar21/videos/071-H5cvs0RByf0.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 82,
+      "assetType": "video_thumbnail",
+      "name": "The Management of SLE in Pregnant Women",
+      "displayUrl": "https://i.ytimg.com/vi/fOX7ZyXT_2c/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/fOX7ZyXT_2c/mqdefault.jpg",
+      "fileName": "072-fOX7ZyXT_2c.jpg",
+      "localPath": "public/images/arlar21/videos/072-fOX7ZyXT_2c.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 83,
+      "assetType": "video_thumbnail",
+      "name": "ArLAR21 Jordan Congress Closing",
+      "displayUrl": "https://i.ytimg.com/vi/vflWV-IV3QU/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/vflWV-IV3QU/mqdefault.jpg",
+      "fileName": "073-vflWV-IV3QU.jpg",
+      "localPath": "public/images/arlar21/videos/073-vflWV-IV3QU.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 84,
+      "assetType": "video_thumbnail",
+      "name": "Synovitis",
+      "displayUrl": "https://i.ytimg.com/vi/wXeIsCQ9T4c/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/wXeIsCQ9T4c/mqdefault.jpg",
+      "fileName": "074-wXeIsCQ9T4c.jpg",
+      "localPath": "public/images/arlar21/videos/074-wXeIsCQ9T4c.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 85,
+      "assetType": "video_thumbnail",
+      "name": "Tenosynovitis",
+      "displayUrl": "https://i.ytimg.com/vi/Pz52nQWBELo/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/Pz52nQWBELo/mqdefault.jpg",
+      "fileName": "075-Pz52nQWBELo.jpg",
+      "localPath": "public/images/arlar21/videos/075-Pz52nQWBELo.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 86,
+      "assetType": "video_thumbnail",
+      "name": "Bone Lesions",
+      "displayUrl": "https://i.ytimg.com/vi/HYxQGhp2muc/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/HYxQGhp2muc/mqdefault.jpg",
+      "fileName": "076-HYxQGhp2muc.jpg",
+      "localPath": "public/images/arlar21/videos/076-HYxQGhp2muc.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 87,
+      "assetType": "video_thumbnail",
+      "name": "Cartilage Lesions",
+      "displayUrl": "https://i.ytimg.com/vi/R20sHlY5KKc/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/R20sHlY5KKc/mqdefault.jpg",
+      "fileName": "077-R20sHlY5KKc.jpg",
+      "localPath": "public/images/arlar21/videos/077-R20sHlY5KKc.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 88,
+      "assetType": "video_thumbnail",
+      "name": "How to Establish an ArLAR Registry",
+      "displayUrl": "https://i.ytimg.com/vi/3Rqv4mre8qg/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/3Rqv4mre8qg/mqdefault.jpg",
+      "fileName": "078-3Rqv4mre8qg.jpg",
+      "localPath": "public/images/arlar21/videos/078-3Rqv4mre8qg.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 89,
+      "assetType": "video_thumbnail",
+      "name": "Data From Iraqi National Registry of Rheumatic Diseases-7000 Cases",
+      "displayUrl": "https://i.ytimg.com/vi/_ghmVM8O9JM/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/_ghmVM8O9JM/mqdefault.jpg",
+      "fileName": "079-_ghmVM8O9JM.jpg",
+      "localPath": "public/images/arlar21/videos/079-_ghmVM8O9JM.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    },
+    {
+      "order": 90,
+      "assetType": "video_thumbnail",
+      "name": "The Moroccan Registry of Biological Treatments RBSMR",
+      "displayUrl": "https://i.ytimg.com/vi/NFMKOthNBjg/mqdefault.jpg",
+      "originalUrl": "https://i.ytimg.com/vi/NFMKOthNBjg/mqdefault.jpg",
+      "fileName": "080-NFMKOthNBjg.jpg",
+      "localPath": "public/images/arlar21/videos/080-NFMKOthNBjg.jpg",
+      "sourceUrl": "https://www.arabrheumatology.org/arlarjordan2021"
+    }
+  ]
+}

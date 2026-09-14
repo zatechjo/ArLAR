@@ -1,0 +1,543 @@
+{
+  "sourceUrl": "https://www.arabrheumatology.org/arlarcollegemembers",
+  "retrievedDate": "2026-08-05",
+  "people": [
+    {
+      "id": "arlar-college-01",
+      "slug": "abdelatif-abiayad",
+      "sortOrder": 1,
+      "group": "members",
+      "fullName": "Abdelatif Abiayad, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Algeria",
+      "flagFilename": "dz-algeria.png",
+      "bio": [],
+      "imageFilename": "profile-placeholder.jpg"
+    },
+    {
+      "id": "arlar-college-02",
+      "slug": "adel-mahmoud-el-sayed",
+      "sortOrder": 2,
+      "group": "members",
+      "fullName": "Adel Mahmoud El Sayed, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Egypt",
+      "flagFilename": "eg-egypt.png",
+      "bio": [
+        "Professor of Internal Medicine and Rheumatology and Head of the Rheumatology Division at Ain Shams University, Cairo, Egypt.",
+        "Assistant and principal investigator in national and multinational studies.",
+        "Member of the American College of Rheumatology (ACR).",
+        "Member of other scientific societies, including the Egyptian Society of Rheumatology & Joint Diseases (ESRD)."
+      ],
+      "imageFilename": "adel-mahmoud-el-sayed.jpg"
+    },
+    {
+      "id": "arlar-college-03",
+      "slug": "aicha-ladjouze-rezig",
+      "sortOrder": 3,
+      "group": "members",
+      "fullName": "Aicha Ladjouze-Rezig, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Algeria",
+      "flagFilename": "dz-algeria.png",
+      "bio": [
+        "Professor of Rheumatology.",
+        "President of the Algerian League Against Rheumatism (LAAR)."
+      ],
+      "imageFilename": "aicha-ladjouze-rezig.jpg"
+    },
+    {
+      "id": "arlar-college-04",
+      "slug": "ayman-el-garf",
+      "sortOrder": 4,
+      "group": "members",
+      "fullName": "Ayman El-Garf, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Egypt",
+      "flagFilename": "eg-egypt.png",
+      "bio": [
+        "Professor Emeritus in the Rheumatology Department, Faculty of Medicine, Cairo University.",
+        "President of the Egyptian Society for Joint Diseases and Arthritis (ESRD).",
+        "Founding member of ArLAR."
+      ],
+      "imageFilename": "ayman-el-garf.jpg"
+    },
+    {
+      "id": "arlar-college-05",
+      "slug": "basel-el-zorkany",
+      "sortOrder": 5,
+      "group": "members",
+      "fullName": "Basel El-Zorkany, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Egypt",
+      "flagFilename": "eg-egypt.png",
+      "bio": [
+        "Professor of Rheumatology.",
+        "Professor and Head of the Rheumatology Department at Cairo University."
+      ],
+      "imageFilename": "basel-el-zorkany.jpg"
+    },
+    {
+      "id": "arlar-college-06",
+      "slug": "basel-masri",
+      "sortOrder": 6,
+      "group": "members",
+      "fullName": "Basel Masri, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Jordan",
+      "flagFilename": "jo-jordan.png",
+      "bio": [
+        "Past President.",
+        "Senior Consultant Rheumatologist at Jordan Hospital & Medical Center, Amman, Jordan.",
+        "President of the Jordanian Society of Rheumatology (JSR)."
+      ],
+      "imageFilename": "basel-masri.jpg"
+    },
+    {
+      "id": "arlar-college-07",
+      "slug": "chafia-makhloufi-dahoui",
+      "sortOrder": 7,
+      "group": "members",
+      "fullName": "Chafia Makhloufi-Dahoui, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Algeria",
+      "flagFilename": "dz-algeria.png",
+      "bio": ["Professor of Rheumatology."],
+      "imageFilename": "chafia-makhloufi-dahoui.jpg"
+    },
+    {
+      "id": "arlar-college-08",
+      "slug": "elyes-bouajina",
+      "sortOrder": 8,
+      "group": "members",
+      "fullName": "Elyes Bouajina, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Tunisia",
+      "flagFilename": "tn-tunisia.png",
+      "bio": [
+        "Professor of Rheumatology.",
+        "President of La Ligue Tunisienne Anti Rhumatismale (LITAR)."
+      ],
+      "imageFilename": "elyes-bouajina.jpg"
+    },
+    {
+      "id": "arlar-college-09",
+      "slug": "faiq-isho-gorial",
+      "sortOrder": 9,
+      "group": "members",
+      "fullName": "Faiq Isho Gorial, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Iraq",
+      "flagFilename": "iq-iraq.png",
+      "bio": [
+        "CABM, FIBMS (Rheumatology and Medical Rehabilitation).",
+        "Rheumatologist at the Rheumatology Unit, Medical Department, Baghdad Teaching Hospital, from 2007 to the present."
+      ],
+      "imageFilename": "profile-placeholder.jpg"
+    },
+    {
+      "id": "arlar-college-10",
+      "slug": "hachemi-djoudi",
+      "sortOrder": 10,
+      "group": "members",
+      "fullName": "Hachemi Djoudi, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Algeria",
+      "flagFilename": "dz-algeria.png",
+      "bio": [
+        "Professor of Rheumatology.",
+        "President of the Algerian Society for Rheumatology (SAR)."
+      ],
+      "imageFilename": "hachemi-djoudi.jpg"
+    },
+    {
+      "id": "arlar-college-11",
+      "slug": "hanan-al-rayes",
+      "sortOrder": 11,
+      "group": "members",
+      "fullName": "Hanan Al Rayes, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Saudi Arabia",
+      "flagFilename": "sa-saudi-arabia.png",
+      "bio": [
+        "Consultant Rheumatologist with a subspecialty in lupus.",
+        "Associate Professor at King Faisal University, College of Medicine.",
+        "President of the Saudi Society for Rheumatology (SSR)."
+      ],
+      "imageFilename": "hanan-al-rayes.jpg"
+    },
+    {
+      "id": "arlar-college-12",
+      "slug": "hela-sahli",
+      "sortOrder": 12,
+      "group": "members",
+      "fullName": "Héla Sahli, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Tunisia",
+      "flagFilename": "tn-tunisia.png",
+      "bio": [],
+      "imageFilename": "profile-placeholder.jpg"
+    },
+    {
+      "id": "arlar-college-13",
+      "slug": "houria-ayed",
+      "sortOrder": 13,
+      "group": "members",
+      "fullName": "Houria Ayed, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Algeria",
+      "flagFilename": "dz-algeria.png",
+      "bio": [],
+      "imageFilename": "profile-placeholder.jpg"
+    },
+    {
+      "id": "arlar-college-14",
+      "slug": "imad-uthman",
+      "sortOrder": 14,
+      "group": "members",
+      "fullName": "Imad Uthman, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Lebanon",
+      "flagFilename": "lb-lebanon.png",
+      "bio": [
+        "Professor and Head of the Rheumatology Department at the American University of Beirut Medical Center."
+      ],
+      "imageFilename": "imad-uthman.jpg"
+    },
+    {
+      "id": "arlar-college-15",
+      "slug": "iman-abbas-el-kadi",
+      "sortOrder": 15,
+      "group": "members",
+      "fullName": "Iman Abbas El Kadi, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Egypt",
+      "flagFilename": "eg-egypt.png",
+      "bio": [],
+      "imageFilename": "profile-placeholder.jpg"
+    },
+    {
+      "id": "arlar-college-16",
+      "slug": "kawther-ben-abdelghani",
+      "sortOrder": 16,
+      "group": "members",
+      "fullName": "Kawther Ben Abdelghani, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Tunisia",
+      "flagFilename": "tn-tunisia.png",
+      "bio": [
+        "Associate Professor in Rheumatology at Mongi Slim Hospital, Tunisia.",
+        "General Secretary of the Tunisian League Against Rheumatism (LITAR)."
+      ],
+      "imageFilename": "kawther-ben-abdelghani.jpg"
+    },
+    {
+      "id": "arlar-college-17",
+      "slug": "khaldoun-alawneh",
+      "sortOrder": 17,
+      "group": "members",
+      "fullName": "Khaldoun Alawneh, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Jordan",
+      "flagFilename": "jo-jordan.png",
+      "bio": [
+        "Senior Consultant Rheumatologist and Head of the Rheumatology Division at King Abdullah University Hospital."
+      ],
+      "imageFilename": "khaldoun-alawneh.jpg"
+    },
+    {
+      "id": "arlar-college-18",
+      "slug": "khaled-el-hadidi",
+      "sortOrder": 18,
+      "group": "members",
+      "fullName": "Khaled El-Hadidi, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Egypt",
+      "flagFilename": "eg-egypt.png",
+      "bio": [
+        "Professor of Rheumatology at Cairo University and Vice-President of the Egyptian Society of Rheumatology, Cairo, Egypt."
+      ],
+      "imageFilename": "khaled-el-hadidi.png"
+    },
+    {
+      "id": "arlar-college-19",
+      "slug": "khalid-alnaqbi",
+      "sortOrder": 19,
+      "group": "members",
+      "fullName": "Khalid Alnaqbi, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "United Arab Emirates",
+      "flagFilename": "ae-united-arab-emirates.png",
+      "bio": [
+        "Chief of Rheumatology and Assistant Professor at UAE University, Al Ain, United Arab Emirates."
+      ],
+      "imageFilename": "khalid-alnaqbi.jpg"
+    },
+    {
+      "id": "arlar-college-20",
+      "slug": "malik-djennane",
+      "sortOrder": 20,
+      "group": "members",
+      "fullName": "Malik Djennane, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Algeria",
+      "flagFilename": "dz-algeria.png",
+      "bio": [],
+      "imageFilename": "profile-placeholder.jpg"
+    },
+    {
+      "id": "arlar-college-21",
+      "slug": "manal-el-rakawi",
+      "sortOrder": 21,
+      "group": "members",
+      "fullName": "Manal El Rakawi, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Algeria",
+      "flagFilename": "dz-algeria.png",
+      "bio": [
+        "Professor and Consultant Rheumatologist in Algeria.",
+        "Coordinator of the Pain Section of the Algerian Society of Rheumatology.",
+        "General Secretary of the Francophone Group of ArLAR."
+      ],
+      "imageFilename": "manal-el-rakawi.jpg"
+    },
+    {
+      "id": "arlar-college-22",
+      "slug": "mira-merhachly",
+      "sortOrder": 22,
+      "group": "members",
+      "fullName": "Mira Merhachly, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Lebanon",
+      "flagFilename": "lb-lebanon.png",
+      "bio": [
+        "Assistant Professor in Rheumatology at AUBMC.",
+        "Completed clinical training at the Royal London Hospital in the United Kingdom.",
+        "Fellow of the Royal College of Physicians.",
+        "Published more than 40 papers in peer-reviewed journals."
+      ],
+      "imageFilename": "mira-merhachly.jpg"
+    },
+    {
+      "id": "arlar-college-23",
+      "slug": "mohammed-hamoudeh",
+      "sortOrder": 23,
+      "group": "members",
+      "fullName": "Mohammed Hamoudeh, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Qatar",
+      "flagFilename": "qa-qatar.png",
+      "bio": [
+        "Senior Consultant in Rheumatology at Hamad Medical Corporation in Qatar.",
+        "Associate Professor of Clinical Medicine at Weill Cornell Medical College – Qatar.",
+        "Chairman of the Institutional Review Board at Hamad Medical Corporation since April 2017.",
+        "Author of 96 publications in local, regional, and international journals."
+      ],
+      "imageFilename": "mohammed-hamoudeh.jpg"
+    },
+    {
+      "id": "arlar-college-24",
+      "slug": "musa-hadidi",
+      "sortOrder": 24,
+      "group": "members",
+      "fullName": "Musa Hadidi, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Jordan",
+      "flagFilename": "jo-jordan.png",
+      "bio": [
+        "Senior Consultant Rheumatologist, PhD.",
+        "Co-founder of the Jordanian Society of Rheumatology (JSR)."
+      ],
+      "imageFilename": "musa-hadidi.jpg"
+    },
+    {
+      "id": "arlar-college-25",
+      "slug": "nelly-ziade",
+      "sortOrder": 25,
+      "group": "members",
+      "fullName": "Nelly Ziade, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Lebanon",
+      "flagFilename": "lb-lebanon.png",
+      "bio": [
+        "Consultant Rheumatologist at Hotel-Dieu de France Hospital and Assistant Professor (Maître de Conférences) of Rheumatology, Public Health, and Epidemiology at Saint Joseph University, Beirut, Lebanon."
+      ],
+      "imageFilename": "nelly-ziade.jpg"
+    },
+    {
+      "id": "arlar-college-26",
+      "slug": "nizar-abdulateef",
+      "sortOrder": 26,
+      "group": "members",
+      "fullName": "Nizar Abdulateef, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Iraq",
+      "flagFilename": "iq-iraq.png",
+      "bio": [
+        "Secretary General of the ArLAR Scientific Committee.",
+        "Senior Consultant Rheumatologist.",
+        "Professor of Medicine at the University of Baghdad, College of Medicine.",
+        "President of the Iraqi League for Bone and Joint Health.",
+        "President of the Pan-Arab Osteoporosis Society."
+      ],
+      "imageFilename": "nizar-abdulateef.jpg"
+    },
+    {
+      "id": "arlar-college-27",
+      "slug": "salima-lefkir-tafiani",
+      "sortOrder": 27,
+      "group": "members",
+      "fullName": "Salima Lefkir-Tafiani, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Algeria",
+      "flagFilename": "dz-algeria.png",
+      "bio": [],
+      "imageFilename": "profile-placeholder.jpg"
+    },
+    {
+      "id": "arlar-college-28",
+      "slug": "samar-el-emadi",
+      "sortOrder": 28,
+      "group": "members",
+      "fullName": "Samar El Emadi, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Qatar",
+      "flagFilename": "qa-qatar.png",
+      "bio": [
+        "Senior Consultant Rheumatologist in Doha, Qatar.",
+        "President of the Qatar Rheumatology Society (QRS).",
+        "Head of the Rheumatology Division at Hamad Medical Corporation."
+      ],
+      "imageFilename": "samar-el-emadi.jpg"
+    },
+    {
+      "id": "arlar-college-29",
+      "slug": "sami-salman",
+      "sortOrder": 29,
+      "group": "members",
+      "fullName": "Sami Salman, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Iraq",
+      "flagFilename": "iq-iraq.png",
+      "bio": [
+        "MB ChB (1973), CES, France (1980), MRCP, Ireland (1984), DMR, London, UK (1985), and FRCP, Glasgow, UK (2005).",
+        "Professor of Rheumatology and Internal Medicine at the College of Medicine, University of Baghdad."
+      ],
+      "imageFilename": "sami-salman.jpg"
+    },
+    {
+      "id": "arlar-college-30",
+      "slug": "samy-slimani",
+      "sortOrder": 30,
+      "group": "members",
+      "fullName": "Samy Slimani, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Algeria",
+      "flagFilename": "dz-algeria.png",
+      "bio": ["Associate Professor of Rheumatology in Batna, eastern Algeria."],
+      "imageFilename": "samy-slimani.jpg"
+    },
+    {
+      "id": "arlar-college-31",
+      "slug": "suad-hanawi",
+      "sortOrder": 31,
+      "group": "members",
+      "fullName": "Suad Hanawi, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "United Arab Emirates",
+      "flagFilename": "ae-united-arab-emirates.png",
+      "bio": [
+        "MD, PhD.",
+        "Consultant Rheumatologist at the Ministry of Health and Prevention of the United Arab Emirates.",
+        "Chairman of Rheumatology at MOHAP.",
+        "Deputy Chairman of the Central Research Ethics Committee.",
+        "Chairman of the Dubai Health District Research Ethics Committee.",
+        "Obtained Fellowship of the Royal College of Physicians of Edinburgh.",
+        "Completed clinical training in Rheumatology in Australia.",
+        "Obtained a PhD in Rheumatology."
+      ],
+      "imageFilename": "suad-hanawi.jpg"
+    },
+    {
+      "id": "arlar-college-32",
+      "slug": "sulaiman-al-mayouf",
+      "sortOrder": 32,
+      "group": "members",
+      "fullName": "Sulaiman Al Mayouf, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Saudi Arabia",
+      "flagFilename": "sa-saudi-arabia.png",
+      "bio": [
+        "Professor and Consultant of Pediatric Rheumatology.",
+        "King Faisal Specialist Hospital & Research Center.",
+        "College of Medicine, Alfaisal University, Riyadh."
+      ],
+      "imageFilename": "sulaiman-al-mayouf.jpeg"
+    },
+    {
+      "id": "arlar-college-33",
+      "slug": "suzan-attar",
+      "sortOrder": 33,
+      "group": "members",
+      "fullName": "Suzan Attar, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Saudi Arabia",
+      "flagFilename": "sa-saudi-arabia.png",
+      "bio": [
+        "Professor and Consultant Rheumatologist in the Department of Internal Medicine at King Abdulaziz University and King Abdulaziz University Hospital, Jeddah, Saudi Arabia."
+      ],
+      "imageFilename": "suzan-attar.png"
+    },
+    {
+      "id": "arlar-college-34",
+      "slug": "thurayya-al-araissi",
+      "sortOrder": 34,
+      "group": "members",
+      "fullName": "Thurayya Al Araissi, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Qatar",
+      "flagFilename": "qa-qatar.png",
+      "bio": [
+        "Professor of Clinical Medicine and Senior Associate Dean for Medical Education and Continuing Professional Development at Weill Cornell Medicine – Qatar.",
+        "Received her MD from the American University of Beirut.",
+        "Completed residency and chief residency in Internal Medicine and a Geriatrics fellowship at the University of Rochester in Rochester, New York.",
+        "Completed a second fellowship in Rheumatology at NIAMS, National Institutes of Health, with a focus on early arthritis.",
+        "Her research interests focus on rheumatoid arthritis and Behçet disease, for which she has received funding as principal investigator.",
+        "Organized the Middle East Rheumatoid Arthritis Consortium (MERAC), which studies the genetics and clinical characteristics of Arab patients with rheumatoid arthritis to improve their care.",
+        "Authored more than 100 peer-reviewed articles, abstracts, and book chapters.",
+        "Received several teaching awards and honors, including induction into the Alpha Omega Alpha Honor Medical Society."
+      ],
+      "imageFilename": "thurayya-al-araissi.jpg"
+    },
+    {
+      "id": "arlar-college-35",
+      "slug": "wafaa-madanat",
+      "sortOrder": 35,
+      "group": "members",
+      "fullName": "Wafaa Madanat, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Jordan",
+      "flagFilename": "jo-jordan.png",
+      "bio": [
+        "Senior Consultant Rheumatologist, PhD, FRCP (London).",
+        "Co-founder of the Jordanian Society of Rheumatology (JSR)."
+      ],
+      "imageFilename": "wafaa-madanat.jpg"
+    },
+    {
+      "id": "arlar-college-36",
+      "slug": "ziad-al-rawi",
+      "sortOrder": 36,
+      "group": "members",
+      "fullName": "Ziad Al Rawi, MD",
+      "displayRole": "ArLAR College Member",
+      "countryName": "Iraq",
+      "flagFilename": "iq-iraq.png",
+      "bio": [
+        "FRCP (London), D.Phys.Med. (London).",
+        "Professor of Rheumatology at the University of Baghdad, Medical College, Baghdad, Iraq."
+      ],
+      "imageFilename": "ziad-al-rawi.jpg"
+    }
+  ]
+}

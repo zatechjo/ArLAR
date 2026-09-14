@@ -1,0 +1,371 @@
+{
+  "sourceUrl": "https://www.arabrheumatology.org/media-committee",
+  "people": [
+    {
+      "id": "media-001",
+      "slug": "bilal-bengana",
+      "sortOrder": 1,
+      "group": "leadership",
+      "fullName": "Bilal Bengana, MD",
+      "displayRole": "Chairman of the Media Committee",
+      "countryName": "Algeria",
+      "flagFilename": "dz-algeria.png",
+      "bio": [
+        "Associate Professor of Rheumatology at the Faculty of Medicine of Ziania, Algiers",
+        "Head of the Rheumatology Inpatient Unit at the University Hospital of Benimessous in Algiers",
+        "Founding member of the Pain Section of the Algerian Society of Rheumatology",
+        "Active member of the Algerian Anti-Rheumatism League"
+      ],
+      "imageFilename": "bilal-bengana.jpg"
+    },
+    {
+      "id": "media-002",
+      "slug": "mervat-eissa",
+      "sortOrder": 2,
+      "group": "members",
+      "fullName": "Mervat Eissa, MD",
+      "displayRole": "Associate Professor of Rheumatology",
+      "countryName": "Egypt",
+      "flagFilename": "eg-egypt.png",
+      "bio": [
+        "Associate Professor of Rheumatology at Cairo University",
+        "Member of the ArLAR Media Group representing Egypt"
+      ],
+      "imageFilename": "mervat-eissa.jpg"
+    },
+    {
+      "id": "media-003",
+      "slug": "walaa-abdelrahman",
+      "sortOrder": 3,
+      "group": "members",
+      "fullName": "Walaa Abdelrahman, MD",
+      "displayRole": "Consultant of Rheumatology and Clinical Immunology",
+      "countryName": "Egypt",
+      "flagFilename": "eg-egypt.png",
+      "bio": [
+        "Consultant of Rheumatology and Clinical Immunology",
+        "Lecturer of Rheumatology and Clinical Immunology at Kasr Al Ainy Faculty of Medicine, Cairo University",
+        "Organizer at the Egyptian Society of Rheumatic Diseases"
+      ],
+      "imageFilename": "walaa-abdelrahman.jpg"
+    },
+    {
+      "id": "media-004",
+      "slug": "nizar-abdullateef-jasim",
+      "sortOrder": 4,
+      "group": "members",
+      "fullName": "Nizar AbdulLateef Jasim, MD",
+      "displayRole": "Chairman of the Scientific Committee",
+      "countryName": "Iraq",
+      "flagFilename": "iq-iraq.png",
+      "bio": [
+        "Chairman of the Scientific Committee",
+        "Senior Consultant Rheumatologist",
+        "Professor of Medicine at the University of Baghdad College of Medicine",
+        "President of the Iraqi League for Bone and Joint Health",
+        "President of the Pan-Arab Osteoporosis Society"
+      ],
+      "imageFilename": "nizar-abdullateef-jasim.jpg"
+    },
+    {
+      "id": "media-005",
+      "slug": "asal-adnan",
+      "sortOrder": 5,
+      "group": "members",
+      "fullName": "Asal Adnan, MD",
+      "displayRole": "Board-Certified Rheumatologist",
+      "countryName": "Iraq",
+      "flagFilename": "iq-iraq.png",
+      "bio": [
+        "Board-Certified Rheumatologist",
+        "Works in the Rheumatology Unit, Department of Medicine, Baghdad Teaching Hospital, Medical City, Baghdad",
+        "Member of the Iraqi League for Bone and Joint Health"
+      ],
+      "imageFilename": "asal-adnan.jpg"
+    },
+    {
+      "id": "media-006",
+      "slug": "basel-masri",
+      "sortOrder": 6,
+      "group": "members",
+      "fullName": "Basel Masri, MD",
+      "displayRole": "Senior Consultant Rheumatologist",
+      "countryName": "Jordan",
+      "flagFilename": "jo-jordan.png",
+      "bio": [
+        "Senior Consultant Rheumatologist at Jordan Hospital and Medical Center in Amman",
+        "Secretary General of the Jordanian Society of Rheumatology (JSR)",
+        "Treasurer of ArLAR"
+      ],
+      "imageFilename": "basel-masri.jpg"
+    },
+    {
+      "id": "media-007",
+      "slug": "bayan-bani-issa",
+      "sortOrder": 7,
+      "group": "members",
+      "fullName": "Bayan Bani Issa, MD",
+      "displayRole": "Rheumatologist",
+      "countryName": "Jordan",
+      "flagFilename": "jo-jordan.png",
+      "bio": [
+        "Rheumatologist at King Abdullah University Hospital, Jordan University of Science and Technology",
+        "Member of the ArLAR Media Group representing Jordan"
+      ],
+      "imageFilename": "bayan-bani-issa.webp"
+    },
+    {
+      "id": "media-008",
+      "slug": "hebah-al-hajeri",
+      "sortOrder": 8,
+      "group": "members",
+      "fullName": "Hebah A Al-Hajeri, MD",
+      "displayRole": "Consultant in Internal Medicine and Rheumatology",
+      "countryName": "Kuwait",
+      "flagFilename": "kw-kuwait.png",
+      "bio": [
+        "Consultant in Internal Medicine and Rheumatology at Mubarak Al-Kabeer Hospital, Kuwait",
+        "President of the Kuwait Association of Rheumatologists"
+      ],
+      "imageFilename": "hebah-al-hajeri.jpg",
+      "imagePosition": "50% 6%"
+    },
+    {
+      "id": "media-009",
+      "slug": "maha-anber",
+      "sortOrder": 9,
+      "group": "members",
+      "fullName": "Maha Anber, MD",
+      "displayRole": "Internist, Rheumatologist and Spondylitis Specialist",
+      "countryName": "Kuwait",
+      "flagFilename": "kw-kuwait.png",
+      "bio": [
+        "Internist, Rheumatologist and Spondylitis Specialist at Jaber Al-Ahmad Hospital",
+        "Head of the Media Committee of the Kuwait Association of Rheumatologists"
+      ],
+      "imageFilename": "maha-anber.jpg"
+    },
+    {
+      "id": "media-010",
+      "slug": "nelly-ziade-zoghbi",
+      "sortOrder": 10,
+      "group": "members",
+      "fullName": "Nelly Ziade Zoghbi, MD, PhD, FRCP",
+      "displayRole": "Consultant Rheumatologist",
+      "countryName": "Lebanon",
+      "flagFilename": "lb-lebanon.png",
+      "bio": [
+        "Consultant Rheumatologist",
+        "Assistant Professor of Rheumatology, Public Health and Epidemiology at Hotel-Dieu de France Hospital and Saint-Joseph University of Beirut"
+      ],
+      "imageFilename": "nelly-ziade-zoghbi.jpg"
+    },
+    {
+      "id": "media-011",
+      "slug": "soad-hashad",
+      "sortOrder": 11,
+      "group": "members",
+      "fullName": "Soad Hashad, MD",
+      "displayRole": "Consultant Pediatric Rheumatologist",
+      "countryName": "Libya",
+      "flagFilename": "ly-libya.png",
+      "bio": [
+        "Consultant in Pediatrics",
+        "Head of the Pediatric Rheumatology Clinic at Tripoli Children’s Hospital",
+        "Associate Professor at Tripoli University",
+        "National Coordinator of the Pediatric Rheumatology International Trials Organisation (PRINTO) in Libya",
+        "Head of the Scientific Committee of the Libyan Rheumatology Society",
+        "Research Coordinator at the Libyan Medical Council of Specialty",
+        "Coordinator of the Residency Program at the Libyan Medical Council of Specialty"
+      ],
+      "imageFilename": "soad-hashad.png"
+    },
+    {
+      "id": "media-012",
+      "slug": "ihsane-hmamouchi",
+      "sortOrder": 12,
+      "group": "members",
+      "fullName": "Ihsane Hmamouchi, MD, PhD",
+      "displayRole": "Rheumatologist and Clinical Epidemiologist",
+      "countryName": "Morocco",
+      "flagFilename": "ma-morocco.png",
+      "bio": [
+        "Rheumatologist, Biostatistician and Clinical Epidemiologist",
+        "Affiliated with Centre Hospitalier Provincial Skhirat-Temara and the Laboratory of Epidemiology and Clinical Research at the Faculty of Medicine"
+      ],
+      "imageFilename": "ihsane-hmamouchi.jpg"
+    },
+    {
+      "id": "media-013",
+      "slug": "riad-eid",
+      "sortOrder": 13,
+      "group": "members",
+      "fullName": "Riad Eid, MD",
+      "displayRole": "Assistant Professor of Medicine and Rheumatology",
+      "countryName": "Palestine",
+      "flagFilename": "ps-palestine.png",
+      "bio": [
+        "Assistant Professor of Medicine and Rheumatology at Al-Quds University",
+        "Senior Consultant in Rheumatology and Internal Medicine at Jericho Hospital, Palestinian Ministry of Health",
+        "President of the Palestinian Rheumatology Society"
+      ],
+      "imageFilename": "riad-eid.jpg"
+    },
+    {
+      "id": "media-014",
+      "slug": "anas-muhanna",
+      "sortOrder": 14,
+      "group": "members",
+      "fullName": "Anas Muhanna, MD",
+      "displayRole": "Assistant Professor of Medicine",
+      "countryName": "Palestine",
+      "flagFilename": "ps-palestine.png",
+      "bio": [
+        "Assistant Professor of Medicine in the Department of Medicine at Al-Quds University",
+        "Past President of the Palestinian Rheumatology Society"
+      ],
+      "imageFilename": "anas-muhanna.jpg"
+    },
+    {
+      "id": "media-015",
+      "slug": "rawan-subhi-sheikh-saleh",
+      "sortOrder": 15,
+      "group": "members",
+      "fullName": "Rawan Subhi Sheikh Saleh, MD",
+      "displayRole": "Specialist in Internal Medicine and Rheumatology",
+      "countryName": "Qatar",
+      "flagFilename": "qa-qatar.svg",
+      "bio": [
+        "Specialist in Internal Medicine",
+        "Specialist in Rheumatology",
+        "Member of the Royal College of Physicians in Internal Medicine and Rheumatology",
+        "Member of the Qatar Rheumatology Society at Hamad Medical Corporation in Doha"
+      ],
+      "imageFilename": "rawan-subhi-sheikh-saleh.jpg"
+    },
+    {
+      "id": "media-016",
+      "slug": "hanan-al-rayes",
+      "sortOrder": 16,
+      "group": "members",
+      "fullName": "Hanan Al-Rayes, MD",
+      "displayRole": "Consultant Rheumatologist",
+      "countryName": "Saudi Arabia",
+      "flagFilename": "sa-saudi-arabia.png",
+      "bio": [
+        "Consultant Rheumatologist with a subspecialty in lupus",
+        "Associate Professor at King Faisal University College of Medicine",
+        "President of the Saudi Society for Rheumatology (SSR)"
+      ],
+      "imageFilename": "hanan-al-rayes.jpg"
+    },
+    {
+      "id": "media-017",
+      "slug": "lina-el-kibbi",
+      "sortOrder": 17,
+      "group": "members",
+      "fullName": "Lina El Kibbi, MD",
+      "displayRole": "Consultant Rheumatologist",
+      "countryName": "Saudi Arabia",
+      "flagFilename": "sa-saudi-arabia.png",
+      "bio": [
+        "Founder of the Arab Adult Arthritis Awareness Group",
+        "Consultant Rheumatologist",
+        "Assistant Professor of Rheumatology at Alfaisal University",
+        "Rheumatology Consultant and Director of Medical Academic Affairs at Specialized Medical Center"
+      ],
+      "imageFilename": "lina-el-kibbi.jpg"
+    },
+    {
+      "id": "media-018",
+      "slug": "waleed-mahjoub",
+      "sortOrder": 18,
+      "group": "members",
+      "fullName": "Waleed Mahjoub, MD",
+      "displayRole": "Media Group Member",
+      "countryName": "Sudan",
+      "flagFilename": "sd-sudan.png",
+      "bio": [],
+      "imageFilename": "waleed-mahjoub.jpg"
+    },
+    {
+      "id": "media-019",
+      "slug": "ahmed-yousif",
+      "sortOrder": 19,
+      "group": "members",
+      "fullName": "Ahmed Yousif, MD",
+      "displayRole": "Consultant Rheumatologist",
+      "countryName": "Sudan",
+      "flagFilename": "sd-sudan.png",
+      "bio": [
+        "Consultant Rheumatologist",
+        "Representative for the Sudanese Rheumatology Society"
+      ],
+      "imageFilename": "ahmed-yousif.jpg"
+    },
+    {
+      "id": "media-020",
+      "slug": "layla-kazkaz",
+      "sortOrder": 20,
+      "group": "members",
+      "fullName": "Layla Kazkaz, MD",
+      "displayRole": "Senior Consultant Rheumatologist",
+      "countryName": "Syria",
+      "flagFilename": "sy-syria.webp",
+      "bio": [
+        "Senior Consultant Rheumatologist in Damascus, Syria",
+        "President of the Syrian Association for Rheumatology (SAR)"
+      ],
+      "imageFilename": "layla-kazkaz.jpg"
+    },
+    {
+      "id": "media-021",
+      "slug": "widad-aji",
+      "sortOrder": 21,
+      "group": "members",
+      "fullName": "Widad Aji, MD",
+      "displayRole": "Head of Rheumatology",
+      "countryName": "Syria",
+      "flagFilename": "sy-syria.webp",
+      "bio": [
+        "Head of the Rheumatology Department at Damascus Hospital",
+        "Secretary General of the Syrian Association for Rheumatology",
+        "Member of the Scientific Council and the Examination Board of Locomotor System Diseases at the Ministry of Health",
+        "Clinical Instructor at the Syrian Private University Hospital"
+      ],
+      "imageFilename": "widad-aji.jpg"
+    },
+    {
+      "id": "media-022",
+      "slug": "ines-mahmoud",
+      "sortOrder": 22,
+      "group": "members",
+      "fullName": "Ines Mahmoud, MD",
+      "displayRole": "Professor and Rheumatologist",
+      "countryName": "Tunisia",
+      "flagFilename": "tn-tunisia.png",
+      "bio": [
+        "Professor and Rheumatologist at Charles Nicolle Teaching Hospital",
+        "Faculty member at the Faculty of Medicine of Tunis, Tunis El Manar University",
+        "Member of the Tunisian Anti-Rheumatic League"
+      ],
+      "imageFilename": "ines-mahmoud.jpg"
+    },
+    {
+      "id": "media-023",
+      "slug": "nejla-amri",
+      "sortOrder": 23,
+      "group": "members",
+      "fullName": "Nejla Amri, MD",
+      "displayRole": "Associate Professor of Rheumatology",
+      "countryName": "Tunisia",
+      "flagFilename": "tn-tunisia.png",
+      "bio": [
+        "Associate Professor of Rheumatology at the Faculty of Medicine and Farhat Hached University Hospital Center in Sousse",
+        "Coordinator of the Certificate of Complementary Studies in Immunotherapy of Autoimmune and Autoinflammatory Diseases at the Faculty of Medicine of Sousse",
+        "Member of the Tunisian League for the Fight Against Rheumatism"
+      ],
+      "imageFilename": "nejla-amri.jpg"
+    }
+  ]
+}

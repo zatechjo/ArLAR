@@ -29,6 +29,15 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
+dev-server.log
+dev-server.err
+dev-*.log
+dev-*.err
+*.log
+*.err
+.*.png
+.tmp-*
+/.tmp/
 
 # env files (can opt-in for committing if needed)
 .env*
@@ -39,3 +48,21 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Local admin persistence adapter (replaced by Supabase in production)
+/.admin-data/
+
+# Full-resolution ArLAR23 gallery is staged locally for Cloudflare upload.
+# Keep the multi-gigabyte originals out of the Vercel deployment bundle.
+/public/images/arlar23/gallery/Day 1/
+/public/images/arlar23/gallery/Day 2/
+/public/images/arlar23/gallery/Day 3/
+/public/images/arlar23/gallery/Day 4/
+
+# Production media is stored in Cloudflare R2; keep local copies out of Git.
+/public/images/
+/public/documents/
+/public/Arab Flags/
+
+.vercel
+.env*

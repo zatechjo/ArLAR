@@ -3,12 +3,36 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev --webpack",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "detect:cutouts": "node scripts/detect-portrait-cutouts.mjs",
+    "sync:wix-college": "node scripts/sync-wix-college.mjs",
+    "sync:wix-blog": "node scripts/sync-wix-blog.mjs",
+    "sync:wix-blog-bilingual": "node scripts/sync-wix-bilingual-blog.mjs",
+    "download:arlar23-gallery": "node scripts/download-arlar23-gallery.mjs",
+    "build:arlar23-gallery-manifest": "node scripts/build-arlar23-gallery-manifest.mjs",
+    "optimize:arlar23-gallery": "node scripts/build-arlar23-gallery-manifest.mjs && node scripts/build-arlar23-gallery-thumbnails.mjs",
+    "migrate:arlar23-thumbnails-to-r2": "node scripts/migrate-media-to-r2.mjs --prefix=images/arlar23/gallery-thumbnails",
+    "migrate:media-to-r2": "node scripts/migrate-media-to-r2.mjs",
+    "migrate:wix-documents-to-r2": "node scripts/migrate-wix-documents-to-r2.mjs --apply",
+    "migrate:sig-wix-media-to-r2": "node scripts/migrate-sig-wix-media-to-r2.mjs --apply",
+    "migrate:wix-blog-videos-to-r2": "node scripts/migrate-wix-blog-videos-to-r2.mjs --apply"
   },
   "dependencies": {
+    "@aws-sdk/client-s3": "^3.1121.0",
+    "@aws-sdk/s3-request-presigner": "^3.1121.0",
+    "@supabase/ssr": "^0.12.5",
+    "@supabase/supabase-js": "^2.112.4",
+    "@tiptap/core": "^3.30.2",
+    "@tiptap/extension-image": "^3.30.2",
+    "@tiptap/extension-text-align": "^3.30.2",
+    "@tiptap/extension-text-style": "^3.30.2",
+    "@tiptap/pm": "^3.30.2",
+    "@tiptap/react": "^3.30.2",
+    "@tiptap/starter-kit": "^3.30.2",
+    "lucide-react": "^1.33.0",
     "next": "16.2.10",
     "react": "19.2.4",
     "react-dom": "19.2.4"
@@ -20,6 +44,7 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.2.10",
+    "sharp": "^0.34.5",
     "tailwindcss": "^4",
     "typescript": "^5"
   }

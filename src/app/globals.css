@@ -1,26 +1,612 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@theme {
+  /* Typography */
+  /* Manrope is the Latin brand typeface; Arabic swaps to TheSans below. */
+  --font-display: var(--font-sans-latin), var(--font-sans-arabic), ui-sans-serif, system-ui, sans-serif;
+  --font-sans: var(--font-sans-latin), var(--font-sans-arabic), ui-sans-serif, system-ui, sans-serif;
+
+  /* Brand crimson — anchored on #C10230 */
+  --color-crimson-50: #fdf2f5;
+  --color-crimson-100: #fbe3ea;
+  --color-crimson-200: #f7bfcf;
+  --color-crimson-300: #f090ab;
+  --color-crimson-400: #e4557d;
+  --color-crimson-500: #d62a58;
+  --color-crimson-600: #c10230;
+  --color-crimson-700: #a1032a;
+  --color-crimson-800: #820627;
+  --color-crimson-900: #6b0a24;
+  --color-crimson-950: #3e0211;
+
+  /* Brand green — anchored on #00953B */
+  --color-jade-50: #effcf4;
+  --color-jade-100: #d8f8e4;
+  --color-jade-200: #aceecb;
+  --color-jade-300: #72dfa8;
+  --color-jade-400: #33c97e;
+  --color-jade-500: #0bae5b;
+  --color-jade-600: #00953b;
+  --color-jade-700: #007a33;
+  --color-jade-800: #04602b;
+  --color-jade-900: #054f26;
+  --color-jade-950: #012c13;
+
+  /* Ink — near-black neutrals for text and dark surfaces */
+  --color-ink-50: #f6f7f9;
+  --color-ink-100: #eceef2;
+  --color-ink-200: #d5d9e2;
+  --color-ink-300: #b0b8c8;
+  --color-ink-400: #8591a9;
+  --color-ink-500: #66748f;
+  --color-ink-600: #515c76;
+  --color-ink-700: #424b60;
+  --color-ink-800: #394051;
+  --color-ink-900: #1c212c;
+  --color-ink-950: #0c0f16;
+
+  --animate-marquee: marquee 40s linear infinite;
+  --animate-marquee-header: marquee 68s linear infinite;
+  --animate-shortcut-slide: shortcut-slide 420ms ease-out both;
+  --animate-shortcut-image: shortcut-image 520ms ease-out both;
+  --animate-countdown-tick: countdown-tick 420ms cubic-bezier(0.2, 0.8, 0.2, 1) both;
+  --animate-congress-glow: congress-glow 5s ease-in-out infinite;
+  --animate-science-drift: science-drift 8s ease-in-out infinite;
+  --animate-science-orbit: science-orbit 18s linear infinite;
+  --animate-science-pulse: science-pulse 4s ease-in-out infinite;
+
+  @keyframes marquee {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-50%);
+    }
+  }
+
+  @keyframes hero-float {
+    0%,
+    100% {
+      transform: translate3d(0, 0, 0) rotate(0deg);
+    }
+    50% {
+      transform: translate3d(14px, -18px, 0) rotate(5deg);
+    }
+  }
+
+  @keyframes hero-drift {
+    0%,
+    100% {
+      transform: translate3d(0, 0, 0) scale(1);
+    }
+    50% {
+      transform: translate3d(-18px, 12px, 0) scale(1.08);
+    }
+  }
+
+  @keyframes hero-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+  @keyframes shortcut-slide {
+    from {
+      opacity: 0;
+      transform: translateX(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+
+@keyframes shortcut-image {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 0.34;
+    }
+  }
+
+  @keyframes countdown-tick {
+    from {
+      opacity: 0;
+      transform: translateY(-35%);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes congress-glow {
+    0%,
+    100% {
+      opacity: 0.6;
+      transform: scale(0.92);
+    }
+    50% {
+      opacity: 1;
+      transform: scale(1.08);
+    }
+  }
+
+  @keyframes science-drift {
+    0%,
+    100% {
+      transform: translate3d(0, 0, 0);
+    }
+    50% {
+      transform: translate3d(12px, -9px, 0);
+    }
+  }
+
+  @keyframes science-orbit {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+  @keyframes science-pulse {
+    0%,
+    100% {
+      opacity: 0.45;
+      transform: scale(0.85);
+    }
+    50% {
+      opacity: 1;
+      transform: scale(1.08);
+    }
+  }
+
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+@keyframes country-card-highlight {
+  0% { box-shadow: 0 0 0 0 rgba(0, 149, 59, 0); }
+  18% { box-shadow: 0 0 0 7px rgba(0, 149, 59, 0.2), 0 16px 34px -18px rgba(0, 149, 59, 0.42); }
+  58% { box-shadow: 0 0 0 4px rgba(0, 149, 59, 0.1), 0 12px 28px -20px rgba(0, 149, 59, 0.28); }
+  100% { box-shadow: 0 0 0 0 rgba(0, 149, 59, 0); }
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+.country-card:target {
+  animation: country-card-highlight 5s ease-out;
+}
+
+@layer base {
+  button:not(:disabled),
+  [role="button"]:not([aria-disabled="true"]),
+  a[href],
+  summary,
+  select:not(:disabled),
+  input[type="button"]:not(:disabled),
+  input[type="submit"]:not(:disabled),
+  input[type="reset"]:not(:disabled) {
+    cursor: pointer;
+  }
+
+  button:disabled,
+  [role="button"][aria-disabled="true"],
+  select:disabled,
+  input[type="button"]:disabled,
+  input[type="submit"]:disabled,
+  input[type="reset"]:disabled {
+    cursor: not-allowed;
   }
 }
 
+/* News editor: exact JSR editor structure, recoloured for ArLAR. */
+.jsr-rich-editor { overflow: hidden; border: 1px solid #cbd5e1; border-radius: 0.5rem; background: #fff; }
+.jsr-rich-editor:focus-within { border-color: #d21f48; box-shadow: 0 0 0 3px rgb(210 31 72 / 0.12); }
+.jsr-editor-toolbar { direction: ltr; display: flex; flex-wrap: wrap; align-items: center; gap: 0.3rem; padding: 0.55rem 0.65rem; border-bottom: 1px solid #e2e8f0; background: #f8fafc; }
+.jsr-editor-toolbar button,
+.jsr-editor-toolbar select { min-height: 2.15rem; border: 1px solid transparent; border-radius: 0.35rem; background: transparent; color: #475569; font: inherit; font-size: 0.78rem; }
+.jsr-editor-toolbar button { display: inline-flex; min-width: 2.15rem; align-items: center; justify-content: center; padding: 0.35rem 0.5rem; cursor: pointer; }
+.jsr-editor-toolbar button:hover,
+.jsr-editor-toolbar button.is-active,
+.jsr-editor-toolbar button[aria-pressed="true"] { border-color: #cbd5e1; background: #fff; color: #b40732; }
+.jsr-editor-toolbar button:disabled { cursor: not-allowed; opacity: 0.35; }
+.jsr-editor-toolbar select {
+  appearance: none;
+  min-width: 7.5rem;
+  border-color: #e2e8f0;
+  border-radius: 0.5rem;
+  background-color: #fff;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2394a3b8' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+  background-position: right 0.625rem center;
+  background-repeat: no-repeat;
+  background-size: 0.875rem;
+  padding: 0.35rem 2rem 0.35rem 0.75rem;
+  cursor: pointer;
+  transition: border-color 160ms ease;
+}
+.jsr-editor-toolbar select:hover { border-color: #cbd5e1; }
+.jsr-editor-toolbar select:focus { border-color: #00953b; outline: none; }
+.jsr-editor-toolbar__spacer { flex: 1 1 auto; }
+.jsr-rich-editor .tiptap { min-height: 32rem; padding: 1.5rem; color: #1e293b; font-size: 1rem; line-height: 1.75; outline: 0; }
+.jsr-rich-editor .tiptap > * + * { margin-top: 1rem; }
+.jsr-rich-editor .tiptap h2,
+.jsr-rich-editor .tiptap h3,
+.jsr-rich-editor .tiptap h4 { color: #0f172a; font-weight: 700; line-height: 1.3; }
+.jsr-rich-editor .tiptap h2 { font-size: 1.65rem; }
+.jsr-rich-editor .tiptap h3 { font-size: 1.35rem; }
+.jsr-rich-editor .tiptap h4 { font-size: 1.15rem; }
+.jsr-rich-editor .tiptap ul { list-style: disc; padding-inline-start: 1.5rem; }
+.jsr-rich-editor .tiptap ol { list-style: decimal; padding-inline-start: 1.5rem; }
+.jsr-rich-editor .tiptap blockquote { padding-inline-start: 1rem; border-inline-start: 3px solid #c90035; color: #475569; }
+.jsr-rich-editor .tiptap a { color: #b40732; text-decoration: underline; }
+.jsr-rich-editor .tiptap img { display: block; width: auto; max-width: 100%; height: auto; margin-block: 1.5rem; border: 1px solid #e2e8f0; border-radius: 0.5rem; cursor: grab; transition: width 0.15s ease, box-shadow 0.15s ease; }
+.jsr-rich-editor .tiptap img[data-size="small"] { width: 32%; }
+.jsr-rich-editor .tiptap img[data-size="medium"],
+.jsr-rich-editor .tiptap img:not([data-size]) { width: 55%; }
+.jsr-rich-editor .tiptap img[data-size="large"] { width: 82%; }
+.jsr-rich-editor .tiptap img[data-align="left"] { margin-inline: 0 auto; }
+.jsr-rich-editor .tiptap img[data-align="center"],
+.jsr-rich-editor .tiptap img[data-align="right"],
+.jsr-rich-editor .tiptap img:not([data-align]) { margin-inline: auto; }
+.jsr-rich-editor .tiptap img.ProseMirror-selectednode { outline: 3px solid rgb(201 0 53 / 0.25); outline-offset: 4px; box-shadow: 0 12px 30px -18px rgb(180 7 50 / 0.7); cursor: grabbing; }
+.jsr-image-toolbar { direction: ltr; display: flex; flex-wrap: wrap; align-items: center; gap: 0.35rem; padding: 0.55rem 0.7rem; border-bottom: 1px solid #f1becb; background: #fff1f4; }
+.jsr-image-toolbar strong { margin-right: 0.35rem; color: #97052a; font-size: 0.76rem; }
+.jsr-image-toolbar > span { color: #64748b; font-size: 0.7rem; text-transform: uppercase; }
+.jsr-image-toolbar button { min-height: 1.9rem; border: 1px solid #e9b3c0; border-radius: 0.35rem; background: #fff; padding: 0.25rem 0.5rem; color: #475569; font: inherit; font-size: 0.72rem; cursor: pointer; }
+.jsr-image-toolbar button.is-active,
+.jsr-image-toolbar button[aria-pressed="true"] { border-color: #b40732; background: #b40732; color: #fff; }
+.jsr-image-toolbar small { flex-basis: 100%; color: #64748b; font-size: 0.7rem; }
+.jsr-editor-error { margin: 0; border-top: 1px solid #fecaca; background: #fef2f2; padding: 0.65rem 0.8rem; color: #b91c1c; font-size: 0.78rem; }
+
+@media (max-width: 42rem) {
+  .jsr-rich-editor .tiptap { min-height: 24rem; padding: 1rem; }
+  .jsr-rich-editor .tiptap img[data-size="small"] { width: 55%; }
+  .jsr-rich-editor .tiptap img[data-size="medium"] { width: 80%; }
+  .jsr-rich-editor .tiptap img[data-size="large"] { width: 100%; }
+}
+
+/* Brand gradients */
+@utility bg-gradient-crimson {
+  background-image: linear-gradient(
+    135deg,
+    #e01a4f 0%,
+    #c10230 55%,
+    #8e0124 100%
+  );
+}
+
+@utility bg-gradient-jade {
+  background-image: linear-gradient(
+    135deg,
+    #00b44a 0%,
+    #00953b 55%,
+    #045c2a 100%
+  );
+}
+
+@utility bg-gradient-brand {
+  background-image: linear-gradient(120deg, #c10230 0%, #7a1440 50%, #00953b 130%);
+}
+
+@utility text-gradient-crimson {
+  background-image: linear-gradient(120deg, #ff5c7f 0%, #e01a4f 45%, #c10230 100%);
+  background-clip: text;
+  color: transparent;
+}
+
+@utility text-gradient-jade {
+  background-image: linear-gradient(120deg, #4ade80 0%, #00b44a 45%, #00953b 100%);
+  background-clip: text;
+  color: transparent;
+}
+
+/* Subtle dot grid for dark hero surfaces */
+@utility bg-dots {
+  background-image: radial-gradient(
+    circle at 1px 1px,
+    rgb(255 255 255 / 0.07) 1px,
+    transparent 0
+  );
+  background-size: 26px 26px;
+}
+
+html {
+  scroll-behavior: smooth;
+  scrollbar-gutter: stable;
+  overflow-x: clip;
+}
+
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: #ffffff;
+  overflow-x: clip;
+  color: var(--color-ink-900);
+  font-family: var(--font-sans-latin), var(--font-sans-arabic), ui-sans-serif, system-ui, sans-serif;
+}
+
+/* Keep persistent site chrome above routed-page snapshots during navigation. */
+.site-header-transition {
+  view-transition-name: site-header;
+}
+
+::view-transition-group(site-header) {
+  z-index: 100;
+  animation: none;
+}
+
+::view-transition-old(site-header),
+::view-transition-new(site-header) {
+  animation: none;
+  mix-blend-mode: normal;
+}
+
+::view-transition-group(.page-fade) {
+  z-index: 1;
+}
+
+/* The routed page body crossfades while the surrounding site chrome stays put. */
+::view-transition-old(.page-fade) {
+  animation: 140ms ease-in both page-fade-out;
+}
+
+::view-transition-new(.page-fade) {
+  animation: 260ms ease-out 100ms both page-fade-in;
+}
+
+@keyframes page-fade-out {
+  to {
+    opacity: 0;
+    transform: translateY(-6px);
+  }
+}
+
+@keyframes page-fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+}
+
+::view-transition-group(root) {
+  animation: none;
+}
+
+::view-transition-old(root) {
+  display: none;
+}
+
+::view-transition-new(root) {
+  animation: none;
+}
+
+[dir="rtl"] body,
+[dir="rtl"] {
+  font-family: var(--font-sans-arabic), var(--font-sans-latin), ui-sans-serif, system-ui, sans-serif;
+}
+
+[dir="rtl"] .font-display {
+  font-family: var(--font-sans-arabic), var(--font-sans-latin), ui-sans-serif, system-ui, sans-serif;
+  letter-spacing: 0 !important;
+}
+
+/* Arabic section eyebrows need a little more presence than their Latin sizing. */
+[dir="rtl"] .font-display[class*="tracking-[0.17em]"][class*="font-semibold"],
+[dir="rtl"] .font-display[class*="tracking-[0.18em]"][class*="font-semibold"] {
+  font-size: 13px !important;
+  line-height: 1.4;
+}
+
+[dir="rtl"] .rtl-flip {
+  transform: scaleX(-1);
+}
+
+/* Mirror decorative hero artwork and overlays around the vertical axis in RTL. */
+[dir="rtl"] .rtl-hero-mirror {
+  scale: -1 1;
+}
+
+/* Arabic replay CTAs read from the label into a left-pointing play arrow. */
+[dir="rtl"] .replay-card-action {
+  flex-direction: row-reverse;
+}
+
+[dir="rtl"] .replay-card-action > svg {
+  transform: scaleX(-1);
+}
+
+.font-arabic,
+[lang="ar"]:not([dir="rtl"]) {
+  font-family: var(--font-sans-arabic), var(--font-sans-latin), ui-sans-serif, system-ui, sans-serif;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  ::view-transition-old(*),
+  ::view-transition-new(*),
+  ::view-transition-group(*) {
+    animation-duration: 1ms !important;
+    animation-delay: 0ms !important;
+  }
+}
+
+/* ArLAR27 congress landing motion ----------------------------------------- */
+
+@keyframes arlar27-hero-drift {
+  from {
+    transform: scale(1.025) translate3d(0, 0, 0);
+  }
+  to {
+    transform: scale(1.085) translate3d(-0.8%, -0.5%, 0);
+  }
+}
+
+@keyframes arlar27-hero-enter {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes arlar27-orbit {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes arlar27-glow {
+  0%,
+  100% {
+    opacity: 0.5;
+    transform: scale(0.92);
+  }
+  50% {
+    opacity: 0.9;
+    transform: scale(1.08);
+  }
+}
+
+@keyframes arlar27-line {
+  from {
+    stroke-dashoffset: 1100;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+@keyframes arlar27-countdown-float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-6px);
+  }
+}
+
+.arlar27-hero-image {
+  animation: arlar27-hero-drift 18s ease-in-out infinite alternate;
+  will-change: transform;
+}
+
+[dir="rtl"] .arlar27-hero-scrim {
+  background: linear-gradient(270deg, rgba(2, 17, 31, 0.98) 0%, rgba(3, 24, 42, 0.88) 45%, rgba(3, 24, 42, 0.3) 100%);
+}
+
+[dir="rtl"] .arlar27-hero-pattern {
+  mask-image: linear-gradient(270deg, black, transparent 76%);
+}
+
+.arlar27-hero-copy {
+  animation: arlar27-hero-enter 760ms cubic-bezier(0.2, 0.8, 0.2, 1) both;
+}
+
+.arlar27-hero-logo {
+  animation: arlar27-hero-enter 680ms cubic-bezier(0.2, 0.8, 0.2, 1) 90ms both;
+}
+
+.arlar27-orbit {
+  animation: arlar27-orbit 28s linear infinite;
+}
+
+.arlar27-hero-glow {
+  animation: arlar27-glow 7s ease-in-out infinite;
+}
+
+.arlar27-line-draw {
+  stroke-dasharray: 1100;
+  animation: arlar27-line 2.2s cubic-bezier(0.2, 0.8, 0.2, 1) 450ms both;
+}
+
+.arlar27-countdown-shell {
+  animation: arlar27-countdown-float 6s ease-in-out infinite;
+  box-shadow: 0 22px 70px rgb(1 12 23 / 0.34), inset 0 1px 0 rgb(255 255 255 / 0.05);
+}
+
+.arlar27-gateway-card {
+  box-shadow: 0 1px 0 rgb(12 15 22 / 0.02);
+  transition: transform 420ms cubic-bezier(0.2, 0.8, 0.2, 1),
+    border-color 320ms ease,
+    box-shadow 420ms ease;
+}
+
+.arlar27-gateway-card:hover {
+  transform: translateY(-7px);
+  border-color: rgb(196 164 93 / 0.72);
+  box-shadow: 0 20px 42px rgb(6 29 50 / 0.08);
+}
+
+.arlar27-landing.is-motion-ready [data-arlar27-reveal] {
+  opacity: 0;
+  transform: translateY(28px);
+  transition: opacity 680ms cubic-bezier(0.2, 0.8, 0.2, 1),
+    transform 680ms cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.arlar27-landing.is-motion-ready [data-arlar27-reveal][data-reveal-delay="1"] {
+  transition-delay: 70ms;
+}
+
+.arlar27-landing.is-motion-ready [data-arlar27-reveal][data-reveal-delay="2"] {
+  transition-delay: 140ms;
+}
+
+.arlar27-landing.is-motion-ready [data-arlar27-reveal][data-reveal-delay="3"] {
+  transition-delay: 210ms;
+}
+
+.arlar27-landing.is-motion-ready [data-arlar27-reveal][data-reveal-delay="4"] {
+  transition-delay: 280ms;
+}
+
+.arlar27-landing.is-motion-ready [data-arlar27-reveal].is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .arlar27-hero-image,
+  .arlar27-hero-copy,
+  .arlar27-hero-logo,
+  .arlar27-orbit,
+  .arlar27-hero-glow,
+  .arlar27-line-draw,
+  .arlar27-countdown-shell {
+    animation: none !important;
+  }
+
+  .arlar27-landing [data-arlar27-reveal],
+  .arlar27-gateway-card {
+    opacity: 1 !important;
+    transform: none !important;
+    transition: none !important;
+  }
+}
+@layer components {
+  .admin-input {
+    @apply h-11 w-full rounded-xl border border-ink-200 bg-white px-3 text-sm text-ink-900 outline-none transition focus:border-crimson-400 focus:ring-2 focus:ring-crimson-50;
+  }
+
+  .admin-textarea {
+    @apply w-full rounded-xl border border-ink-200 bg-white p-3 text-sm leading-6 text-ink-900 outline-none transition focus:border-crimson-400 focus:ring-2 focus:ring-crimson-50;
+  }
+
+  .arlar-admin-editor h2 { @apply mb-3 mt-7 text-2xl font-semibold tracking-[-0.03em] text-ink-950; }
+  .arlar-admin-editor h3 { @apply mb-2 mt-6 text-xl font-semibold tracking-[-0.02em] text-ink-950; }
+  .arlar-admin-editor p { @apply my-3; }
+  .arlar-admin-editor ul { @apply my-4 list-disc pl-6; }
+  .arlar-admin-editor ol { @apply my-4 list-decimal pl-6; }
+  .arlar-admin-editor blockquote { @apply my-5 border-l-4 border-crimson-500 bg-crimson-50 px-5 py-3 italic; }
+  .arlar-admin-editor a { @apply text-crimson-700 underline underline-offset-4; }
+  .arlar-admin-editor img { @apply mx-auto my-6 max-h-[48rem] max-w-full rounded-2xl object-contain; }
+  .arlar-admin-editor video { @apply my-6 w-full rounded-2xl bg-ink-950; }
 }

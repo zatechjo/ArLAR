@@ -1,0 +1,1162 @@
+{
+  "source": "Wix CMS API",
+  "collection": "ArLARCollegeVideos",
+  "exportedAt": "2026-08-14T17:01:50.132Z",
+  "events": [
+    {
+      "id": "4c0d6319",
+      "wixId": "4c0d6319-48d1-49bd-9733-c7c800194766",
+      "title": "ArLAR PulmoRheum Alliance: ILD and Pulmonary Vascular Disease",
+      "date": "2026-07-14T09:00:00Z",
+      "year": 2026,
+      "groups": [
+        "ArLAR College"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://youtube.com/playlist?list=PLK1-788ECfp0&si=l4RPiuT9-TYC64X1",
+      "image": "2026-07-14-arlar-pulmorheum-alliance-ild-and-pulmonary-vascular-disease.jpeg",
+      "originalImage": "bba2f0_c5be99df79a84b6c8c9967ba7e724487~mv2.jpeg",
+      "mediaKey": "bba2f0_c5be99df79a84b6c8c9967ba7e724487~mv2.jpeg",
+      "wixImage": "wix:image://v1/bba2f0_c5be99df79a84b6c8c9967ba7e724487~mv2.jpeg/WhatsApp%20Image%202026-07-10%20at%201.47.45%20PM.jpeg#originWidth=1270&originHeight=1600",
+      "ownerId": "bba2f0b7-e382-46c5-b701-aa6f4f126e00",
+      "createdDate": "2026-07-17T16:27:28.715Z",
+      "updatedDate": "2026-07-17T16:27:28.715Z"
+    },
+    {
+      "id": "bcad2b07",
+      "wixId": "bcad2b07-2d72-488b-9bcf-f2e25d6fa274",
+      "title": "Authorship Criteria in Research: Who Qualifies as an Author?",
+      "date": "2026-06-09T21:00:00Z",
+      "year": 2026,
+      "groups": [
+        "ArLAR College",
+        "ArLAR Research Group"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://youtu.be/QIRODmUjPGs",
+      "image": "2026-06-09-authorship-criteria-in-research-who-qualifies-as-an-author.jpg",
+      "originalImage": "bba2f0_121dc857b948405999c6c5a78d3a0472~mv2.jpg",
+      "mediaKey": "bba2f0_121dc857b948405999c6c5a78d3a0472~mv2.jpg",
+      "wixImage": "wix:image://v1/bba2f0_121dc857b948405999c6c5a78d3a0472~mv2.jpg/Wednesday%2010%20June,%202026.jpg#originWidth=2487&originHeight=3131",
+      "ownerId": "bba2f0b7-e382-46c5-b701-aa6f4f126e00",
+      "createdDate": "2026-07-01T11:41:39.272Z",
+      "updatedDate": "2026-07-01T11:41:39.272Z"
+    },
+    {
+      "id": "acf40848",
+      "wixId": "acf40848-13bc-4908-aa2f-fe059b770ec2",
+      "title": "Gender Differences in Spondyloarthritis: Clinical Implications for Women’s Health",
+      "date": "2026-05-19T09:00:00Z",
+      "year": 2026,
+      "groups": [
+        "Arab Women Health in Rheumatology Group"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://www.youtube.com/playlist?list=PLhkzE1M8cmO4FUs_Vf3Jw8N1ESz9Sqnry",
+      "image": "2026-05-19-gender-differences-in-spondyloarthritis-clinical-implications-for-womens.jpg",
+      "originalImage": "bba2f0_3d3b5b6c99904187a140fb1bcdd52991~mv2.jpg",
+      "mediaKey": "bba2f0_3d3b5b6c99904187a140fb1bcdd52991~mv2.jpg",
+      "wixImage": "wix:image://v1/bba2f0_3d3b5b6c99904187a140fb1bcdd52991~mv2.jpg/ArLAR%20Women%E2%80%99s%20Health%20group%20Webinar-04.jpg#originWidth=4500&originHeight=5646",
+      "ownerId": "bba2f0b7-e382-46c5-b701-aa6f4f126e00",
+      "createdDate": "2026-06-17T19:43:30.765Z",
+      "updatedDate": "2026-06-17T19:43:30.765Z"
+    },
+    {
+      "id": "2ee70cfe",
+      "wixId": "2ee70cfe-3f03-4b8c-a868-b1c36c91a7ea",
+      "title": "Latest Advances in CTD-ILD: Guidelines, Gaps and Future Directions",
+      "date": "2026-04-24T09:00:00Z",
+      "year": 2026,
+      "groups": [
+        "ArLAR College"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO7Icez8LOQXIqXuaKqr8TOf&si=7zrHrXrCFyoGKWyu",
+      "image": "2026-04-24-latest-advances-in-ctd-ild-guidelines-gaps-and-future-directions.jpg",
+      "originalImage": "bba2f0_3d1a84477eb64ae8b8a8965cbcfd0a6d~mv2.jpg",
+      "mediaKey": "bba2f0_3d1a84477eb64ae8b8a8965cbcfd0a6d~mv2.jpg",
+      "wixImage": "wix:image://v1/bba2f0_3d1a84477eb64ae8b8a8965cbcfd0a6d~mv2.jpg/Friday%20April%2024,%202026.jpg#originWidth=2487&originHeight=3131",
+      "ownerId": "bba2f0b7-e382-46c5-b701-aa6f4f126e00",
+      "createdDate": "2026-05-06T15:55:23.294Z",
+      "updatedDate": "2026-05-06T15:55:23.294Z"
+    },
+    {
+      "id": "78e03cc3",
+      "wixId": "78e03cc3-9099-4be8-b422-85d86a0a2f6f",
+      "title": "Top Reasons for Acceptance and Rejection of a Scientific Article: The Editor’s Point of View",
+      "date": "2025-06-24T09:00:00Z",
+      "year": 2025,
+      "groups": [
+        "ArLAR College",
+        "ArLAR Research Group"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://www.youtube.com/watch?v=rexlmzsWOcw",
+      "image": "2025-06-24-top-reasons-for-acceptance-and-rejection-of-a-scientific-article-the-edi.jpg",
+      "originalImage": "bba2f0_a139d8292e204d449395d2b51aeef72e~mv2.jpg",
+      "mediaKey": "bba2f0_a139d8292e204d449395d2b51aeef72e~mv2.jpg",
+      "wixImage": "wix:image://v1/bba2f0_a139d8292e204d449395d2b51aeef72e~mv2.jpg/Panneau%2024%20June%20replay.jpg#originWidth=3654&originHeight=2055",
+      "ownerId": "bba2f0b7-e382-46c5-b701-aa6f4f126e00",
+      "createdDate": "2025-07-02T12:52:43.690Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "8e3e167b",
+      "wixId": "8e3e167b-5ee3-4483-9c8f-1635c6201166",
+      "title": "When to Refer a Patient with Early Arthritis or Inflammatory Low Back Pain to Rheumatology?",
+      "date": "2024-10-23T09:00:00Z",
+      "year": 2024,
+      "groups": [
+        "ArLAR College",
+        "ArLAR Research Group"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://youtu.be/7d-X7etYZOA",
+      "image": "2024-10-23-when-to-refer-a-patient-with-early-arthritis-or-inflammatory-low-back-pa.jpg",
+      "originalImage": "1f2182_fc58fd52f17c46da9f34ddea2847da0d~mv2.jpg",
+      "mediaKey": "1f2182_fc58fd52f17c46da9f34ddea2847da0d~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_fc58fd52f17c46da9f34ddea2847da0d~mv2.jpg/Panneau%2023%20October%202-01.jpg#originWidth=4000&originHeight=2250",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2024-10-25T14:19:28.081Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "1972c99e",
+      "wixId": "1972c99e-564d-4662-9ae6-06246842ac3b",
+      "title": "Quand Référer les Patients Ayant une Arthrite Précoce ou une Lombalgie Inflammatoire en Rhumatologie?",
+      "date": "2024-10-21T09:00:00Z",
+      "year": 2024,
+      "groups": [
+        "ArLAR Research Group",
+        "ArLAR College"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://youtu.be/x5UQHKHmqxU",
+      "image": "2024-10-21-quand-referer-les-patients-ayant-une-arthrite-precoce-ou-une-lombalgie-i.jpg",
+      "originalImage": "1f2182_6de1b9991f3f4ea48d7c280779dee88d~mv2.jpg",
+      "mediaKey": "1f2182_6de1b9991f3f4ea48d7c280779dee88d~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_6de1b9991f3f4ea48d7c280779dee88d~mv2.jpg/Panneau%2021%20October.jpg#originWidth=8000&originHeight=4500",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2024-10-25T13:11:46.574Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "8d58cadc",
+      "wixId": "8d58cadc-a85e-4c3a-b4df-eb2c811bb2dc",
+      "title": "Le Point Rhumato 4ème Webinaire",
+      "date": "2024-09-12T09:00:00Z",
+      "year": 2024,
+      "groups": [
+        "ArLAR Francophone Group",
+        "ArLAR College"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://www.youtube.com/playlist?list=PLhkzE1M8cmO53K-is4MAA2ujoRz7ettYi",
+      "image": "2024-09-12-le-point-rhumato-4eme-webinaire.jpg",
+      "originalImage": "1f2182_ee4e300c826f41cd8b476916d7d1bdf2~mv2.jpg",
+      "mediaKey": "1f2182_ee4e300c826f41cd8b476916d7d1bdf2~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_ee4e300c826f41cd8b476916d7d1bdf2~mv2.jpg/Panneau%2012%20September-01.jpg#originWidth=4000&originHeight=2251",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2024-10-29T15:13:47.515Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "35219973",
+      "wixId": "35219973-bc16-4eec-91a8-42f0233faf87",
+      "title": "Advancing Rheumatology Research through Artificial Intelligence",
+      "date": "2024-05-14T09:00:00Z",
+      "year": 2024,
+      "groups": [
+        "ArLAR College",
+        "ArLAR Research Group"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://youtu.be/k-IeLMLD93o",
+      "image": "2024-05-14-advancing-rheumatology-research-through-artificial-intelligence.jpg",
+      "originalImage": "1f2182_495e75fd86ad4eb9b8574b13b27460ec~mv2.jpg",
+      "mediaKey": "1f2182_495e75fd86ad4eb9b8574b13b27460ec~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_495e75fd86ad4eb9b8574b13b27460ec~mv2.jpg/Panneau%2014%20May-watch%20replay.jpg#originWidth=1920&originHeight=1080",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2024-05-16T15:48:21.865Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "5ecff76e",
+      "wixId": "5ecff76e-0b0e-42cc-94b1-b25469add360",
+      "title": "Strengths and Weaknesses of an International Scientific Study in the Field of Rheumatology",
+      "date": "2024-04-29T09:00:00Z",
+      "year": 2024,
+      "groups": [
+        "ArLAR College",
+        "ArLAR Research Group"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://youtu.be/xd-079RTnn8",
+      "image": "2024-04-29-strengths-and-weaknesses-of-an-international-scientific-study-in-the-fie.jpg",
+      "originalImage": "1f2182_bc8a383c24aa4cb78fdb036b8a35277b~mv2.jpg",
+      "mediaKey": "1f2182_bc8a383c24aa4cb78fdb036b8a35277b~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_bc8a383c24aa4cb78fdb036b8a35277b~mv2.jpg/Panneau%2029%20April%20-%20Watch%20replay.jpg#originWidth=1920&originHeight=1080",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2024-05-13T12:32:55.772Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "9413397a",
+      "wixId": "9413397a-5c00-4d21-b133-77171a184bcc",
+      "title": "Challenging Cases, Rheumatoid Arthritis and Beyond",
+      "date": "2024-04-24T09:00:00Z",
+      "year": 2024,
+      "groups": [
+        "Young Rheumatologist Group",
+        "ArLAR College"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://www.youtube.com/playlist?list=PLhkzE1M8cmO4BZh9WVgtfulfq1T8Aa5M-",
+      "image": "2024-04-24-challenging-cases-rheumatoid-arthritis-and-beyond.jpg",
+      "originalImage": "1f2182_619082bf760142c28adea9224c24534c~mv2.jpg",
+      "mediaKey": "1f2182_619082bf760142c28adea9224c24534c~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_619082bf760142c28adea9224c24534c~mv2.jpg/Panneau%2024%20April-01.jpg#originWidth=1920&originHeight=1080",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2024-05-29T09:46:29.224Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "1d389f9b",
+      "wixId": "1d389f9b-5b87-4813-bfd5-203cc8529b20",
+      "title": "Challenges in Early Referral of Patients with Juvenile Idiopathic Arthritis",
+      "date": "2024-02-21T09:00:00Z",
+      "year": 2024,
+      "groups": [
+        "ArLAR College",
+        "ArLAR Research Group",
+        "Pediatric Rheumatologist Arab Group"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://youtu.be/sPLxwu7v0wY",
+      "image": "2024-02-21-challenges-in-early-referral-of-patients-with-juvenile-idiopathic-arthri.jpg",
+      "originalImage": "bba2f0_3f9185cd2b9a4992bff90fc7c4ecbaec~mv2.jpg",
+      "mediaKey": "bba2f0_3f9185cd2b9a4992bff90fc7c4ecbaec~mv2.jpg",
+      "wixImage": "wix:image://v1/bba2f0_3f9185cd2b9a4992bff90fc7c4ecbaec~mv2.jpg/panneau%20-%20ARCH%20February%2021st%202024.jpg#originWidth=3627&originHeight=2040",
+      "ownerId": "bba2f0b7-e382-46c5-b701-aa6f4f126e00",
+      "createdDate": "2024-02-29T14:19:58.136Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "ab7e183c",
+      "wixId": "ab7e183c-9fbf-4020-9ad1-4ff550848cf9",
+      "title": "Challenges in Early Referral of Psoriatic Arthritis Patients to Rheumatology.",
+      "date": "2024-01-16T09:00:00Z",
+      "year": 2024,
+      "groups": [
+        "ArLAR Research Group",
+        "ArLAR College"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://youtu.be/nlLrRxJuG_k",
+      "image": "2024-01-16-challenges-in-early-referral-of-psoriatic-arthritis-patients-to-rheumato.jpg",
+      "originalImage": "1f2182_5b82a7ab4d304f33ab55ef775940ec7b~mv2.jpg",
+      "mediaKey": "1f2182_5b82a7ab4d304f33ab55ef775940ec7b~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_5b82a7ab4d304f33ab55ef775940ec7b~mv2.jpg/panneau%20replay.jpg#originWidth=4000&originHeight=2250",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2024-01-29T08:23:06.950Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "b59f41cb",
+      "wixId": "b59f41cb-5f16-4c88-b07e-0a556dd76003",
+      "title": "Challenges in Early Referral of Axial Spondyloarthritis Patients to Rheumatology",
+      "date": "2023-12-04T09:00:00Z",
+      "year": 2023,
+      "groups": [
+        "ArLAR Research Group",
+        "ArLAR College"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://youtu.be/jti5XmCF0ig",
+      "image": "2023-12-04-challenges-in-early-referral-of-axial-spondyloarthritis-patients-to-rheu.jpg",
+      "originalImage": "1f2182_1dd7f507d38c4d97a284cf271dffed1e~mv2.jpg",
+      "mediaKey": "1f2182_1dd7f507d38c4d97a284cf271dffed1e~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_1dd7f507d38c4d97a284cf271dffed1e~mv2.jpg/click%20here%20to%20replay%20ARLAR-01.jpg#originWidth=1920&originHeight=1080",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2023-12-14T15:03:00.759Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "11fac6d8",
+      "wixId": "11fac6d8-b7cf-41c9-a728-4462ff2af3c8",
+      "title": "La Médecine de Précision en Rhumatologie: Comment l'IA et les Biosimilaires Peuvent Transformer la Pratique",
+      "date": "2023-11-28T09:00:00Z",
+      "year": 2023,
+      "groups": [
+        "ArLAR College",
+        "ArLAR Francophone Group"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://www.youtube.com/playlist?list=PLhkzE1M8cmO6lWzySmiG_i2E0GC1AI-V8",
+      "image": "2023-11-28-la-medecine-de-precision-en-rhumatologie-comment-l-ia-et-les-biosimilair.jpg",
+      "originalImage": "1f2182_50679398450b4331bfa531cd4cafb9dd~mv2.jpg",
+      "mediaKey": "1f2182_50679398450b4331bfa531cd4cafb9dd~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_50679398450b4331bfa531cd4cafb9dd~mv2.jpg/Replay-12.jpg#originWidth=1920&originHeight=1080",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2023-12-08T12:55:42.928Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "d28c0b8c",
+      "wixId": "d28c0b8c-dbef-4e54-8d06-88c52822347f",
+      "title": "Challenges in Early Referral in Rheumatoid Arthritis Patients to Rheumatology",
+      "date": "2023-10-25T09:00:00Z",
+      "year": 2023,
+      "groups": [
+        "ArLAR College",
+        "ArLAR Research Group"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://youtu.be/pfBKgbo1tUA",
+      "image": "2023-10-25-challenges-in-early-referral-in-rheumatoid-arthritis-patients-to-rheumat.jpg",
+      "originalImage": "1f2182_1ef2ab1293384540aee62d74e18618f5~mv2.jpg",
+      "mediaKey": "1f2182_1ef2ab1293384540aee62d74e18618f5~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_1ef2ab1293384540aee62d74e18618f5~mv2.jpg/Panneau%2025%20October%202023-03.jpg#originWidth=4001&originHeight=2251",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2024-10-25T14:22:57.392Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "51fb38cd",
+      "wixId": "51fb38cd-bd1e-452e-90e7-0ed08b9343cb",
+      "title": "Les Arthrites Juvéniles Idiopathiques",
+      "date": "2023-10-17T09:00:00Z",
+      "year": 2023,
+      "groups": [
+        "ArLAR Francophone Group",
+        "ArLAR College"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://www.youtube.com/playlist?list=PLhkzE1M8cmO67d0ANpqlC1x095skliZlG",
+      "image": "2023-10-17-les-arthrites-juveniles-idiopathiques.jpg",
+      "originalImage": "1f2182_60eca4c8116249c6be0927b353470bd7~mv2.jpg",
+      "mediaKey": "1f2182_60eca4c8116249c6be0927b353470bd7~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_60eca4c8116249c6be0927b353470bd7~mv2.jpg/Replay-09.jpg#originWidth=1920&originHeight=1080",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2023-10-26T10:25:09.920Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "cd799c44",
+      "wixId": "cd799c44-bca3-46ad-b180-545f322ec2fe",
+      "title": "Les Manifestations Extra Articulaires des Spondyloarthrites: Interface Rhumato, Dermato, Gastro et Ophtalmo.",
+      "date": "2023-09-05T15:00:00Z",
+      "year": 2023,
+      "groups": [
+        "ArLAR Francophone Group",
+        "ArLAR College"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO5KkI8CNvnLRiaL1Hvn18fc&si=xMx4Y_00Z2kFy-Mc",
+      "image": "2023-09-05-les-manifestations-extra-articulaires-des-spondyloarthrites-interface-rh.jpg",
+      "originalImage": "1f2182_784b47faeef84e1b90b1510e4ea6988b~mv2.jpg",
+      "mediaKey": "1f2182_784b47faeef84e1b90b1510e4ea6988b~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_784b47faeef84e1b90b1510e4ea6988b~mv2.jpg/Replay-07.jpg#originWidth=1920&originHeight=1080",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2023-10-12T11:45:58.723Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "5dac4437",
+      "wixId": "5dac4437-fc6b-48d9-8733-bcfb98927114",
+      "title": "AID - Let's Start from the Beginning",
+      "date": "2023-07-04T09:00:00Z",
+      "year": 2023,
+      "groups": [
+        "Pediatric Rheumatologist Arab Group",
+        "ArLAR College"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://www.youtube.com/playlist?list=PLhkzE1M8cmO6XWrRVF6CgVoO-eqKxZjDN",
+      "image": "2023-07-04-aid-let-s-start-from-the-beginning.jpg",
+      "originalImage": "1f2182_f095fc7038ba49d180f4feab2d3a78f3~mv2.jpg",
+      "mediaKey": "1f2182_f095fc7038ba49d180f4feab2d3a78f3~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_f095fc7038ba49d180f4feab2d3a78f3~mv2.jpg/Replay-05.jpg#originWidth=1920&originHeight=1080",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2023-07-19T10:17:31.614Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "1d249b16",
+      "wixId": "1d249b16-e38a-4810-9fba-924a710cd8fb",
+      "title": "Coeur et Rhumatismes Inflammatoires Chroniques",
+      "date": "2023-06-20T09:00:00Z",
+      "year": 2023,
+      "groups": [
+        "ArLAR Francophone Group",
+        "ArLAR College"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://www.youtube.com/playlist?list=PLhkzE1M8cmO6TimJVBMMChwvEaa4aiJew",
+      "image": "2023-06-20-coeur-et-rhumatismes-inflammatoires-chroniques.jpg",
+      "originalImage": "1f2182_db66cf19b13a4e948c2c792c8bd84a48~mv2.jpg",
+      "mediaKey": "1f2182_db66cf19b13a4e948c2c792c8bd84a48~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_db66cf19b13a4e948c2c792c8bd84a48~mv2.jpg/Replay-03.jpg#originWidth=1920&originHeight=1080",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2023-07-19T09:45:45.990Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "5f71a6ce",
+      "wixId": "5f71a6ce-ee4c-4123-b065-2a3bf907b938",
+      "title": "Approche Holistique dans la Prise en Charge des Rhumatismes Inflammatoires Chroniques",
+      "date": "2023-04-25T09:00:00Z",
+      "year": 2023,
+      "groups": [
+        "ArLAR Francophone Group",
+        "ArLAR College"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO7HEO7Bupiscnh9weLTjout",
+      "image": "2023-04-25-approche-holistique-dans-la-prise-en-charge-des-rhumatismes-inflammatoir.jpg",
+      "originalImage": "1f2182_8027b7f8b73b4a6c905f9d6a159104fe~mv2.jpg",
+      "mediaKey": "1f2182_8027b7f8b73b4a6c905f9d6a159104fe~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_8027b7f8b73b4a6c905f9d6a159104fe~mv2.jpg/Mass%20Mail-02.jpg#originWidth=2250&originHeight=2812",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2023-05-08T09:16:53.158Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "6174ab46",
+      "wixId": "6174ab46-b567-477b-ae94-deff18c538a6",
+      "title": "Rhumatisme Psoriasique",
+      "date": "2022-12-20T10:00:00Z",
+      "year": 2022,
+      "groups": [
+        "ArLAR Francophone Group",
+        "ArLAR College"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO5Gtk77ZKf4U5EYigz6JwIE",
+      "image": "2022-12-20-rhumatisme-psoriasique.jpg",
+      "originalImage": "1f2182_0af873c9cf9145a3bc2ba33e795e698d~mv2.jpg",
+      "mediaKey": "1f2182_0af873c9cf9145a3bc2ba33e795e698d~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_0af873c9cf9145a3bc2ba33e795e698d~mv2.jpg/REPLAY-25.jpg#originWidth=1742&originHeight=994",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2023-01-09T16:35:31.342Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "90de3e99",
+      "wixId": "90de3e99-9942-4472-9968-85b9f5fd3730",
+      "title": "Challenging Cases in Connective Tissue Disease",
+      "date": "2022-11-30T10:00:00Z",
+      "year": 2022,
+      "groups": [
+        "ArLAR College",
+        "Young Rheumatologist Group"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO5c41xZ-Vv4fDbCXwUCr_L5",
+      "image": "2022-11-30-challenging-cases-in-connective-tissue-disease.jpg",
+      "originalImage": "1f2182_46ecaff87e1f48ca964ac7c5c977c10b~mv2.jpg",
+      "mediaKey": "1f2182_46ecaff87e1f48ca964ac7c5c977c10b~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_46ecaff87e1f48ca964ac7c5c977c10b~mv2.jpg/REPLAY-23.jpg#originWidth=1742&originHeight=994",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2023-01-09T16:11:12.800Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "3f82c001",
+      "wixId": "3f82c001-4a18-4e85-bc4c-57a80fe4c30a",
+      "title": "Actualités sur la Polyarthrite Rhumatoide (2eme Partie)",
+      "date": "2022-11-23T10:00:00Z",
+      "year": 2022,
+      "groups": [
+        "ArLAR College",
+        "ArLAR Francophone Group"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO53vmGgbTxb4WKsC3lXSXlx",
+      "image": "2022-11-23-actualites-sur-la-polyarthrite-rhumatoide-2eme-partie.jpg",
+      "originalImage": "1f2182_0b104d888ed542719f539f648e6853f0~mv2.jpg",
+      "mediaKey": "1f2182_0b104d888ed542719f539f648e6853f0~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_0b104d888ed542719f539f648e6853f0~mv2.jpg/REPLAY-19.jpg#originWidth=1742&originHeight=994",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2023-01-09T16:01:47.028Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "07ac612e",
+      "wixId": "07ac612e-60a6-404c-a1b4-827b9eced2c4",
+      "title": "Outcome Measures in Rheumatology",
+      "date": "2022-11-01T09:00:00Z",
+      "year": 2022,
+      "groups": [
+        "ArLAR Research Group",
+        "ArLAR College"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://youtu.be/efqt2l52Z0s",
+      "image": "2022-11-01-outcome-measures-in-rheumatology.jpg",
+      "originalImage": "1f2182_9c201ec24679419784acd8815feac0d8~mv2.jpg",
+      "mediaKey": "1f2182_9c201ec24679419784acd8815feac0d8~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_9c201ec24679419784acd8815feac0d8~mv2.jpg/REPLAY-21.jpg#originWidth=1742&originHeight=994",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-11-23T09:34:42.787Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "d02737b9",
+      "wixId": "d02737b9-8581-4e8c-b8c3-eb5fc463758b",
+      "title": "Actualités sur la Polyarthrite Rhumatoide (1eme Partie)",
+      "date": "2022-10-26T09:00:00Z",
+      "year": 2022,
+      "groups": [
+        "ArLAR Francophone Group",
+        "ArLAR College"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO45bBQKB-bBF0RRsagyILoh",
+      "image": "2022-10-26-actualites-sur-la-polyarthrite-rhumatoide-1eme-partie.jpg",
+      "originalImage": "1f2182_d78a8232142544659815f2c38c4de705~mv2.jpg",
+      "mediaKey": "1f2182_d78a8232142544659815f2c38c4de705~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_d78a8232142544659815f2c38c4de705~mv2.jpg/REPLAY-17.jpg#originWidth=837&originHeight=478",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-11-15T16:34:21.821Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "2c16c1c2",
+      "wixId": "2c16c1c2-9ae3-45ee-97a0-cdfcf6aad5f2",
+      "title": "Childhood Inflammatory Myopathies Case Based Presentation",
+      "date": "2022-10-19T09:00:00Z",
+      "year": 2022,
+      "groups": [
+        "Pediatric Rheumatologist Arab Group",
+        "ArLAR College"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO7euptonfKWnYggsNK1TzGC",
+      "image": "2022-10-19-childhood-inflammatory-myopathies-case-based-presentation.jpg",
+      "originalImage": "1f2182_33befa2ba1784faeaf566ca2480d3667~mv2.jpg",
+      "mediaKey": "1f2182_33befa2ba1784faeaf566ca2480d3667~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_33befa2ba1784faeaf566ca2480d3667~mv2.jpg/REPLAY-15.jpg#originWidth=837&originHeight=478",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-11-15T16:32:57.615Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "2cfd3252",
+      "wixId": "2cfd3252-fe15-4b4e-ba2c-281df88e2289",
+      "title": "Rhumatisme Psoriasique",
+      "date": "2022-09-21T09:00:00Z",
+      "year": 2022,
+      "groups": [
+        "ArLAR Francophone Group",
+        "ArLAR College"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO6_4myC-zZPwzIQ3Al-5SvI",
+      "image": "2022-09-21-rhumatisme-psoriasique.jpg",
+      "originalImage": "1f2182_657dcef9f15e4e978f4a59aee92c78bb~mv2.jpg",
+      "mediaKey": "1f2182_657dcef9f15e4e978f4a59aee92c78bb~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_657dcef9f15e4e978f4a59aee92c78bb~mv2.jpg/REPLAY-12.jpg#originWidth=1742&originHeight=993",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-10-20T12:36:18.299Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "5b583c0c",
+      "wixId": "5b583c0c-7d75-47ef-a448-e9effc6794d6",
+      "title": "International Cohort GRA",
+      "date": "2022-09-15T09:00:00Z",
+      "year": 2022,
+      "groups": [
+        "ArLAR Research Group",
+        "ArLAR College"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://youtu.be/7TETZsLlD3U",
+      "image": "2022-09-15-international-cohort-gra.jpg",
+      "originalImage": "1f2182_4c45a982aa5e473eba11dc06a492e035~mv2.jpg",
+      "mediaKey": "1f2182_4c45a982aa5e473eba11dc06a492e035~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_4c45a982aa5e473eba11dc06a492e035~mv2.jpg/FcI8O8gXEAYXV6u%20(1).jpg#originWidth=3488&originHeight=1990",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-09-20T09:56:38.427Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "a6696b1a",
+      "wixId": "a6696b1a-b1b5-4eef-84e5-e0f19575c2fb",
+      "title": "Variants of Autoinflammatory Diseases",
+      "date": "2022-05-25T07:00:00Z",
+      "year": 2022,
+      "groups": [
+        "ArLAR College",
+        "Pediatric Rheumatologist Arab Group"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO77dFt2uyJhzH2q_ULxD_eL",
+      "image": "2022-05-25-variants-of-autoinflammatory-diseases.jpg",
+      "originalImage": "1f2182_7d4015c8b3b14cf8900e37f9fd2e23b6~mv2.jpg",
+      "mediaKey": "1f2182_7d4015c8b3b14cf8900e37f9fd2e23b6~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_7d4015c8b3b14cf8900e37f9fd2e23b6~mv2.jpg/REPLAY-09.jpg#originWidth=1742&originHeight=994",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-07-09T05:32:19.169Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "c4b0382d",
+      "wixId": "c4b0382d-70ab-4886-979c-672027444434",
+      "title": "Making an Impact with your Research",
+      "date": "2022-05-19T07:00:00Z",
+      "year": 2022,
+      "groups": [
+        "ArLAR College",
+        "ArLAR Research Group"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://www.youtube.com/watch?v=HDckxV09HVI",
+      "image": "2022-05-19-making-an-impact-with-your-research.jpg",
+      "originalImage": "1f2182_45851b48ebd5458683a1e5dba8c55122~mv2.jpg",
+      "mediaKey": "1f2182_45851b48ebd5458683a1e5dba8c55122~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_45851b48ebd5458683a1e5dba8c55122~mv2.jpg/FSnVkTuUYAAxfNM.jpg#originWidth=3488&originHeight=1990",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-05-28T22:33:35.226Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "186794e0",
+      "wixId": "186794e0-938f-4aed-8951-5e8c17d9430a",
+      "title": "Biosimilars use in Rheumatology: Evidence-Based Medicine",
+      "date": "2022-03-30T07:00:00Z",
+      "year": 2022,
+      "groups": [
+        "ArLAR College"
+      ],
+      "speakers": "Khaled Elmuntaser, MD\nAhmed Zayat, MD",
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO5-iTVwfshOmRaS3SMeWY1I",
+      "image": "2022-03-30-biosimilars-use-in-rheumatology-evidence-based-medicine.jpg",
+      "originalImage": "1f2182_b038f2c4bbeb47f7bdce83d44c1bd812~mv2.jpg",
+      "mediaKey": "1f2182_b038f2c4bbeb47f7bdce83d44c1bd812~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_b038f2c4bbeb47f7bdce83d44c1bd812~mv2.jpg/REPLAY-05.jpg#originWidth=1742&originHeight=994",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-04-27T00:38:34.074Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "49250253",
+      "wixId": "49250253-ad7b-4ff6-bd40-49b77f98fdc6",
+      "title": "Imagerie Du Rachis ",
+      "date": "2022-02-28T08:00:00Z",
+      "year": 2022,
+      "groups": [
+        "ArLAR Francophone Group"
+      ],
+      "speakers": "Rachid Bahiri, MD\nMouna Chelli Bouaziz, MD\nSamy Slimani, MD",
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO7onUKKO1SR11eN_2XDOJcW",
+      "image": "2022-02-28-imagerie-du-rachis.jpg",
+      "originalImage": "1f2182_39fc92b7b34e46cebf4f1433d7124fb2~mv2.jpg",
+      "mediaKey": "1f2182_39fc92b7b34e46cebf4f1433d7124fb2~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_39fc92b7b34e46cebf4f1433d7124fb2~mv2.jpg/REPLAY-38.jpg#originWidth=836&originHeight=477",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-03-11T09:50:31.605Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "ee6c4d47",
+      "wixId": "ee6c4d47-01be-408f-9242-cb03fc6492d4",
+      "title": "Current Evidence in Optimization of Osteoporosis Management",
+      "date": "2022-02-16T08:00:00Z",
+      "year": 2022,
+      "groups": [
+        "ArLAR College"
+      ],
+      "speakers": "Basel Masri, MD\nNadia S, Al-Ali, MD\nDavid Kendler, MD",
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO4IeaoGhUvTm14DvwFe6SVf",
+      "image": "2022-02-16-current-evidence-in-optimization-of-osteoporosis-management.jpg",
+      "originalImage": "1f2182_0118030c98dc4542adfcccedba3241eb~mv2.jpg",
+      "mediaKey": "1f2182_0118030c98dc4542adfcccedba3241eb~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_0118030c98dc4542adfcccedba3241eb~mv2.jpg/REPLAY-36.jpg#originWidth=836&originHeight=477",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-03-11T09:49:42.066Z",
+      "updatedDate": "2025-07-03T12:32:09.518Z"
+    },
+    {
+      "id": "59987b42",
+      "wixId": "59987b42-26eb-4c9d-b082-a01fbdfad615",
+      "title": "Rheumatology Registries: Sharing Experiences from different Arab Countries",
+      "date": "2022-01-26T08:00:00Z",
+      "year": 2022,
+      "groups": [
+        "ArLAR College"
+      ],
+      "speakers": "Hanan Al Rayes, MD\nAdeeba Al-Herz, MD\nNizar Abdellateef, MD",
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO7c9NeIXsCqWJ-dKbmvZRFO",
+      "image": "2022-01-26-rheumatology-registries-sharing-experiences-from-different-arab-countrie.jpg",
+      "originalImage": "1f2182_503ad87c61ee42cd97f28bb6c1064851~mv2.jpg",
+      "mediaKey": "1f2182_503ad87c61ee42cd97f28bb6c1064851~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_503ad87c61ee42cd97f28bb6c1064851~mv2.jpg/REPLAY-34.jpg#originWidth=837&originHeight=477",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-03-11T09:48:31.017Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "9e02c563",
+      "wixId": "9e02c563-05db-4aa1-8d5e-8e0f6a9f80de",
+      "title": "Multidisciplinary Patient Care: Need for Effective Collaboration in Management of SpA",
+      "date": "2021-12-22T08:00:00Z",
+      "year": 2021,
+      "groups": [
+        "ArLAR College"
+      ],
+      "speakers": "Anoud Al Saati, MD\nImane El Bouchti, MD\nAhmed AlDarmaki, MD\nMohamed Salah, MD",
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO61ouD9xAo9gYcvc9wisTtO",
+      "image": "2021-12-22-multidisciplinary-patient-care-need-for-effective-collaboration-in-manag.jpg",
+      "originalImage": "bba2f0_62a435813bff458cb48b605944f101ab~mv2.jpg",
+      "mediaKey": "bba2f0_62a435813bff458cb48b605944f101ab~mv2.jpg",
+      "wixImage": "wix:image://v1/bba2f0_62a435813bff458cb48b605944f101ab~mv2.jpg/Save%20the%20Date-01.jpg#originWidth=3488&originHeight=1990",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-03-11T09:45:29.467Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "e5b62c86",
+      "wixId": "e5b62c86-0883-43e2-9f1d-d658a1ef10ab",
+      "title": "Basic MSUS Assessment For the Upper Limb\n",
+      "date": "2021-12-20T08:00:00Z",
+      "year": 2021,
+      "groups": [
+        "ArLAR Musculoskeletal Sonography Group",
+        "ArLAR College"
+      ],
+      "speakers": "",
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO72Dz7kM_hD2E3_cKFmYDRY",
+      "image": "2021-12-20-basic-msus-assessment-for-the-upper-limb.jpg",
+      "originalImage": "1f2182_8f13d5548d384e4589a84dcdff909eb9~mv2.jpg",
+      "mediaKey": "1f2182_8f13d5548d384e4589a84dcdff909eb9~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_8f13d5548d384e4589a84dcdff909eb9~mv2.jpg/REPLAY-29.jpg#originWidth=978&originHeight=558",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-02-25T23:36:53.642Z",
+      "updatedDate": "2025-07-03T12:32:09.518Z"
+    },
+    {
+      "id": "fa8abf61",
+      "wixId": "fa8abf61-532b-47b4-9c46-9505eefd48ac",
+      "title": "Treatment Updates in Juvenile Idiopathic Arthritis (JIA)\n",
+      "date": "2021-11-29T08:00:00Z",
+      "year": 2021,
+      "groups": [
+        "Pediatric Rheumatologist Arab Group",
+        "ArLAR College"
+      ],
+      "speakers": "",
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO6PmcjLG95exUaF0B5pnyrw",
+      "image": "2021-11-29-treatment-updates-in-juvenile-idiopathic-arthritis-jia.jpg",
+      "originalImage": "1f2182_3c9ff95f814c432c8257d22517659e59~mv2.jpg",
+      "mediaKey": "1f2182_3c9ff95f814c432c8257d22517659e59~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_3c9ff95f814c432c8257d22517659e59~mv2.jpg/12321.jpg#originWidth=978&originHeight=558",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-02-25T23:37:27.060Z",
+      "updatedDate": "2025-07-03T12:32:09.518Z"
+    },
+    {
+      "id": "91ad4b6c",
+      "wixId": "91ad4b6c-3c5f-4daa-ae66-18c312320f5d",
+      "title": "Challenges in Management of Rheumatoid Arthritis\n",
+      "date": "2021-10-27T07:00:00Z",
+      "year": 2021,
+      "groups": [
+        "ArLAR College"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO4Gg2DiUBDEbz4Jk4CJCC-W",
+      "image": "2021-10-27-challenges-in-management-of-rheumatoid-arthritis.jpg",
+      "originalImage": "1f2182_4fdbc6b9ad264dbd967a6800b0c95a20~mv2.jpg",
+      "mediaKey": "1f2182_4fdbc6b9ad264dbd967a6800b0c95a20~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_4fdbc6b9ad264dbd967a6800b0c95a20~mv2.jpg/REPLAY-18.jpg#originWidth=1020&originHeight=580",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-02-25T23:37:28.092Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "1f41610f",
+      "wixId": "1f41610f-d5c8-44cd-bfa5-129849d4e8d4",
+      "title": "Children with Rheumatic Diseases in COVID Pandemic Era",
+      "date": "2021-10-06T07:00:00Z",
+      "year": 2021,
+      "groups": [
+        "Pediatric Rheumatologist Arab Group",
+        "ArLAR College"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO7Jxpo0rXljqLrXmjj1a1SO",
+      "image": "2021-10-06-children-with-rheumatic-diseases-in-covid-pandemic-era.jpg",
+      "originalImage": "1f2182_e98178e943b649409f8b4b2f7ebbdce1~mv2.jpg",
+      "mediaKey": "1f2182_e98178e943b649409f8b4b2f7ebbdce1~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_e98178e943b649409f8b4b2f7ebbdce1~mv2.jpg/REPLAY-21.jpg#originWidth=1020&originHeight=580",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-02-25T23:37:28.904Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "4cd7cc25",
+      "wixId": "4cd7cc25-5542-4348-81d3-ca85a973c1c2",
+      "title": "Auto-inflammatory Disorders Management Update",
+      "date": "2021-09-29T07:00:00Z",
+      "year": 2021,
+      "groups": [
+        "ArLAR College"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO4o5gO3qrXrPdc1L061IDLw",
+      "image": "2021-09-29-auto-inflammatory-disorders-management-update.jpg",
+      "originalImage": "1f2182_bbed7a01eccb4e1ba3fceeaf8c25d874~mv2.jpg",
+      "mediaKey": "1f2182_bbed7a01eccb4e1ba3fceeaf8c25d874~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_bbed7a01eccb4e1ba3fceeaf8c25d874~mv2.jpg/REPLAY-22.jpg#originWidth=1028&originHeight=585",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-02-25T23:37:29.538Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "f1d51906",
+      "wixId": "f1d51906-25b0-40e8-a1b2-8d0a99e7fb6a",
+      "title": "Systemic Vasculitis: Overview and Advances in Management \n",
+      "date": "2021-07-28T07:00:00Z",
+      "year": 2021,
+      "groups": [
+        "ArLAR College"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO4nEryC5L_LIwqmKyJX8lCK",
+      "image": "2021-07-28-systemic-vasculitis-overview-and-advances-in-management.jpg",
+      "originalImage": "1f2182_59cee583153f4d25bf81e7f871cc576b~mv2.jpg",
+      "mediaKey": "1f2182_59cee583153f4d25bf81e7f871cc576b~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_59cee583153f4d25bf81e7f871cc576b~mv2.jpg/REPLAY-17.jpg#originWidth=1028&originHeight=585",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-02-25T23:37:30.024Z",
+      "updatedDate": "2025-07-03T12:32:09.518Z"
+    },
+    {
+      "id": "95c11817",
+      "wixId": "95c11817-cd14-44ad-833b-93b6ee2f5226",
+      "title": "Osteoporose",
+      "date": "2021-07-17T07:00:00Z",
+      "year": 2021,
+      "groups": [
+        "ArLAR Francophone Group",
+        "ArLAR College"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO5FiHNN8OKi2zU0sSIM2oxd",
+      "image": "2021-07-17-osteoporose.jpg",
+      "originalImage": "1f2182_f000660933bb4f6a9ddf6af36f703ee9~mv2.jpg",
+      "mediaKey": "1f2182_f000660933bb4f6a9ddf6af36f703ee9~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_f000660933bb4f6a9ddf6af36f703ee9~mv2.jpg/TWITTER%20-%20updated.JPG#originWidth=3488&originHeight=1990",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-03-01T22:34:03.139Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "337be1e3",
+      "wixId": "337be1e3-c8f9-4bfa-8ba8-c452b045d8c3",
+      "title": "Pregnancy and Rheumatic Diseases",
+      "date": "2021-06-30T07:00:00Z",
+      "year": 2021,
+      "groups": [
+        "ArLAR College"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO4ZREQOpn-ZervgYIXbCdh5",
+      "image": "2021-06-30-pregnancy-and-rheumatic-diseases.jpg",
+      "originalImage": "1f2182_4d18a86535594ba8b99c574a1e9ffc0d~mv2.jpg",
+      "mediaKey": "1f2182_4d18a86535594ba8b99c574a1e9ffc0d~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_4d18a86535594ba8b99c574a1e9ffc0d~mv2.jpg/REPLAY-15.jpg#originWidth=1028&originHeight=585",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-02-25T23:51:10.121Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "c2a93ed9",
+      "wixId": "c2a93ed9-852d-4e70-856d-fbca032ce272",
+      "title": "Rheumatoid Arthritis - What's new?",
+      "date": "2021-05-26T07:00:00Z",
+      "year": 2021,
+      "groups": [
+        "ArLAR College"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO7bZnMZ2gfzgFD7Oz3bDiQU",
+      "image": "2021-05-26-rheumatoid-arthritis-what-s-new.jpg",
+      "originalImage": "1f2182_84f3a692b9134a06884010d54ef803e8~mv2.jpg",
+      "mediaKey": "1f2182_84f3a692b9134a06884010d54ef803e8~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_84f3a692b9134a06884010d54ef803e8~mv2.jpg/23.jpg#originWidth=1013&originHeight=578",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-02-25T23:51:38.594Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "27d206a1",
+      "wixId": "27d206a1-900d-4e16-a88f-226dd0200b9a",
+      "title": "Lupus Day .. Sharing experience",
+      "date": "2021-04-21T07:00:00Z",
+      "year": 2021,
+      "groups": [
+        "ArLAR College"
+      ],
+      "speakers": null,
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO7d57KjCoMdHY2WxIMV1k06",
+      "image": "2021-04-21-lupus-day-sharing-experience.jpg",
+      "originalImage": "1f2182_0a8e3339df3c40a78ff1cf22c9ea98fd~mv2.jpg",
+      "mediaKey": "1f2182_0a8e3339df3c40a78ff1cf22c9ea98fd~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_0a8e3339df3c40a78ff1cf22c9ea98fd~mv2.jpg/REPLAY-13.jpg#originWidth=1013&originHeight=578",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-02-25T23:52:01.369Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "66ebae22",
+      "wixId": "66ebae22-d0ce-405a-bf66-633f206d52dd",
+      "title": "Adolescents with Rheumatic Diseases: Issues to Consider \n",
+      "date": "2021-03-17T07:00:00Z",
+      "year": 2021,
+      "groups": [
+        "Pediatric Rheumatologist Arab Group",
+        "ArLAR College"
+      ],
+      "speakers": "Dr. Fadia S. AlBuhairan\nDr. Lori B, Tucker\nA. V. Ramanan, FRCPCH, FRCP",
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO7e-2NisQvJnpJmgQEjtRjv",
+      "image": "2021-03-17-adolescents-with-rheumatic-diseases-issues-to-consider.jpg",
+      "originalImage": "1f2182_4e971f071c1349ac8ff06e522dda660e~mv2.jpg",
+      "mediaKey": "1f2182_4e971f071c1349ac8ff06e522dda660e~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_4e971f071c1349ac8ff06e522dda660e~mv2.jpg/REPLAY-11%20(1).jpg#originWidth=1043&originHeight=598",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-02-25T23:52:10.626Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "32df4815",
+      "wixId": "32df4815-a304-4129-884d-78bbdad4b7b7",
+      "title": "Biosimilar Experience and Benefit To Health Care Economics",
+      "date": "2021-02-17T08:00:00Z",
+      "year": 2021,
+      "groups": [
+        "ArLAR College"
+      ],
+      "speakers": "Dr. Kamel Mroue\nDr. Ammar AlMaaytah\nDr. Ihsane Hmamouchi",
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO5t1AjAtg6n__e8ntNlIfSO",
+      "image": "2021-02-17-biosimilar-experience-and-benefit-to-health-care-economics.jpg",
+      "originalImage": "1f2182_99e344458f754d02827fe2144a158183~mv2.jpg",
+      "mediaKey": "1f2182_99e344458f754d02827fe2144a158183~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_99e344458f754d02827fe2144a158183~mv2.jpg/REPLAY-12.jpg#originWidth=1043&originHeight=598",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-02-25T23:52:42.829Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "8d0f6564",
+      "wixId": "8d0f6564-b8c4-40a7-8fc6-247d16aa0624",
+      "title": "PsA in 2021",
+      "date": "2021-01-27T08:00:00Z",
+      "year": 2021,
+      "groups": [
+        "ArLAR College"
+      ],
+      "speakers": "Dr. Basel Zorkany\nDr. Sami Salman\nDr. Iain B Mcinnes",
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO676oAt1dUT5KnCWnQ5IAWC",
+      "image": "2021-01-27-psa-in-2021.jpg",
+      "originalImage": "1f2182_b9874237405044b5aca318235e0d86a1~mv2.jpg",
+      "mediaKey": "1f2182_b9874237405044b5aca318235e0d86a1~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_b9874237405044b5aca318235e0d86a1~mv2.jpg/REPLAY-11.jpg#originWidth=1043&originHeight=598",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-02-25T23:53:06.614Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "3951ced8",
+      "wixId": "3951ced8-104a-4ffe-aae5-bfdb59ffc338",
+      "title": "PAH in 2021",
+      "date": "2021-01-13T08:00:00Z",
+      "year": 2021,
+      "groups": [
+        "ArLAR College"
+      ],
+      "speakers": "Dr. Faiq Isho Gorial\nDr. Layla Kazkaz\nDr. Georges Dabar",
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO5Nr_ALGnwiFB5tweuApdPd",
+      "image": "2021-01-13-pah-in-2021.jpg",
+      "originalImage": "1f2182_3701d0876fc24f2e8ca6956c1c568736~mv2.jpg",
+      "mediaKey": "1f2182_3701d0876fc24f2e8ca6956c1c568736~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_3701d0876fc24f2e8ca6956c1c568736~mv2.jpg/REPLAY-10.jpg#originWidth=1043&originHeight=598",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-02-25T23:53:23.571Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "d85bb9d6",
+      "wixId": "d85bb9d6-8b44-4ccd-8c9a-69bc5995ca01",
+      "title": "RA in the Era of COVID-19 ",
+      "date": "2020-12-16T08:00:00Z",
+      "year": 2020,
+      "groups": [
+        "ArLAR College"
+      ],
+      "speakers": "Dr. Manal Mashaleh\nDr. Adel Mahmoud Ali El-Sayed\nDr. Raphel Micheroli ",
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO5HalqD4514RyrIxUQ9M9lN",
+      "image": "2020-12-16-ra-in-the-era-of-covid-19.jpg",
+      "originalImage": "1f2182_4083955928c4499b82aa3e8092b2bc2e~mv2.jpg",
+      "mediaKey": "1f2182_4083955928c4499b82aa3e8092b2bc2e~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_4083955928c4499b82aa3e8092b2bc2e~mv2.jpg/REPLAY-09.jpg#originWidth=1033&originHeight=588",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-02-25T23:54:18.498Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "05301a31",
+      "wixId": "05301a31-6e0f-4e02-a1c3-916adf8c58bf",
+      "title": "Osteoporosis Update in 2020",
+      "date": "2020-12-09T08:00:00Z",
+      "year": 2020,
+      "groups": [
+        "ArLAR College"
+      ],
+      "speakers": "Dr. Carlo Selmi\nDr. Abdellah El Maghraoui\nDr. Riad Sulimani \nDr. Serge Ferrari",
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO6TXuDXs5_2iJBosqCksCh1",
+      "image": "2020-12-09-osteoporosis-update-in-2020.jpg",
+      "originalImage": "1f2182_57d1e933227d4db497cfbfa236a9f04f~mv2.jpg",
+      "mediaKey": "1f2182_57d1e933227d4db497cfbfa236a9f04f~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_57d1e933227d4db497cfbfa236a9f04f~mv2.jpg/REPLAY-08.jpg#originWidth=1033&originHeight=588",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-02-25T23:54:36.405Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "79c57630",
+      "wixId": "79c57630-e634-4270-b564-084507ec6447",
+      "title": "Complexity and Heterogeneity in PsA",
+      "date": "2020-12-02T08:00:00Z",
+      "year": 2020,
+      "groups": [
+        "ArLAR College"
+      ],
+      "speakers": "Dr. Kawather Ben Abdelghani\nDr. Waleed Al-Shehhi\nDr. Carlo Selmi",
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO6Am_67ksdRqhcxIL1sHrfD",
+      "image": "2020-12-02-complexity-and-heterogeneity-in-psa.jpg",
+      "originalImage": "1f2182_e5ae5f60490b43ac81e58627421650ba~mv2.jpg",
+      "mediaKey": "1f2182_e5ae5f60490b43ac81e58627421650ba~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_e5ae5f60490b43ac81e58627421650ba~mv2.jpg/REPLAY-06.jpg#originWidth=1019&originHeight=578",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-02-25T23:54:56.377Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "7f440108",
+      "wixId": "7f440108-dffc-4e5b-a756-fd63ddb87669",
+      "title": "\"TREAT TO TARGET\" IN RHEUMATOID ARTHRITIS; OPTIMIZING PATIENT REPORTED OUTCOMES",
+      "date": "2020-11-25T08:00:00Z",
+      "year": 2020,
+      "groups": [
+        "ArLAR College"
+      ],
+      "speakers": "Dr. Hanan El Rayes\nDr. Mohammad Abu Jbarah\nDr. Rene Westhovens",
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO7EKd7TkiS52QEMOCChCX51",
+      "image": "2020-11-25-treat-to-target-in-rheumatoid-arthritis-optimizing-patient-reported-outc.jpg",
+      "originalImage": "1f2182_9c77ba54639648c0bb122bf46b533fa1~mv2.jpg",
+      "mediaKey": "1f2182_9c77ba54639648c0bb122bf46b533fa1~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_9c77ba54639648c0bb122bf46b533fa1~mv2.jpg/REPLAY-05.jpg#originWidth=1019&originHeight=578",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-02-25T23:55:18.658Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "aa24b119",
+      "wixId": "aa24b119-9d9d-4bbf-9846-48c7a0b9946a",
+      "title": "JIA IN ARAB COUNTRIES: DISEASE LONG-TERM OUTCOME AND SAFETY OF BIOLOGICS",
+      "date": "2020-11-18T08:00:00Z",
+      "year": 2020,
+      "groups": [
+        "ArLAR College"
+      ],
+      "speakers": "Prof. Sulaiman AlMayouf\nDr. Soad Hashad\nDr. Sebastien Vastert",
+      "webinarUrl": "https://www.youtube.com/playlist?list=PLhkzE1M8cmO7qB6A4r7yUHr2GksRvosn9",
+      "image": "2020-11-18-jia-in-arab-countries-disease-long-term-outcome-and-safety-of-biologics.jpg",
+      "originalImage": "1f2182_8171ac74d10a442297ac09bf3383b334~mv2.jpg",
+      "mediaKey": "1f2182_8171ac74d10a442297ac09bf3383b334~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_8171ac74d10a442297ac09bf3383b334~mv2.jpg/REPLAY-07.jpg#originWidth=1029&originHeight=585",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-02-25T23:56:37.142Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "ae6237b7",
+      "wixId": "ae6237b7-32e5-4841-8b8a-0e2b1e20f696",
+      "title": "THE MANAGEMENT OF SPONDYLOARHRITIS IN 2020 THE EXPERTS THOUGHTS ",
+      "date": "2020-10-21T07:00:00Z",
+      "year": 2020,
+      "groups": [
+        "ArLAR College"
+      ],
+      "speakers": "Dr. Bassel El Zorkany\nDr. Khaled Al Naqbi\nDr. Xenofon Baraliakos",
+      "webinarUrl": "https://www.youtube.com/playlist?list=PLhkzE1M8cmO421o87_0oHO19-Q7mdtZV1",
+      "image": "2020-10-21-the-management-of-spondyloarhritis-in-2020-the-experts-thoughts.jpg",
+      "originalImage": "1f2182_e5a7c118e7c74059979b89296c423709~mv2.jpg",
+      "mediaKey": "1f2182_e5a7c118e7c74059979b89296c423709~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_e5a7c118e7c74059979b89296c423709~mv2.jpg/REPLAY-04.jpg#originWidth=1035&originHeight=598",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-02-25T23:56:56.427Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "7ed39d09",
+      "wixId": "7ed39d09-3a97-4d8c-bf5d-665ffe11ee2c",
+      "title": "BIOSIMILARS IN RHEUMATIC DISEASES: TOTALITY OF EVIDENCE AND CLINICAL EXPERIENCE",
+      "date": "2020-10-07T07:00:00Z",
+      "year": 2020,
+      "groups": [
+        "ArLAR College"
+      ],
+      "speakers": "Dr. Nizar Abdullateef\nDr. Chafia Dahou\nDr. Imad Uthman\n",
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO6aOCJJ4Onj3i-S8VsGhKd8",
+      "image": "2020-10-07-biosimilars-in-rheumatic-diseases-totality-of-evidence-and-clinical-expe.jpg",
+      "originalImage": "1f2182_565bcec0e391400393e3130092524206~mv2.jpg",
+      "mediaKey": "1f2182_565bcec0e391400393e3130092524206~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_565bcec0e391400393e3130092524206~mv2.jpg/REPLAY-03.jpg#originWidth=1036&originHeight=593",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-02-25T23:57:09.550Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "1bd7c5d7",
+      "wixId": "1bd7c5d7-915e-44d0-8e8f-8be83536bf6b",
+      "title": "Insights in Management of Rheumatoid Arthritis",
+      "date": "2020-09-24T02:00:00Z",
+      "year": 2020,
+      "groups": [
+        "ArLAR College"
+      ],
+      "speakers": "Dr. Nizar Abdullateef \nDr. Adeeba Al-Herz \nDr. Hussein Halabi\nDr. Edwardo Mysler",
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO57-l6fTkLUQH-7_8DYpPHl",
+      "image": "2020-09-24-insights-in-management-of-rheumatoid-arthritis.jpg",
+      "originalImage": "1f2182_6ef8e9c4fd434fceb852f0603fbcc286~mv2.jpg",
+      "mediaKey": "1f2182_6ef8e9c4fd434fceb852f0603fbcc286~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_6ef8e9c4fd434fceb852f0603fbcc286~mv2.jpg/REPLAY-02.jpg#originWidth=1034&originHeight=593",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-02-25T23:57:20.086Z",
+      "updatedDate": "2025-07-03T12:32:09.163Z"
+    },
+    {
+      "id": "e33b7f19",
+      "wixId": "e33b7f19-3558-4a53-8d35-55f243643bc0",
+      "title": "The Art of Telehealth Webinar",
+      "date": "2020-07-23T02:00:00Z",
+      "year": 2020,
+      "groups": [
+        "ArLAR College"
+      ],
+      "speakers": "Dr. Fatemah Abou Tiban\nDr. Barry Shibuya\nDr. Basel Masri\nDr. Milton Chen\nDr. Ghazzal Hassan",
+      "webinarUrl": "https://youtube.com/playlist?list=PLhkzE1M8cmO7fsDxwfzdr6SaBQ66w8K7D",
+      "image": "2020-07-23-the-art-of-telehealth-webinar.jpg",
+      "originalImage": "1f2182_1edd2ce5cfca46eca0979d97624e9d06~mv2.jpg",
+      "mediaKey": "1f2182_1edd2ce5cfca46eca0979d97624e9d06~mv2.jpg",
+      "wixImage": "wix:image://v1/1f2182_1edd2ce5cfca46eca0979d97624e9d06~mv2.jpg/REPLAY-01.jpg#originWidth=1034&originHeight=593",
+      "ownerId": "1f21824e-3fcd-4bc4-ad58-986e1cfbf993",
+      "createdDate": "2022-02-25T23:57:35.727Z",
+      "updatedDate": "2025-07-03T12:32:09.518Z"
+    }
+  ]
+}

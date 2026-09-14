@@ -1,0 +1,4646 @@
+{
+  "source": "Wix Blog REST API",
+  "exportedAt": "2026-08-29T09:21:55.477Z",
+  "note": "Arabic and English are exported separately. The merged export attaches only Arabic-content pairs matched by exact slug/title or a strict two-minute publish-time window; English duplicates remain represented by the English canonical record.",
+  "sites": {
+    "en": {
+      "id": "8e338f2e-635d-4e06-8ebf-31089162dfcf",
+      "name": "arlaractual"
+    },
+    "ar": {
+      "id": "0ecf6e73-a208-4a11-a004-ad174b958dd0",
+      "name": "website-2"
+    }
+  },
+  "report": {
+    "counts": {
+      "english": 290,
+      "arabic": 291,
+      "exactOrTitlePairs": 269,
+      "translationCandidates": 74,
+      "duplicateOrEnglish": 195,
+      "arabicOnly": 22,
+      "arabicOnlyWithArabicContent": 17
+    },
+    "exactOrTitlePairs": [
+      {
+        "arabicId": "790234c4-6df4-44dc-ae08-4f32273746d6",
+        "englishId": "46c14230-2972-4914-877f-0f41605c3156",
+        "arabicSlug": "تهنئة-بمناسبة-المولد-النبوي-الشريف",
+        "englishSlug": "greetings-on-the-occasion-of-al-mawlid-al-nabawi-al-sharif",
+        "matchType": "publish-time",
+        "deltaMs": 2516
+      },
+      {
+        "arabicId": "4b2d3141-f7a0-463c-b711-3d54caafccba",
+        "englishId": "6a882ada-2c9c-484f-901c-8beb51ba592d",
+        "arabicSlug": "call-for-abstracts-now-open-for-arlar27",
+        "englishSlug": "call-for-abstracts-now-open-for-arlar27",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "43b7a403-4a1c-43e4-a003-079c3dc1b1ea",
+        "englishId": "d52217fe-cfe0-4eba-9911-cc097403ee9a",
+        "arabicSlug": "honoring-a-lifetime-of-excellence",
+        "englishSlug": "honoring-a-lifetime-of-excellence",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "3bca7ecc-6aeb-4600-b9e5-f14c307f6ff7",
+        "englishId": "cfc729aa-6856-4776-8a7e-46f9b4bf8aac",
+        "arabicSlug": "arlar27-organizing-committee-holds-preparatory-meeting",
+        "englishSlug": "arlar27-organizing-committee-holds-preparatory-meeting",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "c8e3a527-e35d-47db-a42d-41e632e2cd57",
+        "englishId": "6d79df24-a340-4002-b491-0df9cb875bcb",
+        "arabicSlug": "arlar-proudly-announces-the-publication-of-rheumatic-diseases-in-the-arab-world",
+        "englishSlug": "arlar-proudly-announces-the-publication-of-rheumatic-diseases-in-the-arab-world",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "b7a41904-7d2d-48d0-a172-8a07fdb111a8",
+        "englishId": "731496be-66a3-4300-aaa9-1b7473057dcd",
+        "arabicSlug": "the-countdown-to-arlar27-begins",
+        "englishSlug": "the-countdown-to-arlar27-begins",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "6b487e50-4da8-4ac4-bfd2-5fc25ab71f3e",
+        "englishId": "98853780-93e7-4dc5-b30f-d21dc26afd37",
+        "arabicSlug": "arlar-college-webinar-arlar-pulmorheum-alliance-ild-and-pulmonary-vascular-disease",
+        "englishSlug": "arlar-college-webinar-arlar-pulmorheum-alliance-ild-and-pulmonary-vascular-disease",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "35b95d9b-5a4b-44c9-8d58-e8ac0f1c9dca",
+        "englishId": "1ebba522-075f-4aae-9664-1b59bde8e36f",
+        "arabicSlug": "الرابطة-العربية-لجمعيات-الروماتيزم-تهنئكم-بحلول-السنة-الهجرية-الجديدة-2",
+        "englishSlug": "arlar-wishes-you-a-happy-hijri-new-year",
+        "matchType": "publish-time",
+        "deltaMs": 4340
+      },
+      {
+        "arabicId": "00b45f70-b697-4ffe-b876-eca52cd725a9",
+        "englishId": "dfa98530-3832-4794-ad19-e408378b75be",
+        "arabicSlug": "arlar-participation-at-eular-2026",
+        "englishSlug": "arlar-participation-at-eular-2026",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "5f97549f-8642-4934-b296-f50999bf7924",
+        "englishId": "06c51f1e-001a-4e91-a031-6673234beffb",
+        "arabicSlug": "arlar-college-arch-webinar-authorship-criteria-in-research-1",
+        "englishSlug": "arlar-college-arch-webinar-authorship-criteria-in-research-1",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "4ea0de75-b093-4cdc-b690-2cbf48a4f6f0",
+        "englishId": "822ebc27-ff39-493d-b1b1-2c34978805ad",
+        "arabicSlug": "baghdad-to-host-the-9th-annual-scientific-congress-on-rheumatic-diseases",
+        "englishSlug": "baghdad-to-host-the-9th-annual-scientific-congress-on-rheumatic-diseases",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "1ef5af91-b6b1-475f-a53e-84e3b67f6262",
+        "englishId": "696375c2-5c88-44b4-b0aa-175132b9f8db",
+        "arabicSlug": "عيد-أضحى-مبارك-2",
+        "englishSlug": "eid-al-adha-mubarak-2",
+        "matchType": "publish-time",
+        "deltaMs": 1601
+      },
+      {
+        "arabicId": "b262efef-5ad9-4f3e-bb68-7620b3d2bcc1",
+        "englishId": "2ad45fad-3d1e-4672-9162-fe95db200a86",
+        "arabicSlug": "arlar-women-s-health-group-webinar-gender-differences-in-spondyloarthritis",
+        "englishSlug": "arlar-women-s-health-group-webinar-gender-differences-in-spondyloarthritis",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "63726b99-2b34-479d-bd94-47e0482553e8",
+        "englishId": "936fe3ca-0dc2-4083-a81d-34be2c3f8b67",
+        "arabicSlug": "arlar-president-calls-for-active-engagement-across-the-arab-rheumatology-community",
+        "englishSlug": "arlar-president-calls-for-active-engagement-across-the-arab-rheumatology-community",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "e31e0480-256b-4833-bc25-d863eaa1dada",
+        "englishId": "3aec4d5f-fc0d-4e25-a085-d5eeed0ac947",
+        "arabicSlug": "arlar-college-webinar-latest-advances-in-ctd-ild",
+        "englishSlug": "arlar-college-webinar-latest-advances-in-ctd-ild",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "46f4bf03-16ed-4139-971a-5f2b66259290",
+        "englishId": "c162d087-8c2d-4e21-9237-e7fc73793518",
+        "arabicSlug": "arlar-college-arch-webinar-authorship-criteria-in-research",
+        "englishSlug": "arlar-college-arch-webinar-authorship-criteria-in-research",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "dec841b9-ca67-4783-b313-4ed867b03d28",
+        "englishId": "622f0c53-458a-430b-bfd6-65a6afae39ca",
+        "arabicSlug": "عيد-فطر-مبارك-2",
+        "englishSlug": "eid-al-fitr-mubarak-1",
+        "matchType": "publish-time",
+        "deltaMs": 6595
+      },
+      {
+        "arabicId": "53640e7b-40f3-4d42-8f46-6590da16cbc1",
+        "englishId": "69238cb3-68d6-47c1-a1eb-e277e4253dc0",
+        "arabicSlug": "تصفح-العدد-الخامس-من-النشرة-الالكترونية-للرابطة",
+        "englishSlug": "arlar-s-5th-e-bulletin-issue-now-available",
+        "matchType": "publish-time",
+        "deltaMs": 15539
+      },
+      {
+        "arabicId": "616bb95d-83c9-43e9-b749-d0b0deb55f08",
+        "englishId": "31687f76-8f8c-4a0a-b1a8-4770ecff11ae",
+        "arabicSlug": "international-iraq-spine-congress-baghdad-2026",
+        "englishSlug": "international-iraq-spine-congress-baghdad-2026",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "b24cd54d-4806-480d-919e-69967c651e49",
+        "englishId": "d4a36026-7b37-4568-ad56-07e848e57ef8",
+        "arabicSlug": "رمضان-مبارك-1",
+        "englishSlug": "ramadan-mubarak-2",
+        "matchType": "publish-time",
+        "deltaMs": 3496
+      },
+      {
+        "arabicId": "8e4e4718-f699-44d6-994b-ba9c707b54ed",
+        "englishId": "d57a15ce-5c47-4c33-8a8d-d53885d8c763",
+        "arabicSlug": "arlar27-preparations-officially-launched-in-baghdad",
+        "englishSlug": "arlar27-preparations-officially-launched-in-baghdad",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "6049a770-79cf-4ca6-a8c5-416b1d083bf5",
+        "englishId": "99f662b3-32f2-4679-9751-1af17e588675",
+        "arabicSlug": "save-the-date-arlar27",
+        "englishSlug": "save-the-date-arlar27",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "a6e6d97e-6bc1-4888-870c-63e7b810d51d",
+        "englishId": "948415a4-3129-4cce-a6ec-6a3faeb8dbcf",
+        "arabicSlug": "yrg-case-challenge-2-now-available",
+        "englishSlug": "yrg-case-challenge-2-now-available",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "63afd789-7515-40fe-b328-2096fa8782b9",
+        "englishId": "9e75bbc0-2def-4b8e-ba47-90a5938bb85a",
+        "arabicSlug": "how-do-asas-eular-axspa-recommendations-shape-your-practice-take-the-survey",
+        "englishSlug": "how-do-asas-eular-axspa-recommendations-shape-your-practice-take-the-survey",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "7ffc94bc-67b9-484b-a245-4332f3ef8e1d",
+        "englishId": "6ca80c51-242c-4bda-ad83-c856ba190a2c",
+        "arabicSlug": "women-s-health-is-rheumatology-care",
+        "englishSlug": "women-s-health-is-rheumatology-care",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "a0355ed1-ce3b-47ac-aad8-8e7f281e2935",
+        "englishId": "1363e82f-aa60-47bd-9699-0db20c53c9cd",
+        "arabicSlug": "كل-عام-وأنتم-بخير",
+        "englishSlug": "happy-new-year-2026",
+        "matchType": "publish-time",
+        "deltaMs": 1950
+      },
+      {
+        "arabicId": "490f1258-aabb-4215-9d58-d10a21e9f9c8",
+        "englishId": "51694b4f-ada5-455f-8b18-bb651956a608",
+        "arabicSlug": "arch-newsletter-issue-3-is-out",
+        "englishSlug": "arch-newsletter-issue-3-is-out",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "31109f51-4c37-4ef8-b6dc-64ea7b655db2",
+        "englishId": "79afa34f-329b-4bf7-aba4-815a735cb13b",
+        "arabicSlug": "arlar-activities-during-the-ilbjh-conference",
+        "englishSlug": "arlar-activities-during-the-ilbjh-conference",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "6901da4d-e4eb-49d1-bbf4-5b058d431d51",
+        "englishId": "143077a9-4d8b-4dfd-9633-36d5132d0335",
+        "arabicSlug": "8th-ilbjh-scientific-congress-highlights",
+        "englishSlug": "8th-ilbjh-scientific-congress-highlights",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "93184c50-c273-48a7-b6e1-a4db6b617b82",
+        "englishId": "05fe4223-b37f-4ae2-a9d1-5a7134115cdb",
+        "arabicSlug": "special-message-from-the-president-ahead-of-the-8th-ilbjh-scientific-congress",
+        "englishSlug": "special-message-from-the-president-ahead-of-the-8th-ilbjh-scientific-congress",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "044a934e-6350-4f96-b79e-662bc3b4ee94",
+        "englishId": "afa4d933-4a1b-460a-a4c4-e252490d30ad",
+        "arabicSlug": "the-8th-ilbjh-scientific-congress-announced",
+        "englishSlug": "the-8th-ilbjh-scientific-congress-announced",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "6ebd0157-9c5f-4507-b8be-99b02c889f16",
+        "englishId": "b5af09f1-e654-46f2-83ff-0b60aabcebad",
+        "arabicSlug": "final-reminder-the-4th-levant-rheumatology-summit-begins-this-week",
+        "englishSlug": "final-reminder-the-4th-levant-rheumatology-summit-begins-this-week",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "711d986a-325f-4c35-8e23-efb84d1604a1",
+        "englishId": "bf042316-800f-4d47-bb13-e16e10f0bbcb",
+        "arabicSlug": "first-iscd-supervised-bone-density-measurement-course-in-iraq-baghdad-march-2026",
+        "englishSlug": "first-iscd-supervised-bone-density-measurement-course-in-iraq-baghdad-march-2026",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "14e604b0-71f5-4397-9689-771abf8eeb39",
+        "englishId": "8e2f48f1-ac51-4379-ae85-60c32c793762",
+        "arabicSlug": "تهنئكم-الرابطة-العربية-لجمعيات-الروماتيزم-بمناسبة-المولد-النبوي-الشريف-كل-عام-وأنتم-بخير",
+        "englishSlug": "arlar-wishes-you-a-blessed-mawlid-al-nabi-1",
+        "matchType": "publish-time",
+        "deltaMs": 11165
+      },
+      {
+        "arabicId": "eac697d2-4230-4184-974a-11b99f413e97",
+        "englishId": "9c6f70f4-4050-4af1-b068-9e6f9ba83852",
+        "arabicSlug": "8th-jordanian-rheumatology-congress-3rd-palestinian-congress-4th-levant-summit-2025",
+        "englishSlug": "8th-jordanian-rheumatology-congress-3rd-palestinian-congress-4th-levant-summit-2025",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "b0ad47a1-2a46-400b-b6d9-02feb2185c51",
+        "englishId": "308693e6-3623-472e-99d2-55ac64b0d667",
+        "arabicSlug": "calling-all-rheumatologists-across-arlar-countries",
+        "englishSlug": "calling-all-rheumatologists-across-arlar-countries",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "1afcb376-6c80-41fe-8018-014f93625324",
+        "englishId": "e873f410-475b-46cf-9db4-0a0f41ba321e",
+        "arabicSlug": "iraq-takes-the-lead",
+        "englishSlug": "iraq-takes-the-lead",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "60935d71-96a0-4d06-a999-dce23a471d64",
+        "englishId": "b96d38a3-2a54-488d-8dcd-33c80b9b05c5",
+        "arabicSlug": "الرابطة-العربية-لجمعيات-الروماتيزم-تهنئكم-بحلول-السنة-الهجرية-الجديدة-1",
+        "englishSlug": "arlar-wishes-you-a-blessed-hijri-new-year-1",
+        "matchType": "publish-time",
+        "deltaMs": 6039
+      },
+      {
+        "arabicId": "012abf4f-fce8-4e79-aecc-49b0c84fa533",
+        "englishId": "c29ee20e-e28b-440a-a3b3-c9cbcbf61a07",
+        "arabicSlug": "arlar-at-eular-2025",
+        "englishSlug": "arlar-at-eular-2025",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "917f459c-f570-4009-b357-6e90a50a11a6",
+        "englishId": "a313d0e5-f2e9-4d64-ad4b-4b61e3cfa557",
+        "arabicSlug": "عيد-أضحى-مبارك-1",
+        "englishSlug": "eid-al-adha-mubarak-1",
+        "matchType": "publish-time",
+        "deltaMs": 2775
+      },
+      {
+        "arabicId": "86a9bb98-0202-4fe6-94d6-e7f409c5dc28",
+        "englishId": "a84de87e-8276-42f6-be93-ea2cba22632b",
+        "arabicSlug": "arlar-college-arch-webinar-top-reasons-for-acceptance-and-rejection-of-a-scientific-article-the-e",
+        "englishSlug": "arlar-college-arch-webinar-top-reasons-for-acceptance-and-rejection-of-a-scientific-article-the-e",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "2f239039-cbf9-4266-9bec-4c43510f1062",
+        "englishId": "946073f3-c774-4914-bcb1-5303e86e4b91",
+        "arabicSlug": "wrapping-up-arlar25-with-a-new-chapter",
+        "englishSlug": "wrapping-up-arlar25-with-a-new-chapter",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "e3a4fcbe-0a6e-4853-b9d1-75029df1d6eb",
+        "englishId": "d1bcec16-2424-4b8e-829f-461c799905e1",
+        "arabicSlug": "يسر-نا-دعوتكم-لحضور-حفل-افتتاح-مؤتمر-الرابطة-العربية-لجمعيات-الروماتيزم-arlar25-في-الجزائر",
+        "englishSlug": "we-are-pleased-to-invite-you-to-the-opening-ceremony-of-the-arlar25-congress-in-algiers",
+        "matchType": "publish-time",
+        "deltaMs": 1034
+      },
+      {
+        "arabicId": "62185d92-38d4-4ff2-aba8-579104189a4b",
+        "englishId": "9179249a-5409-4efe-80ec-592c9a9c88d2",
+        "arabicSlug": "it-s-today-arlar25",
+        "englishSlug": "it-s-today-arlar25",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "6c0c842a-374c-48e1-bca2-1cf4be5ee33d",
+        "englishId": "1d181e50-87b9-47d9-903d-21bbf36d511b",
+        "arabicSlug": "are-you-ready-for-arlar25",
+        "englishSlug": "are-you-ready-for-arlar25",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "02cb16c8-54c6-47de-bf37-149f32d96532",
+        "englishId": "8a264ea1-2caf-4b95-af3d-a4938e7ce4ac",
+        "arabicSlug": "one-day-to-go-the-wait-is-almost-over",
+        "englishSlug": "one-day-to-go-the-wait-is-almost-over",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "112f3037-1a67-41a9-b3d5-c314aa89b49f",
+        "englishId": "c7b15499-759f-417f-a254-dca415eacf57",
+        "arabicSlug": "get-to-know-our-international-speakers",
+        "englishSlug": "get-to-know-our-international-speakers",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "5b2ef2f9-c739-4f62-a6b1-71c56f1263f7",
+        "englishId": "76407512-25b3-4fd1-bf1b-7c264da3f407",
+        "arabicSlug": "just-2-days-left",
+        "englishSlug": "just-2-days-left",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "f434820c-6a2c-48fd-8a94-0252009c75ce",
+        "englishId": "e56aba8f-a338-4d5a-933e-19836068cac4",
+        "arabicSlug": "3-days-to-go",
+        "englishSlug": "3-days-to-go",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "1e6d49e8-8944-428b-a6fd-e5df66896af1",
+        "englishId": "cc2148ff-1c3f-43e9-9152-d88615e806e9",
+        "arabicSlug": "don-t-miss-the-spartan---arlar-symposium-at-arlar25",
+        "englishSlug": "don-t-miss-the-spartan---arlar-symposium-at-arlar25",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "3e5796e6-4019-48b5-907d-b80559218193",
+        "englishId": "94cfb1dc-57b7-49bb-9672-a1658f28d148",
+        "arabicSlug": "4-days-to-go",
+        "englishSlug": "4-days-to-go",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "0225d3f8-1f25-409f-a82b-ad77b1701b95",
+        "englishId": "72d39d2e-3d80-4f7f-b6d6-61363d78f402",
+        "arabicSlug": "arlar25-held-under-presidential-patronage-in-algeria",
+        "englishSlug": "arlar25-held-under-presidential-patronage-in-algeria",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "8bb32cf6-9668-4be7-b30f-826cc9f8010d",
+        "englishId": "d020ca38-b37b-4aea-86b2-28794429c024",
+        "arabicSlug": "ten-days-to-go-arlar25",
+        "englishSlug": "ten-days-to-go-arlar25",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "680417fc-05ef-40c2-b5ef-61645401937e",
+        "englishId": "aa3a6a6a-5d32-4928-9619-15ebf5b9591e",
+        "arabicSlug": "explore-the-workshops-at-arlar25",
+        "englishSlug": "explore-the-workshops-at-arlar25",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "5c36b6b7-ea9c-40b7-91c3-cae08077e8aa",
+        "englishId": "02c805eb-a5fa-4bfb-b384-12ae097be26a",
+        "arabicSlug": "what-to-expect-at-arlar25",
+        "englishSlug": "what-to-expect-at-arlar25",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "6489c3f1-2e08-4991-9059-423b9c8c5c02",
+        "englishId": "ae0d2e0d-5f29-4de1-be0b-61d33e983720",
+        "arabicSlug": "don-t-miss-the-spartan---arlar-symposium-on-axial-spondyloarthritis",
+        "englishSlug": "don-t-miss-the-spartan---arlar-symposium-on-axial-spondyloarthritis",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "30a12f12-a418-4d76-9e27-aa1293953634",
+        "englishId": "aaf0b662-a9f0-4350-811e-cb0a3924158a",
+        "arabicSlug": "just-24-days-to-go",
+        "englishSlug": "just-24-days-to-go",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "20bf9223-31ae-485f-b82c-599f4bf520cd",
+        "englishId": "a7f4607a-9c32-4819-aec4-ae8d8fc86a3c",
+        "arabicSlug": "meet-the-arlar25-scientific-committee",
+        "englishSlug": "meet-the-arlar25-scientific-committee",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "06759322-5412-4736-8d08-8b86d25e4647",
+        "englishId": "5aeb907d-276f-4e9c-8b2c-677e4c2f3c07",
+        "arabicSlug": "meet-the-arlar25-organizing-committee",
+        "englishSlug": "meet-the-arlar25-organizing-committee",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "da13aa21-b689-47dc-9ef1-f4a105c98999",
+        "englishId": "b55c02de-7353-4d4c-8fbf-168e5e49ff3a",
+        "arabicSlug": "join-the-arlar-basic-msus-course-at-arlar25",
+        "englishSlug": "join-the-arlar-basic-msus-course-at-arlar25",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "6331824c-3dd2-42f5-b7ef-b78a0b38c307",
+        "englishId": "a3969dcf-f877-403b-9e8d-9fdbcf9b9a42",
+        "arabicSlug": "just-31-days-left-arlar25-is-almost-here",
+        "englishSlug": "just-31-days-left-arlar25-is-almost-here",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "1f90144e-e01a-466b-9eda-337d4a18d23c",
+        "englishId": "9f2aba4f-6e4c-461f-8cd0-f8e535dc40c6",
+        "arabicSlug": "36-days-to-go-the-countdown-to-arlar25-continues",
+        "englishSlug": "36-days-to-go-the-countdown-to-arlar25-continues",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "c3881bb6-3b5b-428a-8f45-e701a66f1f36",
+        "englishId": "9462576e-904c-409b-94b9-b3c230ba780d",
+        "arabicSlug": "44-days-to-go-the-countdown-to-arlar25-continues",
+        "englishSlug": "44-days-to-go-the-countdown-to-arlar25-continues",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "6eb36900-e3fb-44c1-a7c8-96b98aab5b1f",
+        "englishId": "e2c7c4f0-8be8-4093-b6c6-a37d4c93e948",
+        "arabicSlug": "join-us-for-arlar25",
+        "englishSlug": "join-us-for-arlar25",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "c9ff7d0e-61fb-465a-99a1-551ea00fa096",
+        "englishId": "48039c09-badb-4915-99d3-cc0b80abc546",
+        "arabicSlug": "time-is-running-out-register-for-arlar25-now",
+        "englishSlug": "time-is-running-out-register-for-arlar25-now",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "f4632e38-aa93-486d-895d-23ae061b9a65",
+        "englishId": "64d44805-99a0-47a0-b1b5-de857cde8cbf",
+        "arabicSlug": "52-days-to-go-the-countdown-to-arlar25-continues",
+        "englishSlug": "52-days-to-go-the-countdown-to-arlar25-continues",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "3d689222-3cc4-49da-b0a3-8f15edc92749",
+        "englishId": "15a10437-152d-4cd4-8570-3a01de7316ce",
+        "arabicSlug": "رمضان-كريم-2",
+        "englishSlug": "ramadan-mubarak-1",
+        "matchType": "publish-time",
+        "deltaMs": 2072
+      },
+      {
+        "arabicId": "ac327706-6ef0-4547-9d04-2e9fd7c4f539",
+        "englishId": "425011ee-8fe2-4cc8-916b-e5b3db6cada1",
+        "arabicSlug": "arlar25-full-program-is-now-live",
+        "englishSlug": "arlar25-full-program-is-now-live",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "09d18803-975e-4bf7-8aff-f94ec87142e7",
+        "englishId": "751f7221-d51c-47e1-b19d-4e4f735f886d",
+        "arabicSlug": "arlar25-official-promotional-video-the-countdown-is-on",
+        "englishSlug": "arlar25-official-promotional-video-the-countdown-is-on",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "5b1f7016-e589-4af4-bad0-eba91e68f728",
+        "englishId": "1be6ff92-22a7-4078-ae1d-7b325a974b7d",
+        "arabicSlug": "arlar25-update-only-59-days-to-go",
+        "englishSlug": "arlar25-update-only-59-days-to-go",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "8e5a8d80-3f40-433e-ad7d-d666d5719f9d",
+        "englishId": "735816e4-5eff-4b97-ba52-46b3df0a69d1",
+        "arabicSlug": "arlar25-news-update-eular-ultrasound-workshop-program-revealed",
+        "englishSlug": "arlar25-news-update-eular-ultrasound-workshop-program-revealed",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "0701518d-f3a5-4562-be51-d454c727021b",
+        "englishId": "abd6cd07-15dc-4697-9536-5f14073d6586",
+        "arabicSlug": "countdown-to-arlar25-algeria-67-days-to-go",
+        "englishSlug": "countdown-to-arlar25-algeria-67-days-to-go",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "ce6da844-acc1-493e-8e56-284de7a3550a",
+        "englishId": "a636b328-0bb8-473f-8a5e-97f03b53592e",
+        "arabicSlug": "arlar25-algeria-venue-announcement",
+        "englishSlug": "arlar25-algeria-venue-announcement",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "0246496c-5964-4d69-86a5-4c976df66884",
+        "englishId": "58d29d66-54b8-43aa-8f07-1249ad72026c",
+        "arabicSlug": "arlar25-algeria-save-the-date-for-the-leading-rheumatology-congress",
+        "englishSlug": "arlar25-algeria-save-the-date-for-the-leading-rheumatology-congress",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "e398cc47-96aa-4034-9101-b27625f41ae5",
+        "englishId": "97ecc96f-42cc-4f75-88e1-f0fb08907661",
+        "arabicSlug": "stay-updated-with-arch",
+        "englishSlug": "stay-updated-with-arch",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "0b44191b-d11c-4207-98c7-b3ca7570d22e",
+        "englishId": "18ce1dac-9aea-480d-81d5-a98ab21f6049",
+        "arabicSlug": "arlar25-abstract-submission-hurry-up-and-benefit-from-early-bird-opportunities",
+        "englishSlug": "arlar25-abstract-submission-hurry-up-and-benefit-from-early-bird-opportunities",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "a5317a34-1dc8-4e84-8070-e9f569525b0e",
+        "englishId": "62092b9b-6879-4233-b59c-1e77fa8ce8b1",
+        "arabicSlug": "تتمنى-الرابطة-العربية-لجمعيات-الروماتيزم-لكم-عاما-جديدا-سعيدا-ومليئا-بالأمل-والنجاح",
+        "englishSlug": "arlar-wishes-you-a-happy-new-year",
+        "matchType": "publish-time",
+        "deltaMs": 9769
+      },
+      {
+        "arabicId": "be5605e9-f4b5-4c87-aa5d-65f437fd589a",
+        "englishId": "982ac89c-bf0a-4b58-9c51-42a04583629a",
+        "arabicSlug": "مؤتمر-arlar25-في-الجزائر-1",
+        "englishSlug": "arlar25-algeria-congress-promo",
+        "matchType": "publish-time",
+        "deltaMs": 8932
+      },
+      {
+        "arabicId": "279c426f-4b18-4eed-bab5-be18c3fd7baf",
+        "englishId": "eb1ad4af-4408-4a38-b832-c9d708879321",
+        "arabicSlug": "the-alfa-project-transforming-referral-strategies-in-rheumatology-across-the-arab-world",
+        "englishSlug": "the-alfa-project-transforming-referral-strategies-in-rheumatology-across-the-arab-world",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "72f66f56-d105-4e42-98d8-dd737e945e0c",
+        "englishId": "7361ce01-153d-46c7-bbac-86b864cccd63",
+        "arabicSlug": "اليوم-العالمي-لالتهاب-المفاصل-2",
+        "englishSlug": "world-arthritis-day-3",
+        "matchType": "publish-time",
+        "deltaMs": 3570
+      },
+      {
+        "arabicId": "7a34d98b-da9e-4bcd-98d5-3da4c99a50ff",
+        "englishId": "2785a1bd-ebed-4cfa-a62c-0f271ad49706",
+        "arabicSlug": "arlar-college-arch-webinar-when-to-refer-a-patient-with-early-arthritis-or-inflammatory-low-bac",
+        "englishSlug": "arlar-college-arch-webinar-when-to-refer-a-patient-with-early-arthritis-or-inflammatory-low-bac",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "a1ab2615-2adf-417d-b96a-d28fe7f69a1c",
+        "englishId": "6c4eeb2a-522e-4d49-9bc4-69234935c163",
+        "arabicSlug": "arlar-college-arch-webinar-quand-référer-les-patients-ayant-une-arthrite-précoce-ou-une-lombalgie-i",
+        "englishSlug": "arlar-college-arch-webinar-quand-référer-les-patients-ayant-une-arthrite-précoce-ou-une-lombalgie-i",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "bc0d60a4-acac-4cdd-a727-5d562c0014be",
+        "englishId": "57c966a1-8881-46c8-b96b-e27e0a041809",
+        "arabicSlug": "the-arch-arlar-is-inviting-you-to-a-new-survey",
+        "englishSlug": "the-arch-arlar-is-inviting-you-to-a-new-survey",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "d9ba0cdb-f4cb-4569-aba5-e89bda506c62",
+        "englishId": "c9e4d714-c211-4939-8750-ba1ad3d87ca6",
+        "arabicSlug": "لبنان-وفلسطين-نحن-معكم-في-هذه-الأوقات-الصعبة",
+        "englishSlug": "lebanon-palestine-we-stand-with-you",
+        "matchType": "publish-time",
+        "deltaMs": 2708
+      },
+      {
+        "arabicId": "0b0f6029-803d-4a28-b079-503288b27c2e",
+        "englishId": "14d1e690-bdaa-41a0-97c1-653472b6826b",
+        "arabicSlug": "تضامنا-مع-أهلنا-في-فلسطين",
+        "englishSlug": "we-stand-with-palestine",
+        "matchType": "publish-time",
+        "deltaMs": 7634
+      },
+      {
+        "arabicId": "7b86589a-ee02-4e10-a659-5b3c28ea4aa9",
+        "englishId": "b1443a48-6001-4141-b9cc-01acbd435762",
+        "arabicSlug": "تضامنا-مع-أهلنا-في-لبنان",
+        "englishSlug": "we-stand-with-lebanon",
+        "matchType": "publish-time",
+        "deltaMs": 2197
+      },
+      {
+        "arabicId": "0014482a-f196-4f85-a4f3-0b3fe681799f",
+        "englishId": "56e8762b-9533-49ca-ab7a-040fb44db3ed",
+        "arabicSlug": "التسجيل-مفتوح-الآن-لمؤتمر-arlar25-في-الجزائر",
+        "englishSlug": "registration-is-now-open-for-arlar25-congress-in-algeria",
+        "matchType": "publish-time",
+        "deltaMs": 7437
+      },
+      {
+        "arabicId": "7da390dd-bd96-468b-b63e-778cd21168e7",
+        "englishId": "7ddf6b8a-11df-466f-9594-c77af17da686",
+        "arabicSlug": "introducing-the-arlar25-congress-president-dr-manal-el-rakaawi",
+        "englishSlug": "introducing-the-arlar25-congress-president-dr-manal-el-rakaawi",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "3461da53-d932-4e6c-9a53-458a46aa9caf",
+        "englishId": "e1714118-9fef-400d-9ce5-0873dbef5036",
+        "arabicSlug": "الرابطة-العربية-لجمعيات-الروماتيزم-تهنئكم-بحلول-عيد-المولد-النبوي-الشريف",
+        "englishSlug": "arlar-wishes-you-a-blessed-mawlid-al-nabi",
+        "matchType": "publish-time",
+        "deltaMs": 2215
+      },
+      {
+        "arabicId": "65e90af8-f834-4ea3-899e-a4596112e2dd",
+        "englishId": "e30c90c2-28fa-4893-8dee-3e47f7dcfdfb",
+        "arabicSlug": "meet-the-emirates-society-for-rheumatology",
+        "englishSlug": "meet-the-emirates-society-for-rheumatology",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "31fb710b-34e2-4d9a-8c51-c6e35d98a03f",
+        "englishId": "c0a0bbcd-5249-44e7-9615-2902e7724d9e",
+        "arabicSlug": "meet-the-tunisian-league-against-rheumatism",
+        "englishSlug": "meet-the-tunisian-league-against-rheumatism",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "ad36693e-1914-4333-8f7e-9b5624ef57ab",
+        "englishId": "13b24922-c652-414e-bf15-260fbff33465",
+        "arabicSlug": "meet-the-syrian-association-for-rheumatology",
+        "englishSlug": "meet-the-syrian-association-for-rheumatology",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "742a3d6c-37a6-4055-a810-c0c67e95dd88",
+        "englishId": "c77c8a5f-49b1-44b0-b6ec-f4130b418fec",
+        "arabicSlug": "arlar-groupe-francophone-le-point-rhumato-4th-webinar",
+        "englishSlug": "arlar-groupe-francophone-le-point-rhumato-4th-webinar",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "194132b4-dd39-4236-b4db-c255cb8e1e0f",
+        "englishId": "b82a02ff-1a47-4f5d-a5e8-ff1228d6f002",
+        "arabicSlug": "what-is-arch",
+        "englishSlug": "what-is-arch",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "cda110de-9351-474e-96ef-2ee889b05538",
+        "englishId": "5ee1d8ea-4eb8-46a6-aa35-2a5149fe0e94",
+        "arabicSlug": "meet-the-sudanese-association-of-rheumatology",
+        "englishSlug": "meet-the-sudanese-association-of-rheumatology",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "1c58508f-5200-4af7-8573-8f6741f4fafd",
+        "englishId": "427b538d-c780-41ad-b0a0-9eb844e6c648",
+        "arabicSlug": "meet-the-saudi-society-for-rheumatology",
+        "englishSlug": "meet-the-saudi-society-for-rheumatology",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "1204e25d-0fab-46f2-8f53-31cf4fd50249",
+        "englishId": "699b74b4-2aaa-4fe9-baeb-4203c963d1cf",
+        "arabicSlug": "meet-the-qatar-rheumatology-association",
+        "englishSlug": "meet-the-qatar-rheumatology-association",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "899efa97-9f6e-4b78-9017-be05f5712160",
+        "englishId": "a6fcef82-aece-4c8c-b4eb-44fcb4b4b8f2",
+        "arabicSlug": "meet-the-palestinian-rheumatology-society",
+        "englishSlug": "meet-the-palestinian-rheumatology-society",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "54b5ce8d-b794-43cc-a594-831c1aa4e3d3",
+        "englishId": "4de49032-1d7b-4aae-baff-f9e7be24b144",
+        "arabicSlug": "meet-the-oman-society-of-rheumatology",
+        "englishSlug": "meet-the-oman-society-of-rheumatology",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "ec21d10d-023a-4249-8540-29a5137f7f02",
+        "englishId": "5a7461ff-fef7-411a-9a4e-caf2c851338b",
+        "arabicSlug": "meet-the-moroccan-society-of-rheumatology",
+        "englishSlug": "meet-the-moroccan-society-of-rheumatology",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "01c673da-33d6-4167-bcf5-f2cced7ff916",
+        "englishId": "e2bab30e-420a-40d1-ac69-2683bb602a6a",
+        "arabicSlug": "meet-the-libyan-rheumatology-society",
+        "englishSlug": "meet-the-libyan-rheumatology-society",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "17670921-11bd-44df-9c2f-bfc4a941bb46",
+        "englishId": "5c9be9bc-5a1a-49e7-a2c9-3452fdaf4e22",
+        "arabicSlug": "meet-the-lebanese-society-of-rheumatology",
+        "englishSlug": "meet-the-lebanese-society-of-rheumatology",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "f12ea31b-4cf2-4c15-9853-036637985cea",
+        "englishId": "aae8b420-6bef-44e5-91a8-36216ed6da26",
+        "arabicSlug": "تصفح-العدد-الرابع-من-النشرة-الالكترونية-للرابطة",
+        "englishSlug": "arlar-s-4th-e-bulletin-issue-now-available",
+        "matchType": "publish-time",
+        "deltaMs": 1334
+      },
+      {
+        "arabicId": "b999aafe-5281-44bc-8ac4-e9ef610c62bd",
+        "englishId": "cffb3ff6-55e0-4a82-9d43-a588885e8654",
+        "arabicSlug": "meet-the-kuwait-association-of-rheumatologists",
+        "englishSlug": "meet-the-kuwait-association-of-rheumatologists",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "9ab4ebc3-7fcf-4c2f-a8bf-9b1e5790eafb",
+        "englishId": "2e26d53c-bf2b-43d1-8021-5f47857b658d",
+        "arabicSlug": "meet-the-jordanian-society-of-rheumatology",
+        "englishSlug": "meet-the-jordanian-society-of-rheumatology",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "a3cdff7c-f114-410b-81fc-0f9fdd75b61b",
+        "englishId": "cd490a16-f5b7-4b89-8215-bc05b242ccc8",
+        "arabicSlug": "meet-the-iraqi-league-for-bone-and-joint-health",
+        "englishSlug": "meet-the-iraqi-league-for-bone-and-joint-health",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "c3c4683c-324c-4540-ace5-cf187822a8ec",
+        "englishId": "310ec4b1-d63e-41c1-8689-333617c443e1",
+        "arabicSlug": "الحرية-للزميل-الدكتور-انس-مهنا",
+        "englishSlug": "freedom-for-our-colleague-dr-anas-muhanna",
+        "matchType": "publish-time",
+        "deltaMs": 956
+      },
+      {
+        "arabicId": "3ee53b08-7426-4bc3-badb-545d3eff2575",
+        "englishId": "797da707-72fe-4196-a7f4-d562bbacb5a1",
+        "arabicSlug": "meet-the-egyptian-society-of-rheumatic-diseases",
+        "englishSlug": "meet-the-egyptian-society-of-rheumatic-diseases",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "2be4d1ef-77be-43b9-bb02-fce7066e6f2a",
+        "englishId": "bddc5184-831c-4af4-8bc9-761d0ff6c82c",
+        "arabicSlug": "meet-the-algerian-society-of-rheumatology",
+        "englishSlug": "meet-the-algerian-society-of-rheumatology",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "a8e511ce-8271-49e4-a5f9-4a21abadd91b",
+        "englishId": "c90ce434-307b-46bd-8289-a1440a549876",
+        "arabicSlug": "introducing-the-arlar-community",
+        "englishSlug": "introducing-the-arlar-community",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "9cab25b0-570a-42ae-9055-5cf6bcc678e9",
+        "englishId": "207252c2-abba-4d79-adba-5a95c69211db",
+        "arabicSlug": "arlar25-abstract-submission-now-open",
+        "englishSlug": "arlar25-abstract-submission-now-open",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "4fb527fc-4727-4fb7-b2a7-d85ba1a0d690",
+        "englishId": "8f2b1675-b664-4ed8-aae5-f9718b9a1b43",
+        "arabicSlug": "countdown-begins-arlar25-algeria-congress-set-for-april-23-26-2025",
+        "englishSlug": "countdown-begins-arlar25-algeria-congress-set-for-april-23-26-2025",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "48448527-fb51-4ff3-8c71-841f770f49b9",
+        "englishId": "d763258e-1626-4e22-8579-17f068fdcbd4",
+        "arabicSlug": "الرابطة-العربية-لجمعيات-الروماتيزم-تهنئكم-بحلول-السنة-الهجرية-الجديدة",
+        "englishSlug": "arlar-wishes-you-a-blessed-hijri-new-year",
+        "matchType": "publish-time",
+        "deltaMs": 1388
+      },
+      {
+        "arabicId": "1e362cf8-33b4-43f8-adfd-b16754f4e9f2",
+        "englishId": "642d2ff2-416b-43f3-89a1-17a36f9452dd",
+        "arabicSlug": "أوقفوا-استهداف-المنظومة-الصحية-بتدميرها-و-القتل-المتعمد-للأطباء-و-العاملين-في-الرعاية-الصحية-في-غزة",
+        "englishSlug": "stop-targeting-the-health-facilities-and-health-professionals-in-gaza",
+        "matchType": "publish-time",
+        "deltaMs": 27008
+      },
+      {
+        "arabicId": "d5fdf0df-5863-46b9-b4fe-1bbfffe1bd68",
+        "englishId": "4a561eff-926a-4bb2-81db-1d7d935b35a4",
+        "arabicSlug": "اوقفوا-حرب-الإبادة-والتطهير-العرقي-على-الشعب-الفلسطيني",
+        "englishSlug": "stop-the-war-of-extermination-against-the-palestinian-people",
+        "matchType": "publish-time",
+        "deltaMs": 2653
+      },
+      {
+        "arabicId": "cf1c68e8-6ec4-45f4-a5a1-84d6bbe1c88b",
+        "englishId": "981daf0b-e763-43c8-9dc0-763f85101e90",
+        "arabicSlug": "عيد-أضحى-مبارك",
+        "englishSlug": "eid-al-adha-mubarak",
+        "matchType": "publish-time",
+        "deltaMs": 798
+      },
+      {
+        "arabicId": "e595947a-3bb5-4d77-b1d0-1681fba7c529",
+        "englishId": "d5e3d3f5-f611-4d68-a60d-f19009a328d9",
+        "arabicSlug": "arlar-at-eular2024",
+        "englishSlug": "arlar-at-eular2024",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "08e7ff4e-c6ea-44be-9d43-d4ab23910c96",
+        "englishId": "2e44f228-90bd-4ad1-9992-b76bb525357e",
+        "arabicSlug": "arlar-yrg-webinar-challenging-cases-seronegative-spa",
+        "englishSlug": "arlar-yrg-webinar-challenging-cases-seronegative-spa",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "8c05a91f-5412-4317-8c45-78c9d5697413",
+        "englishId": "7e4a4712-643e-430e-bcc4-d1f2424c43d0",
+        "arabicSlug": "seronegative-spa-event-hosted-by-yrg-arlar-college",
+        "englishSlug": "seronegative-spa-event-hosted-by-yrg-arlar-college",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "e62808e8-2713-427e-a5d4-8f82c0a5d039",
+        "englishId": "0865c167-a11a-4120-90c0-42eadac64d1c",
+        "arabicSlug": "2024-lsr-congress-and-third-levant-summit-a-convergence-of-global-and-regional-rheumatology-experti",
+        "englishSlug": "2024-lsr-congress-and-third-levant-summit-a-convergence-of-global-and-regional-rheumatology-experti",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "a6a7d96f-3ac9-4a06-9d6b-ae5e663a1cd0",
+        "englishId": "60105bd7-f025-4988-becd-6999cc895a63",
+        "arabicSlug": "arch-webinar-advancing-rheumatology-research-through-artificial-intelligence",
+        "englishSlug": "arch-webinar-advancing-rheumatology-research-through-artificial-intelligence",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "10928a09-5694-4d07-ba6a-a74896e65a3a",
+        "englishId": "c87dc606-7086-4a05-9cd6-fb69d7b290f1",
+        "arabicSlug": "arlar-young-rheumatologists-group-webinar-challenging-cases-rheumatoid-arthritis-and-beyond",
+        "englishSlug": "arlar-young-rheumatologists-group-webinar-challenging-cases-rheumatoid-arthritis-and-beyond",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "6bee983f-d59f-4054-a895-d0d6f0ae29e9",
+        "englishId": "2a7e3720-451d-44b5-80a0-b95290ee0515",
+        "arabicSlug": "عيد-فطر-سعيد",
+        "englishSlug": "eid-fitr-mubarak-1",
+        "matchType": "publish-time",
+        "deltaMs": 1774
+      },
+      {
+        "arabicId": "bae4886a-1824-47a0-8fa5-840626915215",
+        "englishId": "86ebcc3c-b266-435d-afce-231945ec0678",
+        "arabicSlug": "arlar-college-arch-webinar-strengths-and-weaknesses-of-an-international-scientific-study-in-the-f",
+        "englishSlug": "arlar-college-arch-webinar-strengths-and-weaknesses-of-an-international-scientific-study-in-the-f",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "18764ef0-df69-4498-9b6f-fe9881c347af",
+        "englishId": "caf112e2-9617-4999-9744-0f4716a37f71",
+        "arabicSlug": "الرابطة-العربية-لجمعيات-الروماتيزم-تهنئكم-بحلول-شهر-رمضان-المبارك-كل-عام-وأنتم-بخير",
+        "englishSlug": "arlar-wishes-you-and-your-loved-ones-a-blessed-ramadan",
+        "matchType": "publish-time",
+        "deltaMs": 3762
+      },
+      {
+        "arabicId": "f8c746bc-e3bc-449c-8a6e-2df7a0544eba",
+        "englishId": "f953afd8-6603-40bd-905a-275c8b91305c",
+        "arabicSlug": "يوم-المرأة-العالمي",
+        "englishSlug": "international-women-s-day",
+        "matchType": "publish-time",
+        "deltaMs": 1753
+      },
+      {
+        "arabicId": "0b989c4d-5799-4ce2-9e63-24999429f99f",
+        "englishId": "31c45b18-1ab7-44b9-a611-bddd3e531ea9",
+        "arabicSlug": "arlar25-algeria-congress-save-the-date",
+        "englishSlug": "arlar25-algeria-congress-save-the-date",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "4b4aa8e0-8d3d-4a88-b0d1-071b47c1209f",
+        "englishId": "dd273fbb-aa46-4b75-b4a5-026535463928",
+        "arabicSlug": "yrg-s-upcoming-spotlight-challenging-cases-of-rheumatoid-arthritis-april-24",
+        "englishSlug": "yrg-s-upcoming-spotlight-challenging-cases-of-rheumatoid-arthritis-april-24",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "2b114e91-4db7-494d-86d5-1a3d8716f3ed",
+        "englishId": "fb6c574d-9970-4787-8fc0-040a4646aff2",
+        "arabicSlug": "arlar-college-arch-webinar-addressing-early-referral-challenges-in-juvenile-idiopathic-arthritis",
+        "englishSlug": "arlar-college-arch-webinar-addressing-early-referral-challenges-in-juvenile-idiopathic-arthritis",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "8d714bbe-5b20-4453-896f-266ea2dc909e",
+        "englishId": "16f32ed7-5576-4bea-a988-322c64db79a1",
+        "arabicSlug": "تصفح-العدد-الثاني-من-النشرة-الالكترونية-للرابطة-1",
+        "englishSlug": "arlar-s-3rd-e-bulletin-issue-now-available",
+        "matchType": "publish-time",
+        "deltaMs": 5914
+      },
+      {
+        "arabicId": "4d29f2d1-55bb-4c45-b800-62f4938bec87",
+        "englishId": "71624e73-9d5c-4d86-8bd6-633f3c5b21da",
+        "arabicSlug": "يوم-طبيب-الروماتيزم-في-الوطن-العربي-1",
+        "englishSlug": "rheumatologist-day-in-the-arab-world",
+        "matchType": "publish-time",
+        "deltaMs": 8104
+      },
+      {
+        "arabicId": "1e0b1aa2-c1fb-4567-b9d0-4964471928f5",
+        "englishId": "db260919-dbc8-4c4a-9e66-909f56b0c34e",
+        "arabicSlug": "اللقاء-العلمي-المشترك-لجمعية-أطباء-أمراض-الروماتيزم-والمفاصل-الأردنية-وجمعية-هشاشة-العظام-الأردنية-ي",
+        "englishSlug": "jsr-and-jos-joint-meeting-spotlights-latest-developments-in-osteoporosis-research",
+        "matchType": "publish-time",
+        "deltaMs": 996
+      },
+      {
+        "arabicId": "bad2221b-00f7-469a-a6b8-c4ad258a7235",
+        "englishId": "9166c15b-34b5-42a2-bdf9-83948744fb7c",
+        "arabicSlug": "arlar-college-arch-hosts-key-webinar-on-early-referral-challenges-in-psoriatic-arthritis-jan-16-2",
+        "englishSlug": "arlar-college-arch-hosts-key-webinar-on-early-referral-challenges-in-psoriatic-arthritis-jan-16-2",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "33cbcec6-b11f-4fef-8276-46f55ca3c4fc",
+        "englishId": "b03cfad0-97be-42cc-b3ea-9796a41721d8",
+        "arabicSlug": "تهنئة-العام-الجديد-2024-من-الرابطة",
+        "englishSlug": "arlar-s-new-year-2024-greetings",
+        "matchType": "publish-time",
+        "deltaMs": 3591
+      },
+      {
+        "arabicId": "e6b8b552-b9ae-4f2e-9af2-ed01f40c78e7",
+        "englishId": "609ab532-b07a-4e37-ba99-4e2fe923ffb7",
+        "arabicSlug": "تصفح-العدد-الثاني-من-النشرة-الالكترونية-للرابطة",
+        "englishSlug": "arlar-s-2nd-e-bulletin-issue-now-available",
+        "matchType": "publish-time",
+        "deltaMs": 2545
+      },
+      {
+        "arabicId": "4bbd9aa5-7baa-4f5f-95c6-a78bc4e3ca9e",
+        "englishId": "29c82694-7665-4661-910d-8984a9b25e22",
+        "arabicSlug": "invitation-to-participate-arch-arlar-research-group",
+        "englishSlug": "invitation-to-participate-arch-arlar-research-group",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "66c210b4-f736-4eaf-8a7b-98751c5a5245",
+        "englishId": "f7d574d9-68e1-4f33-bf71-90b090011c0e",
+        "arabicSlug": "arlar-college-arch-webinar-dec-4-2023",
+        "englishSlug": "arlar-college-arch-webinar-dec-4-2023",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "e7156022-33c1-4061-a871-033bc2b46744",
+        "englishId": "5ee8a50e-70ad-480d-997a-404b784d3490",
+        "arabicSlug": "arlar-groupe-francophone-webinar-november-28",
+        "englishSlug": "arlar-groupe-francophone-webinar-november-28",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "22d0fb77-c42b-40fa-948f-2c56e869c169",
+        "englishId": "9f1a28c9-bffe-4534-a8f2-f6bd3cec43dc",
+        "arabicSlug": "arlar-s-yrg-challenge-deciphering-a-juvenile-dermatomyositis-case-share-your-insights-below",
+        "englishSlug": "arlar-s-yrg-challenge-deciphering-a-juvenile-dermatomyositis-case-share-your-insights-below",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "f1895ea9-8b96-410e-adac-421b4f16975a",
+        "englishId": "664a407e-cfb7-443c-88de-d7d514b39f84",
+        "arabicSlug": "9th-qatar-musculoskeletal-ultrasound-course-qmusc",
+        "englishSlug": "9th-qatar-musculoskeletal-ultrasound-course-qmusc",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "38988336-0379-43ba-a6b3-57ce997e4121",
+        "englishId": "911407ea-b82d-4a11-8787-d98ca7de2017",
+        "arabicSlug": "arch-unveils-newsletter-issue-1",
+        "englishSlug": "arch-unveils-newsletter-issue-1",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "11663817-1e58-41bb-9c9a-8ccf56790f83",
+        "englishId": "498bf9b4-1e49-43eb-8c19-c264d49c1f6a",
+        "arabicSlug": "تضامنا-مع-أهلنا-في-فلسطين-قلوبنا-معكم-في-هذه-الأوقات-الصعبة",
+        "englishSlug": "standing-in-solidarity-with-palestine",
+        "matchType": "publish-time",
+        "deltaMs": 2557
+      },
+      {
+        "arabicId": "2f5808ea-78e9-4cd7-966f-6215e5260248",
+        "englishId": "2efd2746-1644-4bbd-93df-3772c3da6e5a",
+        "arabicSlug": "اليوم-العالمي-للاتهاب-المفاصل",
+        "englishSlug": "world-arthritis-day-2",
+        "matchType": "publish-time",
+        "deltaMs": 2898
+      },
+      {
+        "arabicId": "4ec85979-1aa0-472f-af50-65011609a05c",
+        "englishId": "6305f6ce-9e4d-44ac-8328-19d0461e5c1e",
+        "arabicSlug": "arlar-groupe-francophone-webinar-exploring-les-arthrites-juvéniles-idiopathiques-on-october-17",
+        "englishSlug": "arlar-groupe-francophone-webinar-exploring-les-arthrites-juvéniles-idiopathiques-on-october-17",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "f2117135-2140-4064-8fff-d969d3033070",
+        "englishId": "73a2aaa5-732c-4d5e-9d14-350834372361",
+        "arabicSlug": "arch-webinar-by-arlar-college-oct-25th-tackling-early-referral-hurdles-in-rheumatoid-arthritis",
+        "englishSlug": "arch-webinar-by-arlar-college-oct-25th-tackling-early-referral-hurdles-in-rheumatoid-arthritis",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "fb2009c9-2704-43ad-9e0f-85ed327b9046",
+        "englishId": "e06ff207-907b-4a07-a13f-5adc3702351e",
+        "arabicSlug": "4th-annual-qatar-rheumatology-conference-6-to-8-october-2023",
+        "englishSlug": "4th-annual-qatar-rheumatology-conference-6-to-8-october-2023",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "5924ca97-b7f3-43b9-be6a-7b154b1f7283",
+        "englishId": "d2bd35b5-2ad6-43b8-b412-baaafd9950bf",
+        "arabicSlug": "final-countdown-only-8-days-left-to-register-for-the-2nd-levant-rheumatology-summit-in-erbil",
+        "englishSlug": "final-countdown-only-9-days-left-to-register-for-the-2nd-levant-rheumatology-summit-in-erbil",
+        "matchType": "publish-time",
+        "deltaMs": 1746
+      },
+      {
+        "arabicId": "d234524f-d18c-40ca-99eb-5ff4b7b376d7",
+        "englishId": "e19b6703-dcba-42a1-83f6-81b969e0f5ac",
+        "arabicSlug": "prayformorocco",
+        "englishSlug": "prayformorocco",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "e674003c-9d80-441f-9bde-607d63a2ae6a",
+        "englishId": "e8fc9fde-a790-4cf3-91c2-e727a0814677",
+        "arabicSlug": "unlock-your-rheumatology-potential-at-the-2nd-levant-summit",
+        "englishSlug": "unlock-your-rheumatology-potential-at-the-2nd-levant-summit",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "09207690-bf9a-424f-9163-ed4e2318cb29",
+        "englishId": "15c573b4-5cfd-487a-8f60-a0cdad33ad20",
+        "arabicSlug": "exploring-intricate-connections-arlar-groupe-francophone-s-upcoming-webinar-on-spondyloarthritides",
+        "englishSlug": "exploring-intricate-connections-arlar-groupe-francophone-s-upcoming-webinar-on-spondyloarthritides",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "7b527161-8c8d-42f7-90aa-22215a0fd08e",
+        "englishId": "0eeb2a11-285c-4095-9801-8ecfbb00bdad",
+        "arabicSlug": "انضم-إلينا-في-قمة-المشرق-العربي-الثانية-لأمراض-الروماتيزم-في-أربيل-العراق",
+        "englishSlug": "levant-rheumatology-summit-in-erbil-iraq-22-23-september-2023",
+        "matchType": "publish-time",
+        "deltaMs": 37867
+      },
+      {
+        "arabicId": "98f7d46a-8386-4785-aa9a-88963e93be2e",
+        "englishId": "a5d32316-6dc1-4ac5-9fad-3111076c2118",
+        "arabicSlug": "كل-عام-وأنتم-بخير-بمناسبة-السنة-الهجرية-الجديدة",
+        "englishSlug": "hijri-new-year-1",
+        "matchType": "publish-time",
+        "deltaMs": 2329
+      },
+      {
+        "arabicId": "505bd6c6-9286-4dbd-a350-4c04f97c01b1",
+        "englishId": "1152a13c-3a3f-411b-a5f8-56d42565ff13",
+        "arabicSlug": "تهنئة-عيد-الأضحى-المبارك-2023",
+        "englishSlug": "eid-al-adha-2023",
+        "matchType": "publish-time",
+        "deltaMs": 2968
+      },
+      {
+        "arabicId": "8633c07e-b0c0-456c-8b06-7cd51a4f21e3",
+        "englishId": "9e6e9250-98c0-4bdd-93b8-99d69d21799a",
+        "arabicSlug": "join-arlar-college-prag-for-the-webinar-aid-let-s-start-from-the-beginning",
+        "englishSlug": "join-arlar-college-prag-for-the-webinar-aid-let-s-start-from-the-beginning",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "cba35838-77af-44ed-89fa-727b91f91874",
+        "englishId": "8c46cbc5-bd23-40f4-bef8-ba31ba26f300",
+        "arabicSlug": "arlar-groupe-francophone-s-webinar-on-cœur-et-rhumatismes-inflammatoires-chroniques",
+        "englishSlug": "arlar-groupe-francophone-s-webinar-on-cœur-et-rhumatismes-inflammatoires-chroniques",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "e2cb0013-6b13-4979-8699-88941f773b4e",
+        "englishId": "f7f71d00-4625-47f4-882b-f693097eb5e9",
+        "arabicSlug": "exploring-the-impact-of-telehealth-highlights-from-arlar-workshop-at-jsr23-congress",
+        "englishSlug": "exploring-the-impact-of-telehealth-highlights-from-arlar-workshop-at-jsr23-congress",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "d27e79b6-4a2a-46e7-84f4-39446fda0d17",
+        "englishId": "7bab9934-ee12-49c7-b53b-03b6f5edccbe",
+        "arabicSlug": "relive-the-highlights-of-arlar23-kuwait-congress-replays-now-available",
+        "englishSlug": "relive-the-highlights-of-arlar23-kuwait-congress-replays-now-available",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "70c0b21c-eaa1-41d2-88be-8ebd85013e90",
+        "englishId": "e40375d9-2a0e-43e3-9eeb-f6a9507ca926",
+        "arabicSlug": "arlar-brings-telehealth-to-jsr23-promoting-excellence-in-rheumatic-disease-care",
+        "englishSlug": "arlar-brings-telehealth-to-jsr23-promoting-excellence-in-rheumatic-disease-care",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "690f829b-8ce9-4086-9773-759c400a8f43",
+        "englishId": "93ef52c6-3f04-4571-b8f7-de4205e1c999",
+        "arabicSlug": "participate-in-the-international-change-survey-with-arlar-research-group",
+        "englishSlug": "participate-in-the-international-change-survey-with-arlar-research-group",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "4a6f983d-92e9-468a-9ba9-c3de72ab15a9",
+        "englishId": "be698a0c-b399-46f9-b6af-aa20ebbb5790",
+        "arabicSlug": "save-the-date-for-arlar25-algeria-congress-in-2025",
+        "englishSlug": "save-the-date-for-arlar25-algeria-congress-in-2025",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "1c62995a-7cec-4823-9f28-30f810d7a2cd",
+        "englishId": "92d869e3-ba28-4016-9e43-eca458c15737",
+        "arabicSlug": "عيد-الفطر-المبارك-2023",
+        "englishSlug": "eid-mubarak-2023",
+        "matchType": "publish-time",
+        "deltaMs": 3197
+      },
+      {
+        "arabicId": "6ea677a3-56c7-4c5c-9c93-c7d4df53e5c4",
+        "englishId": "517a99af-5f12-4458-9b43-a0d609718a1e",
+        "arabicSlug": "arlar-groupe-francophone-s-webinar-on-holistic-approach-to-managing-chronic-inflammatory-rheumatism",
+        "englishSlug": "arlar-groupe-francophone-s-webinar-on-holistic-approach-to-managing-chronic-inflammatory-rheumatism",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "c1e1b8cf-544d-4f4c-8ce7-917b1e5c50dc",
+        "englishId": "0b4080a0-caeb-4a3a-9953-26b666e129a6",
+        "arabicSlug": "رمضان-المبارك-2023",
+        "englishSlug": "ramadan-kareem-2023",
+        "matchType": "publish-time",
+        "deltaMs": 21256
+      },
+      {
+        "arabicId": "98b591ac-17c8-46b0-8092-8930f9ee52ec",
+        "englishId": "86f704dc-402f-47c7-a2a0-6ac26dea5fec",
+        "arabicSlug": "كل-عام-وانتم-بخير-2023",
+        "englishSlug": "happy-new-year-2023",
+        "matchType": "publish-time",
+        "deltaMs": 28436
+      },
+      {
+        "arabicId": "a5fa876d-8547-4a90-8707-1bb10de0701d",
+        "englishId": "c73a262c-8a32-4dc2-bb6e-6429b03bf009",
+        "arabicSlug": "arlar23-abstract-submission-extended-until-january-12-2023",
+        "englishSlug": "arlar23-abstract-submission-extended-until-january-12-2023",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "486e505c-851d-48eb-970a-1c3ff675aa07",
+        "englishId": "986058e2-70c6-4267-a9a3-97fbcfcb7782",
+        "arabicSlug": "saudi-society-of-rheumatology-ssr-is-pleased-to-launch-the-annals-of-rheumatology-and-autoimmunity",
+        "englishSlug": "saudi-society-of-rheumatology-ssr-is-pleased-to-launch-the-annals-of-rheumatology-and-autoimmunity",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "cfc7fbbe-f6b6-4e47-9739-3974470a8191",
+        "englishId": "5b491571-e8e7-4dfc-a6e5-8093b1f809d4",
+        "arabicSlug": "arlar-young-rheumatologists-webinar-november-30th-2022",
+        "englishSlug": "arlar-young-rheumatologists-webinar-november-30th-2022",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "2e5ff718-a706-449d-9a9e-86a68a8b6777",
+        "englishId": "535c368e-dffe-4629-9af5-007b022cd395",
+        "arabicSlug": "ilbjh-2022-meet-the-experts",
+        "englishSlug": "ilbjh-2022-meet-the-experts",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "c0dd38c9-1d95-4b84-8507-d54ab5d55dff",
+        "englishId": "2e6932b1-2753-42a4-ba9d-2d1fa1560825",
+        "arabicSlug": "register-now-for-arlar23-kuwait-congress-1-4-march-2023-and-benefit-from-the-early-bird-rates",
+        "englishSlug": "register-now-for-arlar23-kuwait-congress-1-4-march-2023-and-benefit-from-the-early-bird-rates",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "feef4fcc-5d37-408b-a438-77f63c70e1de",
+        "englishId": "d0ac056d-045a-4658-b3c0-2fd960ab6102",
+        "arabicSlug": "arlar-groupe-francophone-webinar-november-23rd-2022",
+        "englishSlug": "arlar-groupe-francophone-webinar-november-23rd-2022",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "e0ddd4db-3cf5-4fe0-a694-fa2d9bfaacfa",
+        "englishId": "66cf55a7-43b2-4c82-8a81-7281434d4a40",
+        "arabicSlug": "acr23-convergence",
+        "englishSlug": "acr23-convergence",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "4a6da5b9-5a7c-41a0-8247-6ae7ebc0615d",
+        "englishId": "c4c73953-c95d-47a9-8a09-f739737fb65d",
+        "arabicSlug": "arlar-groupe-francophone-webinar-26th-of-october-2022",
+        "englishSlug": "arlar-groupe-francophone-webinar-22nd-of-october-2022",
+        "matchType": "publish-time",
+        "deltaMs": 3916
+      },
+      {
+        "arabicId": "4d3b248f-39fd-4cf6-ae69-1211c54bac4a",
+        "englishId": "b74627d4-8760-46c8-bd44-f055fccb3b45",
+        "arabicSlug": "arch-webinar-1st-of-november-2022",
+        "englishSlug": "arch-webinar-1st-of-november-2022",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "b89b409a-3323-4c23-96d2-c17d1d0f7c62",
+        "englishId": "59e25bdf-c429-4d7f-8437-8539036459e0",
+        "arabicSlug": "المؤتمر-الدولي-السابع-لجمعية-أطباء-الروماتيزم-والمفاصل-الأردنية",
+        "englishSlug": "the-7th-international-jordanian-rheumatology-congress",
+        "matchType": "publish-time",
+        "deltaMs": 3749
+      },
+      {
+        "arabicId": "12b0cd35-5630-44e1-97a6-815de3660cef",
+        "englishId": "1d5e04d3-0029-4186-aba0-6632a67cb256",
+        "arabicSlug": "اليوم-العالمي-لالتهاب-المفاصل-1",
+        "englishSlug": "world-arthritis-day-1",
+        "matchType": "publish-time",
+        "deltaMs": 1333
+      },
+      {
+        "arabicId": "8823b871-4265-451a-9f16-6a8bc76b6daf",
+        "englishId": "a44580d1-737d-4a3e-8fd6-c2cd81d13a39",
+        "arabicSlug": "prag-arlar-college-webinar-october-19th-2022",
+        "englishSlug": "prag-arlar-college-webinar-october-19th-2022",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "db4ea961-720c-474f-b1f6-41b818d08ede",
+        "englishId": "c3385ad0-3782-4e1d-898b-4b9e32017b9c",
+        "arabicSlug": "التسجيل-في-مؤتمر-الكويت-arlar23",
+        "englishSlug": "registration-for-arlar23-kuwait-congress",
+        "matchType": "publish-time",
+        "deltaMs": 1525
+      },
+      {
+        "arabicId": "3b5c5436-5bcb-4264-a065-81946af9a78a",
+        "englishId": "83f97e36-b976-4b59-90e3-7d3a471c3c6a",
+        "arabicSlug": "arlar-groupe-francophone-webinar-wednesday-september-21-2022",
+        "englishSlug": "arlar-groupe-francophone-webinar-wednesday-september-21-2022",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "7d1e1624-75b3-4a78-8ff0-cb713f663290",
+        "englishId": "c60390fe-30e5-4f4b-bad0-dcaecf8699a5",
+        "arabicSlug": "arch-webinar-september-15-2022",
+        "englishSlug": "arch-webinar-september-15-2022",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "0bb575d1-f027-482b-9ee0-454f973058b3",
+        "englishId": "f786f96a-dbc7-4625-89b2-f7efa374847c",
+        "arabicSlug": "arch-survey",
+        "englishSlug": "arch-survey",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "0e64b213-32d2-48c9-ac15-ec5a64dcc58f",
+        "englishId": "76692c49-a71e-4387-a3c8-a7bfe299592b",
+        "arabicSlug": "3rd-annual-qatar-rheumatology-symposium",
+        "englishSlug": "3rd-annual-qatar-rheumatology-symposium",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "6427b1fc-1dd1-407b-893b-637fa81dc5e5",
+        "englishId": "710b6309-495b-480c-98a0-c5002de5c993",
+        "arabicSlug": "arlar23-الكويت",
+        "englishSlug": "arlar23-kuwait",
+        "matchType": "publish-time",
+        "deltaMs": 1590
+      },
+      {
+        "arabicId": "ca810c76-7540-4e12-a55c-baf36a05835e",
+        "englishId": "4a3abdcd-e597-424e-9b53-518382ea4001",
+        "arabicSlug": "تهنئكم-الرابطة-العربية-لجمعيات-الروماتيزم-بقدوم-عيد-الأضحى-المبارك-أعاده-الله-عليكم-باليمن-والبركات",
+        "englishSlug": "eid-adha-mubarak",
+        "matchType": "publish-time",
+        "deltaMs": 1191
+      },
+      {
+        "arabicId": "5f801e26-0217-4ad5-9a88-e011885a2497",
+        "englishId": "bc69a9dd-50df-4a8e-b163-9776890cc3ca",
+        "arabicSlug": "المؤتمر-الخامس-لرابطة-صحة-العظام-والمفاصل-العراقية",
+        "englishSlug": "iraqi-league-for-bone-and-joint-health-5th-scientific-congress",
+        "matchType": "publish-time",
+        "deltaMs": 3171
+      },
+      {
+        "arabicId": "34bdda07-6f73-42fc-9be5-6db1a5f10578",
+        "englishId": "f811b5a9-5564-436e-ac9a-77c168366f0a",
+        "arabicSlug": "مؤتمر-الرابطة-العربية-لجمعيات-الروماتيزم-الكويت-2023",
+        "englishSlug": "arlar23-kuwait-congress",
+        "matchType": "publish-time",
+        "deltaMs": 4932
+      },
+      {
+        "arabicId": "89ff1c63-7832-41d4-8ac6-5976825aa7bc",
+        "englishId": "7f2513b3-b05e-4de9-8c2b-52388db32010",
+        "arabicSlug": "الرعاية-الصحية-عن-بعد-في-أمراض-الروماتيزم",
+        "englishSlug": "tirol-2021",
+        "matchType": "publish-time",
+        "deltaMs": 9881
+      },
+      {
+        "arabicId": "fbf59742-0517-4de8-a1e8-fce4bf96aa22",
+        "englishId": "ef686667-4735-484e-afbd-5eb98c56f83c",
+        "arabicSlug": "arlar-college-webinar-may-25-2022",
+        "englishSlug": "arlar-college-webinar-may-25-2022",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "4a98dab9-7b01-4915-b314-9c59db1d7bd4",
+        "englishId": "7b7862a8-1faa-429f-941a-b368911ff72d",
+        "arabicSlug": "تعرف-على-مجموعة-أبحاث-arlar",
+        "englishSlug": "get-to-know-the-arch-arlar-research-group",
+        "matchType": "publish-time",
+        "deltaMs": 39901
+      },
+      {
+        "arabicId": "4de5a493-0c2b-4634-b59a-8d3e4bcfde86",
+        "englishId": "02bc1fc0-5480-4656-8cb4-f7f2eb1658bd",
+        "arabicSlug": "arlar-research-group-webinar",
+        "englishSlug": "arlar-research-group-webinar",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "81371482-3829-49d8-9206-e2c2fd49f87b",
+        "englishId": "2cfd0dc4-e40b-49cb-8450-f0f5f7e0b7ce",
+        "arabicSlug": "عيد-فطر-مبارك",
+        "englishSlug": "eid-fitr-mubarak",
+        "matchType": "publish-time",
+        "deltaMs": 2221
+      },
+      {
+        "arabicId": "19534b0f-15c5-4c9b-828a-64a89020ebf1",
+        "englishId": "4f35f909-a9aa-4741-bf63-88b73bf59135",
+        "arabicSlug": "save-the-date-for-the-first-arch-webinar-on-data-visualization",
+        "englishSlug": "save-the-date-for-the-first-arch-webinar-on-data-visualization",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "3a6fb095-6fd2-4c2b-8369-6613f2229110",
+        "englishId": "24a32691-1097-4bef-bcb3-9657f62d591c",
+        "arabicSlug": "to-all-rheumatologists-in-the-arab-countries",
+        "englishSlug": "to-all-rheumatologists-in-the-arab-countries",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "b0e94de5-ff8a-47eb-975b-b999af26a253",
+        "englishId": "210ea3c6-d3df-4b70-87e4-0c0f4b77115f",
+        "arabicSlug": "the-2021-arlar-best-practice-guidelines-for-telehealth-in-rheumatology",
+        "englishSlug": "the-2021-arlar-best-practice-guidelines-for-telehealth-in-rheumatology",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "410b6bd6-431c-4325-bcaf-f6aae799315d",
+        "englishId": "fcbae814-6d2c-4ddc-96e1-581df51d4675",
+        "arabicSlug": "تاريخ-الرابطة-مع-د-فاطمة-بوطيبان",
+        "englishSlug": "arlar-history-with-dr-fatemah-abutiban",
+        "matchType": "publish-time",
+        "deltaMs": 1518
+      },
+      {
+        "arabicId": "45eea23c-801c-45af-80b6-ff42e7154fd0",
+        "englishId": "946211dd-84f3-4915-806a-90f40791d7d4",
+        "arabicSlug": "رمضان-كريم-1",
+        "englishSlug": "ramadan-mubarak-from-arlar",
+        "matchType": "publish-time",
+        "deltaMs": 6071
+      },
+      {
+        "arabicId": "a010a9d3-3bca-4c53-8da8-c38cb52ef584",
+        "englishId": "09a66fea-5163-4d83-bb92-d64d6854e5ea",
+        "arabicSlug": "arlar-college-webinar-march-30-2022",
+        "englishSlug": "arlar-college-webinar-march-30-2022",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "7f74ec75-9864-46f0-9354-e56e41aed138",
+        "englishId": "630fbc0b-2fd6-405b-90e1-c66925ab48fa",
+        "arabicSlug": "تاريخ-الرابطة-مع-د-باسل-المصري",
+        "englishSlug": "arlar-history-with-dr-basel-masri",
+        "matchType": "publish-time",
+        "deltaMs": 2065
+      },
+      {
+        "arabicId": "b33171ee-ee62-45de-b870-f2197af742b8",
+        "englishId": "7bdd7695-790c-4385-bb4c-05f5c39b6039",
+        "arabicSlug": "تاريخ-الرابطة-مع-د-عبدالله-المغراوي",
+        "englishSlug": "arlar-history-with-dr-abdellah-el-maghraoui",
+        "matchType": "publish-time",
+        "deltaMs": 2363
+      },
+      {
+        "arabicId": "7b87cc34-0781-4738-9dd8-4f462bffef58",
+        "englishId": "31a7f14d-1697-45d6-99a6-b99e2439b16d",
+        "arabicSlug": "تاريخ-الرابطة-مع-د-حسين-حلبي",
+        "englishSlug": "arlar-history-with-dr-hussein-halabi",
+        "matchType": "publish-time",
+        "deltaMs": 3034
+      },
+      {
+        "arabicId": "4b3c65b3-7688-4bd7-aa27-a9c59ae1b43c",
+        "englishId": "8eb143f2-a175-49f5-b085-f3637ba885fa",
+        "arabicSlug": "قمة-المشرق-العربي-الأولى-للروماتيزم",
+        "englishSlug": "1st-levant-rheumatology-summit",
+        "matchType": "publish-time",
+        "deltaMs": 3300
+      },
+      {
+        "arabicId": "173c068c-fbe6-437b-bae3-b3ead71db6ab",
+        "englishId": "c378c419-3e75-40c5-8c77-975066dd0f61",
+        "arabicSlug": "تاريخ-الرابطة-مع-د-موسى-الحديدي",
+        "englishSlug": "arlar-history-with-dr-musa-hadidi",
+        "matchType": "publish-time",
+        "deltaMs": 2666
+      },
+      {
+        "arabicId": "ec5bce0a-8522-41e0-8285-7a60417f2e46",
+        "englishId": "47dc62dc-40ed-4146-91f2-93b94f2bd8c1",
+        "arabicSlug": "levant_rheumatology_summit",
+        "englishSlug": "levant_rheumatology_summit",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "8db11c50-22ba-4c84-b64c-b96205f19402",
+        "englishId": "d5f939a8-38e8-4550-975a-ab0338bd925e",
+        "arabicSlug": "مؤتمر-الرابطة-العربية-لجمعيات-الروماتيزم-2023-في-الكويت",
+        "englishSlug": "arlar2023-conference-in-kuwait",
+        "matchType": "publish-time",
+        "deltaMs": 1395
+      },
+      {
+        "arabicId": "42a204d1-f324-4686-93fe-bcbd81b3ea00",
+        "englishId": "9e30dce2-d31a-45a6-b58c-dde689ae0612",
+        "arabicSlug": "arlar-groupe-francophone-webinar-february-28-2022",
+        "englishSlug": "arlar-groupe-francophone-webinar-february-28-2022",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "ba6a98e5-7473-48b6-a2ad-5db1a97b9dbb",
+        "englishId": "dfdfb2a5-83e9-4743-9ee8-635426f82903",
+        "arabicSlug": "تاريخ-الرابطة-مع-د-أيمن-الجرف",
+        "englishSlug": "arlar-history-with-dr-ayman-el-garf",
+        "matchType": "publish-time",
+        "deltaMs": 2238
+      },
+      {
+        "arabicId": "1f893341-dbb6-4c55-9144-e1d83418eb27",
+        "englishId": "7fba8058-5b0f-496b-8239-04e9ae83f441",
+        "arabicSlug": "تاريخ-الرابطة-مع-د-سلوى-الشيخ",
+        "englishSlug": "arlar-history-with-dr-salwa-el-cheikh",
+        "matchType": "publish-time",
+        "deltaMs": 1059
+      },
+      {
+        "arabicId": "27820b58-35e7-4b12-80a9-f8e046785f36",
+        "englishId": "3d86a95b-efe3-4a76-b26f-7a02fa96fad7",
+        "arabicSlug": "arlar-college-webinar-february-16-2022",
+        "englishSlug": "arlar-college-webinar-february-16-2022",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "c7189d8d-d36d-45da-bfa7-7e393c5b5023",
+        "englishId": "51da1ded-7cb0-4d1e-a342-d0071ad50a58",
+        "arabicSlug": "تاريخ-الرابطة-مع-د-زهير-الصباغ",
+        "englishSlug": "arlar-history-with-dr-zuheir-al-sabbagh",
+        "matchType": "publish-time",
+        "deltaMs": 2518
+      },
+      {
+        "arabicId": "d9207923-3f7b-4171-a579-5d41712f3e37",
+        "englishId": "d2a4f38b-8030-4303-ab28-08c2fda0d26d",
+        "arabicSlug": "يوم-التوعية-بمرض-التهاب-المفاصل-الروماتويدي",
+        "englishSlug": "rheumatoid-arthritis-awareness-day",
+        "matchType": "publish-time",
+        "deltaMs": 1956
+      },
+      {
+        "arabicId": "afc09348-a194-4984-8795-13700b90b7c9",
+        "englishId": "93c2bcce-0cef-46e4-859b-17faed1e1c27",
+        "arabicSlug": "يوم-طبيب-الروماتيزم-في-الوطن-العربي",
+        "englishSlug": "arab-rheumatologists-day",
+        "matchType": "publish-time",
+        "deltaMs": 2377
+      },
+      {
+        "arabicId": "56c4530b-4d3e-4372-bcfd-3f1ab72f6503",
+        "englishId": "c2ab2976-b707-4b48-8e20-03ea4168f04e",
+        "arabicSlug": "تاريخ-arlar-مع-د-سمير-البدوي",
+        "englishSlug": "arlar-history-video-with-dr-samir-al-badawi",
+        "matchType": "publish-time",
+        "deltaMs": 2598
+      },
+      {
+        "arabicId": "de3dff39-b133-4c26-a415-245881b300ff",
+        "englishId": "cc3590cd-b672-4de1-a612-d5e8e93502c4",
+        "arabicSlug": "the-8th-annual-saudi-society-for-rheumatology-conference",
+        "englishSlug": "the-8th-annual-saudi-society-for-rheumatology-conference",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "f15cc13b-c82e-4b53-9437-222aa3ff6f73",
+        "englishId": "dae186b9-127f-4151-bd76-7db0bb923b15",
+        "arabicSlug": "arlar-college-webinar-january-22-2022",
+        "englishSlug": "arlar-college-webinar-january-22-2022",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "d6f58703-393c-4672-8793-9887c360eb79",
+        "englishId": "b808705a-ce9c-42e9-8a8a-85c1504c3311",
+        "arabicSlug": "تاريخ-arlar",
+        "englishSlug": "arlar-history-video",
+        "matchType": "publish-time",
+        "deltaMs": 4061
+      },
+      {
+        "arabicId": "4f2dc3d9-54fa-429a-a5a5-562c8f76542a",
+        "englishId": "9e97c9c7-c41d-4acd-a997-cd8ff5482d32",
+        "arabicSlug": "arlar-college-2022-agenda",
+        "englishSlug": "arlar-college-2022-agenda",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "dfb16765-b5f5-4d8e-ad41-b217e2bacf8a",
+        "englishId": "b3e036c5-23d9-4c9f-815b-c4c01eda327e",
+        "arabicSlug": "arlar-groupe-francophone-webinar",
+        "englishSlug": "arlar-groupe-francophone-webinar",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "74d5208d-698f-4a2f-8848-3bfa3fcdef22",
+        "englishId": "9b8cc43c-d39c-4a46-92a4-2327d1a3c79a",
+        "arabicSlug": "arlar-college-webinar-december-22",
+        "englishSlug": "arlar-college-webinar-december-22",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "628b406a-a7a2-432b-9e1f-fd5263f8e9b9",
+        "englishId": "3b281875-88e3-440e-afb2-b356aba59239",
+        "arabicSlug": "arlar-college-webinar-december-20-2021",
+        "englishSlug": "arlar-college-webinar-december-20-2021",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "c1538f17-4c28-45f4-9dc8-0902ab4cf6bd",
+        "englishId": "6c893b5b-85fb-440c-807b-b6d3a1c11640",
+        "arabicSlug": "المؤتمر-الخليجي-الثاني-لأمراض-الروماتيزم-الحضوري-و-الافتراضي-في-مسقط-عمان",
+        "englishSlug": "2nd-gcc-rheumatology-hybrid-conference-in-muscat-oman",
+        "matchType": "publish-time",
+        "deltaMs": 2578
+      },
+      {
+        "arabicId": "25e39c7f-9686-4eaf-b024-ad688454c30e",
+        "englishId": "5464b06b-6932-4bc9-b7ac-ffaec4676b62",
+        "arabicSlug": "مؤتمر-الجمعية-السعودية-لأمراض-الروماتيزم",
+        "englishSlug": "ssrc-annual-conference",
+        "matchType": "publish-time",
+        "deltaMs": 1244
+      },
+      {
+        "arabicId": "8e4c0042-c387-4627-a63d-dc5f4a783bf9",
+        "englishId": "d7092231-3e9f-412b-8b57-bcc41e5c03d9",
+        "arabicSlug": "مجموعة-الأبحاث-العلمية",
+        "englishSlug": "arlar-research-group-arch",
+        "matchType": "publish-time",
+        "deltaMs": 19211
+      },
+      {
+        "arabicId": "528fb950-0c58-4828-a29c-752e534a79be",
+        "englishId": "cc6fba58-ea98-4704-82cb-1b6792f28b0b",
+        "arabicSlug": "arlar-college-webinar-november-29-2021",
+        "englishSlug": "arlar-college-webinar-november-29-2021",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "4986d208-3e7b-4a87-9b2d-cf33c3a0a1f4",
+        "englishId": "e3875e82-570f-43e7-b13a-e9ae32fea5b4",
+        "arabicSlug": "اليوم-العالمي-لهشاشة-العظام",
+        "englishSlug": "world-osteoporosis-day",
+        "matchType": "publish-time",
+        "deltaMs": 2720
+      },
+      {
+        "arabicId": "23ea3939-4e6d-4730-b2eb-a8057bb948d6",
+        "englishId": "ac95a67a-a8e8-4617-acd0-411e74c4eda7",
+        "arabicSlug": "arlar-college-webinar-october-27",
+        "englishSlug": "arlar-college-webinar-october-27",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "7d42d50c-de31-4b76-afc0-864c7cda8466",
+        "englishId": "7ad6c0f2-f12d-4dd0-9136-9a8276cfa689",
+        "arabicSlug": "المولد-النبوي-الشريف",
+        "englishSlug": "mawlid-an-nabawī",
+        "matchType": "publish-time",
+        "deltaMs": 10799
+      },
+      {
+        "arabicId": "bcf83f15-cc38-4976-9195-d769af1134d2",
+        "englishId": "d387e774-f4d3-4128-910a-7a2ac67b820e",
+        "arabicSlug": "اليوم-العالمي-لالتهاب-المفاصل",
+        "englishSlug": "world-arthritis-day",
+        "matchType": "publish-time",
+        "deltaMs": 50331
+      },
+      {
+        "arabicId": "405ccd97-22c6-4dda-a1f9-6698de49258d",
+        "englishId": "7b95729d-4e00-4852-a9d8-1ebbad66dbe5",
+        "arabicSlug": "arlar-college-prag-webinar",
+        "englishSlug": "arlar-college-prag-webinar",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "c7f590e2-d702-4312-8978-3e7362c8bc75",
+        "englishId": "f6169f58-1da9-4f7a-8199-a98b54e8f0e7",
+        "arabicSlug": "arlar-college-webinar-september-29",
+        "englishSlug": "arlar-college-webinar-september-29",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "14472455-c6cb-447c-8f86-6dfb8e3d164b",
+        "englishId": "329d19ce-caaa-4262-946b-09610e88681b",
+        "arabicSlug": "رأس-السنة-الهجرية",
+        "englishSlug": "hijri-new-year",
+        "matchType": "publish-time",
+        "deltaMs": 4283
+      },
+      {
+        "arabicId": "c3711eae-a530-47c5-9c9c-1deb6ea4f63b",
+        "englishId": "594b225b-34cb-42f8-8401-52b3be3291cc",
+        "arabicSlug": "arlar-college-wednesday-july-28th",
+        "englishSlug": "arlar-college-july-28-webinar",
+        "matchType": "publish-time",
+        "deltaMs": 68307
+      },
+      {
+        "arabicId": "3f046c69-e753-4187-b043-4b488ff52cc2",
+        "englishId": "87689daf-7c86-475d-a48b-816c86921716",
+        "arabicSlug": "arlar-group-francophone",
+        "englishSlug": "arlar-group-francophone",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "505d2a42-bb02-42aa-83d6-007eec5ded89",
+        "englishId": "8288d44b-f370-4d0f-b9d3-d2b98877b91a",
+        "arabicSlug": "دعوة-مفتوحة-للجميع",
+        "englishSlug": "jsr-june-23-how-to-overcome-my-rheumatoid-arthritis",
+        "matchType": "publish-time",
+        "deltaMs": 1684
+      },
+      {
+        "arabicId": "e5107aa3-af72-4423-ae30-0a3b8be01405",
+        "englishId": "02550d90-6311-4666-8a69-9319a06ff162",
+        "arabicSlug": "arlar-college-wednesday-june-30th",
+        "englishSlug": "arlar-college-wednesday-june-30th",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "431f7ff0-32f9-4393-a628-6dbe36383453",
+        "englishId": "edd7d292-b67c-43d1-a265-7a00af8ee958",
+        "arabicSlug": "arlar-college-webinar-wednesday-may-26-2021-1",
+        "englishSlug": "arlar-college-webinar-wednesday-may-26-2021-1",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "ade0672d-5768-452f-915e-936167e023d8",
+        "englishId": "1f00b8e1-2dcb-4499-8fc5-bba786d80a4f",
+        "arabicSlug": "7th-annual-saudi-society-of-rheumatology-conference-ssrc-virtual",
+        "englishSlug": "7th-annual-saudi-society-of-rheumatology-conference-ssrc-virtual",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "515da970-7a36-47be-8702-a40c65183cf6",
+        "englishId": "94fa01e4-ec24-4f4b-978b-895c93919c33",
+        "arabicSlug": "7th-annual-saudi-society-of-rheumatology-conference-ssrc",
+        "englishSlug": "7th-annual-saudi-society-of-rheumatology-conference-ssrc",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "1507736b-33ac-49b7-9e03-137d84890698",
+        "englishId": "44b03982-7598-4a3c-a011-66b8ac68efd6",
+        "arabicSlug": "7th-ssrc-2021-conference",
+        "englishSlug": "7th-ssrc-2021-conference",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "93ade4ab-2cdc-4aa4-b772-026fb6427a12",
+        "englishId": "ecd86af2-ac16-43e1-9057-cc5e07a73f9b",
+        "arabicSlug": "arlar-college-webinar-wednesday-may-26-2021",
+        "englishSlug": "arlar-college-webinar-wednesday-may-26-2021",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "4f00327a-13ee-425f-8130-1147ac06d422",
+        "englishId": "f4c90e26-9e1f-4dd2-af03-349c3530f42b",
+        "arabicSlug": "eid-al-fitr-2021",
+        "englishSlug": "eid-al-fitr-2021",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "c2919f1f-668a-4098-a9cb-0c7e818eee4c",
+        "englishId": "fca1994c-2d05-4bb1-a414-9808ac7083a6",
+        "arabicSlug": "الى-جميع-الزملاء-اطباء-الروماتيزم-في-الوطن-العربي",
+        "englishSlug": "الى-جميع-الزملاء-اطباء-الروماتيزم-في-الوطن-العربي",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "0d40b343-2283-43f3-b5a4-0db196a2a917",
+        "englishId": "11f67be6-11a0-4be2-8eb5-0a3d97bc704d",
+        "arabicSlug": "arlar-college-webinar-wednesday-april-21st",
+        "englishSlug": "arlar-college-webinar-wednesday-april-21st",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "41f718d6-25c6-4854-8da5-43526fcb76aa",
+        "englishId": "9d50a261-b115-41d3-8e22-f4e10761f1fe",
+        "arabicSlug": "رمضان-مبارك",
+        "englishSlug": "ramadan-mubarak",
+        "matchType": "publish-time",
+        "deltaMs": 7196
+      },
+      {
+        "arabicId": "6c12c047-a4b5-4218-9633-e87704208232",
+        "englishId": "c7124d3d-5213-4d5b-8679-fbb094e026de",
+        "arabicSlug": "rhumatismes-inflammatoireschroniques-actualités",
+        "englishSlug": "rhumatismes-inflammatoireschroniques-actualités",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "99774093-9b25-4f3f-8cfc-fa5d160bb7cc",
+        "englishId": "d8eb9a9a-907a-49b0-b4ca-777c2eac02a3",
+        "arabicSlug": "asas-scientific-program-2021",
+        "englishSlug": "asas-scientific-program-2021",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "4e1a38ff-c7db-429f-8f53-65c8a803f013",
+        "englishId": "7d4bd5d1-1d1d-45f2-b2b5-79557250664b",
+        "arabicSlug": "arlar-college-17th-of-march-webinar",
+        "englishSlug": "arlar-college-17th-of-march-webinar",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "36d8a0b5-1ce8-49af-af7f-ce95066e33be",
+        "englishId": "0811e7c3-4b51-4aa8-ae08-d0be499e9ee7",
+        "arabicSlug": "arlar-college-biosimilar-experience-and-benefit-to-health-care-economics-webinar",
+        "englishSlug": "arlar-college-biosimilar-experience-and-benefit-to-health-care-economics-webinar",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "d19ef8f5-cbba-444e-9e63-4412e0232d7a",
+        "englishId": "d73dc315-766b-48f2-b5b5-34d1425354e6",
+        "arabicSlug": "arlar21-jordan-e-congress",
+        "englishSlug": "arlar21-jordan-e-congress",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "79d61759-9884-4b7f-be11-2e278caf2556",
+        "englishId": "8c7cb5c8-5023-41bb-b6d4-312548ea9a55",
+        "arabicSlug": "arlar-college-psa-in-2021-webinar",
+        "englishSlug": "arlar-college-psa-in-2021-webinar",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "ae115e54-4935-4092-ad97-2f2de8577b69",
+        "englishId": "73ffbfd5-6a67-4e2c-9ed0-4f294f2748f2",
+        "arabicSlug": "arlar-college-pah-in-2021-webinar",
+        "englishSlug": "arlar-college-pah-in-2021-webinar",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "902e7bef-9c8f-45a3-a4d0-7e67e289ac21",
+        "englishId": "ad41d5b2-f2ef-4355-9d76-b2684eaeb769",
+        "arabicSlug": "المؤتمر-الواحد-والثلاثون-للجمعية-التونسية-لمقاومة-داء-المفاصل",
+        "englishSlug": "31st-congress-of-the-tunisian-league-against-rheumatism-litar",
+        "matchType": "publish-time",
+        "deltaMs": 5055
+      },
+      {
+        "arabicId": "1884f6d3-d084-4552-8848-baa9288f71fd",
+        "englishId": "1229acc5-5b54-434e-9dcf-fabfd49e7b3d",
+        "arabicSlug": "save-the-date",
+        "englishSlug": "save-the-date",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "448cd085-0379-4bec-af4f-51a37d6ee4c9",
+        "englishId": "1ac3f808-ed4a-4434-962a-812b932a1ab4",
+        "arabicSlug": "merry-christmas-a-happy-new-year",
+        "englishSlug": "merry-christmas-a-happy-new-year",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "f07b331c-4a2e-467f-88fe-0e2837e43ed5",
+        "englishId": "c050082c-ad10-4b69-9cea-053af35414c9",
+        "arabicSlug": "arlar-college-ra-in-the-era-of-covid-19-webinar",
+        "englishSlug": "arlar-college-ra-in-the-era-of-covid-19-webinar",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "06784cd0-0e8b-4802-a4b1-596ddb369efa",
+        "englishId": "37ac3016-c49b-4790-9cac-88dabfda9c76",
+        "arabicSlug": "arlar-college-osteoporosis-update-in-2020-webinar",
+        "englishSlug": "arlar-college-osteoporosis-update-in-2020-webinar",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "cd7a02a7-09fb-4174-960b-df17596ba53a",
+        "englishId": "93dfa734-f3c2-40fb-ac26-e82e959662b0",
+        "arabicSlug": "asas-standalone-invitation",
+        "englishSlug": "asas-announcement",
+        "matchType": "title",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "fb247445-f35f-4f4c-8406-43c9a0d14b0c",
+        "englishId": "d2d545d2-d6d8-4913-af34-f55ffc84ab37",
+        "arabicSlug": "the-annual-congress-of-the-lebanese-society-of-rheumatology-webinar",
+        "englishSlug": "the-annual-congress-of-the-lebanese-society-of-rheumatology-webinar",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "8b5b34a7-2ea5-4ff1-96d2-7d46b4e3309b",
+        "englishId": "331bed3a-73d3-484b-90b1-41699a5d013b",
+        "arabicSlug": "qatar-rheumatology-association-live-webinar",
+        "englishSlug": "qatar-rheumatology-association-live-webinar",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "ce94bce5-ea3c-4c90-b655-04c249993217",
+        "englishId": "450c1b3c-47c9-4df1-bf8a-c8e31bb6f8d8",
+        "arabicSlug": "arlar-college-6th-webinar",
+        "englishSlug": "arlar-college-6th-webinar",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "0e0e3e75-f231-47ed-a159-663814b38e29",
+        "englishId": "93dfa734-f3c2-40fb-ac26-e82e959662b0",
+        "arabicSlug": "asas-اعلان",
+        "englishSlug": "asas-announcement",
+        "matchType": "publish-time",
+        "deltaMs": 9704
+      },
+      {
+        "arabicId": "f83ab82d-ab2b-4ac0-a5b0-3d119dc92449",
+        "englishId": "a7e28c68-63c5-4a59-b4e6-365bc2700943",
+        "arabicSlug": "arlar-college-5th-webinar",
+        "englishSlug": "arlar-college-4th-webinar-1",
+        "matchType": "title",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "56ce72fe-5d55-486a-8700-c99224f16389",
+        "englishId": "3606db64-db21-49e1-b5f4-fe0f6ec10d4f",
+        "arabicSlug": "arlar-college-4th-webinar",
+        "englishSlug": "arlar-college-4th-webinar",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "bedce402-559f-4224-b5e1-00fdc593c197",
+        "englishId": "e55de443-d0bd-41fb-917e-cb69115ed092",
+        "arabicSlug": "arlar-college-3rd-webinar",
+        "englishSlug": "arlar-college-3rd-webinar",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "051fdcec-5321-427d-8ace-9b48c76d1cf9",
+        "englishId": "4d7c19b2-51f0-4ded-9466-55dc61b906ba",
+        "arabicSlug": "arlar-college-2nd-webinar",
+        "englishSlug": "arlar-college-2nd-webinar",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "44cb9074-c6b9-4711-a945-8fce0ba09d8b",
+        "englishId": "6870caa2-2342-4b7d-9433-59a65148aa7c",
+        "arabicSlug": "arlar-college-webinars-agenda",
+        "englishSlug": "arlar-college-webinars-agenda",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "6f9de5a2-eb9b-4961-a7e6-18d702928fc1",
+        "englishId": "0349fcfc-9f68-4e72-94a9-9a564b0c8c54",
+        "arabicSlug": "arlar2021-beirut-lebanon",
+        "englishSlug": "official-announcement",
+        "matchType": "title",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "249aacd2-e3b5-4434-a1d6-7220e64872e9",
+        "englishId": "d8774bc5-5270-418e-ac61-08b9023f2191",
+        "arabicSlug": "رمضان-كريم",
+        "englishSlug": "ramadan-kareem",
+        "matchType": "publish-time",
+        "deltaMs": 74271
+      },
+      {
+        "arabicId": "2359d7aa-dd8d-4391-b196-4d9b89ab78a5",
+        "englishId": "1d21d857-aa95-40cd-8d6c-c470abc90053",
+        "arabicSlug": "eular-2019-in-madrid-spain",
+        "englishSlug": "eular-2019-in-madrid-spain",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "f9fd67c6-559c-4984-b75f-62ef28dee5e5",
+        "englishId": "3347f1bf-4dc1-4623-8852-6529ebaf3d0e",
+        "arabicSlug": "eid-mubarak",
+        "englishSlug": "eid-mubarak",
+        "matchType": "slug",
+        "deltaMs": 0
+      },
+      {
+        "arabicId": "ec96762d-c245-447d-80a4-624bd14334c0",
+        "englishId": "ba3e895d-88f2-4b16-b609-7133f7f4d1bd",
+        "arabicSlug": "arlar-site-up",
+        "englishSlug": "arlar-site-up",
+        "matchType": "slug",
+        "deltaMs": 0
+      }
+    ],
+    "translationCandidates": [
+      {
+        "matchType": "publish-time",
+        "deltaMs": 2516,
+        "englishId": "46c14230-2972-4914-877f-0f41605c3156",
+        "arabicId": "790234c4-6df4-44dc-ae08-4f32273746d6",
+        "englishSlug": "greetings-on-the-occasion-of-al-mawlid-al-nabawi-al-sharif",
+        "arabicSlug": "تهنئة-بمناسبة-المولد-النبوي-الشريف",
+        "englishTitle": "🌙 Greetings on the Occasion of Al-Mawlid Al-Nabawi Al-Sharif",
+        "arabicTitle": "🌙 تهنئة بمناسبة المولد النبوي الشريف"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 4340,
+        "englishId": "1ebba522-075f-4aae-9664-1b59bde8e36f",
+        "arabicId": "35b95d9b-5a4b-44c9-8d58-e8ac0f1c9dca",
+        "englishSlug": "arlar-wishes-you-a-happy-hijri-new-year",
+        "arabicSlug": "الرابطة-العربية-لجمعيات-الروماتيزم-تهنئكم-بحلول-السنة-الهجرية-الجديدة-2",
+        "englishTitle": "🌙 ArLAR Wishes You a Happy Hijri New Year",
+        "arabicTitle": "🌙 الرابطة العربية لجمعيات الروماتيزم تهنئكم بحلول السنة الهجرية الجديدة"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 1601,
+        "englishId": "696375c2-5c88-44b4-b0aa-175132b9f8db",
+        "arabicId": "1ef5af91-b6b1-475f-a53e-84e3b67f6262",
+        "englishSlug": "eid-al-adha-mubarak-2",
+        "arabicSlug": "عيد-أضحى-مبارك-2",
+        "englishTitle": "✨🌙 Eid Al-Adha Mubarak",
+        "arabicTitle": "عيد أضحى مبارك🌙✨ "
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 6595,
+        "englishId": "622f0c53-458a-430b-bfd6-65a6afae39ca",
+        "arabicId": "dec841b9-ca67-4783-b313-4ed867b03d28",
+        "englishSlug": "eid-al-fitr-mubarak-1",
+        "arabicSlug": "عيد-فطر-مبارك-2",
+        "englishTitle": "Eid Al Fitr Mubarak 🌙✨",
+        "arabicTitle": "عيد فطر مبارك 🌙✨"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 15539,
+        "englishId": "69238cb3-68d6-47c1-a1eb-e277e4253dc0",
+        "arabicId": "53640e7b-40f3-4d42-8f46-6590da16cbc1",
+        "englishSlug": "arlar-s-5th-e-bulletin-issue-now-available",
+        "arabicSlug": "تصفح-العدد-الخامس-من-النشرة-الالكترونية-للرابطة",
+        "englishTitle": "ArLAR's 5th e-Bulletin Issue Now Available!",
+        "arabicTitle": "تصفح العدد الخامس من النشرة الالكترونية للرابطة!"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 3496,
+        "englishId": "d4a36026-7b37-4568-ad56-07e848e57ef8",
+        "arabicId": "b24cd54d-4806-480d-919e-69967c651e49",
+        "englishSlug": "ramadan-mubarak-2",
+        "arabicSlug": "رمضان-مبارك-1",
+        "englishTitle": "✨🌙 Ramadan Mubarak",
+        "arabicTitle": "🌙✨ رمضان مبارك"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 1950,
+        "englishId": "1363e82f-aa60-47bd-9699-0db20c53c9cd",
+        "arabicId": "a0355ed1-ce3b-47ac-aad8-8e7f281e2935",
+        "englishSlug": "happy-new-year-2026",
+        "arabicSlug": "كل-عام-وأنتم-بخير",
+        "englishTitle": "✨🎉 Happy New Year 2026!",
+        "arabicTitle": "✨🎉 كل عام وأنتم بخير"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 11165,
+        "englishId": "8e2f48f1-ac51-4379-ae85-60c32c793762",
+        "arabicId": "14e604b0-71f5-4397-9689-771abf8eeb39",
+        "englishSlug": "arlar-wishes-you-a-blessed-mawlid-al-nabi-1",
+        "arabicSlug": "تهنئكم-الرابطة-العربية-لجمعيات-الروماتيزم-بمناسبة-المولد-النبوي-الشريف-كل-عام-وأنتم-بخير",
+        "englishTitle": "ArLAR wishes you a blessed Mawlid al-Nabi! 🌟🕌",
+        "arabicTitle": "تهنئكم الرابطة العربية لجمعيات الروماتيزم بمناسبة المولد النبوي الشريف. كل عام وأنتم بخير 🌟🕌"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 6039,
+        "englishId": "b96d38a3-2a54-488d-8dcd-33c80b9b05c5",
+        "arabicId": "60935d71-96a0-4d06-a999-dce23a471d64",
+        "englishSlug": "arlar-wishes-you-a-blessed-hijri-new-year-1",
+        "arabicSlug": "الرابطة-العربية-لجمعيات-الروماتيزم-تهنئكم-بحلول-السنة-الهجرية-الجديدة-1",
+        "englishTitle": "ArLAR Wishes You a Blessed Hijri New Year 🌙",
+        "arabicTitle": "الرابطة العربية لجمعيات الروماتيزم تهنئكم بحلول السنة الهجرية الجديدة ✨"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 2775,
+        "englishId": "a313d0e5-f2e9-4d64-ad4b-4b61e3cfa557",
+        "arabicId": "917f459c-f570-4009-b357-6e90a50a11a6",
+        "englishSlug": "eid-al-adha-mubarak-1",
+        "arabicSlug": "عيد-أضحى-مبارك-1",
+        "englishTitle": "Eid al-Adha Mubarak! 🌙🐏✨",
+        "arabicTitle": "عيد أضحى مبارك! 🌙🐏✨"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 1034,
+        "englishId": "d1bcec16-2424-4b8e-829f-461c799905e1",
+        "arabicId": "e3a4fcbe-0a6e-4853-b9d1-75029df1d6eb",
+        "englishSlug": "we-are-pleased-to-invite-you-to-the-opening-ceremony-of-the-arlar25-congress-in-algiers",
+        "arabicSlug": "يسر-نا-دعوتكم-لحضور-حفل-افتتاح-مؤتمر-الرابطة-العربية-لجمعيات-الروماتيزم-arlar25-في-الجزائر",
+        "englishTitle": "We are pleased to invite you to the Opening Ceremony of the ArLAR25 Congress in Algiers",
+        "arabicTitle": "يسرّنا دعوتكم لحضور حفل افتتاح مؤتمر الرابطة العربية لجمعيات الروماتيزم ArLAR25 في الجزائر "
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 2072,
+        "englishId": "15a10437-152d-4cd4-8570-3a01de7316ce",
+        "arabicId": "3d689222-3cc4-49da-b0a3-8f15edc92749",
+        "englishSlug": "ramadan-mubarak-1",
+        "arabicSlug": "رمضان-كريم-2",
+        "englishTitle": "🌙 Ramadan Mubarak ✨",
+        "arabicTitle": "🌙 رمضان كريم! ✨"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 9769,
+        "englishId": "62092b9b-6879-4233-b59c-1e77fa8ce8b1",
+        "arabicId": "a5317a34-1dc8-4e84-8070-e9f569525b0e",
+        "englishSlug": "arlar-wishes-you-a-happy-new-year",
+        "arabicSlug": "تتمنى-الرابطة-العربية-لجمعيات-الروماتيزم-لكم-عاما-جديدا-سعيدا-ومليئا-بالأمل-والنجاح",
+        "englishTitle": "ArLAR wishes you a Happy New Year! 🎉",
+        "arabicTitle": "تتمنى الرابطة العربية لجمعيات الروماتيزم لكم عاماً جديداً سعيداً ومليئاً بالأمل والنجاح. 🌟"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 3570,
+        "englishId": "7361ce01-153d-46c7-bbac-86b864cccd63",
+        "arabicId": "72f66f56-d105-4e42-98d8-dd737e945e0c",
+        "englishSlug": "world-arthritis-day-3",
+        "arabicSlug": "اليوم-العالمي-لالتهاب-المفاصل-2",
+        "englishTitle": "🌍World Arthritis Day! ",
+        "arabicTitle": "🌍 اليوم العالمي لالتهاب المفاصل "
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 2215,
+        "englishId": "e1714118-9fef-400d-9ce5-0873dbef5036",
+        "arabicId": "3461da53-d932-4e6c-9a53-458a46aa9caf",
+        "englishSlug": "arlar-wishes-you-a-blessed-mawlid-al-nabi",
+        "arabicSlug": "الرابطة-العربية-لجمعيات-الروماتيزم-تهنئكم-بحلول-عيد-المولد-النبوي-الشريف",
+        "englishTitle": "ArLAR Wishes You a Blessed Mawlid al-Nabi",
+        "arabicTitle": "الرابطة العربية لجمعيات الروماتيزم تهنئكم بحلول عيد المولد النبوي الشريف."
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 1334,
+        "englishId": "aae8b420-6bef-44e5-91a8-36216ed6da26",
+        "arabicId": "f12ea31b-4cf2-4c15-9853-036637985cea",
+        "englishSlug": "arlar-s-4th-e-bulletin-issue-now-available",
+        "arabicSlug": "تصفح-العدد-الرابع-من-النشرة-الالكترونية-للرابطة",
+        "englishTitle": "ArLAR's 4th e-Bulletin Issue Now Available!",
+        "arabicTitle": "تصفح العدد الرابع من النشرة الالكترونية للرابطة!"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 956,
+        "englishId": "310ec4b1-d63e-41c1-8689-333617c443e1",
+        "arabicId": "c3c4683c-324c-4540-ace5-cf187822a8ec",
+        "englishSlug": "freedom-for-our-colleague-dr-anas-muhanna",
+        "arabicSlug": "الحرية-للزميل-الدكتور-انس-مهنا",
+        "englishTitle": "Freedom for our colleague Dr. Anas Muhanna",
+        "arabicTitle": "الحرية للزميل الدكتور انس مهنا"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 1388,
+        "englishId": "d763258e-1626-4e22-8579-17f068fdcbd4",
+        "arabicId": "48448527-fb51-4ff3-8c71-841f770f49b9",
+        "englishSlug": "arlar-wishes-you-a-blessed-hijri-new-year",
+        "arabicSlug": "الرابطة-العربية-لجمعيات-الروماتيزم-تهنئكم-بحلول-السنة-الهجرية-الجديدة",
+        "englishTitle": "ArLAR Wishes You a Blessed Hijri New Year 🌙✨",
+        "arabicTitle": "الرابطة العربية لجمعيات الروماتيزم تهنئكم بحلول السنة الهجرية الجديدة 🌙✨"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 27008,
+        "englishId": "642d2ff2-416b-43f3-89a1-17a36f9452dd",
+        "arabicId": "1e362cf8-33b4-43f8-adfd-b16754f4e9f2",
+        "englishSlug": "stop-targeting-the-health-facilities-and-health-professionals-in-gaza",
+        "arabicSlug": "أوقفوا-استهداف-المنظومة-الصحية-بتدميرها-و-القتل-المتعمد-للأطباء-و-العاملين-في-الرعاية-الصحية-في-غزة",
+        "englishTitle": "Stop Targeting the Health Facilities and Health Professionals in Gaza!",
+        "arabicTitle": "أوقفوا استهداف المنظومة الصحية بتدميرها و القتل المتعمد للأطباء و العاملين في الرعاية الصحية في غزة!"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 2653,
+        "englishId": "4a561eff-926a-4bb2-81db-1d7d935b35a4",
+        "arabicId": "d5fdf0df-5863-46b9-b4fe-1bbfffe1bd68",
+        "englishSlug": "stop-the-war-of-extermination-against-the-palestinian-people",
+        "arabicSlug": "اوقفوا-حرب-الإبادة-والتطهير-العرقي-على-الشعب-الفلسطيني",
+        "englishTitle": "Stop the War of Extermination against the Palestinian People!",
+        "arabicTitle": "اوقفوا حرب الإبادة والتطهير العرقي على الشعب الفلسطيني!"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 798,
+        "englishId": "981daf0b-e763-43c8-9dc0-763f85101e90",
+        "arabicId": "cf1c68e8-6ec4-45f4-a5a1-84d6bbe1c88b",
+        "englishSlug": "eid-al-adha-mubarak",
+        "arabicSlug": "عيد-أضحى-مبارك",
+        "englishTitle": "Eid al-Adha Mubarak!",
+        "arabicTitle": "عيد أضحى مبارك! "
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 1774,
+        "englishId": "2a7e3720-451d-44b5-80a0-b95290ee0515",
+        "arabicId": "6bee983f-d59f-4054-a895-d0d6f0ae29e9",
+        "englishSlug": "eid-fitr-mubarak-1",
+        "arabicSlug": "عيد-فطر-سعيد",
+        "englishTitle": "Eid Fitr Mubarak 🌙",
+        "arabicTitle": "عيد فطر سعيد 🌙"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 3762,
+        "englishId": "caf112e2-9617-4999-9744-0f4716a37f71",
+        "arabicId": "18764ef0-df69-4498-9b6f-fe9881c347af",
+        "englishSlug": "arlar-wishes-you-and-your-loved-ones-a-blessed-ramadan",
+        "arabicSlug": "الرابطة-العربية-لجمعيات-الروماتيزم-تهنئكم-بحلول-شهر-رمضان-المبارك-كل-عام-وأنتم-بخير",
+        "englishTitle": "ArLAR wishes you and your loved ones a blessed Ramadan. 🌙✨ ",
+        "arabicTitle": "الرابطة العربية لجمعيات الروماتيزم تهنئكم بحلول شهر رمضان المبارك. كل عام وأنتم بخير 🌙✨"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 1753,
+        "englishId": "f953afd8-6603-40bd-905a-275c8b91305c",
+        "arabicId": "f8c746bc-e3bc-449c-8a6e-2df7a0544eba",
+        "englishSlug": "international-women-s-day",
+        "arabicSlug": "يوم-المرأة-العالمي",
+        "englishTitle": "🌸 International Women's Day",
+        "arabicTitle": " 🌸 يوم المرأة العالمي"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 5914,
+        "englishId": "16f32ed7-5576-4bea-a988-322c64db79a1",
+        "arabicId": "8d714bbe-5b20-4453-896f-266ea2dc909e",
+        "englishSlug": "arlar-s-3rd-e-bulletin-issue-now-available",
+        "arabicSlug": "تصفح-العدد-الثاني-من-النشرة-الالكترونية-للرابطة-1",
+        "englishTitle": "ArLAR's 3rd e-Bulletin Issue Now Available!",
+        "arabicTitle": "تصفح العدد الثالث من النشرة الالكترونية للرابطة!"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 8104,
+        "englishId": "71624e73-9d5c-4d86-8bd6-633f3c5b21da",
+        "arabicId": "4d29f2d1-55bb-4c45-b800-62f4938bec87",
+        "englishSlug": "rheumatologist-day-in-the-arab-world",
+        "arabicSlug": "يوم-طبيب-الروماتيزم-في-الوطن-العربي-1",
+        "englishTitle": "Rheumatologist Day in the Arab world!!",
+        "arabicTitle": "يوم طبيب الروماتيزم في الوطن العربي"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 996,
+        "englishId": "db260919-dbc8-4c4a-9e66-909f56b0c34e",
+        "arabicId": "1e0b1aa2-c1fb-4567-b9d0-4964471928f5",
+        "englishSlug": "jsr-and-jos-joint-meeting-spotlights-latest-developments-in-osteoporosis-research",
+        "arabicSlug": "اللقاء-العلمي-المشترك-لجمعية-أطباء-أمراض-الروماتيزم-والمفاصل-الأردنية-وجمعية-هشاشة-العظام-الأردنية-ي",
+        "englishTitle": "JSR and JOS Joint Meeting Spotlights Latest Developments in Osteoporosis Research",
+        "arabicTitle": "اللقاء العلمي المشترك لجمعية أطباء أمراض الروماتيزم والمفاصل الأردنية وجمعية هشاشة العظام الأردنية يسلط الضوء على آخر مستجدات هشاشة العظام"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 3591,
+        "englishId": "b03cfad0-97be-42cc-b3ea-9796a41721d8",
+        "arabicId": "33cbcec6-b11f-4fef-8276-46f55ca3c4fc",
+        "englishSlug": "arlar-s-new-year-2024-greetings",
+        "arabicSlug": "تهنئة-العام-الجديد-2024-من-الرابطة",
+        "englishTitle": "ArLAR's New Year 2024 Greetings",
+        "arabicTitle": "تهنئة العام الجديد 2024 من الرابطة"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 2545,
+        "englishId": "609ab532-b07a-4e37-ba99-4e2fe923ffb7",
+        "arabicId": "e6b8b552-b9ae-4f2e-9af2-ed01f40c78e7",
+        "englishSlug": "arlar-s-2nd-e-bulletin-issue-now-available",
+        "arabicSlug": "تصفح-العدد-الثاني-من-النشرة-الالكترونية-للرابطة",
+        "englishTitle": "ArLAR's 2nd e-Bulletin Issue Now Available!",
+        "arabicTitle": "تصفح العدد الثاني من النشرة الالكترونية للرابطة!"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 2557,
+        "englishId": "498bf9b4-1e49-43eb-8c19-c264d49c1f6a",
+        "arabicId": "11663817-1e58-41bb-9c9a-8ccf56790f83",
+        "englishSlug": "standing-in-solidarity-with-palestine",
+        "arabicSlug": "تضامنا-مع-أهلنا-في-فلسطين-قلوبنا-معكم-في-هذه-الأوقات-الصعبة",
+        "englishTitle": "Standing in Solidarity with Palestine",
+        "arabicTitle": "تضامناً مع أهلنا في فلسطين. قلوبنا معكم في هذه الأوقات الصعبة."
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 2898,
+        "englishId": "2efd2746-1644-4bbd-93df-3772c3da6e5a",
+        "arabicId": "2f5808ea-78e9-4cd7-966f-6215e5260248",
+        "englishSlug": "world-arthritis-day-2",
+        "arabicSlug": "اليوم-العالمي-للاتهاب-المفاصل",
+        "englishTitle": "🌍 World Arthritis Day 🌍",
+        "arabicTitle": "🌍 اليوم العالمي للاتهاب المفاصل🌍"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "e19b6703-dcba-42a1-83f6-81b969e0f5ac",
+        "arabicId": "d234524f-d18c-40ca-99eb-5ff4b7b376d7",
+        "englishSlug": "prayformorocco",
+        "arabicSlug": "prayformorocco",
+        "englishTitle": "#PrayForMorocco ",
+        "arabicTitle": "#PrayForMorocco "
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 2329,
+        "englishId": "a5d32316-6dc1-4ac5-9fad-3111076c2118",
+        "arabicId": "98f7d46a-8386-4785-aa9a-88963e93be2e",
+        "englishSlug": "hijri-new-year-1",
+        "arabicSlug": "كل-عام-وأنتم-بخير-بمناسبة-السنة-الهجرية-الجديدة",
+        "englishTitle": "Hijri New Year🌙✨",
+        "arabicTitle": "كل عام وأنتم بخير بمناسبة السنة الهجرية الجديدة! 🌙✨"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 2968,
+        "englishId": "1152a13c-3a3f-411b-a5f8-56d42565ff13",
+        "arabicId": "505bd6c6-9286-4dbd-a350-4c04f97c01b1",
+        "englishSlug": "eid-al-adha-2023",
+        "arabicSlug": "تهنئة-عيد-الأضحى-المبارك-2023",
+        "englishTitle": "Eid Al-Adha 2023",
+        "arabicTitle": "تهنئة عيد الأضحى المبارك 2023"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 3197,
+        "englishId": "92d869e3-ba28-4016-9e43-eca458c15737",
+        "arabicId": "1c62995a-7cec-4823-9f28-30f810d7a2cd",
+        "englishSlug": "eid-mubarak-2023",
+        "arabicSlug": "عيد-الفطر-المبارك-2023",
+        "englishTitle": "Eid Mubarak 2023",
+        "arabicTitle": "عيد الفطر المبارك 2023"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 21256,
+        "englishId": "0b4080a0-caeb-4a3a-9953-26b666e129a6",
+        "arabicId": "c1e1b8cf-544d-4f4c-8ce7-917b1e5c50dc",
+        "englishSlug": "ramadan-kareem-2023",
+        "arabicSlug": "رمضان-المبارك-2023",
+        "englishTitle": "Ramadan Kareem 2023",
+        "arabicTitle": "رمضان المبارك 2023"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 28436,
+        "englishId": "86f704dc-402f-47c7-a2a0-6ac26dea5fec",
+        "arabicId": "98b591ac-17c8-46b0-8092-8930f9ee52ec",
+        "englishSlug": "happy-new-year-2023",
+        "arabicSlug": "كل-عام-وانتم-بخير-2023",
+        "englishTitle": "Happy New Year 2023",
+        "arabicTitle": "كل عام وانتم بخير 2023"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 3749,
+        "englishId": "59e25bdf-c429-4d7f-8437-8539036459e0",
+        "arabicId": "b89b409a-3323-4c23-96d2-c17d1d0f7c62",
+        "englishSlug": "the-7th-international-jordanian-rheumatology-congress",
+        "arabicSlug": "المؤتمر-الدولي-السابع-لجمعية-أطباء-الروماتيزم-والمفاصل-الأردنية",
+        "englishTitle": "The 7th International Jordanian Rheumatology Congress",
+        "arabicTitle": "المؤتمر الدولي السابع لجمعية أطباء الروماتيزم والمفاصل الأردنية"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 1333,
+        "englishId": "1d5e04d3-0029-4186-aba0-6632a67cb256",
+        "arabicId": "12b0cd35-5630-44e1-97a6-815de3660cef",
+        "englishSlug": "world-arthritis-day-1",
+        "arabicSlug": "اليوم-العالمي-لالتهاب-المفاصل-1",
+        "englishTitle": "World Arthritis Day",
+        "arabicTitle": "اليوم العالمي لالتهاب المفاصل"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 1525,
+        "englishId": "c3385ad0-3782-4e1d-898b-4b9e32017b9c",
+        "arabicId": "db4ea961-720c-474f-b1f6-41b818d08ede",
+        "englishSlug": "registration-for-arlar23-kuwait-congress",
+        "arabicSlug": "التسجيل-في-مؤتمر-الكويت-arlar23",
+        "englishTitle": "Registration for ArLAR23 Kuwait Congress",
+        "arabicTitle": "التسجيل في مؤتمر الكويت ArLAR23"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 1590,
+        "englishId": "710b6309-495b-480c-98a0-c5002de5c993",
+        "arabicId": "6427b1fc-1dd1-407b-893b-637fa81dc5e5",
+        "englishSlug": "arlar23-kuwait",
+        "arabicSlug": "arlar23-الكويت",
+        "englishTitle": "ArLAR23 Kuwait ",
+        "arabicTitle": "ArLAR23 الكويت"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 1191,
+        "englishId": "4a3abdcd-e597-424e-9b53-518382ea4001",
+        "arabicId": "ca810c76-7540-4e12-a55c-baf36a05835e",
+        "englishSlug": "eid-adha-mubarak",
+        "arabicSlug": "تهنئكم-الرابطة-العربية-لجمعيات-الروماتيزم-بقدوم-عيد-الأضحى-المبارك-أعاده-الله-عليكم-باليمن-والبركات",
+        "englishTitle": "Eid Adha Mubarak!",
+        "arabicTitle": "تهنئكم الرابطة العربية لجمعيات الروماتيزم بقدوم عيد الأضحى المبارك، أعاده الله عليكم باليمن والبركات"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 3171,
+        "englishId": "bc69a9dd-50df-4a8e-b163-9776890cc3ca",
+        "arabicId": "5f801e26-0217-4ad5-9a88-e011885a2497",
+        "englishSlug": "iraqi-league-for-bone-and-joint-health-5th-scientific-congress",
+        "arabicSlug": "المؤتمر-الخامس-لرابطة-صحة-العظام-والمفاصل-العراقية",
+        "englishTitle": "Iraqi League for Bone and Joint Health 5th Scientific Congress",
+        "arabicTitle": "المؤتمر الخامس لرابطة صحة العظام والمفاصل العراقية "
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 4932,
+        "englishId": "f811b5a9-5564-436e-ac9a-77c168366f0a",
+        "arabicId": "34bdda07-6f73-42fc-9be5-6db1a5f10578",
+        "englishSlug": "arlar23-kuwait-congress",
+        "arabicSlug": "مؤتمر-الرابطة-العربية-لجمعيات-الروماتيزم-الكويت-2023",
+        "englishTitle": "ArLAR23 Kuwait Congress!",
+        "arabicTitle": "مؤتمر الرابطة العربية لجمعيات الروماتيزم الكويت 2023"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 9881,
+        "englishId": "7f2513b3-b05e-4de9-8c2b-52388db32010",
+        "arabicId": "89ff1c63-7832-41d4-8ac6-5976825aa7bc",
+        "englishSlug": "tirol-2021",
+        "arabicSlug": "الرعاية-الصحية-عن-بعد-في-أمراض-الروماتيزم",
+        "englishTitle": "TIROL 2021",
+        "arabicTitle": "الرعاية الصحية عن بعد في أمراض الروماتيزم"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 2221,
+        "englishId": "2cfd0dc4-e40b-49cb-8450-f0f5f7e0b7ce",
+        "arabicId": "81371482-3829-49d8-9206-e2c2fd49f87b",
+        "englishSlug": "eid-fitr-mubarak",
+        "arabicSlug": "عيد-فطر-مبارك",
+        "englishTitle": "Eid Fitr Mubarak!",
+        "arabicTitle": "عيد فطر مبارك!"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 1518,
+        "englishId": "fcbae814-6d2c-4ddc-96e1-581df51d4675",
+        "arabicId": "410b6bd6-431c-4325-bcaf-f6aae799315d",
+        "englishSlug": "arlar-history-with-dr-fatemah-abutiban",
+        "arabicSlug": "تاريخ-الرابطة-مع-د-فاطمة-بوطيبان",
+        "englishTitle": "ArLAR History with Dr. Fatemah AbuTiban",
+        "arabicTitle": "تاريخ الرابطة مع د. فاطمة بوطيبان "
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 6071,
+        "englishId": "946211dd-84f3-4915-806a-90f40791d7d4",
+        "arabicId": "45eea23c-801c-45af-80b6-ff42e7154fd0",
+        "englishSlug": "ramadan-mubarak-from-arlar",
+        "arabicSlug": "رمضان-كريم-1",
+        "englishTitle": "Ramadan Mubarak from ArLAR ☪️ ",
+        "arabicTitle": "رمضان كريم ☪️"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 2065,
+        "englishId": "630fbc0b-2fd6-405b-90e1-c66925ab48fa",
+        "arabicId": "7f74ec75-9864-46f0-9354-e56e41aed138",
+        "englishSlug": "arlar-history-with-dr-basel-masri",
+        "arabicSlug": "تاريخ-الرابطة-مع-د-باسل-المصري",
+        "englishTitle": "ArLAR History with Dr. Basel Masri",
+        "arabicTitle": "تاريخ الرابطة مع د. باسل المصري"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 2363,
+        "englishId": "7bdd7695-790c-4385-bb4c-05f5c39b6039",
+        "arabicId": "b33171ee-ee62-45de-b870-f2197af742b8",
+        "englishSlug": "arlar-history-with-dr-abdellah-el-maghraoui",
+        "arabicSlug": "تاريخ-الرابطة-مع-د-عبدالله-المغراوي",
+        "englishTitle": "ArLAR History with Dr. Abdellah El Maghraoui ",
+        "arabicTitle": "تاريخ الرابطة مع د. عبدالله المغراوي "
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 3034,
+        "englishId": "31a7f14d-1697-45d6-99a6-b99e2439b16d",
+        "arabicId": "7b87cc34-0781-4738-9dd8-4f462bffef58",
+        "englishSlug": "arlar-history-with-dr-hussein-halabi",
+        "arabicSlug": "تاريخ-الرابطة-مع-د-حسين-حلبي",
+        "englishTitle": "ArLAR History with Dr. Hussein Halabi",
+        "arabicTitle": "تاريخ الرابطة مع د. حسين حلبي"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 3300,
+        "englishId": "8eb143f2-a175-49f5-b085-f3637ba885fa",
+        "arabicId": "4b3c65b3-7688-4bd7-aa27-a9c59ae1b43c",
+        "englishSlug": "1st-levant-rheumatology-summit",
+        "arabicSlug": "قمة-المشرق-العربي-الأولى-للروماتيزم",
+        "englishTitle": "1st Levant Rheumatology Summit",
+        "arabicTitle": "قمة المشرق العربي الأولى للروماتيزم "
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 2666,
+        "englishId": "c378c419-3e75-40c5-8c77-975066dd0f61",
+        "arabicId": "173c068c-fbe6-437b-bae3-b3ead71db6ab",
+        "englishSlug": "arlar-history-with-dr-musa-hadidi",
+        "arabicSlug": "تاريخ-الرابطة-مع-د-موسى-الحديدي",
+        "englishTitle": "ArLAR History with Dr. Musa Hadidi",
+        "arabicTitle": "تاريخ الرابطة مع د. موسى الحديدي "
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 1395,
+        "englishId": "d5f939a8-38e8-4550-975a-ab0338bd925e",
+        "arabicId": "8db11c50-22ba-4c84-b64c-b96205f19402",
+        "englishSlug": "arlar2023-conference-in-kuwait",
+        "arabicSlug": "مؤتمر-الرابطة-العربية-لجمعيات-الروماتيزم-2023-في-الكويت",
+        "englishTitle": "ArLAR23 Kuwait Congress",
+        "arabicTitle": "مؤتمر الرابطة العربية لجمعيات الروماتيزم 2023 في الكويت"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 2238,
+        "englishId": "dfdfb2a5-83e9-4743-9ee8-635426f82903",
+        "arabicId": "ba6a98e5-7473-48b6-a2ad-5db1a97b9dbb",
+        "englishSlug": "arlar-history-with-dr-ayman-el-garf",
+        "arabicSlug": "تاريخ-الرابطة-مع-د-أيمن-الجرف",
+        "englishTitle": "ArLAR History with Dr. Ayman El Garf",
+        "arabicTitle": "تاريخ الرابطة مع د. أيمن الجرف"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 1059,
+        "englishId": "7fba8058-5b0f-496b-8239-04e9ae83f441",
+        "arabicId": "1f893341-dbb6-4c55-9144-e1d83418eb27",
+        "englishSlug": "arlar-history-with-dr-salwa-el-cheikh",
+        "arabicSlug": "تاريخ-الرابطة-مع-د-سلوى-الشيخ",
+        "englishTitle": "ArLAR History with Dr. Salwa El Cheikh",
+        "arabicTitle": "تاريخ الرابطة مع د. سلوى الشيخ"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 2518,
+        "englishId": "51da1ded-7cb0-4d1e-a342-d0071ad50a58",
+        "arabicId": "c7189d8d-d36d-45da-bfa7-7e393c5b5023",
+        "englishSlug": "arlar-history-with-dr-zuheir-al-sabbagh",
+        "arabicSlug": "تاريخ-الرابطة-مع-د-زهير-الصباغ",
+        "englishTitle": "ArLAR History with Dr. Zuheir Al Sabbagh",
+        "arabicTitle": "تاريخ الرابطة مع د. زهير الصباغ "
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 1956,
+        "englishId": "d2a4f38b-8030-4303-ab28-08c2fda0d26d",
+        "arabicId": "d9207923-3f7b-4171-a579-5d41712f3e37",
+        "englishSlug": "rheumatoid-arthritis-awareness-day",
+        "arabicSlug": "يوم-التوعية-بمرض-التهاب-المفاصل-الروماتويدي",
+        "englishTitle": "Rheumatoid Arthritis Awareness Day",
+        "arabicTitle": "يوم التوعية بمرض التهاب المفاصل الروماتويدي"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 2377,
+        "englishId": "93c2bcce-0cef-46e4-859b-17faed1e1c27",
+        "arabicId": "afc09348-a194-4984-8795-13700b90b7c9",
+        "englishSlug": "arab-rheumatologists-day",
+        "arabicSlug": "يوم-طبيب-الروماتيزم-في-الوطن-العربي",
+        "englishTitle": "Arab Rheumatologists Day",
+        "arabicTitle": "يوم طبيب الروماتيزم في الوطن العربي "
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 2598,
+        "englishId": "c2ab2976-b707-4b48-8e20-03ea4168f04e",
+        "arabicId": "56c4530b-4d3e-4372-bcfd-3f1ab72f6503",
+        "englishSlug": "arlar-history-video-with-dr-samir-al-badawi",
+        "arabicSlug": "تاريخ-arlar-مع-د-سمير-البدوي",
+        "englishTitle": "ArLAR History Video with Dr. Samir Al Badawi ",
+        "arabicTitle": "تاريخ ArLAR مع د. سمير البدوي"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 4061,
+        "englishId": "b808705a-ce9c-42e9-8a8a-85c1504c3311",
+        "arabicId": "d6f58703-393c-4672-8793-9887c360eb79",
+        "englishSlug": "arlar-history-video",
+        "arabicSlug": "تاريخ-arlar",
+        "englishTitle": "ArLAR History Video",
+        "arabicTitle": "تاريخ ArLAR"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 2578,
+        "englishId": "6c893b5b-85fb-440c-807b-b6d3a1c11640",
+        "arabicId": "c1538f17-4c28-45f4-9dc8-0902ab4cf6bd",
+        "englishSlug": "2nd-gcc-rheumatology-hybrid-conference-in-muscat-oman",
+        "arabicSlug": "المؤتمر-الخليجي-الثاني-لأمراض-الروماتيزم-الحضوري-و-الافتراضي-في-مسقط-عمان",
+        "englishTitle": "2nd GCC Rheumatology Hybrid Conference in Muscat, Oman",
+        "arabicTitle": " المؤتمر الخليجي الثاني لأمراض الروماتيزم الحضوري و الافتراضي في مسقط ، عمان"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 1244,
+        "englishId": "5464b06b-6932-4bc9-b7ac-ffaec4676b62",
+        "arabicId": "25e39c7f-9686-4eaf-b024-ad688454c30e",
+        "englishSlug": "ssrc-annual-conference",
+        "arabicSlug": "مؤتمر-الجمعية-السعودية-لأمراض-الروماتيزم",
+        "englishTitle": "SSRC Annual Conference ",
+        "arabicTitle": "مؤتمر الجمعية السعودية لأمراض الروماتيزم"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 19211,
+        "englishId": "d7092231-3e9f-412b-8b57-bcc41e5c03d9",
+        "arabicId": "8e4c0042-c387-4627-a63d-dc5f4a783bf9",
+        "englishSlug": "arlar-research-group-arch",
+        "arabicSlug": "مجموعة-الأبحاث-العلمية",
+        "englishTitle": "ArLAR Research Group - ARCH",
+        "arabicTitle": "مجموعة الأبحاث العلمية - ARCH"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 2720,
+        "englishId": "e3875e82-570f-43e7-b13a-e9ae32fea5b4",
+        "arabicId": "4986d208-3e7b-4a87-9b2d-cf33c3a0a1f4",
+        "englishSlug": "world-osteoporosis-day",
+        "arabicSlug": "اليوم-العالمي-لهشاشة-العظام",
+        "englishTitle": "World Osteoporosis Day",
+        "arabicTitle": "اليوم العالمي لهشاشة العظام"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 10799,
+        "englishId": "7ad6c0f2-f12d-4dd0-9136-9a8276cfa689",
+        "arabicId": "7d42d50c-de31-4b76-afc0-864c7cda8466",
+        "englishSlug": "mawlid-an-nabawī",
+        "arabicSlug": "المولد-النبوي-الشريف",
+        "englishTitle": "Mawlid an-Nabawī",
+        "arabicTitle": "المولد النبوي الشريف"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 50331,
+        "englishId": "d387e774-f4d3-4128-910a-7a2ac67b820e",
+        "arabicId": "bcf83f15-cc38-4976-9195-d769af1134d2",
+        "englishSlug": "world-arthritis-day",
+        "arabicSlug": "اليوم-العالمي-لالتهاب-المفاصل",
+        "englishTitle": "World Arthritis Day",
+        "arabicTitle": "اليوم العالمي لالتهاب المفاصل"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 4283,
+        "englishId": "329d19ce-caaa-4262-946b-09610e88681b",
+        "arabicId": "14472455-c6cb-447c-8f86-6dfb8e3d164b",
+        "englishSlug": "hijri-new-year",
+        "arabicSlug": "رأس-السنة-الهجرية",
+        "englishTitle": "Hijri New Year!",
+        "arabicTitle": "رأس السنة الهجرية‎"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 1684,
+        "englishId": "8288d44b-f370-4d0f-b9d3-d2b98877b91a",
+        "arabicId": "505d2a42-bb02-42aa-83d6-007eec5ded89",
+        "englishSlug": "jsr-june-23-how-to-overcome-my-rheumatoid-arthritis",
+        "arabicSlug": "دعوة-مفتوحة-للجميع",
+        "englishTitle": "JSR - June 23 - How to overcome my rheumatoid arthritis?",
+        "arabicTitle": "دعوة مفتوحة للجميع "
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "fca1994c-2d05-4bb1-a414-9808ac7083a6",
+        "arabicId": "c2919f1f-668a-4098-a9cb-0c7e818eee4c",
+        "englishSlug": "الى-جميع-الزملاء-اطباء-الروماتيزم-في-الوطن-العربي",
+        "arabicSlug": "الى-جميع-الزملاء-اطباء-الروماتيزم-في-الوطن-العربي",
+        "englishTitle": "الى جميع الزملاء اطباء الروماتيزم في الوطن العربي ",
+        "arabicTitle": "الى جميع الزملاء اطباء الروماتيزم في الوطن العربي "
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 7196,
+        "englishId": "9d50a261-b115-41d3-8e22-f4e10761f1fe",
+        "arabicId": "41f718d6-25c6-4854-8da5-43526fcb76aa",
+        "englishSlug": "ramadan-mubarak",
+        "arabicSlug": "رمضان-مبارك",
+        "englishTitle": "Ramadan Mubarak",
+        "arabicTitle": "رمضان مبارك"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 5055,
+        "englishId": "ad41d5b2-f2ef-4355-9d76-b2684eaeb769",
+        "arabicId": "902e7bef-9c8f-45a3-a4d0-7e67e289ac21",
+        "englishSlug": "31st-congress-of-the-tunisian-league-against-rheumatism-litar",
+        "arabicSlug": "المؤتمر-الواحد-والثلاثون-للجمعية-التونسية-لمقاومة-داء-المفاصل",
+        "englishTitle": "31st Congress of the Tunisian League Against Rheumatism – LITAR",
+        "arabicTitle": "المؤتمر الواحد والثلاثون  للجمعية التونسية لمقاومة داء المفاصل"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 74271,
+        "englishId": "d8774bc5-5270-418e-ac61-08b9023f2191",
+        "arabicId": "249aacd2-e3b5-4434-a1d6-7220e64872e9",
+        "englishSlug": "ramadan-kareem",
+        "arabicSlug": "رمضان-كريم",
+        "englishTitle": "Ramadan Kareem",
+        "arabicTitle": "رمضان كريم "
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "1d21d857-aa95-40cd-8d6c-c470abc90053",
+        "arabicId": "2359d7aa-dd8d-4391-b196-4d9b89ab78a5",
+        "englishSlug": "eular-2019-in-madrid-spain",
+        "arabicSlug": "eular-2019-in-madrid-spain",
+        "englishTitle": "eular 2019 in Madrid, Spain",
+        "arabicTitle": "الرابطة العربية لجمعيات الروماتيزم المختلفة في  مؤتمر الرابطة الأوربية  eular في مدريد"
+      }
+    ],
+    "arabicOnly": [
+      {
+        "id": "2876628b-1a13-4083-9d1f-d4c2f828b403",
+        "slug": "عيد-فطر-مبارك-1",
+        "title": "عيد فطر مبارك ✨🌙",
+        "firstPublishedDate": "2025-03-29T18:44:36.493Z",
+        "reason": "unique-arabic-article"
+      },
+      {
+        "id": "6a1d9143-eef4-4adf-bc60-de4d673b3cbf",
+        "slug": "مؤتمر-arlar25-في-الجزائر",
+        "title": "مؤتمر ArLAR25 في الجزائر!",
+        "firstPublishedDate": "2024-07-03T15:03:30.496Z",
+        "reason": "unique-non-arabic-article"
+      },
+      {
+        "id": "e5a1a0ff-8c4a-4c0a-b014-225f2941b9b7",
+        "slug": "المجموعة-العربية-للتوعية-بالأمراض-الروماتيزمية-النشرة-الإخبارية-السنوية",
+        "title": "المجموعة العربية للتوعية بالأمراض الروماتيزمية النشرة الإخبارية السنوية",
+        "firstPublishedDate": "2023-12-22T15:01:25.551Z",
+        "reason": "unique-arabic-article"
+      },
+      {
+        "id": "f43016e7-2d20-43b3-97d5-300d87683631",
+        "slug": "arlar-e-bulletin",
+        "title": "العدد الأول من النشرة الالكترونية",
+        "firstPublishedDate": "2022-01-31T06:39:46.120Z",
+        "reason": "unique-arabic-article"
+      },
+      {
+        "id": "8e30c187-2419-4c8b-9de4-2e848fd4b216",
+        "slug": "الرابطة-العربية-لجمعيات-الروماتيزم-في-مؤتمر-الكلية-الأمريكية-لأمراض-الروماتيزم-2021-1",
+        "title": "الرابطة العربية لجمعيات الروماتيزم في مؤتمر الكلية الأمريكية لأمراض الروماتيزم 2021",
+        "firstPublishedDate": "2021-11-07T06:48:57.743Z",
+        "reason": "unique-non-arabic-article"
+      },
+      {
+        "id": "2024fef0-b685-4b53-b1f5-0bd945dc8f4e",
+        "slug": "الرابطة-العربية-لجمعيات-الروماتيزم-في-مؤتمر-الكلية-الأمريكية-لأمراض-الروماتيزم-2021",
+        "title": "الرابطة العربية لجمعيات الروماتيزم في مؤتمر الكلية الأمريكية لأمراض الروماتيزم 2021",
+        "firstPublishedDate": "2021-11-06T12:38:24.923Z",
+        "reason": "unique-non-arabic-article"
+      },
+      {
+        "id": "1f46f564-b6da-4e08-b5a8-f65c052729e4",
+        "slug": "حرر-الألم-وأطلق-الأمل",
+        "title": "حرر الألم وأطلق الأمل",
+        "firstPublishedDate": "2021-10-12T18:02:17.517Z",
+        "reason": "unique-arabic-article"
+      },
+      {
+        "id": "9d4ab08f-0a2b-4315-86c2-0c2a27fd69cc",
+        "slug": "اول-لقاء-للمجموعة-العربية-للتوعية-بالامراض-الروماتيزمية",
+        "title": "اول لقاء للمجموعة العربية للتوعية بالامراض الروماتيزمية",
+        "firstPublishedDate": "2021-10-09T14:16:16.262Z",
+        "reason": "unique-arabic-article"
+      },
+      {
+        "id": "719f372f-f076-4463-985a-a8ec70c31aea",
+        "slug": "arlar-s-college-complexity-and-heterogeneity-in-psa",
+        "title": "ArLAR's College “Complexity and Heterogeneity in PsA\" ",
+        "firstPublishedDate": "2020-11-26T13:52:21.408Z",
+        "reason": "unique-non-arabic-article"
+      },
+      {
+        "id": "7118e507-0cd5-4d83-bc26-9f4fb317f4ae",
+        "slug": "تدعوكم-الجمعية-القطرية-لأمراض-الروماتيزم-لحضور",
+        "title": "تدعوكم الجمعية القطرية لأمراض الروماتيزم لحضور...",
+        "firstPublishedDate": "2020-11-16T15:53:47.606Z",
+        "reason": "unique-arabic-article"
+      },
+      {
+        "id": "cadc9228-3884-4547-be96-baafbb6dc81a",
+        "slug": "aaaa-group-28th-of-nov",
+        "title": "برنامج المجموعة العربية للتوعية بالأمراض الروماتيزمية في الوطن العربي!",
+        "firstPublishedDate": "2020-11-13T19:04:37.340Z",
+        "reason": "unique-arabic-article"
+      },
+      {
+        "id": "18106de9-64a3-4b8b-9250-6f4e4137ee1a",
+        "slug": "لا-طلاق-برنامج-المجموعة-العربية-للتوعية-بالا-مراض-الروماتيزمية-في-الوطن-العربي",
+        "title": "لإطلاق برنامج المجموعة العربية للتوعية بالأمراض الروماتيزمية في الوطن العربي!",
+        "firstPublishedDate": "2020-10-23T18:30:43.144Z",
+        "reason": "unique-arabic-article"
+      },
+      {
+        "id": "8fdc768c-0b0f-4f92-a5e1-2ce60a2c0ba0",
+        "slug": "الرابطه-الكويتيه-لامراض-الروماتيزم-تنظم-الحملة-التوعوية-للاحتفال-بيوم-الروماتيزم-العالمي-٢٠٢٠",
+        "title": "الرابطه الكويتيه لامراض الروماتيزم تنظم الحملة التوعوية للاحتفال بيوم الروماتيزم العالمي ٢٠٢٠",
+        "firstPublishedDate": "2020-09-17T09:05:06.652Z",
+        "reason": "unique-arabic-article"
+      },
+      {
+        "id": "1250de6f-af66-46c7-8b3f-014812fcbd3e",
+        "slug": "عيد-الاضحى-٢٠٢٠-arlar-2021",
+        "title": "عيد الاضحى ٢٠٢٠ ArLAR 2021#",
+        "firstPublishedDate": "2020-07-28T04:50:12.708Z",
+        "reason": "unique-arabic-article"
+      },
+      {
+        "id": "3aa6d6e8-296e-4142-af62-4eca29c8af78",
+        "slug": "arlar-college-webinar-the-art-of-telehealth",
+        "title": "ArLAR College Webinar \"The Art of Telehealth\"",
+        "firstPublishedDate": "2020-07-20T06:32:18.128Z",
+        "reason": "unique-non-arabic-article"
+      },
+      {
+        "id": "92aa0aaa-fd14-4b53-928e-324189b56c28",
+        "slug": "عيد-الفطر-2020",
+        "title": "عيد الفطر 2020",
+        "firstPublishedDate": "2020-05-22T08:12:49.355Z",
+        "reason": "unique-arabic-article"
+      },
+      {
+        "id": "bec552ae-06e9-4572-ac2c-e00a10a4dfc9",
+        "slug": "إعلان-هام-arlar2020",
+        "title": "إعلان هام arlar2020 #",
+        "firstPublishedDate": "2020-03-07T08:11:09.563Z",
+        "reason": "unique-arabic-article"
+      },
+      {
+        "id": "8fa74b3b-1200-405c-924a-ac05b2b0bd07",
+        "slug": "جمعية-الجزائرية-لداء-الروماتيزم",
+        "title": "جمعية الجزائرية لداء الروماتيزم",
+        "firstPublishedDate": "2020-02-01T05:40:50.019Z",
+        "reason": "unique-arabic-article"
+      },
+      {
+        "id": "f19e3a1b-d30f-43a5-9ef9-50881eae537c",
+        "slug": "مؤتمر-الرابطة-العربية-لجمعيات-الروماتيزم-الأردن-2020",
+        "title": "مؤتمر الرابطة العربية  لجمعيات الروماتيزم-الأردن 2020",
+        "firstPublishedDate": "2019-10-24T10:45:51.341Z",
+        "reason": "unique-arabic-article"
+      },
+      {
+        "id": "1c0eada3-5c4c-40fd-87b2-d304511e3d99",
+        "slug": "يوم-التهاب-المفاصل",
+        "title": "يوم التهاب المفاصل في المملكة العربية السعودية ",
+        "firstPublishedDate": "2019-10-23T12:29:59.369Z",
+        "reason": "unique-arabic-article"
+      },
+      {
+        "id": "aeca5ae5-82a6-4695-8104-34e69302b04f",
+        "slug": "المؤتمر-السنوي-لجمعية-اطباء-المفاصل-والروماتيزم-اللبنانية",
+        "title": "المؤتمر السنوي لجمعية اطباء المفاصل والروماتيزم اللبنانية",
+        "firstPublishedDate": "2019-10-23T12:28:27.958Z",
+        "reason": "unique-arabic-article"
+      },
+      {
+        "id": "e56ddf4c-e83c-4d62-a7f6-db19e5bb3eeb",
+        "slug": "نتمنى-لكم-عيد-مبارك-مبارك",
+        "title": "نتمنى لكم عيد مبارك مبارك",
+        "firstPublishedDate": "2019-08-10T06:56:43.107Z",
+        "reason": "unique-arabic-article"
+      }
+    ],
+    "duplicateOrEnglish": [
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "6a882ada-2c9c-484f-901c-8beb51ba592d",
+        "arabicId": "4b2d3141-f7a0-463c-b711-3d54caafccba",
+        "slug": "call-for-abstracts-now-open-for-arlar27",
+        "title": "📢 Call for Abstracts Now Open for ArLAR27"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "d52217fe-cfe0-4eba-9911-cc097403ee9a",
+        "arabicId": "43b7a403-4a1c-43e4-a003-079c3dc1b1ea",
+        "slug": "honoring-a-lifetime-of-excellence",
+        "title": "🌟 Honoring a Lifetime of Excellence"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "cfc729aa-6856-4776-8a7e-46f9b4bf8aac",
+        "arabicId": "3bca7ecc-6aeb-4600-b9e5-f14c307f6ff7",
+        "slug": "arlar27-organizing-committee-holds-preparatory-meeting",
+        "title": "ArLAR27 Organizing Committee Holds Preparatory Meeting"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "6d79df24-a340-4002-b491-0df9cb875bcb",
+        "arabicId": "c8e3a527-e35d-47db-a42d-41e632e2cd57",
+        "slug": "arlar-proudly-announces-the-publication-of-rheumatic-diseases-in-the-arab-world",
+        "title": "📚 ArLAR Proudly Announces the Publication of Rheumatic Diseases in the Arab World"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "731496be-66a3-4300-aaa9-1b7473057dcd",
+        "arabicId": "b7a41904-7d2d-48d0-a172-8a07fdb111a8",
+        "slug": "the-countdown-to-arlar27-begins",
+        "title": "📢 The countdown to ArLAR27 begins!"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "98853780-93e7-4dc5-b30f-d21dc26afd37",
+        "arabicId": "6b487e50-4da8-4ac4-bfd2-5fc25ab71f3e",
+        "slug": "arlar-college-webinar-arlar-pulmorheum-alliance-ild-and-pulmonary-vascular-disease",
+        "title": "📢 ArLAR College Webinar: ArLAR PulmoRheum Alliance – ILD and Pulmonary Vascular Disease"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "dfa98530-3832-4794-ad19-e408378b75be",
+        "arabicId": "00b45f70-b697-4ffe-b876-eca52cd725a9",
+        "slug": "arlar-participation-at-eular-2026",
+        "title": "ArLAR Participation at EULAR 2026"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "06c51f1e-001a-4e91-a031-6673234beffb",
+        "arabicId": "5f97549f-8642-4934-b296-f50999bf7924",
+        "slug": "arlar-college-arch-webinar-authorship-criteria-in-research-1",
+        "title": "📢 ArLAR College ARCH Webinar: Authorship Criteria in Research"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "822ebc27-ff39-493d-b1b1-2c34978805ad",
+        "arabicId": "4ea0de75-b093-4cdc-b690-2cbf48a4f6f0",
+        "slug": "baghdad-to-host-the-9th-annual-scientific-congress-on-rheumatic-diseases",
+        "title": "Baghdad to Host the 9th Annual Scientific Congress on Rheumatic Diseases"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "2ad45fad-3d1e-4672-9162-fe95db200a86",
+        "arabicId": "b262efef-5ad9-4f3e-bb68-7620b3d2bcc1",
+        "slug": "arlar-women-s-health-group-webinar-gender-differences-in-spondyloarthritis",
+        "title": "📢 ArLAR Women’s Health Group Webinar: Gender Differences in Spondyloarthritis"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "936fe3ca-0dc2-4083-a81d-34be2c3f8b67",
+        "arabicId": "63726b99-2b34-479d-bd94-47e0482553e8",
+        "slug": "arlar-president-calls-for-active-engagement-across-the-arab-rheumatology-community",
+        "title": "ArLAR President Calls for Active Engagement Across the Arab Rheumatology Community"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "3aec4d5f-fc0d-4e25-a085-d5eeed0ac947",
+        "arabicId": "e31e0480-256b-4833-bc25-d863eaa1dada",
+        "slug": "arlar-college-webinar-latest-advances-in-ctd-ild",
+        "title": "📢 ArLAR College Webinar: Latest Advances in CTD-ILD"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "c162d087-8c2d-4e21-9237-e7fc73793518",
+        "arabicId": "46f4bf03-16ed-4139-971a-5f2b66259290",
+        "slug": "arlar-college-arch-webinar-authorship-criteria-in-research",
+        "title": "📢  Important Update - ArLAR College ARCH Webinar: Authorship Criteria in Research"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "31687f76-8f8c-4a0a-b1a8-4770ecff11ae",
+        "arabicId": "616bb95d-83c9-43e9-b749-d0b0deb55f08",
+        "slug": "international-iraq-spine-congress-baghdad-2026",
+        "title": "International Iraq Spine Congress – Baghdad 2026"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "d57a15ce-5c47-4c33-8a8d-d53885d8c763",
+        "arabicId": "8e4e4718-f699-44d6-994b-ba9c707b54ed",
+        "slug": "arlar27-preparations-officially-launched-in-baghdad",
+        "title": "ArLAR27 Preparations Officially Launched in Baghdad 🚀"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "99f662b3-32f2-4679-9751-1af17e588675",
+        "arabicId": "6049a770-79cf-4ca6-a8c5-416b1d083bf5",
+        "slug": "save-the-date-arlar27",
+        "title": "🚨 Save the date 🚨#ArLAR27"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "948415a4-3129-4cce-a6ec-6a3faeb8dbcf",
+        "arabicId": "a6e6d97e-6bc1-4888-870c-63e7b810d51d",
+        "slug": "yrg-case-challenge-2-now-available",
+        "title": "YRG Case Challenge 2 Now Available"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "9e75bbc0-2def-4b8e-ba47-90a5938bb85a",
+        "arabicId": "63afd789-7515-40fe-b328-2096fa8782b9",
+        "slug": "how-do-asas-eular-axspa-recommendations-shape-your-practice-take-the-survey",
+        "title": "How Do ASAS-EULAR axSpA Recommendations Shape Your Practice? Take the Survey"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "6ca80c51-242c-4bda-ad83-c856ba190a2c",
+        "arabicId": "7ffc94bc-67b9-484b-a245-4332f3ef8e1d",
+        "slug": "women-s-health-is-rheumatology-care",
+        "title": "🌸 Women’s health is rheumatology care"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "51694b4f-ada5-455f-8b18-bb651956a608",
+        "arabicId": "490f1258-aabb-4215-9d58-d10a21e9f9c8",
+        "slug": "arch-newsletter-issue-3-is-out",
+        "title": "📰 ARCH Newsletter – Issue #3 is out!"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "79afa34f-329b-4bf7-aba4-815a735cb13b",
+        "arabicId": "31109f51-4c37-4ef8-b6dc-64ea7b655db2",
+        "slug": "arlar-activities-during-the-ilbjh-conference",
+        "title": "ArLAR Activities During the ILBJH Conference"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "143077a9-4d8b-4dfd-9633-36d5132d0335",
+        "arabicId": "6901da4d-e4eb-49d1-bbf4-5b058d431d51",
+        "slug": "8th-ilbjh-scientific-congress-highlights",
+        "title": "8th ILBJH Scientific Congress Highlights"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "05fe4223-b37f-4ae2-a9d1-5a7134115cdb",
+        "arabicId": "93184c50-c273-48a7-b6e1-a4db6b617b82",
+        "slug": "special-message-from-the-president-ahead-of-the-8th-ilbjh-scientific-congress",
+        "title": "Special Message from the President Ahead of the 8th ILBJH Scientific Congress"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "afa4d933-4a1b-460a-a4c4-e252490d30ad",
+        "arabicId": "044a934e-6350-4f96-b79e-662bc3b4ee94",
+        "slug": "the-8th-ilbjh-scientific-congress-announced",
+        "title": "The 8th ILBJH Scientific Congress Announced"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "b5af09f1-e654-46f2-83ff-0b60aabcebad",
+        "arabicId": "6ebd0157-9c5f-4507-b8be-99b02c889f16",
+        "slug": "final-reminder-the-4th-levant-rheumatology-summit-begins-this-week",
+        "title": "Final Reminder: The 4th Levant Rheumatology Summit Begins This Week"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "bf042316-800f-4d47-bb13-e16e10f0bbcb",
+        "arabicId": "711d986a-325f-4c35-8e23-efb84d1604a1",
+        "slug": "first-iscd-supervised-bone-density-measurement-course-in-iraq-baghdad-march-2026",
+        "title": "First ISCD-Supervised Bone Density Measurement Course in Iraq – Baghdad, March 2026"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "9c6f70f4-4050-4af1-b068-9e6f9ba83852",
+        "arabicId": "eac697d2-4230-4184-974a-11b99f413e97",
+        "slug": "8th-jordanian-rheumatology-congress-3rd-palestinian-congress-4th-levant-summit-2025",
+        "title": "8th Jordanian Rheumatology Congress, 3rd Palestinian Congress & 4th Levant Summit 2025"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "308693e6-3623-472e-99d2-55ac64b0d667",
+        "arabicId": "b0ad47a1-2a46-400b-b6d9-02feb2185c51",
+        "slug": "calling-all-rheumatologists-across-arlar-countries",
+        "title": "📢 Calling All Rheumatologists Across ArLAR Countries!"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "e873f410-475b-46cf-9db4-0a0f41ba321e",
+        "arabicId": "1afcb376-6c80-41fe-8018-014f93625324",
+        "slug": "iraq-takes-the-lead",
+        "title": "🎉 Iraq takes the lead!"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "c29ee20e-e28b-440a-a3b3-c9cbcbf61a07",
+        "arabicId": "012abf4f-fce8-4e79-aecc-49b0c84fa533",
+        "slug": "arlar-at-eular-2025",
+        "title": "🤝 ArLAR at EULAR 2025!"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "a84de87e-8276-42f6-be93-ea2cba22632b",
+        "arabicId": "86a9bb98-0202-4fe6-94d6-e7f409c5dc28",
+        "slug": "arlar-college-arch-webinar-top-reasons-for-acceptance-and-rejection-of-a-scientific-article-the-e",
+        "title": "ArLAR College ARCH Webinar – Top Reasons for Acceptance and Rejection of a Scientific Article: The Editor’s Point of View"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "946073f3-c774-4914-bcb1-5303e86e4b91",
+        "arabicId": "2f239039-cbf9-4266-9bec-4c43510f1062",
+        "slug": "wrapping-up-arlar25-with-a-new-chapter",
+        "title": "🎉 Wrapping Up ArLAR25 with a New Chapter"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "9179249a-5409-4efe-80ec-592c9a9c88d2",
+        "arabicId": "62185d92-38d4-4ff2-aba8-579104189a4b",
+        "slug": "it-s-today-arlar25",
+        "title": "🎉 It's TODAY! #ArLAR25"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "1d181e50-87b9-47d9-903d-21bbf36d511b",
+        "arabicId": "6c0c842a-374c-48e1-bca2-1cf4be5ee33d",
+        "slug": "are-you-ready-for-arlar25",
+        "title": "🤩 Are You Ready for ArLAR25?"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "8a264ea1-2caf-4b95-af3d-a4938e7ce4ac",
+        "arabicId": "02cb16c8-54c6-47de-bf37-149f32d96532",
+        "slug": "one-day-to-go-the-wait-is-almost-over",
+        "title": "⏳ ONE DAY TO GO! The wait is almost over!"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "c7b15499-759f-417f-a254-dca415eacf57",
+        "arabicId": "112f3037-1a67-41a9-b3d5-c314aa89b49f",
+        "slug": "get-to-know-our-international-speakers",
+        "title": "🌍 Get to Know Our International Speakers!"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "76407512-25b3-4fd1-bf1b-7c264da3f407",
+        "arabicId": "5b2ef2f9-c739-4f62-a6b1-71c56f1263f7",
+        "slug": "just-2-days-left",
+        "title": "⏳ Just 2 Days Left!"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "e56aba8f-a338-4d5a-933e-19836068cac4",
+        "arabicId": "f434820c-6a2c-48fd-8a94-0252009c75ce",
+        "slug": "3-days-to-go",
+        "title": "⏳ 3 Days to Go!"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "cc2148ff-1c3f-43e9-9152-d88615e806e9",
+        "arabicId": "1e6d49e8-8944-428b-a6fd-e5df66896af1",
+        "slug": "don-t-miss-the-spartan---arlar-symposium-at-arlar25",
+        "title": "📝 Don’t Miss the SPARTAN / ArLAR Symposium at ArLAR25!"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "94cfb1dc-57b7-49bb-9672-a1658f28d148",
+        "arabicId": "3e5796e6-4019-48b5-907d-b80559218193",
+        "slug": "4-days-to-go",
+        "title": "⏳ 4 Days to Go!"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "72d39d2e-3d80-4f7f-b6d6-61363d78f402",
+        "arabicId": "0225d3f8-1f25-409f-a82b-ad77b1701b95",
+        "slug": "arlar25-held-under-presidential-patronage-in-algeria",
+        "title": "ArLAR25 Held Under Presidential Patronage in Algeria"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "d020ca38-b37b-4aea-86b2-28794429c024",
+        "arabicId": "8bb32cf6-9668-4be7-b30f-826cc9f8010d",
+        "slug": "ten-days-to-go-arlar25",
+        "title": "🔟 TEN DAYS TO GO! #ArLAR25"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "aa3a6a6a-5d32-4928-9619-15ebf5b9591e",
+        "arabicId": "680417fc-05ef-40c2-b5ef-61645401937e",
+        "slug": "explore-the-workshops-at-arlar25",
+        "title": "🛠️ Explore the Workshops at ArLAR25"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "02c805eb-a5fa-4bfb-b384-12ae097be26a",
+        "arabicId": "5c36b6b7-ea9c-40b7-91c3-cae08077e8aa",
+        "slug": "what-to-expect-at-arlar25",
+        "title": "📘 What to Expect at ArLAR25"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "ae0d2e0d-5f29-4de1-be0b-61d33e983720",
+        "arabicId": "6489c3f1-2e08-4991-9059-423b9c8c5c02",
+        "slug": "don-t-miss-the-spartan---arlar-symposium-on-axial-spondyloarthritis",
+        "title": "📣 Don’t Miss the SPARTAN / ArLAR Symposium on Axial Spondyloarthritis!"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "aaf0b662-a9f0-4350-811e-cb0a3924158a",
+        "arabicId": "30a12f12-a418-4d76-9e27-aa1293953634",
+        "slug": "just-24-days-to-go",
+        "title": "⏳Just 24 Days to Go!"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "a7f4607a-9c32-4819-aec4-ae8d8fc86a3c",
+        "arabicId": "20bf9223-31ae-485f-b82c-599f4bf520cd",
+        "slug": "meet-the-arlar25-scientific-committee",
+        "title": "🔬 Meet the ArLAR25 Scientific Committee!"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "5aeb907d-276f-4e9c-8b2c-677e4c2f3c07",
+        "arabicId": "06759322-5412-4736-8d08-8b86d25e4647",
+        "slug": "meet-the-arlar25-organizing-committee",
+        "title": "👥 Meet the ArLAR25 Organizing Committee!"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "b55c02de-7353-4d4c-8fbf-168e5e49ff3a",
+        "arabicId": "da13aa21-b689-47dc-9ef1-f4a105c98999",
+        "slug": "join-the-arlar-basic-msus-course-at-arlar25",
+        "title": "📢 Join the ArLAR Basic MSUS Course at ArLAR25!"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "a3969dcf-f877-403b-9e8d-9fdbcf9b9a42",
+        "arabicId": "6331824c-3dd2-42f5-b7ef-b78a0b38c307",
+        "slug": "just-31-days-left-arlar25-is-almost-here",
+        "title": "⏳ Just 31 Days Left – ArLAR25 is Almost Here!"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "9f2aba4f-6e4c-461f-8cd0-f8e535dc40c6",
+        "arabicId": "1f90144e-e01a-466b-9eda-337d4a18d23c",
+        "slug": "36-days-to-go-the-countdown-to-arlar25-continues",
+        "title": "⏳ 36 Days to Go! The Countdown to ArLAR25 Continues!"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "9462576e-904c-409b-94b9-b3c230ba780d",
+        "arabicId": "c3881bb6-3b5b-428a-8f45-e701a66f1f36",
+        "slug": "44-days-to-go-the-countdown-to-arlar25-continues",
+        "title": "⏳ 44 Days to Go! The Countdown to ArLAR25 Continues!"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "e2c7c4f0-8be8-4093-b6c6-a37d4c93e948",
+        "arabicId": "6eb36900-e3fb-44c1-a7c8-96b98aab5b1f",
+        "slug": "join-us-for-arlar25",
+        "title": "Join us for ArLAR25!"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "48039c09-badb-4915-99d3-cc0b80abc546",
+        "arabicId": "c9ff7d0e-61fb-465a-99a1-551ea00fa096",
+        "slug": "time-is-running-out-register-for-arlar25-now",
+        "title": "📢 Time is Running Out – Register for ArLAR25 Now! ⏳"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "64d44805-99a0-47a0-b1b5-de857cde8cbf",
+        "arabicId": "f4632e38-aa93-486d-895d-23ae061b9a65",
+        "slug": "52-days-to-go-the-countdown-to-arlar25-continues",
+        "title": "⏳ 52 Days to Go! The Countdown to ArLAR25 Continues!"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "425011ee-8fe2-4cc8-916b-e5b3db6cada1",
+        "arabicId": "ac327706-6ef0-4547-9d04-2e9fd7c4f539",
+        "slug": "arlar25-full-program-is-now-live",
+        "title": "📢 ArLAR25 Full Program is Now Live! 📢"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "751f7221-d51c-47e1-b19d-4e4f735f886d",
+        "arabicId": "09d18803-975e-4bf7-8aff-f94ec87142e7",
+        "slug": "arlar25-official-promotional-video-the-countdown-is-on",
+        "title": "🎥 ArLAR25 Official Promotional Video – The Countdown is On! ⏳"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "1be6ff92-22a7-4078-ae1d-7b325a974b7d",
+        "arabicId": "5b1f7016-e589-4af4-bad0-eba91e68f728",
+        "slug": "arlar25-update-only-59-days-to-go",
+        "title": "🚨 ArLAR25 Update: Only 59 Days to Go! ⏳"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "735816e4-5eff-4b97-ba52-46b3df0a69d1",
+        "arabicId": "8e5a8d80-3f40-433e-ad7d-d666d5719f9d",
+        "slug": "arlar25-news-update-eular-ultrasound-workshop-program-revealed",
+        "title": "📢 ArLAR25 News Update: EULAR Ultrasound Workshop Program Revealed!"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "abd6cd07-15dc-4697-9536-5f14073d6586",
+        "arabicId": "0701518d-f3a5-4562-be51-d454c727021b",
+        "slug": "countdown-to-arlar25-algeria-67-days-to-go",
+        "title": "Countdown to ArLAR25 Algeria: 67 Days to Go!"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "a636b328-0bb8-473f-8a5e-97f03b53592e",
+        "arabicId": "ce6da844-acc1-493e-8e56-284de7a3550a",
+        "slug": "arlar25-algeria-venue-announcement",
+        "title": "📢 ArLAR25 Algeria Venue Announcement! 📢"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "58d29d66-54b8-43aa-8f07-1249ad72026c",
+        "arabicId": "0246496c-5964-4d69-86a5-4c976df66884",
+        "slug": "arlar25-algeria-save-the-date-for-the-leading-rheumatology-congress",
+        "title": "ArLAR25 Algeria – Save the Date for the Leading Rheumatology Congress!"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "97ecc96f-42cc-4f75-88e1-f0fb08907661",
+        "arabicId": "e398cc47-96aa-4034-9101-b27625f41ae5",
+        "slug": "stay-updated-with-arch",
+        "title": "Stay Updated with ARCH! 🔬 💉"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "18ce1dac-9aea-480d-81d5-a98ab21f6049",
+        "arabicId": "0b44191b-d11c-4207-98c7-b3ca7570d22e",
+        "slug": "arlar25-abstract-submission-hurry-up-and-benefit-from-early-bird-opportunities",
+        "title": "ArLAR25 Abstract Submission: Hurry Up and Benefit from Early Bird Opportunities!"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 8932,
+        "englishId": "982ac89c-bf0a-4b58-9c51-42a04583629a",
+        "arabicId": "be5605e9-f4b5-4c87-aa5d-65f437fd589a",
+        "slug": "مؤتمر-arlar25-في-الجزائر-1",
+        "title": "مؤتمر ArLAR25 في الجزائر!"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "eb1ad4af-4408-4a38-b832-c9d708879321",
+        "arabicId": "279c426f-4b18-4eed-bab5-be18c3fd7baf",
+        "slug": "the-alfa-project-transforming-referral-strategies-in-rheumatology-across-the-arab-world",
+        "title": "The ALFA Project: Transforming Referral Strategies in Rheumatology Across the Arab World"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "2785a1bd-ebed-4cfa-a62c-0f271ad49706",
+        "arabicId": "7a34d98b-da9e-4bcd-98d5-3da4c99a50ff",
+        "slug": "arlar-college-arch-webinar-when-to-refer-a-patient-with-early-arthritis-or-inflammatory-low-bac",
+        "title": "📢 ArLAR College ARCH Webinar: \"When to Refer a Patient with Early Arthritis or Inflammatory Low Back Pain to Rheumatology?\""
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "6c4eeb2a-522e-4d49-9bc4-69234935c163",
+        "arabicId": "a1ab2615-2adf-417d-b96a-d28fe7f69a1c",
+        "slug": "arlar-college-arch-webinar-quand-référer-les-patients-ayant-une-arthrite-précoce-ou-une-lombalgie-i",
+        "title": "📢 ArLAR College ARCH Webinar: Quand Référer les Patients Ayant une Arthrite Précoce ou une Lombalgie Inflammatoire"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "57c966a1-8881-46c8-b96b-e27e0a041809",
+        "arabicId": "bc0d60a4-acac-4cdd-a727-5d562c0014be",
+        "slug": "the-arch-arlar-is-inviting-you-to-a-new-survey",
+        "title": "The ARCH – ArLAR is inviting you to a new survey!"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 2708,
+        "englishId": "c9e4d714-c211-4939-8750-ba1ad3d87ca6",
+        "arabicId": "d9ba0cdb-f4cb-4569-aba5-e89bda506c62",
+        "slug": "لبنان-وفلسطين-نحن-معكم-في-هذه-الأوقات-الصعبة",
+        "title": "لبنان وفلسطين، نحن معكم في هذه الأوقات الصعبة 🤍🕊️"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 7634,
+        "englishId": "14d1e690-bdaa-41a0-97c1-653472b6826b",
+        "arabicId": "0b0f6029-803d-4a28-b079-503288b27c2e",
+        "slug": "تضامنا-مع-أهلنا-في-فلسطين",
+        "title": "تضامناً مع أهلنا في فلسطين 🤍🕊️"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 2197,
+        "englishId": "b1443a48-6001-4141-b9cc-01acbd435762",
+        "arabicId": "7b86589a-ee02-4e10-a659-5b3c28ea4aa9",
+        "slug": "تضامنا-مع-أهلنا-في-لبنان",
+        "title": "تضامناً مع أهلنا في لبنان 🤍🕊️"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 7437,
+        "englishId": "56e8762b-9533-49ca-ab7a-040fb44db3ed",
+        "arabicId": "0014482a-f196-4f85-a4f3-0b3fe681799f",
+        "slug": "التسجيل-مفتوح-الآن-لمؤتمر-arlar25-في-الجزائر",
+        "title": "📢 التسجيل مفتوح الآن لمؤتمر ArLAR25 في الجزائر!"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "7ddf6b8a-11df-466f-9594-c77af17da686",
+        "arabicId": "7da390dd-bd96-468b-b63e-778cd21168e7",
+        "slug": "introducing-the-arlar25-congress-president-dr-manal-el-rakaawi",
+        "title": "📢 Introducing the ArLAR25 Congress President, Dr. Manal El Rakaawi!"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "e30c90c2-28fa-4893-8dee-3e47f7dcfdfb",
+        "arabicId": "65e90af8-f834-4ea3-899e-a4596112e2dd",
+        "slug": "meet-the-emirates-society-for-rheumatology",
+        "title": "Meet the Emirates Society for Rheumatology 🔬"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "c0a0bbcd-5249-44e7-9615-2902e7724d9e",
+        "arabicId": "31fb710b-34e2-4d9a-8c51-c6e35d98a03f",
+        "slug": "meet-the-tunisian-league-against-rheumatism",
+        "title": "Meet the Tunisian League Against Rheumatism 🔬"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "13b24922-c652-414e-bf15-260fbff33465",
+        "arabicId": "ad36693e-1914-4333-8f7e-9b5624ef57ab",
+        "slug": "meet-the-syrian-association-for-rheumatology",
+        "title": "Meet the Syrian Association for Rheumatology 🔬"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "c77c8a5f-49b1-44b0-b6ec-f4130b418fec",
+        "arabicId": "742a3d6c-37a6-4055-a810-c0c67e95dd88",
+        "slug": "arlar-groupe-francophone-le-point-rhumato-4th-webinar",
+        "title": "ArLAR Groupe Francophone: Le Point Rhumato 4th Webinar"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "b82a02ff-1a47-4f5d-a5e8-ff1228d6f002",
+        "arabicId": "194132b4-dd39-4236-b4db-c255cb8e1e0f",
+        "slug": "what-is-arch",
+        "title": "🎥 What is ARCH?"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "5ee1d8ea-4eb8-46a6-aa35-2a5149fe0e94",
+        "arabicId": "cda110de-9351-474e-96ef-2ee889b05538",
+        "slug": "meet-the-sudanese-association-of-rheumatology",
+        "title": "Meet the Sudanese Association of Rheumatology 🔬"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "427b538d-c780-41ad-b0a0-9eb844e6c648",
+        "arabicId": "1c58508f-5200-4af7-8573-8f6741f4fafd",
+        "slug": "meet-the-saudi-society-for-rheumatology",
+        "title": "Meet the Saudi Society for Rheumatology 🔬"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "699b74b4-2aaa-4fe9-baeb-4203c963d1cf",
+        "arabicId": "1204e25d-0fab-46f2-8f53-31cf4fd50249",
+        "slug": "meet-the-qatar-rheumatology-association",
+        "title": "Meet the Qatar Rheumatology Association 🔬"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "a6fcef82-aece-4c8c-b4eb-44fcb4b4b8f2",
+        "arabicId": "899efa97-9f6e-4b78-9017-be05f5712160",
+        "slug": "meet-the-palestinian-rheumatology-society",
+        "title": "Meet the Palestinian Rheumatology Society 🔬"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "4de49032-1d7b-4aae-baff-f9e7be24b144",
+        "arabicId": "54b5ce8d-b794-43cc-a594-831c1aa4e3d3",
+        "slug": "meet-the-oman-society-of-rheumatology",
+        "title": "Meet the Oman Society of Rheumatology 🔬"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "5a7461ff-fef7-411a-9a4e-caf2c851338b",
+        "arabicId": "ec21d10d-023a-4249-8540-29a5137f7f02",
+        "slug": "meet-the-moroccan-society-of-rheumatology",
+        "title": "Meet the Moroccan Society of Rheumatology 🔬"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "e2bab30e-420a-40d1-ac69-2683bb602a6a",
+        "arabicId": "01c673da-33d6-4167-bcf5-f2cced7ff916",
+        "slug": "meet-the-libyan-rheumatology-society",
+        "title": "Meet the Libyan Rheumatology Society 🔬"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "5c9be9bc-5a1a-49e7-a2c9-3452fdaf4e22",
+        "arabicId": "17670921-11bd-44df-9c2f-bfc4a941bb46",
+        "slug": "meet-the-lebanese-society-of-rheumatology",
+        "title": "Meet the Lebanese Society of Rheumatology 🔬"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "cffb3ff6-55e0-4a82-9d43-a588885e8654",
+        "arabicId": "b999aafe-5281-44bc-8ac4-e9ef610c62bd",
+        "slug": "meet-the-kuwait-association-of-rheumatologists",
+        "title": "Meet the Kuwait Association of Rheumatologists 🔬 "
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "2e26d53c-bf2b-43d1-8021-5f47857b658d",
+        "arabicId": "9ab4ebc3-7fcf-4c2f-a8bf-9b1e5790eafb",
+        "slug": "meet-the-jordanian-society-of-rheumatology",
+        "title": "Meet the Jordanian Society of Rheumatology 🔬 "
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "cd490a16-f5b7-4b89-8215-bc05b242ccc8",
+        "arabicId": "a3cdff7c-f114-410b-81fc-0f9fdd75b61b",
+        "slug": "meet-the-iraqi-league-for-bone-and-joint-health",
+        "title": "Meet the Iraqi League for Bone and Joint Health 🔬"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "797da707-72fe-4196-a7f4-d562bbacb5a1",
+        "arabicId": "3ee53b08-7426-4bc3-badb-545d3eff2575",
+        "slug": "meet-the-egyptian-society-of-rheumatic-diseases",
+        "title": "Meet the Egyptian Society of Rheumatic Diseases 🔬"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "bddc5184-831c-4af4-8bc9-761d0ff6c82c",
+        "arabicId": "2be4d1ef-77be-43b9-bb02-fce7066e6f2a",
+        "slug": "meet-the-algerian-society-of-rheumatology",
+        "title": "Meet the Algerian Society of Rheumatology 🔬"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "c90ce434-307b-46bd-8289-a1440a549876",
+        "arabicId": "a8e511ce-8271-49e4-a5f9-4a21abadd91b",
+        "slug": "introducing-the-arlar-community",
+        "title": "Introducing the ArLAR Community! 🌍🤝✨"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "207252c2-abba-4d79-adba-5a95c69211db",
+        "arabicId": "9cab25b0-570a-42ae-9055-5cf6bcc678e9",
+        "slug": "arlar25-abstract-submission-now-open",
+        "title": "ArLAR25 Abstract Submission Now Open! 🚀📄🔬"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "8f2b1675-b664-4ed8-aae5-f9718b9a1b43",
+        "arabicId": "4fb527fc-4727-4fb7-b2a7-d85ba1a0d690",
+        "slug": "countdown-begins-arlar25-algeria-congress-set-for-april-23-26-2025",
+        "title": "Countdown Begins: ArLAR25 Algeria Congress Set for April 23-26, 2025"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "d5e3d3f5-f611-4d68-a60d-f19009a328d9",
+        "arabicId": "e595947a-3bb5-4d77-b1d0-1681fba7c529",
+        "slug": "arlar-at-eular2024",
+        "title": "🌟ArLAR at EULAR2024 "
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "2e44f228-90bd-4ad1-9992-b76bb525357e",
+        "arabicId": "08e7ff4e-c6ea-44be-9d43-d4ab23910c96",
+        "slug": "arlar-yrg-webinar-challenging-cases-seronegative-spa",
+        "title": "ArLAR YRG Webinar: \"Challenging Cases, Seronegative SPA\""
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "7e4a4712-643e-430e-bcc4-d1f2424c43d0",
+        "arabicId": "8c05a91f-5412-4317-8c45-78c9d5697413",
+        "slug": "seronegative-spa-event-hosted-by-yrg-arlar-college",
+        "title": "Seronegative SPA event hosted by YRG - ArLAR College"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "0865c167-a11a-4120-90c0-42eadac64d1c",
+        "arabicId": "e62808e8-2713-427e-a5d4-8f82c0a5d039",
+        "slug": "2024-lsr-congress-and-third-levant-summit-a-convergence-of-global-and-regional-rheumatology-experti",
+        "title": "2024 LSR Congress and Third Levant Summit: A Convergence of Global and Regional Rheumatology Expertise"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "60105bd7-f025-4988-becd-6999cc895a63",
+        "arabicId": "a6a7d96f-3ac9-4a06-9d6b-ae5e663a1cd0",
+        "slug": "arch-webinar-advancing-rheumatology-research-through-artificial-intelligence",
+        "title": "ARCH Webinar: Advancing Rheumatology Research through Artificial Intelligence"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "c87dc606-7086-4a05-9cd6-fb69d7b290f1",
+        "arabicId": "10928a09-5694-4d07-ba6a-a74896e65a3a",
+        "slug": "arlar-young-rheumatologists-group-webinar-challenging-cases-rheumatoid-arthritis-and-beyond",
+        "title": "ArLAR Young Rheumatologists Group Webinar: \"Challenging Cases, Rheumatoid Arthritis and Beyond\""
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "86ebcc3c-b266-435d-afce-231945ec0678",
+        "arabicId": "bae4886a-1824-47a0-8fa5-840626915215",
+        "slug": "arlar-college-arch-webinar-strengths-and-weaknesses-of-an-international-scientific-study-in-the-f",
+        "title": "ArLAR College - ARCH Webinar: Strengths and Weaknesses of an International Scientific Study in the Field of Rheumatology"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "31c45b18-1ab7-44b9-a611-bddd3e531ea9",
+        "arabicId": "0b989c4d-5799-4ce2-9e63-24999429f99f",
+        "slug": "arlar25-algeria-congress-save-the-date",
+        "title": "ArLAR25 Algeria Congress - Save the Date"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "dd273fbb-aa46-4b75-b4a5-026535463928",
+        "arabicId": "4b4aa8e0-8d3d-4a88-b0d1-071b47c1209f",
+        "slug": "yrg-s-upcoming-spotlight-challenging-cases-of-rheumatoid-arthritis-april-24",
+        "title": "YRG's Upcoming Spotlight: Challenging Cases of Rheumatoid Arthritis - April 24 "
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "fb6c574d-9970-4787-8fc0-040a4646aff2",
+        "arabicId": "2b114e91-4db7-494d-86d5-1a3d8716f3ed",
+        "slug": "arlar-college-arch-webinar-addressing-early-referral-challenges-in-juvenile-idiopathic-arthritis",
+        "title": "ArLAR College & ARCH Webinar: Addressing Early Referral Challenges in Juvenile Idiopathic Arthritis - Feb 21"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "9166c15b-34b5-42a2-bdf9-83948744fb7c",
+        "arabicId": "bad2221b-00f7-469a-a6b8-c4ad258a7235",
+        "slug": "arlar-college-arch-hosts-key-webinar-on-early-referral-challenges-in-psoriatic-arthritis-jan-16-2",
+        "title": "ArLAR College ARCH Hosts Key Webinar on Early Referral Challenges in Psoriatic Arthritis - Jan 16, 2024"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "29c82694-7665-4661-910d-8984a9b25e22",
+        "arabicId": "4bbd9aa5-7baa-4f5f-95c6-a78bc4e3ca9e",
+        "slug": "invitation-to-participate-arch-arlar-research-group",
+        "title": "Invitation to Participate: ARCH (ArLAR Research Group)"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "f7d574d9-68e1-4f33-bf71-90b090011c0e",
+        "arabicId": "66c210b4-f736-4eaf-8a7b-98751c5a5245",
+        "slug": "arlar-college-arch-webinar-dec-4-2023",
+        "title": "ArLAR College - ARCH Webinar - Dec 4, 2023 "
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "5ee8a50e-70ad-480d-997a-404b784d3490",
+        "arabicId": "e7156022-33c1-4061-a871-033bc2b46744",
+        "slug": "arlar-groupe-francophone-webinar-november-28",
+        "title": "ArLAR Groupe Francophone webinar - November 28"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "9f1a28c9-bffe-4534-a8f2-f6bd3cec43dc",
+        "arabicId": "22d0fb77-c42b-40fa-948f-2c56e869c169",
+        "slug": "arlar-s-yrg-challenge-deciphering-a-juvenile-dermatomyositis-case-share-your-insights-below",
+        "title": "ArLAR's YRG Challenge: Deciphering a Juvenile Dermatomyositis case – Share Your Insights Below! "
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "664a407e-cfb7-443c-88de-d7d514b39f84",
+        "arabicId": "f1895ea9-8b96-410e-adac-421b4f16975a",
+        "slug": "9th-qatar-musculoskeletal-ultrasound-course-qmusc",
+        "title": "9th Qatar Musculoskeletal Ultrasound Course (QMUSC) "
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "911407ea-b82d-4a11-8787-d98ca7de2017",
+        "arabicId": "38988336-0379-43ba-a6b3-57ce997e4121",
+        "slug": "arch-unveils-newsletter-issue-1",
+        "title": "ARCH Unveils Newsletter Issue 1"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "6305f6ce-9e4d-44ac-8328-19d0461e5c1e",
+        "arabicId": "4ec85979-1aa0-472f-af50-65011609a05c",
+        "slug": "arlar-groupe-francophone-webinar-exploring-les-arthrites-juvéniles-idiopathiques-on-october-17",
+        "title": "ArLAR Groupe Francophone Webinar: Exploring 'Les Arthrites Juvéniles Idiopathiques' on October 17"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "73a2aaa5-732c-4d5e-9d14-350834372361",
+        "arabicId": "f2117135-2140-4064-8fff-d969d3033070",
+        "slug": "arch-webinar-by-arlar-college-oct-25th-tackling-early-referral-hurdles-in-rheumatoid-arthritis",
+        "title": "ARCH Webinar by ArLAR College, Oct 25th: Tackling Early Referral Hurdles in Rheumatoid Arthritis"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "e06ff207-907b-4a07-a13f-5adc3702351e",
+        "arabicId": "fb2009c9-2704-43ad-9e0f-85ed327b9046",
+        "slug": "4th-annual-qatar-rheumatology-conference-6-to-8-october-2023",
+        "title": "4th Annual Qatar Rheumatology Conference - 6 to 8 October 2023"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 1746,
+        "englishId": "d2bd35b5-2ad6-43b8-b412-baaafd9950bf",
+        "arabicId": "5924ca97-b7f3-43b9-be6a-7b154b1f7283",
+        "slug": "final-countdown-only-8-days-left-to-register-for-the-2nd-levant-rheumatology-summit-in-erbil",
+        "title": "Final Countdown: Only 8 Days Left to Register for the 2nd Levant Rheumatology Summit in Erbil"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "e8fc9fde-a790-4cf3-91c2-e727a0814677",
+        "arabicId": "e674003c-9d80-441f-9bde-607d63a2ae6a",
+        "slug": "unlock-your-rheumatology-potential-at-the-2nd-levant-summit",
+        "title": "Unlock Your Rheumatology Potential at the 2nd Levant Summit 🌟"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "15c573b4-5cfd-487a-8f60-a0cdad33ad20",
+        "arabicId": "09207690-bf9a-424f-9163-ed4e2318cb29",
+        "slug": "exploring-intricate-connections-arlar-groupe-francophone-s-upcoming-webinar-on-spondyloarthritides",
+        "title": "Exploring Intricate Connections: ArLAR Groupe Francophone's Upcoming Webinar on Spondyloarthritides"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 37867,
+        "englishId": "0eeb2a11-285c-4095-9801-8ecfbb00bdad",
+        "arabicId": "7b527161-8c8d-42f7-90aa-22215a0fd08e",
+        "slug": "انضم-إلينا-في-قمة-المشرق-العربي-الثانية-لأمراض-الروماتيزم-في-أربيل-العراق",
+        "title": "انضم إلينا في قمة المشرق العربي الثانية لأمراض الروماتيزم في أربيل، العراق"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "9e6e9250-98c0-4bdd-93b8-99d69d21799a",
+        "arabicId": "8633c07e-b0c0-456c-8b06-7cd51a4f21e3",
+        "slug": "join-arlar-college-prag-for-the-webinar-aid-let-s-start-from-the-beginning",
+        "title": "Join ArLAR College - PRAG for the Webinar \"AID - Let's Start from the Beginning\""
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "8c46cbc5-bd23-40f4-bef8-ba31ba26f300",
+        "arabicId": "cba35838-77af-44ed-89fa-727b91f91874",
+        "slug": "arlar-groupe-francophone-s-webinar-on-cœur-et-rhumatismes-inflammatoires-chroniques",
+        "title": "ArLAR Groupe Francophone's Webinar on Cœur et Rhumatismes Inflammatoires Chroniques"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "f7f71d00-4625-47f4-882b-f693097eb5e9",
+        "arabicId": "e2cb0013-6b13-4979-8699-88941f773b4e",
+        "slug": "exploring-the-impact-of-telehealth-highlights-from-arlar-workshop-at-jsr23-congress",
+        "title": "Exploring the Impact of Telehealth: Highlights from ArLAR Workshop at JSR23 Congress"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "7bab9934-ee12-49c7-b53b-03b6f5edccbe",
+        "arabicId": "d27e79b6-4a2a-46e7-84f4-39446fda0d17",
+        "slug": "relive-the-highlights-of-arlar23-kuwait-congress-replays-now-available",
+        "title": "Relive the Highlights of ArLAR23 Kuwait Congress: Replays Now Available!"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "e40375d9-2a0e-43e3-9eeb-f6a9507ca926",
+        "arabicId": "70c0b21c-eaa1-41d2-88be-8ebd85013e90",
+        "slug": "arlar-brings-telehealth-to-jsr23-promoting-excellence-in-rheumatic-disease-care",
+        "title": "ArLAR Brings Telehealth to JSR23: Promoting Excellence in Rheumatic Disease Care"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "93ef52c6-3f04-4571-b8f7-de4205e1c999",
+        "arabicId": "690f829b-8ce9-4086-9773-759c400a8f43",
+        "slug": "participate-in-the-international-change-survey-with-arlar-research-group",
+        "title": "Participate in the International CHANGE Survey with ArLAR Research Group"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "be698a0c-b399-46f9-b6af-aa20ebbb5790",
+        "arabicId": "4a6f983d-92e9-468a-9ba9-c3de72ab15a9",
+        "slug": "save-the-date-for-arlar25-algeria-congress-in-2025",
+        "title": "Save the Date for ArLAR25 Algeria Congress in 2025!"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "517a99af-5f12-4458-9b43-a0d609718a1e",
+        "arabicId": "6ea677a3-56c7-4c5c-9c93-c7d4df53e5c4",
+        "slug": "arlar-groupe-francophone-s-webinar-on-holistic-approach-to-managing-chronic-inflammatory-rheumatism",
+        "title": "ArLAR Groupe Francophone's Webinar on Holistic Approach to Managing Chronic Inflammatory Rheumatism"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "c73a262c-8a32-4dc2-bb6e-6429b03bf009",
+        "arabicId": "a5fa876d-8547-4a90-8707-1bb10de0701d",
+        "slug": "arlar23-abstract-submission-extended-until-january-12-2023",
+        "title": "ArLAR23 Abstract Submission EXTENDED UNTIL January 12, 2023"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "986058e2-70c6-4267-a9a3-97fbcfcb7782",
+        "arabicId": "486e505c-851d-48eb-970a-1c3ff675aa07",
+        "slug": "saudi-society-of-rheumatology-ssr-is-pleased-to-launch-the-annals-of-rheumatology-and-autoimmunity",
+        "title": "Saudi Society of Rheumatology (SSR) is pleased to launch the Annals of Rheumatology and Autoimmunity"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "5b491571-e8e7-4dfc-a6e5-8093b1f809d4",
+        "arabicId": "cfc7fbbe-f6b6-4e47-9739-3974470a8191",
+        "slug": "arlar-young-rheumatologists-webinar-november-30th-2022",
+        "title": "ArLAR Young Rheumatologists Webinar - November 30th, 2022"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "535c368e-dffe-4629-9af5-007b022cd395",
+        "arabicId": "2e5ff718-a706-449d-9a9e-86a68a8b6777",
+        "slug": "ilbjh-2022-meet-the-experts",
+        "title": "ILBJH 2022 - Meet the experts"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "2e6932b1-2753-42a4-ba9d-2d1fa1560825",
+        "arabicId": "c0dd38c9-1d95-4b84-8507-d54ab5d55dff",
+        "slug": "register-now-for-arlar23-kuwait-congress-1-4-march-2023-and-benefit-from-the-early-bird-rates",
+        "title": "Register Now for ArLAR23 Kuwait Congress (1-4 March 2023) and benefit from the early bird rates!!"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "d0ac056d-045a-4658-b3c0-2fd960ab6102",
+        "arabicId": "feef4fcc-5d37-408b-a438-77f63c70e1de",
+        "slug": "arlar-groupe-francophone-webinar-november-23rd-2022",
+        "title": "ArLAR Groupe Francophone Webinar - November 23rd, 2022"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "66cf55a7-43b2-4c82-8a81-7281434d4a40",
+        "arabicId": "e0ddd4db-3cf5-4fe0-a694-fa2d9bfaacfa",
+        "slug": "acr23-convergence",
+        "title": "ACR23 Convergence"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 3916,
+        "englishId": "c4c73953-c95d-47a9-8a09-f739737fb65d",
+        "arabicId": "4a6da5b9-5a7c-41a0-8247-6ae7ebc0615d",
+        "slug": "arlar-groupe-francophone-webinar-26th-of-october-2022",
+        "title": "ArLAR Groupe Francophone Webinar - 26th of October 2022"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "b74627d4-8760-46c8-bd44-f055fccb3b45",
+        "arabicId": "4d3b248f-39fd-4cf6-ae69-1211c54bac4a",
+        "slug": "arch-webinar-1st-of-november-2022",
+        "title": "ARCH Webinar - 1st of November 2022"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "a44580d1-737d-4a3e-8fd6-c2cd81d13a39",
+        "arabicId": "8823b871-4265-451a-9f16-6a8bc76b6daf",
+        "slug": "prag-arlar-college-webinar-october-19th-2022",
+        "title": "PRAG | ArLAR College Webinar - October 19th, 2022"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "83f97e36-b976-4b59-90e3-7d3a471c3c6a",
+        "arabicId": "3b5c5436-5bcb-4264-a065-81946af9a78a",
+        "slug": "arlar-groupe-francophone-webinar-wednesday-september-21-2022",
+        "title": "ArLAR Groupe Francophone Webinar - Wednesday, September 21, 2022"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "c60390fe-30e5-4f4b-bad0-dcaecf8699a5",
+        "arabicId": "7d1e1624-75b3-4a78-8ff0-cb713f663290",
+        "slug": "arch-webinar-september-15-2022",
+        "title": "ARCH Webinar - September 15, 2022"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "f786f96a-dbc7-4625-89b2-f7efa374847c",
+        "arabicId": "0bb575d1-f027-482b-9ee0-454f973058b3",
+        "slug": "arch-survey",
+        "title": "ARCH Survey"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "76692c49-a71e-4387-a3c8-a7bfe299592b",
+        "arabicId": "0e64b213-32d2-48c9-ac15-ec5a64dcc58f",
+        "slug": "3rd-annual-qatar-rheumatology-symposium",
+        "title": "3rd Annual Qatar Rheumatology Symposium"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "ef686667-4735-484e-afbd-5eb98c56f83c",
+        "arabicId": "fbf59742-0517-4de8-a1e8-fce4bf96aa22",
+        "slug": "arlar-college-webinar-may-25-2022",
+        "title": "ArLAR College Webinar - May 25, 2022"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 39901,
+        "englishId": "7b7862a8-1faa-429f-941a-b368911ff72d",
+        "arabicId": "4a98dab9-7b01-4915-b314-9c59db1d7bd4",
+        "slug": "تعرف-على-مجموعة-أبحاث-arlar",
+        "title": "تعرف على مجموعة أبحاث ArLAR"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "02bc1fc0-5480-4656-8cb4-f7f2eb1658bd",
+        "arabicId": "4de5a493-0c2b-4634-b59a-8d3e4bcfde86",
+        "slug": "arlar-research-group-webinar",
+        "title": "ArLAR Research Group Webinar"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "4f35f909-a9aa-4741-bf63-88b73bf59135",
+        "arabicId": "19534b0f-15c5-4c9b-828a-64a89020ebf1",
+        "slug": "save-the-date-for-the-first-arch-webinar-on-data-visualization",
+        "title": "Save the Date for the first ARCH Webinar on “Data Visualization”"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "24a32691-1097-4bef-bcb3-9657f62d591c",
+        "arabicId": "3a6fb095-6fd2-4c2b-8369-6613f2229110",
+        "slug": "to-all-rheumatologists-in-the-arab-countries",
+        "title": "To All Rheumatologists in the Arab Countries"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "210ea3c6-d3df-4b70-87e4-0c0f4b77115f",
+        "arabicId": "b0e94de5-ff8a-47eb-975b-b999af26a253",
+        "slug": "the-2021-arlar-best-practice-guidelines-for-telehealth-in-rheumatology",
+        "title": "The 2021 #ArLAR Best Practice Guidelines for #Telehealth in #Rheumatology. "
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "09a66fea-5163-4d83-bb92-d64d6854e5ea",
+        "arabicId": "a010a9d3-3bca-4c53-8da8-c38cb52ef584",
+        "slug": "arlar-college-webinar-march-30-2022",
+        "title": "ArLAR College Webinar - March 30, 2022"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "47dc62dc-40ed-4146-91f2-93b94f2bd8c1",
+        "arabicId": "ec5bce0a-8522-41e0-8285-7a60417f2e46",
+        "slug": "levant_rheumatology_summit",
+        "title": "#Levant_Rheumatology_Summit "
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "9e30dce2-d31a-45a6-b58c-dde689ae0612",
+        "arabicId": "42a204d1-f324-4686-93fe-bcbd81b3ea00",
+        "slug": "arlar-groupe-francophone-webinar-february-28-2022",
+        "title": "ArLAR Groupe Francophone Webinar - February 28, 2022"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "3d86a95b-efe3-4a76-b26f-7a02fa96fad7",
+        "arabicId": "27820b58-35e7-4b12-80a9-f8e046785f36",
+        "slug": "arlar-college-webinar-february-16-2022",
+        "title": "ArLAR College Webinar - February 16, 2022"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "cc3590cd-b672-4de1-a612-d5e8e93502c4",
+        "arabicId": "de3dff39-b133-4c26-a415-245881b300ff",
+        "slug": "the-8th-annual-saudi-society-for-rheumatology-conference",
+        "title": "The 8th Annual Saudi Society For Rheumatology Conference"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "dae186b9-127f-4151-bd76-7db0bb923b15",
+        "arabicId": "f15cc13b-c82e-4b53-9437-222aa3ff6f73",
+        "slug": "arlar-college-webinar-january-22-2022",
+        "title": "ArLAR College Webinar - January 22, 2022"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "9e97c9c7-c41d-4acd-a997-cd8ff5482d32",
+        "arabicId": "4f2dc3d9-54fa-429a-a5a5-562c8f76542a",
+        "slug": "arlar-college-2022-agenda",
+        "title": "ArLAR College 2022 Agenda"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "b3e036c5-23d9-4c9f-815b-c4c01eda327e",
+        "arabicId": "dfb16765-b5f5-4d8e-ad41-b217e2bacf8a",
+        "slug": "arlar-groupe-francophone-webinar",
+        "title": "ArLAR Groupe Francophone Webinar"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "9b8cc43c-d39c-4a46-92a4-2327d1a3c79a",
+        "arabicId": "74d5208d-698f-4a2f-8848-3bfa3fcdef22",
+        "slug": "arlar-college-webinar-december-22",
+        "title": "ArLAR College Webinar - December 22"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "3b281875-88e3-440e-afb2-b356aba59239",
+        "arabicId": "628b406a-a7a2-432b-9e1f-fd5263f8e9b9",
+        "slug": "arlar-college-webinar-december-20-2021",
+        "title": "ArLAR College Webinar - December 20, 2021"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "cc6fba58-ea98-4704-82cb-1b6792f28b0b",
+        "arabicId": "528fb950-0c58-4828-a29c-752e534a79be",
+        "slug": "arlar-college-webinar-november-29-2021",
+        "title": "ArLAR College Webinar - November 29, 2021"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "ac95a67a-a8e8-4617-acd0-411e74c4eda7",
+        "arabicId": "23ea3939-4e6d-4730-b2eb-a8057bb948d6",
+        "slug": "arlar-college-webinar-october-27",
+        "title": "ArLAR College Webinar - October 27"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "7b95729d-4e00-4852-a9d8-1ebbad66dbe5",
+        "arabicId": "405ccd97-22c6-4dda-a1f9-6698de49258d",
+        "slug": "arlar-college-prag-webinar",
+        "title": "ArLAR College PRAG Webinar"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "f6169f58-1da9-4f7a-8199-a98b54e8f0e7",
+        "arabicId": "c7f590e2-d702-4312-8978-3e7362c8bc75",
+        "slug": "arlar-college-webinar-september-29",
+        "title": "ArLAR College Webinar - September 29"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 68307,
+        "englishId": "594b225b-34cb-42f8-8401-52b3be3291cc",
+        "arabicId": "c3711eae-a530-47c5-9c9c-1deb6ea4f63b",
+        "slug": "arlar-college-wednesday-july-28th",
+        "title": "ArLAR College Wednesday July 28th "
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "87689daf-7c86-475d-a48b-816c86921716",
+        "arabicId": "3f046c69-e753-4187-b043-4b488ff52cc2",
+        "slug": "arlar-group-francophone",
+        "title": "ArLAR Group Francophone"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "02550d90-6311-4666-8a69-9319a06ff162",
+        "arabicId": "e5107aa3-af72-4423-ae30-0a3b8be01405",
+        "slug": "arlar-college-wednesday-june-30th",
+        "title": "ArLAR College Wednesday, June 30th"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "edd7d292-b67c-43d1-a265-7a00af8ee958",
+        "arabicId": "431f7ff0-32f9-4393-a628-6dbe36383453",
+        "slug": "arlar-college-webinar-wednesday-may-26-2021-1",
+        "title": "ArLAR College Webinar - Wednesday, May 26, 2021"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "1f00b8e1-2dcb-4499-8fc5-bba786d80a4f",
+        "arabicId": "ade0672d-5768-452f-915e-936167e023d8",
+        "slug": "7th-annual-saudi-society-of-rheumatology-conference-ssrc-virtual",
+        "title": "7th  annual  Saudi Society of Rheumatology Conference (SSRC) (VIRTUAL)"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "94fa01e4-ec24-4f4b-978b-895c93919c33",
+        "arabicId": "515da970-7a36-47be-8702-a40c65183cf6",
+        "slug": "7th-annual-saudi-society-of-rheumatology-conference-ssrc",
+        "title": "7th annual  Saudi Society of Rheumatology Conference (SSRC)"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "44b03982-7598-4a3c-a011-66b8ac68efd6",
+        "arabicId": "1507736b-33ac-49b7-9e03-137d84890698",
+        "slug": "7th-ssrc-2021-conference",
+        "title": "7th SSRC 2021 conference"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "ecd86af2-ac16-43e1-9057-cc5e07a73f9b",
+        "arabicId": "93ade4ab-2cdc-4aa4-b772-026fb6427a12",
+        "slug": "arlar-college-webinar-wednesday-may-26-2021",
+        "title": "ArLAR College Webinar - Wednesday, May 26, 2021"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "f4c90e26-9e1f-4dd2-af03-349c3530f42b",
+        "arabicId": "4f00327a-13ee-425f-8130-1147ac06d422",
+        "slug": "eid-al-fitr-2021",
+        "title": "Eid Al-Fitr 2021"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "11f67be6-11a0-4be2-8eb5-0a3d97bc704d",
+        "arabicId": "0d40b343-2283-43f3-b5a4-0db196a2a917",
+        "slug": "arlar-college-webinar-wednesday-april-21st",
+        "title": "ArLAR College Webinar - Wednesday, April 21st"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "c7124d3d-5213-4d5b-8679-fbb094e026de",
+        "arabicId": "6c12c047-a4b5-4218-9633-e87704208232",
+        "slug": "rhumatismes-inflammatoireschroniques-actualités",
+        "title": "RHUMATISMES INFLAMMATOIRESCHRONIQUES: ACTUALITÉS"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "d8eb9a9a-907a-49b0-b4ca-777c2eac02a3",
+        "arabicId": "99774093-9b25-4f3f-8cfc-fa5d160bb7cc",
+        "slug": "asas-scientific-program-2021",
+        "title": "ASAS Scientific Program 2021"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "7d4bd5d1-1d1d-45f2-b2b5-79557250664b",
+        "arabicId": "4e1a38ff-c7db-429f-8f53-65c8a803f013",
+        "slug": "arlar-college-17th-of-march-webinar",
+        "title": "ArLAR College 17th of March Webinar"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "0811e7c3-4b51-4aa8-ae08-d0be499e9ee7",
+        "arabicId": "36d8a0b5-1ce8-49af-af7f-ce95066e33be",
+        "slug": "arlar-college-biosimilar-experience-and-benefit-to-health-care-economics-webinar",
+        "title": "ArLAR College BIOSIMILAR EXPERIENCE AND BENEFIT TO HEALTH CARE ECONOMICS Webinar"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "d73dc315-766b-48f2-b5b5-34d1425354e6",
+        "arabicId": "d19ef8f5-cbba-444e-9e63-4412e0232d7a",
+        "slug": "arlar21-jordan-e-congress",
+        "title": "ArLAR21 Jordan e-Congress"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "8c7cb5c8-5023-41bb-b6d4-312548ea9a55",
+        "arabicId": "79d61759-9884-4b7f-be11-2e278caf2556",
+        "slug": "arlar-college-psa-in-2021-webinar",
+        "title": "ArLAR College PsA in 2021 Webinar"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "73ffbfd5-6a67-4e2c-9ed0-4f294f2748f2",
+        "arabicId": "ae115e54-4935-4092-ad97-2f2de8577b69",
+        "slug": "arlar-college-pah-in-2021-webinar",
+        "title": "ArLAR College PAH in 2021 Webinar"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "1229acc5-5b54-434e-9dcf-fabfd49e7b3d",
+        "arabicId": "1884f6d3-d084-4552-8848-baa9288f71fd",
+        "slug": "save-the-date",
+        "title": "Save the date"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "1ac3f808-ed4a-4434-962a-812b932a1ab4",
+        "arabicId": "448cd085-0379-4bec-af4f-51a37d6ee4c9",
+        "slug": "merry-christmas-a-happy-new-year",
+        "title": "Merry Christmas & a Happy New Year"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "c050082c-ad10-4b69-9cea-053af35414c9",
+        "arabicId": "f07b331c-4a2e-467f-88fe-0e2837e43ed5",
+        "slug": "arlar-college-ra-in-the-era-of-covid-19-webinar",
+        "title": "ArLAR College RA IN THE ERA OF COVID-19 Webinar"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "37ac3016-c49b-4790-9cac-88dabfda9c76",
+        "arabicId": "06784cd0-0e8b-4802-a4b1-596ddb369efa",
+        "slug": "arlar-college-osteoporosis-update-in-2020-webinar",
+        "title": "ArLAR College Osteoporosis Update in 2020 Webinar"
+      },
+      {
+        "matchType": "title",
+        "deltaMs": 0,
+        "englishId": "93dfa734-f3c2-40fb-ac26-e82e959662b0",
+        "arabicId": "cd7a02a7-09fb-4174-960b-df17596ba53a",
+        "slug": "asas-standalone-invitation",
+        "title": "ASAS Standalone Invitation"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "d2d545d2-d6d8-4913-af34-f55ffc84ab37",
+        "arabicId": "fb247445-f35f-4f4c-8406-43c9a0d14b0c",
+        "slug": "the-annual-congress-of-the-lebanese-society-of-rheumatology-webinar",
+        "title": "The Annual Congress of The Lebanese Society of Rheumatology Webinar "
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "331bed3a-73d3-484b-90b1-41699a5d013b",
+        "arabicId": "8b5b34a7-2ea5-4ff1-96d2-7d46b4e3309b",
+        "slug": "qatar-rheumatology-association-live-webinar",
+        "title": "Qatar Rheumatology Association Live Webinar"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "450c1b3c-47c9-4df1-bf8a-c8e31bb6f8d8",
+        "arabicId": "ce94bce5-ea3c-4c90-b655-04c249993217",
+        "slug": "arlar-college-6th-webinar",
+        "title": "ArLAR College 6th Webinar"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 9704,
+        "englishId": "93dfa734-f3c2-40fb-ac26-e82e959662b0",
+        "arabicId": "0e0e3e75-f231-47ed-a159-663814b38e29",
+        "slug": "asas-اعلان",
+        "title": "ASAS اعلان"
+      },
+      {
+        "matchType": "title",
+        "deltaMs": 0,
+        "englishId": "a7e28c68-63c5-4a59-b4e6-365bc2700943",
+        "arabicId": "f83ab82d-ab2b-4ac0-a5b0-3d119dc92449",
+        "slug": "arlar-college-5th-webinar",
+        "title": "ArLAR College 5th Webinar"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "3606db64-db21-49e1-b5f4-fe0f6ec10d4f",
+        "arabicId": "56ce72fe-5d55-486a-8700-c99224f16389",
+        "slug": "arlar-college-4th-webinar",
+        "title": "ArLAR College 4th Webinar"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "e55de443-d0bd-41fb-917e-cb69115ed092",
+        "arabicId": "bedce402-559f-4224-b5e1-00fdc593c197",
+        "slug": "arlar-college-3rd-webinar",
+        "title": "ArLAR College 3rd Webinar"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "4d7c19b2-51f0-4ded-9466-55dc61b906ba",
+        "arabicId": "051fdcec-5321-427d-8ace-9b48c76d1cf9",
+        "slug": "arlar-college-2nd-webinar",
+        "title": "ArLAR College 2nd Webinar"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "6870caa2-2342-4b7d-9433-59a65148aa7c",
+        "arabicId": "44cb9074-c6b9-4711-a945-8fce0ba09d8b",
+        "slug": "arlar-college-webinars-agenda",
+        "title": "ArLAR College- Calendar of Webinars"
+      },
+      {
+        "matchType": "title",
+        "deltaMs": 0,
+        "englishId": "0349fcfc-9f68-4e72-94a9-9a564b0c8c54",
+        "arabicId": "6f9de5a2-eb9b-4961-a7e6-18d702928fc1",
+        "slug": "arlar2021-beirut-lebanon",
+        "title": "#ArLAR2021 #Beirut #Lebanon"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "3347f1bf-4dc1-4623-8852-6529ebaf3d0e",
+        "arabicId": "f9fd67c6-559c-4984-b75f-62ef28dee5e5",
+        "slug": "eid-mubarak",
+        "title": "EID Mubarak\n"
+      },
+      {
+        "matchType": "slug",
+        "deltaMs": 0,
+        "englishId": "ba3e895d-88f2-4b16-b609-7133f7f4d1bd",
+        "arabicId": "ec96762d-c245-447d-80a4-624bd14334c0",
+        "slug": "arlar-site-up",
+        "title": "ArLAR SITE UP!\n"
+      }
+    ]
+  },
+  "merged": {
+    "totalRecords": 312,
+    "canonicalEnglishRecords": 290,
+    "attachedArabicTranslations": 74,
+    "standaloneArabicRecords": 22
+  }
+}

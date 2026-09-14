@@ -1,0 +1,362 @@
+{
+  "id": "ArLARCollegeVideos",
+  "collectionType": "NATIVE",
+  "displayName": "ArLAR College Videos",
+  "displayField": "webinarTitle",
+  "capabilities": {
+    "dataOperations": [
+      "PATCH",
+      "IS_REFERENCED",
+      "INSERT",
+      "SAVE",
+      "BULK_INSERT",
+      "BULK_UPDATE",
+      "UPDATE",
+      "TRUNCATE",
+      "REMOVE",
+      "REMOVE_REFERENCE",
+      "COUNT",
+      "BULK_PATCH",
+      "FIND",
+      "REPLACE_REFERENCES",
+      "BULK_REMOVE",
+      "INSERT_REFERENCE",
+      "GET",
+      "BULK_SAVE",
+      "QUERY_REFERENCED",
+      "DISTINCT",
+      "AGGREGATE"
+    ],
+    "collectionOperations": [
+      "UPDATE",
+      "REMOVE"
+    ],
+    "indexLimits": {
+      "regular": 3,
+      "unique": 1,
+      "total": 4
+    },
+    "indexQuotaLimits": {
+      "regular1Field": 0,
+      "regular3Field": 3,
+      "unique1Field": 1,
+      "total": 4
+    }
+  },
+  "fields": [
+    {
+      "key": "_id",
+      "displayName": "ID",
+      "type": "TEXT",
+      "systemField": true,
+      "capabilities": {
+        "sortable": true,
+        "queryOperators": [
+          "EQ",
+          "LT",
+          "GT",
+          "NE",
+          "LTE",
+          "GTE",
+          "STARTS_WITH",
+          "ENDS_WITH",
+          "CONTAINS",
+          "HAS_SOME",
+          "HAS_ALL",
+          "EXISTS",
+          "URLIZED"
+        ]
+      },
+      "encrypted": false,
+      "plugins": []
+    },
+    {
+      "key": "_createdDate",
+      "displayName": "Created Date",
+      "type": "DATETIME",
+      "systemField": true,
+      "capabilities": {
+        "sortable": true,
+        "queryOperators": [
+          "EQ",
+          "LT",
+          "GT",
+          "NE",
+          "LTE",
+          "GTE",
+          "STARTS_WITH",
+          "ENDS_WITH",
+          "CONTAINS",
+          "HAS_SOME",
+          "HAS_ALL",
+          "EXISTS",
+          "URLIZED"
+        ]
+      },
+      "encrypted": false,
+      "plugins": []
+    },
+    {
+      "key": "_updatedDate",
+      "displayName": "Updated Date",
+      "type": "DATETIME",
+      "systemField": true,
+      "capabilities": {
+        "sortable": true,
+        "queryOperators": [
+          "EQ",
+          "LT",
+          "GT",
+          "NE",
+          "LTE",
+          "GTE",
+          "STARTS_WITH",
+          "ENDS_WITH",
+          "CONTAINS",
+          "HAS_SOME",
+          "HAS_ALL",
+          "EXISTS",
+          "URLIZED"
+        ]
+      },
+      "encrypted": false,
+      "plugins": []
+    },
+    {
+      "key": "_owner",
+      "displayName": "Owner",
+      "type": "TEXT",
+      "systemField": true,
+      "capabilities": {
+        "sortable": true,
+        "queryOperators": [
+          "EQ",
+          "LT",
+          "GT",
+          "NE",
+          "LTE",
+          "GTE",
+          "STARTS_WITH",
+          "ENDS_WITH",
+          "CONTAINS",
+          "HAS_SOME",
+          "HAS_ALL",
+          "EXISTS",
+          "URLIZED"
+        ]
+      },
+      "encrypted": false,
+      "plugins": []
+    },
+    {
+      "key": "image",
+      "displayName": "Image",
+      "type": "IMAGE",
+      "systemField": false,
+      "capabilities": {
+        "sortable": true,
+        "queryOperators": [
+          "EQ",
+          "LT",
+          "GT",
+          "NE",
+          "LTE",
+          "GTE",
+          "STARTS_WITH",
+          "ENDS_WITH",
+          "CONTAINS",
+          "HAS_SOME",
+          "HAS_ALL",
+          "EXISTS",
+          "URLIZED"
+        ]
+      },
+      "encrypted": false,
+      "plugins": []
+    },
+    {
+      "key": "webinarTitle",
+      "displayName": "webinarTitle",
+      "type": "TEXT",
+      "systemField": false,
+      "capabilities": {
+        "sortable": true,
+        "queryOperators": [
+          "EQ",
+          "LT",
+          "GT",
+          "NE",
+          "LTE",
+          "GTE",
+          "STARTS_WITH",
+          "ENDS_WITH",
+          "CONTAINS",
+          "HAS_SOME",
+          "HAS_ALL",
+          "EXISTS",
+          "URLIZED"
+        ]
+      },
+      "encrypted": false,
+      "plugins": []
+    },
+    {
+      "key": "date",
+      "displayName": "date",
+      "type": "DATETIME",
+      "systemField": false,
+      "capabilities": {
+        "sortable": true,
+        "queryOperators": [
+          "EQ",
+          "LT",
+          "GT",
+          "NE",
+          "LTE",
+          "GTE",
+          "STARTS_WITH",
+          "ENDS_WITH",
+          "CONTAINS",
+          "HAS_SOME",
+          "HAS_ALL",
+          "EXISTS",
+          "URLIZED"
+        ]
+      },
+      "encrypted": false,
+      "plugins": []
+    },
+    {
+      "key": "viewWebinar",
+      "displayName": "view webinar",
+      "type": "URL",
+      "systemField": false,
+      "capabilities": {
+        "sortable": true,
+        "queryOperators": [
+          "EQ",
+          "LT",
+          "GT",
+          "NE",
+          "LTE",
+          "GTE",
+          "STARTS_WITH",
+          "ENDS_WITH",
+          "CONTAINS",
+          "HAS_SOME",
+          "HAS_ALL",
+          "EXISTS",
+          "URLIZED"
+        ]
+      },
+      "encrypted": false,
+      "plugins": []
+    },
+    {
+      "key": "sig",
+      "displayName": "SIG",
+      "type": "ARRAY_STRING",
+      "systemField": false,
+      "capabilities": {
+        "sortable": true,
+        "queryOperators": [
+          "EQ",
+          "LT",
+          "GT",
+          "NE",
+          "LTE",
+          "GTE",
+          "STARTS_WITH",
+          "ENDS_WITH",
+          "CONTAINS",
+          "HAS_SOME",
+          "HAS_ALL",
+          "EXISTS",
+          "URLIZED"
+        ]
+      },
+      "encrypted": false,
+      "plugins": []
+    },
+    {
+      "key": "speakers",
+      "displayName": "speakers",
+      "type": "TEXT",
+      "systemField": false,
+      "capabilities": {
+        "sortable": true,
+        "queryOperators": [
+          "EQ",
+          "LT",
+          "GT",
+          "NE",
+          "LTE",
+          "GTE",
+          "STARTS_WITH",
+          "ENDS_WITH",
+          "CONTAINS",
+          "HAS_SOME",
+          "HAS_ALL",
+          "EXISTS",
+          "URLIZED"
+        ]
+      },
+      "encrypted": false,
+      "plugins": []
+    },
+    {
+      "key": "year",
+      "displayName": "Year",
+      "type": "NUMBER",
+      "systemField": false,
+      "capabilities": {
+        "sortable": true,
+        "queryOperators": [
+          "EQ",
+          "LT",
+          "GT",
+          "NE",
+          "LTE",
+          "GTE",
+          "STARTS_WITH",
+          "ENDS_WITH",
+          "CONTAINS",
+          "HAS_SOME",
+          "HAS_ALL",
+          "EXISTS",
+          "URLIZED"
+        ]
+      },
+      "encrypted": false,
+      "plugins": []
+    }
+  ],
+  "permissions": {
+    "insert": "ADMIN",
+    "update": "ADMIN",
+    "remove": "ADMIN",
+    "read": "ANYONE"
+  },
+  "revision": "25",
+  "plugins": [
+    {
+      "type": "EDITABLE_PAGE_LINK",
+      "editablePageLinkOptions": {
+        "isPersisted": true,
+        "isMutable": true
+      }
+    }
+  ],
+  "pagingModes": [
+    "OFFSET",
+    "CURSOR"
+  ],
+  "createdDate": "2023-02-18T05:21:26.524Z",
+  "updatedDate": "2025-02-04T16:22:51.642Z",
+  "dataPermissions": {
+    "itemRead": "ANYONE",
+    "itemInsert": "CMS_EDITOR",
+    "itemUpdate": "CMS_EDITOR",
+    "itemRemove": "CMS_EDITOR"
+  }
+}

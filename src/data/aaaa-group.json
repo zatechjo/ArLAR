@@ -1,0 +1,2341 @@
+{
+  "meta": {
+    "sourceUrl": "https://www.arabrheumatology.org/aaaa-group",
+    "fetchedAt": "2026-08-09",
+    "memberCount": 19,
+    "representedCountryCount": 17,
+    "boardCount": 6,
+    "pastWebinarCount": 20,
+    "webinarCountsByYear": {
+      "2020": 2,
+      "2021": 8,
+      "2022": 8,
+      "2023": 2
+    },
+    "agendaItemCount": 96,
+    "embeddedReplayLinkCount": 5,
+    "uniqueEmbeddedReplayUrlCount": 3,
+    "assetCount": 37,
+    "reviewNotes": [
+      "The source page contains multiple historical/time-sensitive ArLAR presidency labels that conflict with each other; preserve for audit but verify before republishing.",
+      "Some person names vary in spelling across member cards and webinar agendas. Raw source spelling is preserved in webinar speakers.",
+      "The March 28, 2022 and June 27, 2022 webinar records contain date/title inconsistencies in the source page.",
+      "The October 10, 2022 agenda numbering skips item 5.",
+      "One YouTube URL is reused by several unrelated agenda items on the source page; verify those replay targets.",
+      "No 2024, 2025, or 2026 past-webinar sections were present on the extracted page.",
+      "The AAAA Group Activities tab label is present, but no activity records/text were exposed in the accessible page content."
+    ]
+  },
+  "page": {
+    "sourceUrl": "https://www.arabrheumatology.org/aaaa-group",
+    "fetchedAt": "2026-08-09",
+    "pageTitle": "Arab Adult Arthritis Awareness Group",
+    "shortName": "AAAA Group",
+    "tabs": [
+      "About AAAA Group",
+      "AAAA Group Board",
+      "AAAA Group Members",
+      "AAAA Past Webinars",
+      "AAAA Group Activities"
+    ],
+    "aboutSource": "The inception of the \"Arab Adult Arthritis Awareness Group\" stemmed from an initial concept to address the informational needs of Arabic-speaking patients concerning Rheumatic Dseases. AAAA Group is an initiative from Kingdom of Saudi Arabia by Dr. Lina Faisal El Kibbi & Dr. Hussein Halabi.\n\nThis initiative involved reaching out to all Rheumatology societies across the Arab world to nominate representatives to join the group.\n\nThe proposal for the project was presented to the Arab League of Associations for Rheumatology & obtained approval in March 2019. Since March 2020, what was once a vision has materialized into a tangible reality, achieving numerous milestones within a short timeframe.\n\nRecognized as one of the Special Interest Groups (SIG) within the Arab League of Association for Rheumatology (ArLAR), the Arab Adult Arthritis Awareness Group has been progressively expanding across the Arab world. It is the first awareness group in Arab region presently comprises nineteen doctors representing seventeen distinct Arab countries dedicated to do awareness for public & patient education about rheumatic diseases.\n\nAAAA group unify awareness about Rheumatic diseases using the Arabic language, making difference in shaping awareness about rheumatic diseases in the Arab world",
+    "aboutClean": "The Arab Adult Arthritis Awareness Group (AAAA Group) began as an initiative to address the information needs of Arabic-speaking patients living with rheumatic diseases. The initiative was founded in the Kingdom of Saudi Arabia by Dr. Lina Faisal El Kibbi and Dr. Hussein Halabi.\n\nRheumatology societies across the Arab world were invited to nominate representatives to join the group. The proposal was presented to the Arab League of Associations for Rheumatology (ArLAR) and approved in March 2019. Since March 2020, the initiative has developed into an active regional awareness group and achieved numerous milestones.\n\nRecognized as one of ArLAR’s Special Interest Groups (SIGs), AAAA Group brings together 19 doctors representing 17 Arab countries to support public and patient education about rheumatic diseases. The group works to unify rheumatic-disease awareness in Arabic and improve access to reliable information across the Arab world.",
+    "missionSource": [
+      "Enhance awareness on rheumatic diseases within the Arab region by delivering information in Arabic to the public & patients.",
+      "Motivate & support patients.",
+      "Empower patients",
+      "Foster connections among patients"
+    ],
+    "visionSource": "To reach out to every patient with a rheumatic disease across all Arab region & ensure they receive easily accessible, reliable, and up-to-date information in Arabic concerning rheumatic diseases.",
+    "objectivesIntroSource": "The AAAA group has a multifaceted purpose and primary objectives centered around advancing awareness, education, and support for individuals dealing with rheumatic diseases in the Arab World. This is achieved through AAAA group's provision of accessible, reliable information in Arabic.",
+    "objectives": [
+      {
+        "number": 1,
+        "title": "Empowering Rheumatic Patients",
+        "sourceText": "Advancing Awareness, Comprehensive Education, Patient Engagement, and Ongoing Support. This group aims to unify and disseminate credible resources, engaging both the public and patients in diverse Arab regions. Their comprehensive platform offers trustworthy information on rheumatic disorders, encouraging patient engagement and empowerment. AAAA group is dedicated to actively involving patients in their healthcare journey to improve health outcomes, providing crucial support and ensuring continual progress for individuals across all Arab countries."
+      },
+      {
+        "number": 2,
+        "title": "Addressing Specific Patient Concerns",
+        "sourceText": "The AAAA group’s specialized focus allows for a targeted approach to address specific concerns and inquiries in the field of rheumatic disorders. This is essential in catering to the diverse needs of patients across different Arab regions."
+      },
+      {
+        "number": 3,
+        "title": "Creating Supportive Communities",
+        "sourceText": "Recognizing the importance of support for individuals facing rheumatic diseases, AAAA group provides a space for sharing experiences and mutual support. The AAAA group emphasizes the significance of building a supportive community for individuals living with rheumatic disorders. By enabling connections & mutual support among patients, we strive to enhance the quality of life for those dealing with these conditions."
+      },
+      {
+        "number": 4,
+        "title": "Amplifying Awareness Through Virtual Events",
+        "sourceText": "AAA group conducts quarterly virtual events in addition to an annual Arab Rheumatology Awareness Month in February, conducted in the Arabic language to amplify awareness about rheumatic diseases. This is done through various channels such as social media, webinars, and expert-led discussions to achieve the goals of heightened awareness and patient support in the Arab World."
+      },
+      {
+        "number": 5,
+        "title": "Conducting Research and Gathering Feedback",
+        "sourceText": "AAAA group is committed to conducting research and gathering direct feedback from patients. This data helps in understanding patient needs and experiences, identifying areas for improvement, and shaping patient-centered care and research initiatives."
+      }
+    ],
+    "activitiesExtractionNote": "The page exposes an 'AAAA Group Activities' tab label, but no activity records or activity text were present in the accessible page content during extraction."
+  },
+  "board": [
+    {
+      "order": 1,
+      "memberId": "lina-el-kibbi",
+      "name": "Dr. Lina El Kibbi",
+      "country": "Saudi Arabia",
+      "groupRole": "Founder of AAAA Group",
+      "professionalTitle": "Consultant Rheumatologist",
+      "bioSource": "Assistant Professor of Rheumatology in , Alfaisal University, Rheumatology Consultant, Director Medical Academic Affairs, Specialized Medical Center.",
+      "profileImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_25a940dc1697427ba377dcda90026f36~mv2.jpg/v1/crop/x_0%2Cy_17%2Cw_853%2Ch_853/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/thumbnail_image1_edited.jpg",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_25a940dc1697427ba377dcda90026f36~mv2.jpg",
+        "fileName": "lina-el-kibbi.jpg",
+        "localPath": "public/images/aaaa-group/members/lina-el-kibbi.jpg"
+      },
+      "flagImage": {
+        "displayUrl": "https://static.wixstatic.com/media/7cc206_11ca131b839a4264832cf63a23107fee~mv2_d_2000_1333_s_2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/2000px-Flag_of_Saudi_Arabia_svg.png",
+        "originalUrl": "https://static.wixstatic.com/media/7cc206_11ca131b839a4264832cf63a23107fee~mv2_d_2000_1333_s_2.png",
+        "fileName": "saudi-arabia-flag.png",
+        "localPath": "public/images/aaaa-group/flags/saudi-arabia-flag.png"
+      },
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "order": 2,
+      "memberId": "hussein-halabi",
+      "name": "Dr. Hussein Halabi",
+      "country": "Saudi Arabia",
+      "groupRole": "Founder of AAAA Group",
+      "professionalTitle": "Consultant Rheumatologist",
+      "bioSource": "Director of academic and training affairs, KFSH&RC , Jeddah.",
+      "profileImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_3c10e6b8e29b42f89be8ead87cc0a1e5~mv2.jpeg/v1/crop/x_0%2Cy_1%2Cw_1238%2Ch_1238/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Dr_%20Hussein%20Halabi.jpeg",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_3c10e6b8e29b42f89be8ead87cc0a1e5~mv2.jpeg",
+        "fileName": "hussein-halabi.jpg",
+        "localPath": "public/images/aaaa-group/members/hussein-halabi.jpg"
+      },
+      "flagImage": {
+        "displayUrl": "https://static.wixstatic.com/media/7cc206_11ca131b839a4264832cf63a23107fee~mv2_d_2000_1333_s_2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/2000px-Flag_of_Saudi_Arabia_svg.png",
+        "originalUrl": "https://static.wixstatic.com/media/7cc206_11ca131b839a4264832cf63a23107fee~mv2_d_2000_1333_s_2.png",
+        "fileName": "saudi-arabia-flag.png",
+        "localPath": "public/images/aaaa-group/flags/saudi-arabia-flag.png"
+      },
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "order": 3,
+      "memberId": "basel-k-masri",
+      "name": "Dr. Basel K Masri",
+      "country": "Jordan",
+      "groupRole": "AAAA Group Board Member",
+      "professionalTitle": "Senior Consultant Rheumatologist",
+      "bioSource": "Jordan Hospital & Medical Center, Past president of ArLAR",
+      "profileImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_f2ac6936e3734c058e935634f0913d8e~mv2.jpg/v1/crop/x_0%2Cy_3%2Cw_3012%2Ch_3012/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/7.jpg",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_f2ac6936e3734c058e935634f0913d8e~mv2.jpg",
+        "fileName": "basel-k-masri.jpg",
+        "localPath": "public/images/aaaa-group/members/basel-k-masri.jpg"
+      },
+      "flagImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_53417f88eac041f9b170b3aa9187566f~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/jordan.png",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_53417f88eac041f9b170b3aa9187566f~mv2.png",
+        "fileName": "jordan-flag.png",
+        "localPath": "public/images/aaaa-group/flags/jordan-flag.png"
+      },
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "order": 4,
+      "memberId": "fatemah-abutiban",
+      "name": "Dr. Fatemah Abutiban",
+      "country": "Kuwait",
+      "groupRole": "AAAA Group Board Member",
+      "professionalTitle": "Consultant of Medicine and Rheumatology",
+      "bioSource": "Jaber Al Ahmed Hospital, Sheikhan Alfaresi Rheumatology Center. Kuwait Oil Company, President of Kuwait Association of Rheumatology, and Treasurer of Kuwait Osteoporosis Prevention Society. Past ArLAR President",
+      "profileImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_606764243af648819ea41b8983bf99bf~mv2.jpg/v1/crop/x_12%2Cy_0%2Cw_326%2Ch_326/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Dr_edited.jpg",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_606764243af648819ea41b8983bf99bf~mv2.jpg",
+        "fileName": "fatemah-abutiban.jpg",
+        "localPath": "public/images/aaaa-group/members/fatemah-abutiban.jpg"
+      },
+      "flagImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_96aa46a3e72b4afb814aff926a3be7bc~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Kuwait.png",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_96aa46a3e72b4afb814aff926a3be7bc~mv2.png",
+        "fileName": "kuwait-flag.png",
+        "localPath": "public/images/aaaa-group/flags/kuwait-flag.png"
+      },
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "order": 5,
+      "memberId": "nelly-ziade-zoghbi",
+      "name": "Dr. Nelly Ziade Zoghbi",
+      "country": "Lebanon",
+      "groupRole": "AAAA Group Board Member",
+      "professionalTitle": "Consultant Rheumatologist",
+      "bioSource": "Assistant Professor of Rheumatology, Hotel-Dieu de France Hospital and Saint-Joseph University Beirut.",
+      "profileImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_1afa27d8903147ab9c810ae850dd01f9~mv2.jpg/v1/crop/x_0%2Cy_159%2Cw_2174%2Ch_2174/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Ziade_Nelly_Photo2020_ARLAR_JPG.jpg",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_1afa27d8903147ab9c810ae850dd01f9~mv2.jpg",
+        "fileName": "nelly-ziade-zoghbi.jpg",
+        "localPath": "public/images/aaaa-group/members/nelly-ziade-zoghbi.jpg"
+      },
+      "flagImage": {
+        "displayUrl": "https://static.wixstatic.com/media/7cc206_a1e15183337e45c0aff420259139a98f~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/1200px-Flag_of_Lebanon_svg.png",
+        "originalUrl": "https://static.wixstatic.com/media/7cc206_a1e15183337e45c0aff420259139a98f~mv2.png",
+        "fileName": "lebanon-flag.png",
+        "localPath": "public/images/aaaa-group/flags/lebanon-flag.png"
+      },
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "order": 6,
+      "memberId": "ihsane-hmamouchi",
+      "name": "Dr. Ihsane Hmamouchi",
+      "country": "Morocco",
+      "groupRole": "AAAA Group Board Member",
+      "professionalTitle": "Rheumatologist, Biostatisitician, Clinical Epidemiologist",
+      "bioSource": "Biostatisitician, Clinical Epidemiologist, Centre Hospitalier Provincial Skhirat- Temara, Laboratory of Epidemiology and Clinical Research (LBRCE), Faculty of Medicine",
+      "profileImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_11f5444fc8f549af932e6bc6f05d183d~mv2.jpg/v1/crop/x_0%2Cy_93%2Cw_850%2Ch_850/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Dr_%20Ehsam%20Hamouchi.jpg",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_11f5444fc8f549af932e6bc6f05d183d~mv2.jpg",
+        "fileName": "ihsane-hmamouchi.jpg",
+        "localPath": "public/images/aaaa-group/members/ihsane-hmamouchi.jpg"
+      },
+      "flagImage": {
+        "displayUrl": "https://static.wixstatic.com/media/7cc206_727d39dd8a6d4ace9db457f1f96c5d4e~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/1200px-Flag_of_Morocco_svg.png",
+        "originalUrl": "https://static.wixstatic.com/media/7cc206_727d39dd8a6d4ace9db457f1f96c5d4e~mv2.png",
+        "fileName": "morocco-flag.png",
+        "localPath": "public/images/aaaa-group/flags/morocco-flag.png"
+      },
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    }
+  ],
+  "members": [
+    {
+      "order": 1,
+      "id": "lina-el-kibbi",
+      "name": "Dr. Lina El Kibbi",
+      "country": "Saudi Arabia",
+      "countryDisplaySource": "KSA",
+      "groupRole": "Founder of AAAA Group",
+      "professionalTitle": "Consultant Rheumatologist",
+      "bioSource": "Assistant Professor of Rheumatology in , Alfaisal University, Rheumatology Consultant, Director Medical Academic Affairs, Specialized Medical Center.",
+      "profileImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_25a940dc1697427ba377dcda90026f36~mv2.jpg/v1/crop/x_0%2Cy_17%2Cw_853%2Ch_853/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/thumbnail_image1_edited.jpg",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_25a940dc1697427ba377dcda90026f36~mv2.jpg",
+        "fileName": "lina-el-kibbi.jpg",
+        "localPath": "public/images/aaaa-group/members/lina-el-kibbi.jpg"
+      },
+      "flagImage": {
+        "displayUrl": "https://static.wixstatic.com/media/7cc206_11ca131b839a4264832cf63a23107fee~mv2_d_2000_1333_s_2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/2000px-Flag_of_Saudi_Arabia_svg.png",
+        "originalUrl": "https://static.wixstatic.com/media/7cc206_11ca131b839a4264832cf63a23107fee~mv2_d_2000_1333_s_2.png",
+        "fileName": "saudi-arabia-flag.png",
+        "localPath": "public/images/aaaa-group/flags/saudi-arabia-flag.png"
+      },
+      "reviewRequired": false,
+      "reviewNotes": [],
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "order": 2,
+      "id": "hussein-halabi",
+      "name": "Dr. Hussein Halabi",
+      "country": "Saudi Arabia",
+      "countryDisplaySource": "KSA",
+      "groupRole": "Founder of AAAA Group",
+      "professionalTitle": "Consultant Rheumatologist",
+      "bioSource": "Director of academic and training affairs, KFSH&RC , Jeddah.",
+      "profileImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_3c10e6b8e29b42f89be8ead87cc0a1e5~mv2.jpeg/v1/crop/x_0%2Cy_1%2Cw_1238%2Ch_1238/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Dr_%20Hussein%20Halabi.jpeg",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_3c10e6b8e29b42f89be8ead87cc0a1e5~mv2.jpeg",
+        "fileName": "hussein-halabi.jpg",
+        "localPath": "public/images/aaaa-group/members/hussein-halabi.jpg"
+      },
+      "flagImage": {
+        "displayUrl": "https://static.wixstatic.com/media/7cc206_11ca131b839a4264832cf63a23107fee~mv2_d_2000_1333_s_2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/2000px-Flag_of_Saudi_Arabia_svg.png",
+        "originalUrl": "https://static.wixstatic.com/media/7cc206_11ca131b839a4264832cf63a23107fee~mv2_d_2000_1333_s_2.png",
+        "fileName": "saudi-arabia-flag.png",
+        "localPath": "public/images/aaaa-group/flags/saudi-arabia-flag.png"
+      },
+      "reviewRequired": false,
+      "reviewNotes": [],
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "order": 3,
+      "id": "manal-el-rakaawi",
+      "name": "Dr. Manal El Rakaawi",
+      "country": "Algeria",
+      "countryDisplaySource": "Algeria",
+      "groupRole": "",
+      "professionalTitle": "Professor in rheumatology",
+      "bioSource": "Current president of ArLAR. General secretary of the francophone groupe of ArLAR.",
+      "profileImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_373e227c14c84f1d889ec802367a68fc~mv2.jpg/v1/crop/x_24%2Cy_0%2Cw_300%2Ch_300/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Dr_edited.jpg",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_373e227c14c84f1d889ec802367a68fc~mv2.jpg",
+        "fileName": "manal-el-rakaawi.jpg",
+        "localPath": "public/images/aaaa-group/members/manal-el-rakaawi.jpg"
+      },
+      "flagImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_a5e8c349f0554ed1a400aa86ae5177f6~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Algeria.png",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_a5e8c349f0554ed1a400aa86ae5177f6~mv2.png",
+        "fileName": "algeria-flag.png",
+        "localPath": "public/images/aaaa-group/flags/algeria-flag.png"
+      },
+      "reviewRequired": true,
+      "reviewNotes": [
+        "Time-sensitive ArLAR presidency wording appears outdated/inconsistent on the source page; verify before republishing."
+      ],
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "order": 4,
+      "id": "chafia-dahou-makhloufi",
+      "name": "Dr. Chafia Dahou Makhloufi",
+      "country": "Algeria",
+      "countryDisplaySource": "Algeria",
+      "groupRole": "",
+      "professionalTitle": "Professor of Rheumatology",
+      "bioSource": "Professor in rheumatology, Head of rheumatology department, Bab El Oued Hospital. University of medicine.Algiers, Vice president of the Algerian League Against Rheumatism (LAAR).",
+      "profileImage": {
+        "displayUrl": "https://static.wixstatic.com/media/7cc206_e17b14853dc74c98b431df3a3270d55d~mv2.jpg/v1/crop/x_0%2Cy_59%2Cw_413%2Ch_413/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Chafia.jpg",
+        "originalUrl": "https://static.wixstatic.com/media/7cc206_e17b14853dc74c98b431df3a3270d55d~mv2.jpg",
+        "fileName": "chafia-dahou-makhloufi.jpg",
+        "localPath": "public/images/aaaa-group/members/chafia-dahou-makhloufi.jpg"
+      },
+      "flagImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_a5e8c349f0554ed1a400aa86ae5177f6~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Algeria.png",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_a5e8c349f0554ed1a400aa86ae5177f6~mv2.png",
+        "fileName": "algeria-flag.png",
+        "localPath": "public/images/aaaa-group/flags/algeria-flag.png"
+      },
+      "reviewRequired": false,
+      "reviewNotes": [],
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "order": 5,
+      "id": "sahar-saad",
+      "name": "Dr. Sahar Saad",
+      "country": "Bahrain",
+      "countryDisplaySource": "Bahrain",
+      "groupRole": "",
+      "professionalTitle": "Consultant Rheumatologist",
+      "bioSource": "Head of the Rheumatology Unit, King Hamad University Hospital - Kingdom of Bahrain PhD in rheumatic diseases Sheffield University - United Kingdom / Assiut University - Egypt",
+      "profileImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_29a0b6852f3d4a60ab6fb211cc580ac7~mv2.jpg/v1/crop/x_19%2Cy_0%2Cw_645%2Ch_645/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/sahar_edited.jpg",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_29a0b6852f3d4a60ab6fb211cc580ac7~mv2.jpg",
+        "fileName": "sahar-saad.jpg",
+        "localPath": "public/images/aaaa-group/members/sahar-saad.jpg"
+      },
+      "flagImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_f48923bf426b4d11ad1890bceee15c83~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Bahrain.png",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_f48923bf426b4d11ad1890bceee15c83~mv2.png",
+        "fileName": "bahrain-flag.png",
+        "localPath": "public/images/aaaa-group/flags/bahrain-flag.png"
+      },
+      "reviewRequired": false,
+      "reviewNotes": [],
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "order": 6,
+      "id": "mervat-eissa",
+      "name": "Dr. Mervat Eissa",
+      "country": "Egypt",
+      "countryDisplaySource": "Egypt",
+      "groupRole": "",
+      "professionalTitle": "Consultant Rheumatologist",
+      "bioSource": "Consultant of Rheumatology - Kasr Alainy Hospital- Cairo University, Associate Prof. of Rheumatology & Clinical Immunology - Cairo University, Organizer at Egyptian Society of Rheumatic Diseases.",
+      "profileImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_b731d511e3984875abfc31df4fdc0b72~mv2.jpg/v1/crop/x_0%2Cy_24%2Cw_307%2Ch_307/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/k.jpg",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_b731d511e3984875abfc31df4fdc0b72~mv2.jpg",
+        "fileName": "mervat-eissa.jpg",
+        "localPath": "public/images/aaaa-group/members/mervat-eissa.jpg"
+      },
+      "flagImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_8e51d190d3f24532961fe2d2609b5d6e~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Egypt.png",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_8e51d190d3f24532961fe2d2609b5d6e~mv2.png",
+        "fileName": "egypt-flag.png",
+        "localPath": "public/images/aaaa-group/flags/egypt-flag.png"
+      },
+      "reviewRequired": false,
+      "reviewNotes": [],
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "order": 7,
+      "id": "nizar-abdulateef",
+      "name": "Dr. Nizar Abdulateef",
+      "country": "Iraq",
+      "countryDisplaySource": "Iraq",
+      "groupRole": "",
+      "professionalTitle": "Consultant Rheumatologist",
+      "bioSource": "Professor and Consultant in Rheumatology and Internal Medicine, President of Iraqi League of Bone and Joint Health, President of PAOS, and Secretary General of Scientific Committee of ArLAR.",
+      "profileImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_c8c8b59b83994c878aa192b978cce5a1~mv2.jpg/v1/crop/x_44%2Cy_0%2Cw_591%2Ch_591/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Personal%2520photo%2520Nizar%2520Abdulateef_ed.jpg",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_c8c8b59b83994c878aa192b978cce5a1~mv2.jpg",
+        "fileName": "nizar-abdulateef.jpg",
+        "localPath": "public/images/aaaa-group/members/nizar-abdulateef.jpg"
+      },
+      "flagImage": {
+        "displayUrl": "https://static.wixstatic.com/media/7cc206_1dd89713508b42d1bd9b2203510b06ea~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/iraq.png",
+        "originalUrl": "https://static.wixstatic.com/media/7cc206_1dd89713508b42d1bd9b2203510b06ea~mv2.png",
+        "fileName": "iraq-flag.png",
+        "localPath": "public/images/aaaa-group/flags/iraq-flag.png"
+      },
+      "reviewRequired": false,
+      "reviewNotes": [],
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "order": 8,
+      "id": "basel-k-masri",
+      "name": "Dr. Basel K Masri",
+      "country": "Jordan",
+      "countryDisplaySource": "Jordan",
+      "groupRole": "",
+      "professionalTitle": "Senior Consultant Rheumatologist",
+      "bioSource": "Jordan Hospital & Medical Center, Past President of ArLAR",
+      "profileImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_f2ac6936e3734c058e935634f0913d8e~mv2.jpg/v1/crop/x_0%2Cy_3%2Cw_3012%2Ch_3012/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/7.jpg",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_f2ac6936e3734c058e935634f0913d8e~mv2.jpg",
+        "fileName": "basel-k-masri.jpg",
+        "localPath": "public/images/aaaa-group/members/basel-k-masri.jpg"
+      },
+      "flagImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_53417f88eac041f9b170b3aa9187566f~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/jordan.png",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_53417f88eac041f9b170b3aa9187566f~mv2.png",
+        "fileName": "jordan-flag.png",
+        "localPath": "public/images/aaaa-group/flags/jordan-flag.png"
+      },
+      "reviewRequired": false,
+      "reviewNotes": [],
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "order": 9,
+      "id": "fatemah-abutiban",
+      "name": "Dr. Fatemah Abutiban",
+      "country": "Kuwait",
+      "countryDisplaySource": "Kuwait",
+      "groupRole": "",
+      "professionalTitle": "Consultant of Medicine and Rheumatology",
+      "bioSource": "Jaber Al Ahmed Hospital, Sheikhan Alfaresi Rheumatology Center. Kuwait Oil Company, President of Kuwait Association of Rheumatology, and Treasurer of Kuwait Osteoporosis Prevention Society. Current ArLAR President.",
+      "profileImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_606764243af648819ea41b8983bf99bf~mv2.jpg/v1/crop/x_12%2Cy_0%2Cw_326%2Ch_326/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Dr_edited.jpg",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_606764243af648819ea41b8983bf99bf~mv2.jpg",
+        "fileName": "fatemah-abutiban.jpg",
+        "localPath": "public/images/aaaa-group/members/fatemah-abutiban.jpg"
+      },
+      "flagImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_96aa46a3e72b4afb814aff926a3be7bc~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Kuwait.png",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_96aa46a3e72b4afb814aff926a3be7bc~mv2.png",
+        "fileName": "kuwait-flag.png",
+        "localPath": "public/images/aaaa-group/flags/kuwait-flag.png"
+      },
+      "reviewRequired": true,
+      "reviewNotes": [
+        "Time-sensitive ArLAR presidency wording appears outdated/inconsistent on the source page; verify before republishing."
+      ],
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "order": 10,
+      "id": "nelly-ziade-zoghbi",
+      "name": "Dr. Nelly Ziade Zoghbi",
+      "country": "Lebanon",
+      "countryDisplaySource": "Lebanon",
+      "groupRole": "",
+      "professionalTitle": "Consultant Rheumatologist",
+      "bioSource": "Assistant Professor of Rheumatology, Hotel-Dieu de France Hospital and Saint-Joseph University Beirut.",
+      "profileImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_1afa27d8903147ab9c810ae850dd01f9~mv2.jpg/v1/crop/x_0%2Cy_159%2Cw_2174%2Ch_2174/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Ziade_Nelly_Photo2020_ARLAR_JPG.jpg",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_1afa27d8903147ab9c810ae850dd01f9~mv2.jpg",
+        "fileName": "nelly-ziade-zoghbi.jpg",
+        "localPath": "public/images/aaaa-group/members/nelly-ziade-zoghbi.jpg"
+      },
+      "flagImage": {
+        "displayUrl": "https://static.wixstatic.com/media/7cc206_a1e15183337e45c0aff420259139a98f~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/1200px-Flag_of_Lebanon_svg.png",
+        "originalUrl": "https://static.wixstatic.com/media/7cc206_a1e15183337e45c0aff420259139a98f~mv2.png",
+        "fileName": "lebanon-flag.png",
+        "localPath": "public/images/aaaa-group/flags/lebanon-flag.png"
+      },
+      "reviewRequired": false,
+      "reviewNotes": [],
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "order": 11,
+      "id": "soad-salem-hashad",
+      "name": "Dr. Soad Salem Hashad",
+      "country": "Libya",
+      "countryDisplaySource": "Libya",
+      "groupRole": "",
+      "professionalTitle": "Consultant Rheumatologist",
+      "bioSource": "Consultant pediatric rheumatologist and one of the founders of pediatric rheumatology O.P.D in Tripoli Children Hospital since 2008.",
+      "profileImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_70d6803d3c1b4f6e85cb15533d11447c~mv2.jpg/v1/crop/x_2%2Cy_0%2Cw_176%2Ch_176/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/image1_edited.jpg",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_70d6803d3c1b4f6e85cb15533d11447c~mv2.jpg",
+        "fileName": "soad-salem-hashad.jpg",
+        "localPath": "public/images/aaaa-group/members/soad-salem-hashad.jpg"
+      },
+      "flagImage": {
+        "displayUrl": "https://static.wixstatic.com/media/7cc206_abf091f43465474c89deec31650cf1dc~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/2000px-Flag_of_Libya_svg.png",
+        "originalUrl": "https://static.wixstatic.com/media/7cc206_abf091f43465474c89deec31650cf1dc~mv2.png",
+        "fileName": "libya-flag.png",
+        "localPath": "public/images/aaaa-group/flags/libya-flag.png"
+      },
+      "reviewRequired": false,
+      "reviewNotes": [],
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "order": 12,
+      "id": "ihsane-hmamouchi",
+      "name": "Dr. Ihsane Hmamouchi",
+      "country": "Morocco",
+      "countryDisplaySource": "Morocco",
+      "groupRole": "",
+      "professionalTitle": "Rheumatologist, Biostatisitician, Clinical Epidemiologist",
+      "bioSource": "Biostatisitician, Clinical Epidemiologist, Centre Hospitalier Provincial Skhirat- Temara, Laboratory of Epidemiology and Clinical Research (LBRCE), Faculty of Medicine",
+      "profileImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_11f5444fc8f549af932e6bc6f05d183d~mv2.jpg/v1/crop/x_0%2Cy_93%2Cw_850%2Ch_850/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Dr_%20Ehsam%20Hamouchi.jpg",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_11f5444fc8f549af932e6bc6f05d183d~mv2.jpg",
+        "fileName": "ihsane-hmamouchi.jpg",
+        "localPath": "public/images/aaaa-group/members/ihsane-hmamouchi.jpg"
+      },
+      "flagImage": {
+        "displayUrl": "https://static.wixstatic.com/media/7cc206_727d39dd8a6d4ace9db457f1f96c5d4e~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/1200px-Flag_of_Morocco_svg.png",
+        "originalUrl": "https://static.wixstatic.com/media/7cc206_727d39dd8a6d4ace9db457f1f96c5d4e~mv2.png",
+        "fileName": "morocco-flag.png",
+        "localPath": "public/images/aaaa-group/flags/morocco-flag.png"
+      },
+      "reviewRequired": true,
+      "reviewNotes": [
+        "Source image filename spells the name differently ('Ehsam Hamouchi')."
+      ],
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "order": 13,
+      "id": "nasra-al-adhoubi",
+      "name": "Dr. Nasra Al Adhoubi",
+      "country": "Oman",
+      "countryDisplaySource": "Oman",
+      "groupRole": "",
+      "professionalTitle": "Consultant Rheumatologist",
+      "bioSource": "Royal Hospital and Oman society of Rheumatology -OSR President.",
+      "profileImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_31b937fa17e74840ac7a43f8c50d39fb~mv2.jpg/v1/crop/x_0%2Cy_78%2Cw_850%2Ch_851/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Dr_%20Nasra.jpg",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_31b937fa17e74840ac7a43f8c50d39fb~mv2.jpg",
+        "fileName": "nasra-al-adhoubi.jpg",
+        "localPath": "public/images/aaaa-group/members/nasra-al-adhoubi.jpg"
+      },
+      "flagImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_b1a62a1d40a34b7c860e628d4a768b33~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Oman.png",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_b1a62a1d40a34b7c860e628d4a768b33~mv2.png",
+        "fileName": "oman-flag.png",
+        "localPath": "public/images/aaaa-group/flags/oman-flag.png"
+      },
+      "reviewRequired": false,
+      "reviewNotes": [],
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "order": 14,
+      "id": "sima-abu-al-sa-oud",
+      "name": "Dr. Sima Abu Al- Sa’oud",
+      "country": "Palestine",
+      "countryDisplaySource": "Palestine",
+      "groupRole": "",
+      "professionalTitle": "Pediatric Rheumatologist",
+      "bioSource": "Makassed Hospital - Jerusalem. Palestinian & Jordanian boards of Pediatrics, Canadian fellowship in Pediatric Rheumatology- the Hospital for Sick Children/ University of Toronto",
+      "profileImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_8ede3a5cae40463f902eb545da760bbf~mv2.jpg/v1/crop/x_35%2Cy_0%2Cw_630%2Ch_630/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Sima_edited.jpg",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_8ede3a5cae40463f902eb545da760bbf~mv2.jpg",
+        "fileName": "sima-abu-al-sa-oud.jpg",
+        "localPath": "public/images/aaaa-group/members/sima-abu-al-sa-oud.jpg"
+      },
+      "flagImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_d49af3795ec84910a48d1c2e1df47fcb~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Palestine.png",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_d49af3795ec84910a48d1c2e1df47fcb~mv2.png",
+        "fileName": "palestine-flag.png",
+        "localPath": "public/images/aaaa-group/flags/palestine-flag.png"
+      },
+      "reviewRequired": true,
+      "reviewNotes": [
+        "Name spelling varies elsewhere on the page/webinar archive (Sima/Seema; Sa’oud/Saoud)."
+      ],
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "order": 15,
+      "id": "samar-al-emadi",
+      "name": "Dr. Samar Al Emadi",
+      "country": "Qatar",
+      "countryDisplaySource": "Qatar",
+      "groupRole": "",
+      "professionalTitle": "Senior Consultant Rheumatologist",
+      "bioSource": "Sr.Consultant Rheumatology, Head of Rheumatology section, Hamad Medical Corporation, Assistant Professor of Clinical Medicine WCMC-Q, EMBA-London business school.",
+      "profileImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_6e543a9ebc344ea2acd2e97f524ebe03~mv2.jpg/v1/crop/x_54%2Cy_0%2Cw_367%2Ch_367/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Dr_edited.jpg",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_6e543a9ebc344ea2acd2e97f524ebe03~mv2.jpg",
+        "fileName": "samar-al-emadi.jpg",
+        "localPath": "public/images/aaaa-group/members/samar-al-emadi.jpg"
+      },
+      "flagImage": {
+        "displayUrl": "https://static.wixstatic.com/media/7cc206_749649c42f8143a7a9a032f59362ff15~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/2000px-Flag_of_Qatar_svg.png",
+        "originalUrl": "https://static.wixstatic.com/media/7cc206_749649c42f8143a7a9a032f59362ff15~mv2.png",
+        "fileName": "qatar-flag.png",
+        "localPath": "public/images/aaaa-group/flags/qatar-flag.png"
+      },
+      "reviewRequired": false,
+      "reviewNotes": [],
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "order": 16,
+      "id": "wafa-hassan-al-bashir",
+      "name": "Dr. Wafa Hassan Al-Bashir",
+      "country": "Sudan",
+      "countryDisplaySource": "Sudan",
+      "groupRole": "",
+      "professionalTitle": "Internal medicine and rheumatology consultant",
+      "bioSource": "President of the Sudanese Society of Rheumatology Friendship Teaching Hospital Alia Specialized Hospital Sudan",
+      "profileImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_bad0d0f26deb40c490cd8d05e35d914e~mv2.jpg/v1/crop/x_0%2Cy_19%2Cw_482%2Ch_482/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/WhatsApp%2520Image%25202021-04-14%2520at%25204_5.jpg",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_bad0d0f26deb40c490cd8d05e35d914e~mv2.jpg",
+        "fileName": "wafa-hassan-al-bashir.jpg",
+        "localPath": "public/images/aaaa-group/members/wafa-hassan-al-bashir.jpg"
+      },
+      "flagImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_da47fb5ec49e4247a83c3f17e2642c11~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Sudan.png",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_da47fb5ec49e4247a83c3f17e2642c11~mv2.png",
+        "fileName": "sudan-flag.png",
+        "localPath": "public/images/aaaa-group/flags/sudan-flag.png"
+      },
+      "reviewRequired": false,
+      "reviewNotes": [],
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "order": 17,
+      "id": "layla-kazkaz",
+      "name": "Dr. Layla Kazkaz",
+      "country": "Syria",
+      "countryDisplaySource": "Syria",
+      "groupRole": "",
+      "professionalTitle": "Consultant Rheumatologist",
+      "bioSource": "President of the Syrian Association for Rheumatology-SAR, Chair of scientific committee for Syrian association for osteoporosis prevention, Member of BSR, Fellow of RCP.",
+      "profileImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_6d78f89cf487438bac08894d1179f5a0~mv2.jpg/v1/crop/x_32%2Cy_0%2Cw_1117%2Ch_1117/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Photo-Dr_edited.jpg",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_6d78f89cf487438bac08894d1179f5a0~mv2.jpg",
+        "fileName": "layla-kazkaz.jpg",
+        "localPath": "public/images/aaaa-group/members/layla-kazkaz.jpg"
+      },
+      "flagImage": {
+        "displayUrl": "https://static.wixstatic.com/media/7cc206_eb3399d4389c4ce28ffdd2614a736a80~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/1200px-Flag_of_Syria_svg.png",
+        "originalUrl": "https://static.wixstatic.com/media/7cc206_eb3399d4389c4ce28ffdd2614a736a80~mv2.png",
+        "fileName": "syria-flag.png",
+        "localPath": "public/images/aaaa-group/flags/syria-flag.png"
+      },
+      "reviewRequired": false,
+      "reviewNotes": [],
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "order": 18,
+      "id": "wafa-hamdi",
+      "name": "Dr. Wafa Hamdi",
+      "country": "Tunisia",
+      "countryDisplaySource": "Tunisia",
+      "groupRole": "",
+      "professionalTitle": "Consultant Rheumatologist",
+      "bioSource": "Head of the department of rheumatology in Kassab Instituta, Head of the section of rheumatology in the Faculty of Medicine of Tunis, Head of the research unit UR17SP04, Associate General Secretary in LITAR",
+      "profileImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_62b972a430ef479b8d30182fa9901700~mv2.jpg/v1/crop/x_0%2Cy_42%2Cw_398%2Ch_398/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/wafa%2520hamdi_edited.jpg",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_62b972a430ef479b8d30182fa9901700~mv2.jpg",
+        "fileName": "wafa-hamdi.jpg",
+        "localPath": "public/images/aaaa-group/members/wafa-hamdi.jpg"
+      },
+      "flagImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_eff4a4bdcc9348a1bcc6216bf954f2d8~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Tunisia.png",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_eff4a4bdcc9348a1bcc6216bf954f2d8~mv2.png",
+        "fileName": "tunisia-flag.png",
+        "localPath": "public/images/aaaa-group/flags/tunisia-flag.png"
+      },
+      "reviewRequired": false,
+      "reviewNotes": [],
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "order": 19,
+      "id": "khalid-alnaqbi",
+      "name": "Dr. Khalid Alnaqbi",
+      "country": "United Arab Emirates",
+      "countryDisplaySource": "UAE",
+      "groupRole": "",
+      "professionalTitle": "Chief of Rheumatology, Assistant Professor",
+      "bioSource": "Chief of Rheumatology, Tawam Hospital, UAE. Clinical Associate Professor (UAE University). Vice President of Emirates Medical Association",
+      "profileImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_eb4b380b91b041fead5954e29829a380~mv2.jpg/v1/crop/x_153%2Cy_0%2Cw_1687%2Ch_1687/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Khalid%2520Alnaqbi_Photo_edited.jpg",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_eb4b380b91b041fead5954e29829a380~mv2.jpg",
+        "fileName": "khalid-alnaqbi.jpg",
+        "localPath": "public/images/aaaa-group/members/khalid-alnaqbi.jpg"
+      },
+      "flagImage": {
+        "displayUrl": "https://static.wixstatic.com/media/1f2182_8e66140f0a544a80aba8d4dbeccc11c4~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/UAE.png",
+        "originalUrl": "https://static.wixstatic.com/media/1f2182_8e66140f0a544a80aba8d4dbeccc11c4~mv2.png",
+        "fileName": "united-arab-emirates-flag.png",
+        "localPath": "public/images/aaaa-group/flags/united-arab-emirates-flag.png"
+      },
+      "reviewRequired": false,
+      "reviewNotes": [],
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    }
+  ],
+  "pastWebinars": [
+    {
+      "date": "2020-11-28",
+      "year": 2020,
+      "sourceOrdinal": "First webinar",
+      "campaignTitle": "Be Aware…we are here for you",
+      "sourceHeading": "First webinar for the Arab Adult Arthritis Awareness Group: Be Aware…we are here for you",
+      "agenda": [
+        {
+          "title": "Introduction of the Arab League of Associations for Rheumatology",
+          "speakers": [
+            "Dr. Basel Masri"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 1
+        },
+        {
+          "title": "Where did the idea of the Arab Adult Arthritis Awareness Group come from?",
+          "speakers": [
+            "Dr. Lina El Kibbi"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 2
+        },
+        {
+          "title": "The importance of involving patients with rheumatic diseases in awareness programs",
+          "speakers": [
+            "Dr. Hussein Halabi"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 3
+        },
+        {
+          "title": "An overview of rheumatic diseases and when to visit a rheumatologist",
+          "speakers": [
+            "Dr. Khalid Alnaqbi"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 4
+        },
+        {
+          "title": "Early diagnosis: the importance of screening and early diagnosis of rheumatic diseases",
+          "speakers": [
+            "Dr. Fatemah Abutiban"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 5
+        },
+        {
+          "title": "Results of the Handling Study - Rheumatic Disease Patients in the Era of COVID-19",
+          "speakers": [
+            "Dr. Nelly Ziade Zoghbi"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 6
+        }
+      ],
+      "qaMentioned": true,
+      "reviewNotes": [],
+      "order": 1,
+      "id": "2020-11-28-be-aware-we-are-here-for-you",
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "date": "2020-12-28",
+      "year": 2020,
+      "sourceOrdinal": "Second webinar",
+      "campaignTitle": "Be ready to embark the journey!",
+      "sourceHeading": "Second webinar for the Arab Adult Arthritis Awareness Group: Be ready to embark the journey!",
+      "agenda": [
+        {
+          "title": "What do you need to know about rheumatoid arthritis?",
+          "speakers": [
+            "Dr. Nizar Abdulateef"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 1
+        },
+        {
+          "title": "What do you need to know about juvenile idiopathic arthritis?",
+          "speakers": [
+            "Dr. Sima Abu Al- Sa’oud"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 2
+        },
+        {
+          "title": "The journey of pregnancy and rheumatic diseases: advice for patients, followed by a question-and-answer session",
+          "speakers": [
+            "Dr. Samar Al Emadi",
+            "Dr. Nasra Al Adhoubi"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 3
+        },
+        {
+          "title": "What are the tips for a patient newly diagnosed with rheumatic disease?",
+          "speakers": [
+            "Dr. Mervat Eissa"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 4
+        },
+        {
+          "title": "A surprise for all followers of the Arab Adult Arthritis Awareness Group",
+          "speakers": [
+            "Mr. Abboud Bejjani"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 5
+        }
+      ],
+      "qaMentioned": true,
+      "reviewNotes": [],
+      "order": 2,
+      "id": "2020-12-28-be-ready-to-embark-the-journey",
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "date": "2021-02-01",
+      "year": 2021,
+      "sourceOrdinal": "Third webinar",
+      "campaignTitle": "Be here to comply with treatment!",
+      "sourceHeading": "Third webinar for the Arab Adult Arthritis Awareness Group: Be here to comply with treatment!",
+      "agenda": [
+        {
+          "title": "Welcome and announcement of the two initiatives for the month of February",
+          "speakers": [
+            "Dr. Lina El Kibbi"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 1
+        },
+        {
+          "title": "The patient's compliance with treatment in the rheumatology clinic",
+          "speakers": [
+            "Dr. Wafa Hamdi"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 2
+        },
+        {
+          "title": "It's my decision",
+          "speakers": [
+            "Life Skills Specialist Dana Jweihan"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 3
+        }
+      ],
+      "qaMentioned": true,
+      "reviewNotes": [],
+      "order": 3,
+      "id": "2021-02-01-be-here-to-comply-with-treatment",
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "date": "2021-02-15",
+      "year": 2021,
+      "sourceOrdinal": "Fourth webinar",
+      "campaignTitle": "Be here to exercise!",
+      "sourceHeading": "Fourth webinar for the Arab Adult Arthritis Awareness Group: Be here to exercise!",
+      "agenda": [
+        {
+          "title": "Correcting misconceptions about exercise for patients with rheumatic diseases",
+          "speakers": [
+            "Dr. Layla Kazkaz"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 1
+        },
+        {
+          "title": "How to improve the quality of your daily life and deal with pain",
+          "speakers": [
+            "Physiotherapist Dalia Hatem"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 2
+        },
+        {
+          "title": "Tai Chi for Arthritis and Fall Prevention",
+          "speakers": [
+            "Tai Chi instructor Amatullah Mahmoud Bahazq"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 3
+        },
+        {
+          "title": "The importance of yoga in the lives of patients with rheumatic diseases",
+          "speakers": [
+            "Yoga Instructor Nouf Al-Marouei"
+          ],
+          "replayUrl": "https://www.youtube.com/watch?v=nYNVkeowLXo",
+          "notes": "",
+          "order": 4
+        }
+      ],
+      "qaMentioned": true,
+      "reviewNotes": [],
+      "order": 4,
+      "id": "2021-02-15-be-here-to-exercise",
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "date": "2021-03-08",
+      "year": 2021,
+      "sourceOrdinal": "Fifth webinar",
+      "campaignTitle": "Be here to enjoy good food!",
+      "sourceHeading": "Fifth webinar for the Arab Adult Arthritis Awareness Group: Be here to enjoy good food!",
+      "agenda": [
+        {
+          "title": "The word of the Arab League of Associations for Rheumatology",
+          "speakers": [
+            "Dr. Basel Masri",
+            "Dr. Fatemah Abutiban"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 1
+        },
+        {
+          "title": "A word from the founders of the Arab Adult Arthritis Awareness Group",
+          "speakers": [
+            "Dr. Lina El Kibbi",
+            "Dr. Hussein Halabi"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 2
+        },
+        {
+          "title": "Nutrition and rheumatic diseases and a special session: Tabekhna B Matbakhna",
+          "speakers": [
+            "Dietitian Bana Idris"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 3
+        }
+      ],
+      "qaMentioned": true,
+      "reviewNotes": [],
+      "order": 5,
+      "id": "2021-03-08-be-here-to-enjoy-good-food",
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "date": "2021-03-22",
+      "year": 2021,
+      "sourceOrdinal": "Sixth webinar",
+      "campaignTitle": "Be here to manage your life!",
+      "sourceHeading": "Sixth webinar for the Arab Adult Arthritis Awareness Group: Be here to manage your life!",
+      "agenda": [
+        {
+          "title": "Sixth webinar for the Arab Adult Arthritis Awareness Group: Be here to manage your life!",
+          "speakers": [
+            "Dr. Chafia Dahou Makhloufi"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 1
+        },
+        {
+          "title": "What is the difference between mechanical back pain and inflammatory back pain?",
+          "speakers": [
+            "Dr. Nelly Ziade Zoghbi"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 2
+        },
+        {
+          "title": "What is the mysterious disease - fibromyalgia?",
+          "speakers": [
+            "Dr. Sahar Saad"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 3
+        },
+        {
+          "title": "How do I overcome my fears and lead a positive lifestyle?",
+          "speakers": [
+            "Life Skills Specialist Dana Jweihan"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 4
+        }
+      ],
+      "qaMentioned": true,
+      "reviewNotes": [],
+      "order": 6,
+      "id": "2021-03-22-be-here-to-manage-your-life",
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "date": "2021-04-10",
+      "year": 2021,
+      "sourceOrdinal": "Seventh webinar",
+      "campaignTitle": "Be happy solutions exist!",
+      "sourceHeading": "Seventh webinar for the Arab Adult Arthritis Awareness Group: Be happy solutions exist!",
+      "agenda": [
+        {
+          "title": "Opening of the meeting",
+          "speakers": [
+            "Dr. Hussein Halabi"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 1
+        },
+        {
+          "title": "COVID-19 Vaccines: Correcting Misconceptions and Knowing the Facts",
+          "speakers": [
+            "Dr. Nizar Bahabri",
+            "Dr. Hussein Halabi"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 2
+        },
+        {
+          "title": "International recommendations for the COVID-19 vaccine for patients with rheumatic diseases",
+          "speakers": [
+            "Dr. Manal El Rakaawi"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 3
+        },
+        {
+          "title": "Important medical advice in Ramadan: Use of rheumatism and joint medications in the month of Ramadan",
+          "speakers": [
+            "Dr. Basel K Masri"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 4
+        },
+        {
+          "title": "Important medical advice in Ramadan: Using biological and anti-rheumatic drugs in Ramadan",
+          "speakers": [
+            "Dr. Nizar Abdulateef"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 5
+        },
+        {
+          "title": "Important medical advice in Ramadan: Are patients with rheumatic diseases able to fast?",
+          "speakers": [
+            "Dr. Mervat Eissa"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 6
+        },
+        {
+          "title": "Important medical advice in Ramadan: Tips for safe Ramadan practices in light of the Corona pandemic",
+          "speakers": [
+            "Dr. Lina El Kibbi"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 7
+        }
+      ],
+      "qaMentioned": true,
+      "reviewNotes": [],
+      "order": 7,
+      "id": "2021-04-10-be-happy-solutions-exist",
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "date": "2021-05-31",
+      "year": 2021,
+      "sourceOrdinal": "Eighth webinar",
+      "campaignTitle": "Be for me to enjoy life!",
+      "sourceHeading": "Eighth webinar for the Arab Adult Arthritis Awareness Group: Be for me to enjoy life!",
+      "agenda": [
+        {
+          "title": "Opening of the eighth meeting",
+          "speakers": [
+            "Dr. Basel K Masri"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 1
+        },
+        {
+          "title": "Lupus, a disease with a thousand faces: what you should know about it",
+          "speakers": [
+            "Dr. Nizar Abdulateef"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 2
+        },
+        {
+          "title": "What is the relationship between recurrent miscarriage and rheumatology clinic? What are the tests to diagnose phospholipid syndrome?",
+          "speakers": [
+            "Dr. Chafia Dahou Makhloufi"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 3
+        },
+        {
+          "title": "What is the relationship between skin psoriasis and rheumatism clinic?",
+          "speakers": [
+            "Dr. Wafa Hassan Al-Bashir"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 4
+        },
+        {
+          "title": "How is gout diagnosed? What cases are treated and what are patients advised?",
+          "speakers": [
+            "Dr. Basel K Masri"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 5
+        },
+        {
+          "title": "An important topic for every family in the Arab world: When does the child go to the pediatric rheumatologist’s clinic, and what are the cases treated in this clinic?",
+          "speakers": [
+            "Dr. Soad Salem Hashad"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 6
+        },
+        {
+          "title": "Chronic inflammatory back pain in young people in their 40s: a patient testimonial",
+          "speakers": [
+            "Dr. Ihsane Hmamouchi"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 7
+        },
+        {
+          "title": "A special speech on the occasion of the closing of \"Be You\" campaign",
+          "speakers": [
+            "Dr. Lina El Kibbi",
+            "Dr. Hussein Halabi"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 8
+        }
+      ],
+      "qaMentioned": true,
+      "reviewNotes": [],
+      "order": 8,
+      "id": "2021-05-31-be-for-me-to-enjoy-life",
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "date": "2021-10-11",
+      "year": 2021,
+      "sourceOrdinal": "First webinar",
+      "campaignTitle": "Together, to spread awareness",
+      "sourceHeading": "First webinar for the Arab Adult Arthritis Awareness Group: Together, to spread awareness",
+      "agenda": [
+        {
+          "title": "Speech of the webinar moderator",
+          "speakers": [
+            "Dr. Basel Masri"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 1
+        },
+        {
+          "title": "The group founders’ speech: 2020-2021 achievements",
+          "speakers": [
+            "Dr. Lina El Kibbi"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 2
+        },
+        {
+          "title": "The group founders’ speech: “Together” campaign",
+          "speakers": [
+            "Dr. Hussein Halabi"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 3
+        },
+        {
+          "title": "Speech of the President of the Arab League of Associations for Rheumatology: The importance of spreading awareness in the Arab world",
+          "speakers": [
+            "Dr. Fatemah AbuTiban"
+          ],
+          "replayUrl": "https://www.youtube.com/watch?t=1s&v=UJ8E8qCcidw",
+          "notes": "",
+          "order": 4
+        },
+        {
+          "title": "What is the role of the rheumatologist? What are the most famous types of rheumatic diseases in the Arab world?",
+          "speakers": [
+            "Dr. Ihsane Hmamouchi"
+          ],
+          "replayUrl": "https://www.youtube.com/watch?t=1s&v=6gt-zRogqDU",
+          "notes": "",
+          "order": 5
+        },
+        {
+          "title": "Guidance for rheumatic patients regarding the COVID-19 vaccine and the booster vaccines for COVID-19",
+          "speakers": [
+            "Dr. Nelly Ziade Zoghbi"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 6
+        }
+      ],
+      "qaMentioned": true,
+      "reviewNotes": [
+        "The source restarts webinar numbering at 'First webinar' in October 2021."
+      ],
+      "order": 9,
+      "id": "2021-10-11-together-to-spread-awareness",
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "date": "2021-11-29",
+      "year": 2021,
+      "sourceOrdinal": "Second virtual meeting",
+      "campaignTitle": "Together for Awareness",
+      "sourceHeading": "The second virtual meeting of the Arab adult arthritis awareness group: Together for Awareness",
+      "agenda": [
+        {
+          "title": "Speech of the webinar moderator",
+          "speakers": [
+            "Dr. Wafaa Hamdi"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 1
+        },
+        {
+          "title": "Ankylosing spondylitis followed by the story of a patient suffering from ankylosing spondylitis",
+          "speakers": [
+            "Dr. Khalid Alnaqbi"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 2
+        },
+        {
+          "title": "Behçet's disease: What is this disease and what are its symptoms and complications?",
+          "speakers": [
+            "Dr. Nizar Abdulateef"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 3
+        },
+        {
+          "title": "What is scleroderma?",
+          "speakers": [
+            "Dr. Layla Kazkaz"
+          ],
+          "replayUrl": "https://www.youtube.com/watch?t=1s&v=6gt-zRogqDU",
+          "notes": "",
+          "order": 4
+        },
+        {
+          "title": "What should parents do in case of joint pain in children?",
+          "speakers": [
+            "Dr. Sima Abou Al-Saoud"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 5
+        }
+      ],
+      "qaMentioned": true,
+      "reviewNotes": [
+        "The same YouTube URL is reused elsewhere on the source page for different agenda items; verify the replay target."
+      ],
+      "order": 10,
+      "id": "2021-11-29-together-for-awareness",
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "date": "2022-01-03",
+      "year": 2022,
+      "sourceOrdinal": "Third virtual meeting",
+      "campaignTitle": "Together for Change",
+      "sourceHeading": "The third virtual meeting of the Arab Adult Arthritis Awareness Groups: Together for Change",
+      "agenda": [
+        {
+          "title": "An introduction to lupus and the extent of the spread of lupus in Saudi Arabia?",
+          "speakers": [
+            "Dr. Hanane Al Rayess"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 1
+        },
+        {
+          "title": "Skin and lupus erythematosus",
+          "speakers": [
+            "Dr. Afnan Hassanein"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 2
+        },
+        {
+          "title": "Kidney and lupus diseases",
+          "speakers": [
+            "Dr. Najla Zabani"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 3
+        },
+        {
+          "title": "Lupus erythematosus and pregnancy",
+          "speakers": [
+            "Dr. Aliaa al Kaff"
+          ],
+          "replayUrl": "https://www.youtube.com/watch?t=1s&v=6gt-zRogqDU",
+          "notes": "",
+          "order": 4
+        },
+        {
+          "title": "Neuropsychological complications of lupus",
+          "speakers": [
+            "Dr. Ahmad Attar"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 5
+        },
+        {
+          "title": "Diagnostic and treatment challenges for lupus patients!",
+          "speakers": [
+            "Dr. Hussein Halabi"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 6
+        }
+      ],
+      "qaMentioned": true,
+      "reviewNotes": [
+        "The same YouTube URL is reused elsewhere on the source page for different agenda items; verify the replay target."
+      ],
+      "order": 11,
+      "id": "2022-01-03-together-for-change",
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "date": "2022-02-01",
+      "year": 2022,
+      "sourceOrdinal": "Fourth virtual meeting",
+      "campaignTitle": "Together to Persevere",
+      "sourceHeading": "The fourth virtual meeting of the Arab Adult Arthritis Awareness Groups: Together to Persevere on February 1, 2022",
+      "agenda": [
+        {
+          "title": "Interview between rheumatologist and general practitioner",
+          "speakers": [
+            "Dr. Manal Al Rakawi",
+            "Dr. Sid Ahmed Mouzaoui"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 1
+        },
+        {
+          "title": "Daily workout for patients with joint pain",
+          "speakers": [
+            "Capt. Issam Al Fayez"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 2
+        },
+        {
+          "title": "What is the right diet for rheumatic disease patients?",
+          "speakers": [
+            "Dr. Yara Al-Muhadi"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 3
+        }
+      ],
+      "qaMentioned": true,
+      "reviewNotes": [],
+      "order": 12,
+      "id": "2022-02-01-together-to-persevere",
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "date": "2022-02-14",
+      "year": 2022,
+      "sourceOrdinal": "Fifth virtual meeting",
+      "campaignTitle": "Together to Persevere",
+      "sourceHeading": "The fifth virtual meeting of the Arab Adult Arthritis Awareness Group: Together to Persevere on February 14, 2022",
+      "agenda": [
+        {
+          "title": "Announcement of the ambassador/dress and rheumatic disease patients in the Arab world, interview with the Ambassador of Rheumatic disease patients and a family member.",
+          "speakers": [
+            "Jury"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 1
+        },
+        {
+          "title": "The art of painting and the use of colors and its importance in the life of the individual and society",
+          "speakers": [
+            "Ms. Noura Ben Souaidan"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 2
+        },
+        {
+          "title": "Physiotherapy to improve the quality of life of rheumatic disease patients: Important benefits and facts that the patient should know",
+          "speakers": [
+            "Mrs. Dalia Hatem"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 3
+        }
+      ],
+      "qaMentioned": true,
+      "reviewNotes": [],
+      "order": 13,
+      "id": "2022-02-14-together-to-persevere",
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "date": "2022-03-28",
+      "year": 2022,
+      "sourceOrdinal": "Fifth virtual meeting",
+      "campaignTitle": "Together to Persevere",
+      "sourceHeading": "The fifth virtual meeting of the Arab Adult Arthritis Awareness Group: Together to Persevere on February 14, 2022",
+      "agenda": [
+        {
+          "title": "Introduction in the occasion of the second anniversary of the establishment of the Arab Adult Arthritis Awareness Group",
+          "speakers": [
+            "Dr. Sima Abou Al Saoud"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 1
+        },
+        {
+          "title": "Skin diseases and rheumatism: Interview between rheumatologist and dermatologist",
+          "speakers": [
+            "Dr. Sahar Saad",
+            "Dr. Ahmad Aljoudar"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 2
+        },
+        {
+          "title": "What should you know about biologics?",
+          "speakers": [
+            "Dr. Khalid Alnaqbi"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 3
+        },
+        {
+          "title": "Tips for rheumatic disease patients during Ramadan month",
+          "speakers": [
+            "Dr. Mervat Eissa"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 4
+        },
+        {
+          "title": "Discover new stories for rheumatism patients in the Arab world",
+          "speakers": [
+            "Ms. Malak Abou Ras"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 5
+        }
+      ],
+      "qaMentioned": true,
+      "reviewNotes": [
+        "Heading is March 28, 2022, but the source description repeats 'on February 14, 2022' and 'fifth virtual meeting'. Verify title/date/ordinal."
+      ],
+      "order": 14,
+      "id": "2022-03-28-together-to-persevere",
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "date": "2022-04-18",
+      "year": 2022,
+      "sourceOrdinal": "Seventh virtual meeting",
+      "campaignTitle": "Together to help my friends",
+      "sourceHeading": "The seventh virtual meeting of the Arab Adult Arthritis Awareness Group Together to help my friends on April 18, 2022",
+      "agenda": [
+        {
+          "title": "What is phospholipid antibodies syndrome?",
+          "speakers": [
+            "Dr. Chafia Dahou Makhloufi"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 1
+        },
+        {
+          "title": "Everything you need to know about Raynaud's syndrome!",
+          "speakers": [
+            "Dr. Nelly Ziade Zoghbi"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 2
+        },
+        {
+          "title": "What medications are allowed in pregnancy and lactation for rheumatic disease patients?",
+          "speakers": [
+            "Dr. Wafaa Al Bashir"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 3
+        },
+        {
+          "title": "What is Henoch Schonlein's ferry disease?",
+          "speakers": [
+            "Dr. Soad Hashad"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 4
+        },
+        {
+          "title": "An inspiring story for rheumatic patients in the Arab world",
+          "speakers": [
+            "Dr. Nizar Abdulateef",
+            "Ms. Malak Abou Ras"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 5
+        }
+      ],
+      "qaMentioned": true,
+      "reviewNotes": [],
+      "order": 15,
+      "id": "2022-04-18-together-to-help-my-friends",
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "date": "2022-05-09",
+      "year": 2022,
+      "sourceOrdinal": "Eighth virtual meeting",
+      "campaignTitle": "Together for Expression",
+      "sourceHeading": "The eighth virtual meeting of the Arab Adult Arthritis Awareness Group Together for Expression on May 9, 2022",
+      "agenda": [
+        {
+          "title": "Lupus and Pregnancy",
+          "speakers": [
+            "Dr. Ibrahim Al Maghlouth"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 1
+        },
+        {
+          "title": "Panic attacks for lupus patients: are they related to the disease or medications? Anxiety and lupus erythematosus",
+          "speakers": [
+            "Dr. Hussein Kharad"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 2
+        },
+        {
+          "title": "My story with lupus erythematosus / Yoga sessions to relieve stress",
+          "speakers": [
+            "Ms. Nouf Al Marouii",
+            "Entraineuse De Yoga, Ayat Hussein Saman"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 3
+        },
+        {
+          "title": "An inspiring patient dialogue session in the Arab world",
+          "speakers": [
+            "Dr. Hussein Halabi",
+            "Ms. Malak Aburas",
+            "Ms. Islam Shanti",
+            "Ms. Mezan Abdullah Al Farsi",
+            "Dr. Shaima Muhammad Al-Asfour",
+            "Mr. Muzammil Jaafar",
+            "Ms. Amal Al-Abdullah"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 4
+        }
+      ],
+      "qaMentioned": true,
+      "reviewNotes": [],
+      "order": 16,
+      "id": "2022-05-09-together-for-expression",
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "date": "2022-06-27",
+      "year": 2022,
+      "sourceOrdinal": "Ninth virtual meeting",
+      "campaignTitle": "Together for You",
+      "sourceHeading": "The ninth virtual meeting of the Arab Adult Arthritis Awareness Group Together for You on May 27, 2022",
+      "agenda": [
+        {
+          "title": "Opening of the ninth meeting: Together for You",
+          "speakers": [
+            "Lina El Kibbi"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 1
+        },
+        {
+          "title": "Social Media & Patients",
+          "speakers": [
+            "Dr. Lina El Kibbi"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 2
+        },
+        {
+          "title": "An exhibition of the talents of patients with rheumatic diseases in the Arab world",
+          "speakers": [
+            "Dr. Lina El Kebbi",
+            "Mrs. Nada Samaha Aoun"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 3
+        },
+        {
+          "title": "Advice from doctors to patients about patient relationships and social media",
+          "speakers": [
+            "Dr. Nizar Abdullatif",
+            "Dr. Manal Al Raqqawi",
+            "Dr. Basel Masri",
+            "Dr. Wafaa Hamdy",
+            "Dr. Nelly Ziadé"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 4
+        },
+        {
+          "title": "Advice about vacation and travel for patients with rheumatic disease",
+          "speakers": [
+            "Dr. Seema Abou Al Saoud",
+            "Dr. Sahar Saad",
+            "Dr. Manal Al Raqqawi",
+            "Dr. Basel Masri"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 5
+        },
+        {
+          "title": "Patient Story 7: Inspiring Stories for Rheumatism Patients in the Arab World",
+          "speakers": [
+            "Dr. Lina El Kebbi",
+            "Mr. Marwa Al-Sheikh"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 6
+        }
+      ],
+      "qaMentioned": false,
+      "reviewNotes": [
+        "Date heading is June 27, 2022, but the source description says May 27, 2022. Verify the actual webinar date."
+      ],
+      "order": 17,
+      "id": "2022-06-27-together-for-you",
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "date": "2022-10-10",
+      "year": 2022,
+      "sourceOrdinal": "Tenth virtual meeting",
+      "campaignTitle": "Together for a better quality of life",
+      "sourceHeading": "The tenth virtual meeting of the Arab Adult Arthritis Awareness Group Together for a better quality of life on October 10, 2022",
+      "agenda": [
+        {
+          "title": "Opening the tenth meeting, Together for a better quality of life.",
+          "speakers": [
+            "Dr. Sahar Saad"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 1
+        },
+        {
+          "title": "Rheumatoid - rheumatoid arthritis",
+          "speakers": [
+            "Dr. Shafia Daho Makhloufi"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 2
+        },
+        {
+          "title": "Osteoarthritis - Degenerative Arthritis Disease",
+          "speakers": [
+            "Dr. Nizar Abdullatif"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 3
+        },
+        {
+          "title": "Tai Chi for Arthritis Patients",
+          "speakers": [
+            "Trainer Ummatullah Bahadeeq"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 4
+        },
+        {
+          "title": "When should a rheumatologist refer a case diagnosed with roughness in the knee joint to an orthopedic surgeon?",
+          "speakers": [
+            "Dr. Nizar Abdullatif",
+            "Dr. Tony Tannouri"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 5
+        }
+      ],
+      "qaMentioned": true,
+      "reviewNotes": [
+        "Source numbering jumps from item 4 to item 6, with a Q&A line between them; no item 5 is shown."
+      ],
+      "order": 18,
+      "id": "2022-10-10-together-for-a-better-quality-of-life",
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "date": "2023-03-20",
+      "year": 2023,
+      "sourceOrdinal": "First virtual meeting",
+      "campaignTitle": "Be Stronger",
+      "sourceHeading": "The first virtual meeting of the Arab Adult Arthritis Awareness Group Be Stronger on March 20, 2023",
+      "agenda": [
+        {
+          "title": "Which vaccines are suitable for patients with rheumatic diseases? What is Shingles, and how to prevent it",
+          "speakers": [
+            "Dr. Hussein Halabi",
+            "Dr. Nizar Bahabri"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 1
+        },
+        {
+          "title": "Essential tips on nutrition and rheumatic diseases",
+          "speakers": [
+            "Dr. Lina Al Kebbi",
+            "Dr. Yara Al Muhtadi"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 2
+        },
+        {
+          "title": "Rheumatologists' advice to patients in the month of Ramadan",
+          "speakers": [
+            "Dr. Basel Masri",
+            "Dr. Shafia Daho Al-Makhloufi",
+            "Dr. Fatima Boutaiban",
+            "Dr. Ihsan Hamamouchi",
+            "Dr. Manal Al Raqqawi",
+            "Dr. Mervat Issa",
+            "Dr. Nasra Al-Azoubi",
+            "Dr. Nelly Ziadeh Al Zoghbi",
+            "Dr. Nizar Abdullatif",
+            "Dr. Sahar Ahmed Saad",
+            "Dr. Laila Kazkaz",
+            "Dr. Seema Abu Alsaud",
+            "Dr. Wafaa Hamdy",
+            "Dr. Wafaa Hassan Albasheer"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 3
+        }
+      ],
+      "qaMentioned": false,
+      "reviewNotes": [],
+      "order": 19,
+      "id": "2023-03-20-be-stronger",
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    },
+    {
+      "date": "2023-05-08",
+      "year": 2023,
+      "sourceOrdinal": "Second virtual meeting",
+      "campaignTitle": "Stronger to live with Lupus",
+      "sourceHeading": "The second virtual meeting of the Arab Adult Arthritis Awareness Group Stronger to live with Lupus on May 8, 2023",
+      "agenda": [
+        {
+          "title": "Can a person with SLE get pregnant?",
+          "speakers": [
+            "Dr. Nizar Abdullatif",
+            "Dr. Alaa Hazem"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 1
+        },
+        {
+          "title": "Cutaneous lupus erythematosus: What are its types?",
+          "speakers": [
+            "Dr Ihsane Hmamouchi",
+            "Dr Najlaa El Ghalbazouri"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 2
+        },
+        {
+          "title": "How do rheumatic diseases affect the psychological state?",
+          "speakers": [
+            "Dr. Lina Al Kebbi",
+            "Dr. Meshal Al Aqeel"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 3
+        },
+        {
+          "title": "An Inspiring Story: A Journey with SLE",
+          "speakers": [
+            "Dr. Souad Hashad",
+            "Ms. Rehab Ramadan Ebdiwi"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 4
+        },
+        {
+          "title": "Patients' Voice = Inspiring Stories of Their Journey with SLE",
+          "speakers": [
+            "Dr. Lina Al-Kibbi",
+            "Ms. Zeina Al-Qahtani",
+            "Mr. Bushra Al-Hunaidi",
+            "Mr. Nouf Al-Suwailem"
+          ],
+          "replayUrl": null,
+          "notes": "",
+          "order": 5
+        }
+      ],
+      "qaMentioned": false,
+      "reviewNotes": [],
+      "order": 20,
+      "id": "2023-05-08-stronger-to-live-with-lupus",
+      "sourceUrl": "https://www.arabrheumatology.org/aaaa-group"
+    }
+  ],
+  "videoEmbeds": [
+    {
+      "date": "2020-12-28",
+      "title": "What do you need to know about rheumatoid arthritis?",
+      "videoUrl": "https://www.youtube.com/watch?v=RTag8CsSFJc"
+    },
+    {
+      "date": "2020-12-28",
+      "title": "Questions and answers from the December 2020 meeting",
+      "videoUrl": "https://www.youtube.com/watch?v=LtWreAulXKo"
+    },
+    {
+      "date": "2021-02-01",
+      "title": "Welcome and announcement of the two initiatives for the month of February",
+      "videoUrl": "https://www.youtube.com/watch?v=E4dO6-9ozpQ"
+    },
+    {
+      "date": "2021-02-15",
+      "title": "Correcting misconceptions about exercise for patients with rheumatic diseases",
+      "videoUrl": "https://www.youtube.com/watch?v=vr59sVxpKgo"
+    },
+    {
+      "date": "2021-03-08",
+      "title": "The word of the Arab League of Associations for Rheumatology",
+      "videoUrl": "https://www.youtube.com/watch?v=hu1fqywZ4Ms"
+    },
+    {
+      "date": "2021-03-22",
+      "title": "Patient story 1 — Inspiring stories from rheumatology patients in the Arab world",
+      "videoUrl": "https://www.youtube.com/watch?v=AzHfEyVIszs"
+    },
+    {
+      "date": "2021-04-10",
+      "title": "Opening of the meeting",
+      "videoUrl": "https://www.youtube.com/watch?v=9Z-LR6aeX4Y"
+    },
+    {
+      "date": "2021-05-31",
+      "title": "Opening of the eighth meeting",
+      "videoUrl": "https://www.youtube.com/watch?v=UJNzQq2_xP0"
+    },
+    {
+      "date": "2021-10-11",
+      "title": "Speech of the webinar moderator",
+      "videoUrl": "https://www.youtube.com/watch?v=9tFVpCDs6Co"
+    },
+    {
+      "date": "2021-11-29",
+      "title": "Speech of the webinar moderator",
+      "videoUrl": "https://www.youtube.com/watch?v=EksFki3PM5Y"
+    },
+    {
+      "date": "2021-11-29",
+      "title": "Questions and answers from the November 2021 meeting",
+      "videoUrl": "https://www.youtube.com/watch?v=7k37ptkPFwM"
+    },
+    {
+      "date": "2022-01-03",
+      "title": "An introduction to lupus and the extent of its spread in Saudi Arabia",
+      "videoUrl": "https://www.youtube.com/watch?v=AQ6tCGDsW7E"
+    },
+    {
+      "date": "2022-02-01",
+      "title": "Interview between a rheumatologist and a general practitioner",
+      "videoUrl": "https://www.youtube.com/watch?v=v69Suo7Tv-U"
+    },
+    {
+      "date": "2022-04-18",
+      "title": "What is antiphospholipid syndrome?",
+      "videoUrl": "https://www.youtube.com/watch?v=j_Kfp2y19Zk"
+    },
+    {
+      "date": "2022-05-09",
+      "title": "Lupus and pregnancy",
+      "videoUrl": "https://www.youtube.com/watch?v=k6LWzvgoGMc"
+    },
+    {
+      "date": "2022-06-27",
+      "title": "Opening of the ninth meeting: Together for You",
+      "videoUrl": "https://www.youtube.com/watch?v=6CCwfCjIfuM"
+    },
+    {
+      "date": "2022-10-10",
+      "title": "Opening the tenth meeting: Together for a Better Quality of Life",
+      "videoUrl": "https://www.youtube.com/watch?v=AttTG5VXCoQ"
+    },
+    {
+      "date": "2022-10-10",
+      "title": "When should a rheumatologist refer knee osteoarthritis to an orthopedic surgeon?",
+      "videoUrl": "https://www.youtube.com/watch?v=8_j-JhCygVI"
+    },
+    {
+      "date": "2023-03-20",
+      "title": "Suitable vaccines for rheumatic disease patients and shingles prevention",
+      "videoUrl": "https://www.youtube.com/watch?v=HassVa1b4AM"
+    },
+    {
+      "date": "2023-05-08",
+      "title": "Can a person with SLE get pregnant?",
+      "videoUrl": "https://www.youtube.com/watch?v=4CwnnKbUB2k"
+    }
+  ],
+  "assets": [
+    {
+      "assetType": "page_image",
+      "entityId": "aaaa-group",
+      "name": "AAAA Group page image",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_788ca33d3929455db5773e9e8f563786~mv2.png/v1/crop/x_0%2Cy_5%2Cw_261%2Ch_253/fill/w_120%2Ch_117%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Picture2.png",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_788ca33d3929455db5773e9e8f563786~mv2.png",
+      "fileName": "aaaa-group-page-image.png",
+      "localPath": "public/images/aaaa-group/page/aaaa-group-page-image.png"
+    },
+    {
+      "assetType": "member_photo",
+      "entityId": "lina-el-kibbi",
+      "name": "Dr. Lina El Kibbi",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_25a940dc1697427ba377dcda90026f36~mv2.jpg/v1/crop/x_0%2Cy_17%2Cw_853%2Ch_853/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/thumbnail_image1_edited.jpg",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_25a940dc1697427ba377dcda90026f36~mv2.jpg",
+      "fileName": "lina-el-kibbi.jpg",
+      "localPath": "public/images/aaaa-group/members/lina-el-kibbi.jpg"
+    },
+    {
+      "assetType": "country_flag",
+      "entityId": "saudi-arabia",
+      "name": "Saudi Arabia",
+      "displayUrl": "https://static.wixstatic.com/media/7cc206_11ca131b839a4264832cf63a23107fee~mv2_d_2000_1333_s_2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/2000px-Flag_of_Saudi_Arabia_svg.png",
+      "originalUrl": "https://static.wixstatic.com/media/7cc206_11ca131b839a4264832cf63a23107fee~mv2_d_2000_1333_s_2.png",
+      "fileName": "saudi-arabia-flag.png",
+      "localPath": "public/images/aaaa-group/flags/saudi-arabia-flag.png"
+    },
+    {
+      "assetType": "member_photo",
+      "entityId": "hussein-halabi",
+      "name": "Dr. Hussein Halabi",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_3c10e6b8e29b42f89be8ead87cc0a1e5~mv2.jpeg/v1/crop/x_0%2Cy_1%2Cw_1238%2Ch_1238/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Dr_%20Hussein%20Halabi.jpeg",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_3c10e6b8e29b42f89be8ead87cc0a1e5~mv2.jpeg",
+      "fileName": "hussein-halabi.jpg",
+      "localPath": "public/images/aaaa-group/members/hussein-halabi.jpg"
+    },
+    {
+      "assetType": "member_photo",
+      "entityId": "manal-el-rakaawi",
+      "name": "Dr. Manal El Rakaawi",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_373e227c14c84f1d889ec802367a68fc~mv2.jpg/v1/crop/x_24%2Cy_0%2Cw_300%2Ch_300/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Dr_edited.jpg",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_373e227c14c84f1d889ec802367a68fc~mv2.jpg",
+      "fileName": "manal-el-rakaawi.jpg",
+      "localPath": "public/images/aaaa-group/members/manal-el-rakaawi.jpg"
+    },
+    {
+      "assetType": "country_flag",
+      "entityId": "algeria",
+      "name": "Algeria",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_a5e8c349f0554ed1a400aa86ae5177f6~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Algeria.png",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_a5e8c349f0554ed1a400aa86ae5177f6~mv2.png",
+      "fileName": "algeria-flag.png",
+      "localPath": "public/images/aaaa-group/flags/algeria-flag.png"
+    },
+    {
+      "assetType": "member_photo",
+      "entityId": "chafia-dahou-makhloufi",
+      "name": "Dr. Chafia Dahou Makhloufi",
+      "displayUrl": "https://static.wixstatic.com/media/7cc206_e17b14853dc74c98b431df3a3270d55d~mv2.jpg/v1/crop/x_0%2Cy_59%2Cw_413%2Ch_413/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Chafia.jpg",
+      "originalUrl": "https://static.wixstatic.com/media/7cc206_e17b14853dc74c98b431df3a3270d55d~mv2.jpg",
+      "fileName": "chafia-dahou-makhloufi.jpg",
+      "localPath": "public/images/aaaa-group/members/chafia-dahou-makhloufi.jpg"
+    },
+    {
+      "assetType": "member_photo",
+      "entityId": "sahar-saad",
+      "name": "Dr. Sahar Saad",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_29a0b6852f3d4a60ab6fb211cc580ac7~mv2.jpg/v1/crop/x_19%2Cy_0%2Cw_645%2Ch_645/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/sahar_edited.jpg",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_29a0b6852f3d4a60ab6fb211cc580ac7~mv2.jpg",
+      "fileName": "sahar-saad.jpg",
+      "localPath": "public/images/aaaa-group/members/sahar-saad.jpg"
+    },
+    {
+      "assetType": "country_flag",
+      "entityId": "bahrain",
+      "name": "Bahrain",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_f48923bf426b4d11ad1890bceee15c83~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Bahrain.png",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_f48923bf426b4d11ad1890bceee15c83~mv2.png",
+      "fileName": "bahrain-flag.png",
+      "localPath": "public/images/aaaa-group/flags/bahrain-flag.png"
+    },
+    {
+      "assetType": "member_photo",
+      "entityId": "mervat-eissa",
+      "name": "Dr. Mervat Eissa",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_b731d511e3984875abfc31df4fdc0b72~mv2.jpg/v1/crop/x_0%2Cy_24%2Cw_307%2Ch_307/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/k.jpg",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_b731d511e3984875abfc31df4fdc0b72~mv2.jpg",
+      "fileName": "mervat-eissa.jpg",
+      "localPath": "public/images/aaaa-group/members/mervat-eissa.jpg"
+    },
+    {
+      "assetType": "country_flag",
+      "entityId": "egypt",
+      "name": "Egypt",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_8e51d190d3f24532961fe2d2609b5d6e~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Egypt.png",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_8e51d190d3f24532961fe2d2609b5d6e~mv2.png",
+      "fileName": "egypt-flag.png",
+      "localPath": "public/images/aaaa-group/flags/egypt-flag.png"
+    },
+    {
+      "assetType": "member_photo",
+      "entityId": "nizar-abdulateef",
+      "name": "Dr. Nizar Abdulateef",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_c8c8b59b83994c878aa192b978cce5a1~mv2.jpg/v1/crop/x_44%2Cy_0%2Cw_591%2Ch_591/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Personal%2520photo%2520Nizar%2520Abdulateef_ed.jpg",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_c8c8b59b83994c878aa192b978cce5a1~mv2.jpg",
+      "fileName": "nizar-abdulateef.jpg",
+      "localPath": "public/images/aaaa-group/members/nizar-abdulateef.jpg"
+    },
+    {
+      "assetType": "country_flag",
+      "entityId": "iraq",
+      "name": "Iraq",
+      "displayUrl": "https://static.wixstatic.com/media/7cc206_1dd89713508b42d1bd9b2203510b06ea~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/iraq.png",
+      "originalUrl": "https://static.wixstatic.com/media/7cc206_1dd89713508b42d1bd9b2203510b06ea~mv2.png",
+      "fileName": "iraq-flag.png",
+      "localPath": "public/images/aaaa-group/flags/iraq-flag.png"
+    },
+    {
+      "assetType": "member_photo",
+      "entityId": "basel-k-masri",
+      "name": "Dr. Basel K Masri",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_f2ac6936e3734c058e935634f0913d8e~mv2.jpg/v1/crop/x_0%2Cy_3%2Cw_3012%2Ch_3012/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/7.jpg",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_f2ac6936e3734c058e935634f0913d8e~mv2.jpg",
+      "fileName": "basel-k-masri.jpg",
+      "localPath": "public/images/aaaa-group/members/basel-k-masri.jpg"
+    },
+    {
+      "assetType": "country_flag",
+      "entityId": "jordan",
+      "name": "Jordan",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_53417f88eac041f9b170b3aa9187566f~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/jordan.png",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_53417f88eac041f9b170b3aa9187566f~mv2.png",
+      "fileName": "jordan-flag.png",
+      "localPath": "public/images/aaaa-group/flags/jordan-flag.png"
+    },
+    {
+      "assetType": "member_photo",
+      "entityId": "fatemah-abutiban",
+      "name": "Dr. Fatemah Abutiban",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_606764243af648819ea41b8983bf99bf~mv2.jpg/v1/crop/x_12%2Cy_0%2Cw_326%2Ch_326/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Dr_edited.jpg",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_606764243af648819ea41b8983bf99bf~mv2.jpg",
+      "fileName": "fatemah-abutiban.jpg",
+      "localPath": "public/images/aaaa-group/members/fatemah-abutiban.jpg"
+    },
+    {
+      "assetType": "country_flag",
+      "entityId": "kuwait",
+      "name": "Kuwait",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_96aa46a3e72b4afb814aff926a3be7bc~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Kuwait.png",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_96aa46a3e72b4afb814aff926a3be7bc~mv2.png",
+      "fileName": "kuwait-flag.png",
+      "localPath": "public/images/aaaa-group/flags/kuwait-flag.png"
+    },
+    {
+      "assetType": "member_photo",
+      "entityId": "nelly-ziade-zoghbi",
+      "name": "Dr. Nelly Ziade Zoghbi",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_1afa27d8903147ab9c810ae850dd01f9~mv2.jpg/v1/crop/x_0%2Cy_159%2Cw_2174%2Ch_2174/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Ziade_Nelly_Photo2020_ARLAR_JPG.jpg",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_1afa27d8903147ab9c810ae850dd01f9~mv2.jpg",
+      "fileName": "nelly-ziade-zoghbi.jpg",
+      "localPath": "public/images/aaaa-group/members/nelly-ziade-zoghbi.jpg"
+    },
+    {
+      "assetType": "country_flag",
+      "entityId": "lebanon",
+      "name": "Lebanon",
+      "displayUrl": "https://static.wixstatic.com/media/7cc206_a1e15183337e45c0aff420259139a98f~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/1200px-Flag_of_Lebanon_svg.png",
+      "originalUrl": "https://static.wixstatic.com/media/7cc206_a1e15183337e45c0aff420259139a98f~mv2.png",
+      "fileName": "lebanon-flag.png",
+      "localPath": "public/images/aaaa-group/flags/lebanon-flag.png"
+    },
+    {
+      "assetType": "member_photo",
+      "entityId": "soad-salem-hashad",
+      "name": "Dr. Soad Salem Hashad",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_70d6803d3c1b4f6e85cb15533d11447c~mv2.jpg/v1/crop/x_2%2Cy_0%2Cw_176%2Ch_176/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/image1_edited.jpg",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_70d6803d3c1b4f6e85cb15533d11447c~mv2.jpg",
+      "fileName": "soad-salem-hashad.jpg",
+      "localPath": "public/images/aaaa-group/members/soad-salem-hashad.jpg"
+    },
+    {
+      "assetType": "country_flag",
+      "entityId": "libya",
+      "name": "Libya",
+      "displayUrl": "https://static.wixstatic.com/media/7cc206_abf091f43465474c89deec31650cf1dc~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/2000px-Flag_of_Libya_svg.png",
+      "originalUrl": "https://static.wixstatic.com/media/7cc206_abf091f43465474c89deec31650cf1dc~mv2.png",
+      "fileName": "libya-flag.png",
+      "localPath": "public/images/aaaa-group/flags/libya-flag.png"
+    },
+    {
+      "assetType": "member_photo",
+      "entityId": "ihsane-hmamouchi",
+      "name": "Dr. Ihsane Hmamouchi",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_11f5444fc8f549af932e6bc6f05d183d~mv2.jpg/v1/crop/x_0%2Cy_93%2Cw_850%2Ch_850/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Dr_%20Ehsam%20Hamouchi.jpg",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_11f5444fc8f549af932e6bc6f05d183d~mv2.jpg",
+      "fileName": "ihsane-hmamouchi.jpg",
+      "localPath": "public/images/aaaa-group/members/ihsane-hmamouchi.jpg"
+    },
+    {
+      "assetType": "country_flag",
+      "entityId": "morocco",
+      "name": "Morocco",
+      "displayUrl": "https://static.wixstatic.com/media/7cc206_727d39dd8a6d4ace9db457f1f96c5d4e~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/1200px-Flag_of_Morocco_svg.png",
+      "originalUrl": "https://static.wixstatic.com/media/7cc206_727d39dd8a6d4ace9db457f1f96c5d4e~mv2.png",
+      "fileName": "morocco-flag.png",
+      "localPath": "public/images/aaaa-group/flags/morocco-flag.png"
+    },
+    {
+      "assetType": "member_photo",
+      "entityId": "nasra-al-adhoubi",
+      "name": "Dr. Nasra Al Adhoubi",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_31b937fa17e74840ac7a43f8c50d39fb~mv2.jpg/v1/crop/x_0%2Cy_78%2Cw_850%2Ch_851/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Dr_%20Nasra.jpg",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_31b937fa17e74840ac7a43f8c50d39fb~mv2.jpg",
+      "fileName": "nasra-al-adhoubi.jpg",
+      "localPath": "public/images/aaaa-group/members/nasra-al-adhoubi.jpg"
+    },
+    {
+      "assetType": "country_flag",
+      "entityId": "oman",
+      "name": "Oman",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_b1a62a1d40a34b7c860e628d4a768b33~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Oman.png",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_b1a62a1d40a34b7c860e628d4a768b33~mv2.png",
+      "fileName": "oman-flag.png",
+      "localPath": "public/images/aaaa-group/flags/oman-flag.png"
+    },
+    {
+      "assetType": "member_photo",
+      "entityId": "sima-abu-al-sa-oud",
+      "name": "Dr. Sima Abu Al- Sa’oud",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_8ede3a5cae40463f902eb545da760bbf~mv2.jpg/v1/crop/x_35%2Cy_0%2Cw_630%2Ch_630/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Sima_edited.jpg",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_8ede3a5cae40463f902eb545da760bbf~mv2.jpg",
+      "fileName": "sima-abu-al-sa-oud.jpg",
+      "localPath": "public/images/aaaa-group/members/sima-abu-al-sa-oud.jpg"
+    },
+    {
+      "assetType": "country_flag",
+      "entityId": "palestine",
+      "name": "Palestine",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_d49af3795ec84910a48d1c2e1df47fcb~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Palestine.png",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_d49af3795ec84910a48d1c2e1df47fcb~mv2.png",
+      "fileName": "palestine-flag.png",
+      "localPath": "public/images/aaaa-group/flags/palestine-flag.png"
+    },
+    {
+      "assetType": "member_photo",
+      "entityId": "samar-al-emadi",
+      "name": "Dr. Samar Al Emadi",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_6e543a9ebc344ea2acd2e97f524ebe03~mv2.jpg/v1/crop/x_54%2Cy_0%2Cw_367%2Ch_367/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Dr_edited.jpg",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_6e543a9ebc344ea2acd2e97f524ebe03~mv2.jpg",
+      "fileName": "samar-al-emadi.jpg",
+      "localPath": "public/images/aaaa-group/members/samar-al-emadi.jpg"
+    },
+    {
+      "assetType": "country_flag",
+      "entityId": "qatar",
+      "name": "Qatar",
+      "displayUrl": "https://static.wixstatic.com/media/7cc206_749649c42f8143a7a9a032f59362ff15~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/2000px-Flag_of_Qatar_svg.png",
+      "originalUrl": "https://static.wixstatic.com/media/7cc206_749649c42f8143a7a9a032f59362ff15~mv2.png",
+      "fileName": "qatar-flag.png",
+      "localPath": "public/images/aaaa-group/flags/qatar-flag.png"
+    },
+    {
+      "assetType": "member_photo",
+      "entityId": "wafa-hassan-al-bashir",
+      "name": "Dr. Wafa Hassan Al-Bashir",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_bad0d0f26deb40c490cd8d05e35d914e~mv2.jpg/v1/crop/x_0%2Cy_19%2Cw_482%2Ch_482/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/WhatsApp%2520Image%25202021-04-14%2520at%25204_5.jpg",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_bad0d0f26deb40c490cd8d05e35d914e~mv2.jpg",
+      "fileName": "wafa-hassan-al-bashir.jpg",
+      "localPath": "public/images/aaaa-group/members/wafa-hassan-al-bashir.jpg"
+    },
+    {
+      "assetType": "country_flag",
+      "entityId": "sudan",
+      "name": "Sudan",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_da47fb5ec49e4247a83c3f17e2642c11~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Sudan.png",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_da47fb5ec49e4247a83c3f17e2642c11~mv2.png",
+      "fileName": "sudan-flag.png",
+      "localPath": "public/images/aaaa-group/flags/sudan-flag.png"
+    },
+    {
+      "assetType": "member_photo",
+      "entityId": "layla-kazkaz",
+      "name": "Dr. Layla Kazkaz",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_6d78f89cf487438bac08894d1179f5a0~mv2.jpg/v1/crop/x_32%2Cy_0%2Cw_1117%2Ch_1117/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Photo-Dr_edited.jpg",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_6d78f89cf487438bac08894d1179f5a0~mv2.jpg",
+      "fileName": "layla-kazkaz.jpg",
+      "localPath": "public/images/aaaa-group/members/layla-kazkaz.jpg"
+    },
+    {
+      "assetType": "country_flag",
+      "entityId": "syria",
+      "name": "Syria",
+      "displayUrl": "https://static.wixstatic.com/media/7cc206_eb3399d4389c4ce28ffdd2614a736a80~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/1200px-Flag_of_Syria_svg.png",
+      "originalUrl": "https://static.wixstatic.com/media/7cc206_eb3399d4389c4ce28ffdd2614a736a80~mv2.png",
+      "fileName": "syria-flag.png",
+      "localPath": "public/images/aaaa-group/flags/syria-flag.png"
+    },
+    {
+      "assetType": "member_photo",
+      "entityId": "wafa-hamdi",
+      "name": "Dr. Wafa Hamdi",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_62b972a430ef479b8d30182fa9901700~mv2.jpg/v1/crop/x_0%2Cy_42%2Cw_398%2Ch_398/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/wafa%2520hamdi_edited.jpg",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_62b972a430ef479b8d30182fa9901700~mv2.jpg",
+      "fileName": "wafa-hamdi.jpg",
+      "localPath": "public/images/aaaa-group/members/wafa-hamdi.jpg"
+    },
+    {
+      "assetType": "country_flag",
+      "entityId": "tunisia",
+      "name": "Tunisia",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_eff4a4bdcc9348a1bcc6216bf954f2d8~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Tunisia.png",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_eff4a4bdcc9348a1bcc6216bf954f2d8~mv2.png",
+      "fileName": "tunisia-flag.png",
+      "localPath": "public/images/aaaa-group/flags/tunisia-flag.png"
+    },
+    {
+      "assetType": "member_photo",
+      "entityId": "khalid-alnaqbi",
+      "name": "Dr. Khalid Alnaqbi",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_eb4b380b91b041fead5954e29829a380~mv2.jpg/v1/crop/x_153%2Cy_0%2Cw_1687%2Ch_1687/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Khalid%2520Alnaqbi_Photo_edited.jpg",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_eb4b380b91b041fead5954e29829a380~mv2.jpg",
+      "fileName": "khalid-alnaqbi.jpg",
+      "localPath": "public/images/aaaa-group/members/khalid-alnaqbi.jpg"
+    },
+    {
+      "assetType": "country_flag",
+      "entityId": "united-arab-emirates",
+      "name": "United Arab Emirates",
+      "displayUrl": "https://static.wixstatic.com/media/1f2182_8e66140f0a544a80aba8d4dbeccc11c4~mv2.png/v1/fill/w_67%2Ch_40%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/UAE.png",
+      "originalUrl": "https://static.wixstatic.com/media/1f2182_8e66140f0a544a80aba8d4dbeccc11c4~mv2.png",
+      "fileName": "united-arab-emirates-flag.png",
+      "localPath": "public/images/aaaa-group/flags/united-arab-emirates-flag.png"
+    }
+  ]
+}

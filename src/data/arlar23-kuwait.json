@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "sourceUrl": "https://www.arabrheumatology.org/arlar23-replay",
+    "title": "ArLAR23 Kuwait Congress",
+    "dateRange": "2–4 March 2023",
+    "location": "Kuwait",
+    "availableReplayEntries": 36,
+    "uniqueVideos": 34,
+    "photoDays": 4
+  },
+  "videos": [
+    { "order": 1, "day": 1, "date": "2023-03-02", "dateLabel": "March 2, 2023", "program": "Opening Ceremony", "room": "Maha Room", "title": "ArLAR23 Opening Ceremony", "speakers": [], "youtubeId": "oXn4srGw1SQ" },
+    { "order": 2, "day": 1, "date": "2023-03-02", "dateLabel": "March 2, 2023", "program": "Adult Program", "room": "Maha Room", "title": "Session III: Antiphospholipid Syndrome", "speakers": ["Ricard Cervera", "Munther Khamashta"], "youtubeId": "2d9yeqs6dNo" },
+    { "order": 3, "day": 1, "date": "2023-03-02", "dateLabel": "March 2, 2023", "program": "Adult Program", "room": "Maha Room", "title": "Session I: Systemic Lupus Erythematosus", "speakers": ["Aqeel Ghanem", "Mohammad Said Al Sawaf"], "youtubeId": "ArOY8Ir6LXY" },
+    { "order": 4, "day": 1, "date": "2023-03-02", "dateLabel": "March 2, 2023", "program": "Adult Program", "room": "Maha Room", "title": "Session IV: Systemic Sclerosis", "speakers": ["Christopher Denton", "Khuloud Saleh"], "youtubeId": "Ze7orSX1LrQ" },
+    { "order": 5, "day": 1, "date": "2023-03-02", "dateLabel": "March 2, 2023", "program": "Adult Program", "room": "Maha Room", "title": "Session II: Systemic Lupus Erythematosus", "speakers": ["Michelle Petri", "Khaled El Hadidi", "Afra Abdulla Humaid Aldhaheri", "Miral Hamed Gharib"], "youtubeId": "BHyXVopy1ds" },
+    { "order": 6, "day": 1, "date": "2023-03-02", "dateLabel": "March 2, 2023", "program": "Adult Program", "room": "Maha Room", "title": "Session V: The Legendary Meeting of Rheumatologists Across the Globe", "speakers": ["Ali Asgar Kalla", "Debashish Danda", "Annamaria Iagnocco"], "youtubeId": "yYkd42NrWbU" },
+    { "order": 7, "day": 1, "date": "2023-03-02", "dateLabel": "March 2, 2023", "program": "Pediatric Program", "room": "Seham Room", "title": "Session I: Update in Pediatric Rheumatology – Part 1", "speakers": ["Sulaiman Al-Mayouf", "Hermine Brunner", "Reima Bakry"], "youtubeId": "Asrof1BfBRc" },
+    { "order": 8, "day": 1, "date": "2023-03-02", "dateLabel": "March 2, 2023", "program": "Pediatric Program", "room": "Seham Room", "title": "Session II: Update in Pediatric Rheumatology – Part 2", "speakers": ["Mehul Jariwala", "Amal Nassar", "Fayhan Alroqi"], "youtubeId": "LPqVETYskPM" },
+    { "order": 9, "day": 1, "date": "2023-03-02", "dateLabel": "March 2, 2023", "program": "Pediatric Program", "room": "Seham Room", "title": "Session III: Antiphospholipid Syndrome", "speakers": ["Abdulrahman Alrasheed", "Hala Lotfy", "Mohammed Abu-Shukair"], "youtubeId": "QMYBi_Y0kiw" },
+
+    { "order": 10, "day": 2, "date": "2023-03-03", "dateLabel": "March 3, 2023", "program": "Sponsored Symposium", "room": "", "title": "Symposium Sponsored by Boehringer", "speakers": ["Rajaei Namas"], "youtubeId": "isXnyMz0ILM" },
+    { "order": 11, "day": 2, "date": "2023-03-03", "dateLabel": "March 3, 2023", "program": "Sponsored Symposium", "room": "", "title": "Symposium Sponsored by AbbVie", "speakers": ["Rajaie Namas"], "youtubeId": "bSe74nZ_Rrg" },
+    { "order": 12, "day": 2, "date": "2023-03-03", "dateLabel": "March 3, 2023", "program": "Sponsored Symposium", "room": "", "title": "Symposium Sponsored by Sandoz", "speakers": ["Martin Lee", "Suzan Attar"], "youtubeId": "ro89eBa_BwM" },
+    { "order": 13, "day": 2, "date": "2023-03-03", "dateLabel": "March 3, 2023", "program": "Adult Program", "room": "", "title": "Session VI: Rheumatoid Arthritis", "speakers": ["Kamel Mroue", "Chafia Dahou Makhlouf", "Suzan Attar", "Yaser Ali Ghadanfar"], "youtubeId": "QQXcsGXJU5U" },
+    { "order": 14, "day": 2, "date": "2023-03-03", "dateLabel": "March 3, 2023", "program": "Adult Program", "room": "", "title": "Session VIII: Rheumatoid Arthritis", "speakers": ["Eduardo Mysler", "Christopher Edwards"], "youtubeId": "01jf_fGYiJU" },
+    { "order": 15, "day": 2, "date": "2023-03-03", "dateLabel": "March 3, 2023", "program": "Sponsored Symposium", "room": "", "title": "Symposium Sponsored by NewBridge", "speakers": ["Ahmad Abogamal", "Aqeel Ghanem"], "youtubeId": "l1gFxedpl9s" },
+    { "order": 16, "day": 2, "date": "2023-03-03", "dateLabel": "March 3, 2023", "program": "Pediatric Program", "room": "Seham Room", "title": "Meet the Expert Session II", "speakers": ["Hermine Brunner"], "youtubeId": "TUvoP5bGBZ8" },
+    { "order": 17, "day": 2, "date": "2023-03-03", "dateLabel": "March 3, 2023", "program": "Pediatric Program", "room": "Seham Room", "title": "Session VI: Oral Abstracts", "speakers": ["Mohammed Nashawi", "Alhanouf Alsaleem", "Reem Alshammari", "Hanene Lassoued Ferjani", "Rawan Elshaer", "Hala Etayari"], "youtubeId": "2LBSAVi6jVU" },
+    { "order": 18, "day": 2, "date": "2023-03-03", "dateLabel": "March 3, 2023", "program": "Pediatric Program", "room": "Seham Room", "title": "Session IV: Controversies & Challenges (Tropical Forests)", "speakers": ["Maryam Alhajeri", "Hermine Brunner", "Djohra Hadef", "Sulaiman Al-Mayouf", "Sharon Bout-Tabaku"], "youtubeId": "njZIlYMPMdw" },
+    { "order": 19, "day": 2, "date": "2023-03-03", "dateLabel": "March 3, 2023", "program": "Adult Program", "room": "", "title": "Session V: Lectures in French by Francophone", "speakers": ["Wafa Hamdi", "Hanene Lassoued Ferjani"], "youtubeId": "Oo24mON0BWQ" },
+    { "order": 20, "day": 2, "date": "2023-03-03", "dateLabel": "March 3, 2023", "program": "Adult Program", "room": "", "title": "Session VII: Vasculitis", "speakers": ["Nizar Abdulateef", "Ayman El-Garf", "Ali Jawad", "Laith Alamlih", "Rita Naim"], "youtubeId": "UNhVkN63CV8" },
+    { "order": 21, "day": 2, "date": "2023-03-03", "dateLabel": "March 3, 2023", "program": "Adult Program", "room": "", "title": "Session X: Rheumatoid Arthritis", "speakers": ["Manal El Rakawi", "Mariam Erraoui"], "youtubeId": "SBJ0W3EwssI" },
+    { "order": 22, "day": 2, "date": "2023-03-03", "dateLabel": "March 3, 2023", "program": "Sponsored Symposium", "room": "", "title": "Symposium Sponsored by Amgen", "speakers": ["Eduardo Mysler"], "youtubeId": "3rUM2fCLCbY" },
+    { "order": 23, "day": 2, "date": "2023-03-03", "dateLabel": "March 3, 2023", "program": "Adult Program", "room": "", "title": "Session IX: Other Rheumatic Diseases and Associations", "speakers": ["Abdelgaffar Abdelallah Mohammed", "Manal Al-Mashaleh"], "youtubeId": "7qItvTaLFo0" },
+
+    { "order": 24, "day": 3, "date": "2023-03-04", "dateLabel": "March 4, 2023", "program": "Sponsored Symposium", "room": "", "title": "Symposium Sponsored by Novartis", "speakers": ["Yasser Ghandafar", "Atheer Al Ansar"], "youtubeId": "Rh9xsvQhKCo" },
+    { "order": 25, "day": 3, "date": "2023-03-04", "dateLabel": "March 4, 2023", "program": "Adult Program", "room": "Maha Ballroom", "title": "Session XIV: Spondyloarthritis", "speakers": ["Eman Al Qurtas", "Mohammed Hammoudeh", "Adeeba Al Herz", "Khulood Al Saleh", "Wafa Hamdi"], "youtubeId": "tyaKjI3uXqA" },
+    { "order": 26, "day": 3, "date": "2023-03-04", "dateLabel": "March 4, 2023", "program": "Congress Awards", "room": "", "title": "Best Abstracts Awards", "speakers": [], "youtubeId": "upVLdsaZ2Gg" },
+    { "order": 27, "day": 3, "date": "2023-03-04", "dateLabel": "March 4, 2023", "program": "Adult Program", "room": "", "title": "Session XII: Psoriatic Arthritis", "speakers": ["Bassel Elzorkany", "Khalid Alnaqbi"], "youtubeId": "OkFFfqUX5DU" },
+    { "order": 28, "day": 3, "date": "2023-03-04", "dateLabel": "March 4, 2023", "program": "Sponsored Symposium", "room": "", "title": "Symposium Sponsored by Lilly", "speakers": ["Chris Edwards"], "youtubeId": "XSjcguGCI9o" },
+    { "order": 29, "day": 3, "date": "2023-03-04", "dateLabel": "March 4, 2023", "program": "Closing Ceremony", "room": "", "title": "Closing Remarks and Welcome to ArLAR Algeria 2025", "speakers": [], "youtubeId": "p_U2Zqich8c" },
+    { "order": 30, "day": 3, "date": "2023-03-04", "dateLabel": "March 4, 2023", "program": "Sponsored Symposium", "room": "", "title": "Symposium Sponsored by AbbVie", "speakers": ["Yaser Ali"], "youtubeId": "EFi1CxtiqjY" },
+    { "order": 31, "day": 3, "date": "2023-03-04", "dateLabel": "March 4, 2023", "program": "Adult Program", "room": "", "title": "Session XVI: Rheumatology and Beyond", "speakers": ["Khaled Alsaeiti", "Waleed Hafiz", "Mohamad Ali Rida"], "youtubeId": "hpbwJAqTp-Q" },
+    { "order": 32, "day": 3, "date": "2023-03-04", "dateLabel": "March 4, 2023", "program": "Adult Program", "room": "", "title": "Session X: Rheumatoid Arthritis", "speakers": ["Samar Al Emadi", "Fatima Alnaimat"], "youtubeId": "LtjKzygsnT8" },
+    { "order": 33, "day": 3, "date": "2023-03-04", "dateLabel": "March 4, 2023", "program": "Adult Program", "room": "", "title": "Session XV: Miscellaneous Diseases", "speakers": ["Wesam Gouda", "Sirine Bouzid", "Wafa Hamdi", "Sami Salman", "Tariq Al Fanna Al Araimi"], "youtubeId": "LtjKzygsnT8" },
+    { "order": 34, "day": 3, "date": "2023-03-04", "dateLabel": "March 4, 2023", "program": "Adult Program", "room": "", "title": "Session XVII: Rheumatology & Social Media", "speakers": ["Hela Sahli", "Ihsane Hmamouchi", "Eman Haji Hasan"], "youtubeId": "PZZGl6_d6dg" },
+    { "order": 35, "day": 3, "date": "2023-03-04", "dateLabel": "March 4, 2023", "program": "Pediatric Program", "room": "Seham Room", "title": "Session VIII: Challenging Cases in Pediatric Rheumatology", "speakers": ["Soad Hashad", "Kholoud Bakheet", "Kamran Mahmood", "Iman Miselati"], "youtubeId": "Hdj1_9oPXPs" },
+    { "order": 36, "day": 3, "date": "2023-03-04", "dateLabel": "March 4, 2023", "program": "Pediatric Program", "room": "Seham Room", "title": "Session IX: The Other Perspectives", "speakers": ["Najla Aljaber", "Miroslav Harjacek", "Soad Hashad"], "youtubeId": "Hdj1_9oPXPs" }
+  ],
+  "gallery": [
+    { "day": 1, "label": "Day 1", "src": "/images/arlar23/gallery/day-1-6C8A4816.webp", "alt": "ArLAR23 Kuwait Congress workshop on Day 1" },
+    { "day": 1, "label": "Day 1", "src": "/images/arlar23/gallery/day-1-6C8A4815.webp", "alt": "ArLAR23 Kuwait Congress delegates on Day 1" },
+    { "day": 2, "label": "Day 2", "src": "/images/arlar23/gallery/day-2-2T1A6658.webp", "alt": "ArLAR23 Kuwait Congress on Day 2" },
+    { "day": 2, "label": "Day 2", "src": "/images/arlar23/gallery/day-2-2T1A6651.webp", "alt": "ArLAR23 Kuwait Congress delegates on Day 2" },
+    { "day": 3, "label": "Day 3", "src": "/images/arlar23/gallery/day-3-2T1A6916.webp", "alt": "ArLAR23 Kuwait Congress on Day 3" },
+    { "day": 4, "label": "Day 4", "src": "/images/arlar23/gallery/day-4-2T1A7434.webp", "alt": "ArLAR23 Kuwait Congress on Day 4" }
+  ]
+}

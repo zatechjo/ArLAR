@@ -1,0 +1,1879 @@
+{
+  "meta": {
+    "sourcePage": "https://www.arabrheumatology.org/aaaa-group",
+    "eventCount": 20,
+    "videoCount": 113,
+    "sessionCount": 96,
+    "qaCount": 17
+  },
+  "events": [
+    {
+      "eventOrder": 1,
+      "date": "2020-11-28",
+      "dateDisplay": "November 28, 2020",
+      "year": 2020,
+      "heading": "First webinar for the Arab Adult Arthritis Awareness Group: Be Aware…we are here for you",
+      "videoCount": 7,
+      "sessionCount": 6,
+      "qaCount": 1
+    },
+    {
+      "eventOrder": 2,
+      "date": "2020-12-28",
+      "dateDisplay": "December 28, 2020",
+      "year": 2020,
+      "heading": "Second webinar for the Arab Adult Arthritis Awareness Group: Be ready to embark the journey!",
+      "videoCount": 6,
+      "sessionCount": 5,
+      "qaCount": 1
+    },
+    {
+      "eventOrder": 3,
+      "date": "2021-02-01",
+      "dateDisplay": "February 1, 2021",
+      "year": 2021,
+      "heading": "Third webinar for the Arab Adult Arthritis Awareness Group: Be here to comply with treatment!",
+      "videoCount": 4,
+      "sessionCount": 3,
+      "qaCount": 1
+    },
+    {
+      "eventOrder": 4,
+      "date": "2021-02-15",
+      "dateDisplay": "February 15, 2021",
+      "year": 2021,
+      "heading": "Fourth webinar for the Arab Adult Arthritis Awareness Group: Be here to exercise!",
+      "videoCount": 5,
+      "sessionCount": 4,
+      "qaCount": 1
+    },
+    {
+      "eventOrder": 5,
+      "date": "2021-03-08",
+      "dateDisplay": "March 8, 2021",
+      "year": 2021,
+      "heading": "Fifth webinar for the Arab Adult Arthritis Awareness Group: Be here to enjoy good food!",
+      "videoCount": 4,
+      "sessionCount": 3,
+      "qaCount": 1
+    },
+    {
+      "eventOrder": 6,
+      "date": "2021-03-22",
+      "dateDisplay": "March 22, 2021",
+      "year": 2021,
+      "heading": "Sixth webinar for the Arab Adult Arthritis Awareness Group: Be here to manage your life!",
+      "videoCount": 5,
+      "sessionCount": 4,
+      "qaCount": 1
+    },
+    {
+      "eventOrder": 7,
+      "date": "2021-04-10",
+      "dateDisplay": "April 10, 2021",
+      "year": 2021,
+      "heading": "Seventh webinar for the Arab Adult Arthritis Awareness Group: Be happy solutions exist!",
+      "videoCount": 8,
+      "sessionCount": 7,
+      "qaCount": 1
+    },
+    {
+      "eventOrder": 8,
+      "date": "2021-05-31",
+      "dateDisplay": "May 31, 2021",
+      "year": 2021,
+      "heading": "Eighth webinar for the Arab Adult Arthritis Awareness Group: Be for me to enjoy life!",
+      "videoCount": 9,
+      "sessionCount": 8,
+      "qaCount": 1
+    },
+    {
+      "eventOrder": 9,
+      "date": "2021-10-11",
+      "dateDisplay": "October 11, 2021",
+      "year": 2021,
+      "heading": "First webinar for the Arab Adult Arthritis Awareness Group: Together, to spread awareness",
+      "videoCount": 7,
+      "sessionCount": 6,
+      "qaCount": 1
+    },
+    {
+      "eventOrder": 10,
+      "date": "2021-11-29",
+      "dateDisplay": "November 29, 2021",
+      "year": 2021,
+      "heading": "The second virtual meeting of the Arab adult arthritis awareness group: \"Together for Awareness \"",
+      "videoCount": 6,
+      "sessionCount": 5,
+      "qaCount": 1
+    },
+    {
+      "eventOrder": 11,
+      "date": "2022-01-03",
+      "dateDisplay": "January 3, 2022",
+      "year": 2022,
+      "heading": "The third virtual meeting of the Arab Adult Arthritis Awareness Groups: \"Together for Change”",
+      "videoCount": 7,
+      "sessionCount": 6,
+      "qaCount": 1
+    },
+    {
+      "eventOrder": 12,
+      "date": "2022-02-01",
+      "dateDisplay": "February 1, 2022",
+      "year": 2022,
+      "heading": "The fourth virtual meeting of the Arab Adult Arthritis Awareness Groups: \"Together to Persevere\" on February 1, 2022",
+      "videoCount": 4,
+      "sessionCount": 3,
+      "qaCount": 1
+    },
+    {
+      "eventOrder": 13,
+      "date": "2022-02-14",
+      "dateDisplay": "February 14, 2022",
+      "year": 2022,
+      "heading": "The fifth virtual meeting of the Arab Adult Arthritis Awareness Group: \"Together to Persevere\" on February 14, 2022",
+      "videoCount": 4,
+      "sessionCount": 3,
+      "qaCount": 1
+    },
+    {
+      "eventOrder": 14,
+      "date": "2022-03-28",
+      "dateDisplay": "March 28, 2022",
+      "year": 2022,
+      "heading": "The fifth virtual meeting of the Arab Adult Arthritis Awareness Group: \"Together to Persevere\" on February 14, 2022",
+      "videoCount": 6,
+      "sessionCount": 5,
+      "qaCount": 1
+    },
+    {
+      "eventOrder": 15,
+      "date": "2022-04-18",
+      "dateDisplay": "April 18, 2022",
+      "year": 2022,
+      "heading": "The seventh virtual meeting of the Arab Adult Arthritis Awareness Group \"Together to help my friends\" on April 18, 2022",
+      "videoCount": 6,
+      "sessionCount": 5,
+      "qaCount": 1
+    },
+    {
+      "eventOrder": 16,
+      "date": "2022-05-09",
+      "dateDisplay": "May 9, 2022",
+      "year": 2022,
+      "heading": "The eighth virtual meeting of the Arab Adult Arthritis Awareness Group \"Together for Expression\" on May 9, 2022",
+      "videoCount": 5,
+      "sessionCount": 4,
+      "qaCount": 1
+    },
+    {
+      "eventOrder": 17,
+      "date": "2022-06-27",
+      "dateDisplay": "June 27, 2022",
+      "year": 2022,
+      "heading": "The ninth virtual meeting of the Arab Adult Arthritis Awareness Group \"Together for You\" on May 27, 2022",
+      "videoCount": 6,
+      "sessionCount": 6,
+      "qaCount": 0
+    },
+    {
+      "eventOrder": 18,
+      "date": "2022-10-10",
+      "dateDisplay": "October 10, 2022",
+      "year": 2022,
+      "heading": "The tenth virtual meeting of the Arab Adult Arthritis Awareness Group \"Together for a better quality of life\" on October 10, 2022",
+      "videoCount": 6,
+      "sessionCount": 5,
+      "qaCount": 1
+    },
+    {
+      "eventOrder": 19,
+      "date": "2023-03-20",
+      "dateDisplay": "March 20, 2023",
+      "year": 2023,
+      "heading": "The first virtual meeting of the Arab Adult Arthritis Awareness Group \"Be Stronger\" on March 20, 2023",
+      "videoCount": 3,
+      "sessionCount": 3,
+      "qaCount": 0
+    },
+    {
+      "eventOrder": 20,
+      "date": "2023-05-08",
+      "dateDisplay": "May 8, 2023",
+      "year": 2023,
+      "heading": "The second virtual meeting of the Arab Adult Arthritis Awareness Group \"Stronger to live with Lupus\" on May 8, 2023",
+      "videoCount": 5,
+      "sessionCount": 5,
+      "qaCount": 0
+    }
+  ],
+  "videos": [
+    {
+      "id": "comp-liephtkc",
+      "videoOrder": 1,
+      "eventOrder": 1,
+      "eventDate": "2020-11-28",
+      "year": 2020,
+      "orderInEvent": 1,
+      "type": "session",
+      "title": "Introduction of the Arab League of Associations for Rheumatology",
+      "speakers": [
+        "Dr. Basel Masri"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=3YxUvwHpQFE",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-liephus1",
+      "videoOrder": 2,
+      "eventOrder": 1,
+      "eventDate": "2020-11-28",
+      "year": 2020,
+      "orderInEvent": 2,
+      "type": "session",
+      "title": "Where did the idea of the Arab Adult Arthritis Awareness Group come from?",
+      "speakers": [
+        "Dr. Lina El Kibbi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=Eae2KdkPSS8",
+      "startSeconds": 45
+    },
+    {
+      "id": "comp-liephw2i",
+      "videoOrder": 3,
+      "eventOrder": 1,
+      "eventDate": "2020-11-28",
+      "year": 2020,
+      "orderInEvent": 3,
+      "type": "session",
+      "title": "The importance of involving patients with rheumatic diseases in awareness programs",
+      "speakers": [
+        "Dr. Hussein Halabi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=q-8WP81_fnE",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-liephxam",
+      "videoOrder": 4,
+      "eventOrder": 1,
+      "eventDate": "2020-11-28",
+      "year": 2020,
+      "orderInEvent": 4,
+      "type": "session",
+      "title": "An overview of rheumatic diseases and when to visit a rheumatologist",
+      "speakers": [
+        "Dr. Khalid Alnaqbi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=r8obdrv9IeY",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-liephykl",
+      "videoOrder": 5,
+      "eventOrder": 1,
+      "eventDate": "2020-11-28",
+      "year": 2020,
+      "orderInEvent": 5,
+      "type": "session",
+      "title": "Early diagnosis: the importance of screening and early diagnosis of rheumatic diseases",
+      "speakers": [
+        "Dr. Fatemah Abutiban"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=U3LONv2YEA8",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-liephzto",
+      "videoOrder": 6,
+      "eventOrder": 1,
+      "eventDate": "2020-11-28",
+      "year": 2020,
+      "orderInEvent": 6,
+      "type": "session",
+      "title": "Results of the Handling Study - Rheumatic Disease Patients in the Era of COVID-19",
+      "speakers": [
+        "Dr. Nelly Ziade Zoghbi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=YCevtEzNLwI",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-liepi16p",
+      "videoOrder": 7,
+      "eventOrder": 1,
+      "eventDate": "2020-11-28",
+      "year": 2020,
+      "orderInEvent": 7,
+      "type": "qa",
+      "title": "Questions & Answers",
+      "speakers": [],
+      "videoUrl": "https://www.youtube.com/watch?v=8_iY9Bx-pB0",
+      "startSeconds": 549
+    },
+    {
+      "id": "comp-lieqm4bi",
+      "videoOrder": 8,
+      "eventOrder": 2,
+      "eventDate": "2020-12-28",
+      "year": 2020,
+      "orderInEvent": 1,
+      "type": "session",
+      "title": "What do you need to know about rheumatoid arthritis?",
+      "speakers": [
+        "Dr. Nizar Abdulateef"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=RTag8CsSFJc",
+      "startSeconds": 506
+    },
+    {
+      "id": "comp-lieqm5me",
+      "videoOrder": 9,
+      "eventOrder": 2,
+      "eventDate": "2020-12-28",
+      "year": 2020,
+      "orderInEvent": 2,
+      "type": "session",
+      "title": "What do you need to know about juvenile idiopathic arthritis?",
+      "speakers": [
+        "Dr. Sima Abu Al- Sa’oud"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=-bEDMVPGEwY",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lieqm6z8",
+      "videoOrder": 10,
+      "eventOrder": 2,
+      "eventDate": "2020-12-28",
+      "year": 2020,
+      "orderInEvent": 3,
+      "type": "session",
+      "title": "The journey of pregnancy and rheumatic diseases: advice for patients, followed by a question-and-answer session",
+      "speakers": [
+        "Dr. Samar Al Emadi",
+        "Dr. Nasra Al Adhoubi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=wN7WjDSoAJo",
+      "startSeconds": 708
+    },
+    {
+      "id": "comp-lieqm8ag",
+      "videoOrder": 11,
+      "eventOrder": 2,
+      "eventDate": "2020-12-28",
+      "year": 2020,
+      "orderInEvent": 4,
+      "type": "session",
+      "title": "What are the tips for a patient newly diagnosed with rheumatic disease?",
+      "speakers": [
+        "Dr. Mervat Eissa"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=EhXDYY56OsI",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lieqm9lc",
+      "videoOrder": 12,
+      "eventOrder": 2,
+      "eventDate": "2020-12-28",
+      "year": 2020,
+      "orderInEvent": 5,
+      "type": "session",
+      "title": "A surprise for all followers of the Arab Adult Arthritis Awareness Group",
+      "speakers": [
+        "Mr. Abboud Bejjani"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=sxNSFpjQ11c",
+      "startSeconds": 3
+    },
+    {
+      "id": "comp-lieqmauo",
+      "videoOrder": 13,
+      "eventOrder": 2,
+      "eventDate": "2020-12-28",
+      "year": 2020,
+      "orderInEvent": 6,
+      "type": "qa",
+      "title": "Questions & Answers",
+      "speakers": [],
+      "videoUrl": "https://www.youtube.com/watch?v=LtWreAulXKo",
+      "startSeconds": 12
+    },
+    {
+      "id": "comp-kq0x7lji3",
+      "videoOrder": 14,
+      "eventOrder": 3,
+      "eventDate": "2021-02-01",
+      "year": 2021,
+      "orderInEvent": 1,
+      "type": "session",
+      "title": "Welcome and announcement of the two initiatives for the month of February",
+      "speakers": [
+        "Dr. Lina El Kibbi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=E4dO6-9ozpQ",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-kq0x7ljl2",
+      "videoOrder": 15,
+      "eventOrder": 3,
+      "eventDate": "2021-02-01",
+      "year": 2021,
+      "orderInEvent": 2,
+      "type": "session",
+      "title": "The patient's compliance with treatment in the rheumatology clinic",
+      "speakers": [
+        "Dr. Wafa Hamdi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=VXQ8Ysh_9-s",
+      "startSeconds": 98
+    },
+    {
+      "id": "comp-kq0x7ljo",
+      "videoOrder": 16,
+      "eventOrder": 3,
+      "eventDate": "2021-02-01",
+      "year": 2021,
+      "orderInEvent": 3,
+      "type": "session",
+      "title": "It's my decision",
+      "speakers": [
+        "Life Skills Specialist Dana Jweihan"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=PEHJ2vDMPnA",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-kq0x7ljx",
+      "videoOrder": 17,
+      "eventOrder": 3,
+      "eventDate": "2021-02-01",
+      "year": 2021,
+      "orderInEvent": 4,
+      "type": "qa",
+      "title": "Questions & Answers",
+      "speakers": [],
+      "videoUrl": "https://www.youtube.com/watch?v=aBsfRQ2M59M",
+      "startSeconds": 636
+    },
+    {
+      "id": "comp-lieu4xim",
+      "videoOrder": 18,
+      "eventOrder": 4,
+      "eventDate": "2021-02-15",
+      "year": 2021,
+      "orderInEvent": 1,
+      "type": "session",
+      "title": "Correcting misconceptions about exercise for patients with rheumatic diseases",
+      "speakers": [
+        "Dr. Layla Kazkaz"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=vr59sVxpKgo",
+      "startSeconds": 6
+    },
+    {
+      "id": "comp-lieu4yqa",
+      "videoOrder": 19,
+      "eventOrder": 4,
+      "eventDate": "2021-02-15",
+      "year": 2021,
+      "orderInEvent": 2,
+      "type": "session",
+      "title": "How to improve the quality of your daily life and deal with pain",
+      "speakers": [
+        "Physiotherapist Dalia Hatem"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=ghyu_TZmYzw",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lieu4zxv",
+      "videoOrder": 20,
+      "eventOrder": 4,
+      "eventDate": "2021-02-15",
+      "year": 2021,
+      "orderInEvent": 3,
+      "type": "session",
+      "title": "Tai Chi for Arthritis and Fall Prevention",
+      "speakers": [
+        "Tai Chi instructor Amatullah Mahmoud Bahazq"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=nYNVkeowLXo",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lieu515v",
+      "videoOrder": 21,
+      "eventOrder": 4,
+      "eventDate": "2021-02-15",
+      "year": 2021,
+      "orderInEvent": 4,
+      "type": "session",
+      "title": "The importance of yoga in the lives of patients with rheumatic diseases",
+      "speakers": [
+        "Yoga Instructor Nouf Al-Marouei"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=DX2lrYp4CRc",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lieu52e2",
+      "videoOrder": 22,
+      "eventOrder": 4,
+      "eventDate": "2021-02-15",
+      "year": 2021,
+      "orderInEvent": 5,
+      "type": "qa",
+      "title": "Questions & Answers",
+      "speakers": [],
+      "videoUrl": "https://www.youtube.com/watch?v=lCOl9GYE_mg",
+      "startSeconds": 10
+    },
+    {
+      "id": "comp-lieu71ve",
+      "videoOrder": 23,
+      "eventOrder": 5,
+      "eventDate": "2021-03-08",
+      "year": 2021,
+      "orderInEvent": 1,
+      "type": "session",
+      "title": "The word of the Arab League of Associations for Rheumatology",
+      "speakers": [
+        "Dr. Basel Masri",
+        "Dr. Fatemah Abutiban"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=hu1fqywZ4Ms",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lieu7340",
+      "videoOrder": 24,
+      "eventOrder": 5,
+      "eventDate": "2021-03-08",
+      "year": 2021,
+      "orderInEvent": 2,
+      "type": "session",
+      "title": "A word from the founders of the Arab Adult Arthritis Awareness Group",
+      "speakers": [
+        "Dr. Lina El Kibbi Speaker: Dr. Hussein Halabi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=nvB92zWHkB4",
+      "startSeconds": 38
+    },
+    {
+      "id": "comp-lieu74bz",
+      "videoOrder": 25,
+      "eventOrder": 5,
+      "eventDate": "2021-03-08",
+      "year": 2021,
+      "orderInEvent": 3,
+      "type": "session",
+      "title": "Nutrition and rheumatic diseases and a special session: Tabekhna B Matbakhna",
+      "speakers": [
+        "Dietitian Bana Idris"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=JXdM7cafLCc",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lieu75k1",
+      "videoOrder": 26,
+      "eventOrder": 5,
+      "eventDate": "2021-03-08",
+      "year": 2021,
+      "orderInEvent": 4,
+      "type": "qa",
+      "title": "Questions & Answers",
+      "speakers": [],
+      "videoUrl": "https://www.youtube.com/watch?v=87mcc30Q_d4",
+      "startSeconds": 13
+    },
+    {
+      "id": "comp-lieu8csb",
+      "videoOrder": 27,
+      "eventOrder": 6,
+      "eventDate": "2021-03-22",
+      "year": 2021,
+      "orderInEvent": 1,
+      "type": "session",
+      "title": "Sixth webinar for the Arab Adult Arthritis Awareness Group: Be here to manage your life!",
+      "speakers": [
+        "Dr. Chafia Dahou Makhloufi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=AzHfEyVIszs",
+      "startSeconds": 208
+    },
+    {
+      "id": "comp-lieu8e43",
+      "videoOrder": 28,
+      "eventOrder": 6,
+      "eventDate": "2021-03-22",
+      "year": 2021,
+      "orderInEvent": 2,
+      "type": "session",
+      "title": "What is the difference between mechanical back pain and inflammatory back pain?",
+      "speakers": [
+        "Dr. Nelly Ziade Zoghbi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=YZ_h3n2HkJ8",
+      "startSeconds": 4
+    },
+    {
+      "id": "comp-lieu8fbo",
+      "videoOrder": 29,
+      "eventOrder": 6,
+      "eventDate": "2021-03-22",
+      "year": 2021,
+      "orderInEvent": 3,
+      "type": "session",
+      "title": "What is the mysterious disease - fibromyalgia?",
+      "speakers": [
+        "Dr. Sahar Saad"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=8dC0neC153E",
+      "startSeconds": 594
+    },
+    {
+      "id": "comp-lieu8gks",
+      "videoOrder": 30,
+      "eventOrder": 6,
+      "eventDate": "2021-03-22",
+      "year": 2021,
+      "orderInEvent": 4,
+      "type": "session",
+      "title": "How do I overcome my fears and lead a positive lifestyle?",
+      "speakers": [
+        "Life Skills Specialist Dana Jweihan"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=rK63VopjiDo",
+      "startSeconds": 3
+    },
+    {
+      "id": "comp-lieu8hso",
+      "videoOrder": 31,
+      "eventOrder": 6,
+      "eventDate": "2021-03-22",
+      "year": 2021,
+      "orderInEvent": 5,
+      "type": "qa",
+      "title": "Questions & Answers",
+      "speakers": [],
+      "videoUrl": "https://www.youtube.com/watch?v=U2R2rq0BRno",
+      "startSeconds": 255
+    },
+    {
+      "id": "comp-lieucf19",
+      "videoOrder": 32,
+      "eventOrder": 7,
+      "eventDate": "2021-04-10",
+      "year": 2021,
+      "orderInEvent": 1,
+      "type": "session",
+      "title": "Opening of the meeting",
+      "speakers": [
+        "Dr. Hussein Halabi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=9Z-LR6aeX4Y",
+      "startSeconds": 19
+    },
+    {
+      "id": "comp-lieucg97",
+      "videoOrder": 33,
+      "eventOrder": 7,
+      "eventDate": "2021-04-10",
+      "year": 2021,
+      "orderInEvent": 2,
+      "type": "session",
+      "title": "COVID-19 Vaccines: Correcting Misconceptions and Knowing the Facts",
+      "speakers": [
+        "Dr. Nizar Bahabri",
+        "Dr. Hussein Halabi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=rW8MZZntUvA",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lieuchiv",
+      "videoOrder": 34,
+      "eventOrder": 7,
+      "eventDate": "2021-04-10",
+      "year": 2021,
+      "orderInEvent": 3,
+      "type": "session",
+      "title": "International recommendations for the COVID-19 vaccine for patients with rheumatic diseases",
+      "speakers": [
+        "Dr. Manal El Rakaawi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=24ExltzOoR4",
+      "startSeconds": 1
+    },
+    {
+      "id": "comp-lieucisb",
+      "videoOrder": 35,
+      "eventOrder": 7,
+      "eventDate": "2021-04-10",
+      "year": 2021,
+      "orderInEvent": 4,
+      "type": "session",
+      "title": "Important medical advice in Ramadan: Use of rheumatism and joint medications in the month of Ramadan",
+      "speakers": [
+        "Dr. Basel K Masri"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=gNre5BacQbE",
+      "startSeconds": 1
+    },
+    {
+      "id": "comp-lieucjzp",
+      "videoOrder": 36,
+      "eventOrder": 7,
+      "eventDate": "2021-04-10",
+      "year": 2021,
+      "orderInEvent": 5,
+      "type": "session",
+      "title": "Important medical advice in Ramadan: Using biological and anti-rheumatic drugs in Ramadan",
+      "speakers": [
+        "Dr. Nizar Abdulateef"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=9r0lHjSPuds",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lieucl6w",
+      "videoOrder": 37,
+      "eventOrder": 7,
+      "eventDate": "2021-04-10",
+      "year": 2021,
+      "orderInEvent": 6,
+      "type": "session",
+      "title": "Important medical advice in Ramadan: Are patients with rheumatic diseases able to fast?",
+      "speakers": [
+        "Dr. Mervat Eissa"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=R4rlAvVYMVw",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lieucmeb",
+      "videoOrder": 38,
+      "eventOrder": 7,
+      "eventDate": "2021-04-10",
+      "year": 2021,
+      "orderInEvent": 7,
+      "type": "session",
+      "title": "Important medical advice in Ramadan: Tips for safe Ramadan practices in light of the Corona pandemic",
+      "speakers": [
+        "Dr. Lina El Kibbi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=fP41v-IDiqw",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lieucnl9",
+      "videoOrder": 39,
+      "eventOrder": 7,
+      "eventDate": "2021-04-10",
+      "year": 2021,
+      "orderInEvent": 8,
+      "type": "qa",
+      "title": "Questions & Answers",
+      "speakers": [],
+      "videoUrl": "https://www.youtube.com/watch?v=9SAusX_lXSw",
+      "startSeconds": 25
+    },
+    {
+      "id": "comp-lieuezu6",
+      "videoOrder": 40,
+      "eventOrder": 8,
+      "eventDate": "2021-05-31",
+      "year": 2021,
+      "orderInEvent": 1,
+      "type": "session",
+      "title": "Opening of the eighth meeting",
+      "speakers": [
+        "Dr. Basel K Masri"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=UJNzQq2_xP0",
+      "startSeconds": 4
+    },
+    {
+      "id": "comp-lieuf121",
+      "videoOrder": 41,
+      "eventOrder": 8,
+      "eventDate": "2021-05-31",
+      "year": 2021,
+      "orderInEvent": 2,
+      "type": "session",
+      "title": "Lupus, a disease with a thousand faces: what you should know about it",
+      "speakers": [
+        "Dr. Nizar Abdulateef"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=Q-N7JrwR2Mg",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lieuf2ag",
+      "videoOrder": 42,
+      "eventOrder": 8,
+      "eventDate": "2021-05-31",
+      "year": 2021,
+      "orderInEvent": 3,
+      "type": "session",
+      "title": "What is the relationship between recurrent miscarriage and rheumatology clinic? What are the tests to diagnose phospholipid syndrome?",
+      "speakers": [
+        "Dr. Chafia Dahou Makhloufi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=6Z46cqYyfcg",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lieuf3je",
+      "videoOrder": 43,
+      "eventOrder": 8,
+      "eventDate": "2021-05-31",
+      "year": 2021,
+      "orderInEvent": 4,
+      "type": "session",
+      "title": "What is the relationship between skin psoriasis and rheumatism clinic?",
+      "speakers": [
+        "Dr. Wafa Hassan Al-Bashir"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=EBpoAgxB1bY",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lieuf4tt",
+      "videoOrder": 44,
+      "eventOrder": 8,
+      "eventDate": "2021-05-31",
+      "year": 2021,
+      "orderInEvent": 5,
+      "type": "session",
+      "title": "How is gout diagnosed? What cases are treated and what are patients advised?",
+      "speakers": [
+        "Dr. Basel K Masri"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=mORTcJRnyc4",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lieuf61t",
+      "videoOrder": 45,
+      "eventOrder": 8,
+      "eventDate": "2021-05-31",
+      "year": 2021,
+      "orderInEvent": 6,
+      "type": "session",
+      "title": "An important topic for every family in the Arab world:",
+      "speakers": [
+        "When does the child go to the pediatric rheumatologist’s clinic, and what are the cases treated in this clinic?",
+        "Dr. Soad Salem Hashad"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=a8h18NZ2fB8",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lieuf79f",
+      "videoOrder": 46,
+      "eventOrder": 8,
+      "eventDate": "2021-05-31",
+      "year": 2021,
+      "orderInEvent": 7,
+      "type": "session",
+      "title": "Chronic inflammatory back pain in young people in their 40s: a patient testimonial",
+      "speakers": [
+        "Dr. Ihsane Hmamouchi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=Fi6kq6e-iXE",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lieuf8j0",
+      "videoOrder": 47,
+      "eventOrder": 8,
+      "eventDate": "2021-05-31",
+      "year": 2021,
+      "orderInEvent": 8,
+      "type": "session",
+      "title": "A special speech on the occasion of the closing of \"Be You\" campaign",
+      "speakers": [
+        "From the founders of the group, Dr. Lina El Kibbi and Dr. Hussein Halabi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=U38FkWVUt2c",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lieuf9ru",
+      "videoOrder": 48,
+      "eventOrder": 8,
+      "eventDate": "2021-05-31",
+      "year": 2021,
+      "orderInEvent": 9,
+      "type": "qa",
+      "title": "Questions & Answers",
+      "speakers": [],
+      "videoUrl": "https://www.youtube.com/watch?v=yx_6R2Gz_9c",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lieui3dh",
+      "videoOrder": 49,
+      "eventOrder": 9,
+      "eventDate": "2021-10-11",
+      "year": 2021,
+      "orderInEvent": 1,
+      "type": "session",
+      "title": "Speech of the webinar moderator",
+      "speakers": [
+        "Dr. Basel Masri"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=9tFVpCDs6Co",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lieui4lm",
+      "videoOrder": 50,
+      "eventOrder": 9,
+      "eventDate": "2021-10-11",
+      "year": 2021,
+      "orderInEvent": 2,
+      "type": "session",
+      "title": "The group founders’ speech: 2020-2021 achievements",
+      "speakers": [
+        "Dr. Lina El Kibbi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=uo0En3xI_GI",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lieui5uh",
+      "videoOrder": 51,
+      "eventOrder": 9,
+      "eventDate": "2021-10-11",
+      "year": 2021,
+      "orderInEvent": 3,
+      "type": "session",
+      "title": "The group founders’ speech: “Together” campaign",
+      "speakers": [
+        "Dr. Hussein Halabi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=UJ8E8qCcidw",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lieui740",
+      "videoOrder": 52,
+      "eventOrder": 9,
+      "eventDate": "2021-10-11",
+      "year": 2021,
+      "orderInEvent": 4,
+      "type": "session",
+      "title": "Speech of the President of the Arab League of Associations for Rheumatology : The importance of spreading awareness in the Arab world",
+      "speakers": [
+        "Dr. Fatemah AbuTiban"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=6gt-zRogqDU",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lieui8e2",
+      "videoOrder": 53,
+      "eventOrder": 9,
+      "eventDate": "2021-10-11",
+      "year": 2021,
+      "orderInEvent": 5,
+      "type": "session",
+      "title": "What is the role of the rheumatologist? What are the most famous types of rheumatic diseases in the Arab world?",
+      "speakers": [
+        "Dr. Ihsane Hmamouchi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=HddSUwqE4xk",
+      "startSeconds": 1
+    },
+    {
+      "id": "comp-lieui9mu",
+      "videoOrder": 54,
+      "eventOrder": 9,
+      "eventDate": "2021-10-11",
+      "year": 2021,
+      "orderInEvent": 6,
+      "type": "session",
+      "title": "Guidance for rheumatic patients regarding the COVID-19 vaccine and the booster vaccines for COVID-19",
+      "speakers": [
+        "Dr. Nelly Ziade Zoghbi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=waLIiVwCtOg",
+      "startSeconds": 1
+    },
+    {
+      "id": "comp-lieuiavh",
+      "videoOrder": 55,
+      "eventOrder": 9,
+      "eventDate": "2021-10-11",
+      "year": 2021,
+      "orderInEvent": 7,
+      "type": "qa",
+      "title": "Questions & Answers",
+      "speakers": [],
+      "videoUrl": "https://www.youtube.com/watch?v=yE24d4Zlk7w",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lieuk7xn",
+      "videoOrder": 56,
+      "eventOrder": 10,
+      "eventDate": "2021-11-29",
+      "year": 2021,
+      "orderInEvent": 1,
+      "type": "session",
+      "title": "Speech of the webinar moderator",
+      "speakers": [
+        "Dr. Wafaa Hamdi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=EksFki3PM5Y",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lieuk97p",
+      "videoOrder": 57,
+      "eventOrder": 10,
+      "eventDate": "2021-11-29",
+      "year": 2021,
+      "orderInEvent": 2,
+      "type": "session",
+      "title": "Ankylosing spondylitis followed by the story of a patient suffering from ankylosing spondylitis",
+      "speakers": [
+        "Dr. Khalid Alnaqbi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=Zs0PKaLIvlY",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lieukahl",
+      "videoOrder": 58,
+      "eventOrder": 10,
+      "eventDate": "2021-11-29",
+      "year": 2021,
+      "orderInEvent": 3,
+      "type": "session",
+      "title": "Behçet's disease: What is this disease and what are its symptoms and complications ?",
+      "speakers": [
+        "Dr. Nizar Abdulateef"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=b1HKUEQ6RII",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lieukbqw",
+      "videoOrder": 59,
+      "eventOrder": 10,
+      "eventDate": "2021-11-29",
+      "year": 2021,
+      "orderInEvent": 4,
+      "type": "session",
+      "title": "What is scleroderma?",
+      "speakers": [
+        "Dr. Layla Kazkaz"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=1FMkDsXAU7s",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lieukd0d",
+      "videoOrder": 60,
+      "eventOrder": 10,
+      "eventDate": "2021-11-29",
+      "year": 2021,
+      "orderInEvent": 5,
+      "type": "session",
+      "title": "What should parents do in case of joint pain in children?",
+      "speakers": [
+        "Dr. Sima Abou Al-Saoud"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=g6aFjPQ4qe8",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lieukea6",
+      "videoOrder": 61,
+      "eventOrder": 10,
+      "eventDate": "2021-11-29",
+      "year": 2021,
+      "orderInEvent": 6,
+      "type": "qa",
+      "title": "Questions & Answers",
+      "speakers": [],
+      "videoUrl": "https://www.youtube.com/watch?v=7k37ptkPFwM",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifqkyfh",
+      "videoOrder": 62,
+      "eventOrder": 11,
+      "eventDate": "2022-01-03",
+      "year": 2022,
+      "orderInEvent": 1,
+      "type": "session",
+      "title": "An introduction to lupus and the extent of the spread of lupus in Saudi Arabia?",
+      "speakers": [
+        "Dr. Hanane Al Rayess"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=AQ6tCGDsW7E",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifqkzkl",
+      "videoOrder": 63,
+      "eventOrder": 11,
+      "eventDate": "2022-01-03",
+      "year": 2022,
+      "orderInEvent": 2,
+      "type": "session",
+      "title": "Skin and lupus erythematosus",
+      "speakers": [
+        "Dr. Afnan Hassanein"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=7inQ31RhqDg",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifql0pv",
+      "videoOrder": 64,
+      "eventOrder": 11,
+      "eventDate": "2022-01-03",
+      "year": 2022,
+      "orderInEvent": 3,
+      "type": "session",
+      "title": "Kidney and lupus diseases",
+      "speakers": [
+        "Dr. Najla Zabani"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=jrF-I68VUI8",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifql1vb",
+      "videoOrder": 65,
+      "eventOrder": 11,
+      "eventDate": "2022-01-03",
+      "year": 2022,
+      "orderInEvent": 4,
+      "type": "session",
+      "title": "Lupus erythematosus and pregnancy",
+      "speakers": [
+        "Dr. Aliaa al Kaff"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=yp-6vDUKOR4",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifql30x",
+      "videoOrder": 66,
+      "eventOrder": 11,
+      "eventDate": "2022-01-03",
+      "year": 2022,
+      "orderInEvent": 5,
+      "type": "session",
+      "title": "Neuropsychological complications of lupus",
+      "speakers": [
+        "Dr. Ahmad Attar"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=4rXVHw0ne2c",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifql45w",
+      "videoOrder": 67,
+      "eventOrder": 11,
+      "eventDate": "2022-01-03",
+      "year": 2022,
+      "orderInEvent": 6,
+      "type": "session",
+      "title": "Diagnostic and treatment challenges for lupus patients!",
+      "speakers": [
+        "Dr. Hussein Halabi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=bfmvFuMleTc",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifql5ay",
+      "videoOrder": 68,
+      "eventOrder": 11,
+      "eventDate": "2022-01-03",
+      "year": 2022,
+      "orderInEvent": 7,
+      "type": "qa",
+      "title": "Questions & Answers",
+      "speakers": [],
+      "videoUrl": "https://www.youtube.com/watch?v=vRvjCZouRB8",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifqpzwh",
+      "videoOrder": 69,
+      "eventOrder": 12,
+      "eventDate": "2022-02-01",
+      "year": 2022,
+      "orderInEvent": 1,
+      "type": "session",
+      "title": "Interview between rheumatologist and general practitioner",
+      "speakers": [
+        "Dr. Manal Al Rakawi, Dr. Sid Ahmed Mouzaoui"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=v69Suo7Tv-U",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifqq12d",
+      "videoOrder": 70,
+      "eventOrder": 12,
+      "eventDate": "2022-02-01",
+      "year": 2022,
+      "orderInEvent": 2,
+      "type": "session",
+      "title": "Daily workout for patients with joint pain",
+      "speakers": [
+        "Capt. Issam Al Fayez"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=ucqreXLQAs4",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifqq27n",
+      "videoOrder": 71,
+      "eventOrder": 12,
+      "eventDate": "2022-02-01",
+      "year": 2022,
+      "orderInEvent": 3,
+      "type": "session",
+      "title": "What is the right diet for rheumatic disease patients?",
+      "speakers": [
+        "Dr. Yara Al-Muhadi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=l155TPPRDQ0",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifqq3fs",
+      "videoOrder": 72,
+      "eventOrder": 12,
+      "eventDate": "2022-02-01",
+      "year": 2022,
+      "orderInEvent": 4,
+      "type": "qa",
+      "title": "Questions & Answers",
+      "speakers": [],
+      "videoUrl": "https://www.youtube.com/watch?v=9kNfjwtSf0M",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifqu5td",
+      "videoOrder": 73,
+      "eventOrder": 13,
+      "eventDate": "2022-02-14",
+      "year": 2022,
+      "orderInEvent": 1,
+      "type": "session",
+      "title": "Announcement of the ambassador/dress and rheumatic disease patients in the Arab world, interview with the Ambassador of Rheumatic disease patients and a family member.",
+      "speakers": [
+        "Jury"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=R8_L2xkeWZI",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifqu70h",
+      "videoOrder": 74,
+      "eventOrder": 13,
+      "eventDate": "2022-02-14",
+      "year": 2022,
+      "orderInEvent": 2,
+      "type": "session",
+      "title": "The art of painting and the use of colors and its importance in the life of the individual and society",
+      "speakers": [
+        "Ms. Noura Ben Souaidan"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=twi2r8ijyqo",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifqu86o",
+      "videoOrder": 75,
+      "eventOrder": 13,
+      "eventDate": "2022-02-14",
+      "year": 2022,
+      "orderInEvent": 3,
+      "type": "session",
+      "title": "Physiotherapy to improve the quality of life of rheumatic disease patients Important benefits and facts that the patient should know",
+      "speakers": [
+        "Mrs. Dalia Hatem"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=4FZ8lNqkou8",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifqu9en",
+      "videoOrder": 76,
+      "eventOrder": 13,
+      "eventDate": "2022-02-14",
+      "year": 2022,
+      "orderInEvent": 4,
+      "type": "qa",
+      "title": "Questions & Answers",
+      "speakers": [],
+      "videoUrl": "https://www.youtube.com/watch?v=giAg6ajXYTc",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifqwd36",
+      "videoOrder": 77,
+      "eventOrder": 14,
+      "eventDate": "2022-03-28",
+      "year": 2022,
+      "orderInEvent": 1,
+      "type": "session",
+      "title": "Introduction in the occasion of the second anniversary of the establishment of the Arab Adult Arthritis Awareness Group",
+      "speakers": [
+        "Dr. Sima Abou Al Saoud"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=O0Be0D5AeOA",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifqweae",
+      "videoOrder": 78,
+      "eventOrder": 14,
+      "eventDate": "2022-03-28",
+      "year": 2022,
+      "orderInEvent": 2,
+      "type": "session",
+      "title": "Skin diseases and rheumatism Interview between rheumatologist and dermatologis",
+      "speakers": [
+        "Dr. Sahar Saad Dr. Ahmad Aljoudar"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=Nw1MP4V_eGU",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifqwfhm",
+      "videoOrder": 79,
+      "eventOrder": 14,
+      "eventDate": "2022-03-28",
+      "year": 2022,
+      "orderInEvent": 3,
+      "type": "session",
+      "title": "What should you know about biologics?",
+      "speakers": [
+        "Dr. Khalid Alnaqbi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=wXDHc64X4NI",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifqwgoi",
+      "videoOrder": 80,
+      "eventOrder": 14,
+      "eventDate": "2022-03-28",
+      "year": 2022,
+      "orderInEvent": 4,
+      "type": "session",
+      "title": "Tips for rheumatic disease patients during Ramadan month",
+      "speakers": [
+        "Dr. Mervat Eissa"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=oqcwftBKMWQ",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifqwhvj",
+      "videoOrder": 81,
+      "eventOrder": 14,
+      "eventDate": "2022-03-28",
+      "year": 2022,
+      "orderInEvent": 5,
+      "type": "session",
+      "title": "Discover new stories for rheumatism patients in the Arab world",
+      "speakers": [
+        "Ms. Malak Abou Ras"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=Gklmc3vj7Tc",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifqwj2t",
+      "videoOrder": 82,
+      "eventOrder": 14,
+      "eventDate": "2022-03-28",
+      "year": 2022,
+      "orderInEvent": 6,
+      "type": "qa",
+      "title": "Questions & Answers",
+      "speakers": [],
+      "videoUrl": "https://www.youtube.com/watch?v=UtvKrfj21JQ",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifqy2u7",
+      "videoOrder": 83,
+      "eventOrder": 15,
+      "eventDate": "2022-04-18",
+      "year": 2022,
+      "orderInEvent": 1,
+      "type": "session",
+      "title": "What is phospholipid antibodies syndrome?",
+      "speakers": [
+        "Dr. Chafia Dahou Makhloufi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=j_Kfp2y19Zk",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifqy41r",
+      "videoOrder": 84,
+      "eventOrder": 15,
+      "eventDate": "2022-04-18",
+      "year": 2022,
+      "orderInEvent": 2,
+      "type": "session",
+      "title": "What is phospholipid antibodies syndrome?",
+      "speakers": [
+        "Dr. Chafia Dahou Makhloufi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=hPfU8ULiesY",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifqy5h1",
+      "videoOrder": 85,
+      "eventOrder": 15,
+      "eventDate": "2022-04-18",
+      "year": 2022,
+      "orderInEvent": 3,
+      "type": "session",
+      "title": "What medications are allowed in pregnancy and lactation for rheumatic disease patients ?",
+      "speakers": [
+        "Dr. Wafaa Al Bashir"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=Z3ZE7L5IycA",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifqy6s5",
+      "videoOrder": 86,
+      "eventOrder": 15,
+      "eventDate": "2022-04-18",
+      "year": 2022,
+      "orderInEvent": 4,
+      "type": "session",
+      "title": "What is Henoch Schonlein's ferry disease?",
+      "speakers": [
+        "Dr. Soad Hashad"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=XcxRDCf-V3Y",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifqy7zo",
+      "videoOrder": 87,
+      "eventOrder": 15,
+      "eventDate": "2022-04-18",
+      "year": 2022,
+      "orderInEvent": 5,
+      "type": "session",
+      "title": "An inspiring story for rheumatic patients in the Arab world",
+      "speakers": [
+        "Dr. Nizar Abdulateef Ms. Malak Abou Ras"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=38LGlm3bPMo",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifqy986",
+      "videoOrder": 88,
+      "eventOrder": 15,
+      "eventDate": "2022-04-18",
+      "year": 2022,
+      "orderInEvent": 6,
+      "type": "qa",
+      "title": "Questions & Answers",
+      "speakers": [],
+      "videoUrl": "https://www.youtube.com/watch?v=SuSuRLsrnEI",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifqzbke",
+      "videoOrder": 89,
+      "eventOrder": 16,
+      "eventDate": "2022-05-09",
+      "year": 2022,
+      "orderInEvent": 1,
+      "type": "session",
+      "title": "Lupus and Pregnancy",
+      "speakers": [
+        "Dr. Ibrahim Al Maghlouth"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=k6LWzvgoGMc",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifqzct9",
+      "videoOrder": 90,
+      "eventOrder": 16,
+      "eventDate": "2022-05-09",
+      "year": 2022,
+      "orderInEvent": 2,
+      "type": "session",
+      "title": "Panic attacks for lupus patients: are they related to the disease or medications?",
+      "speakers": [
+        "Anxiety and lupus erythematosus",
+        "Dr. Hussein Kharad"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=XArLSHykHOQ",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifqze1v",
+      "videoOrder": 91,
+      "eventOrder": 16,
+      "eventDate": "2022-05-09",
+      "year": 2022,
+      "orderInEvent": 3,
+      "type": "session",
+      "title": "My story with lupus erythematosus Yoga sessions to relieve stres",
+      "speakers": [
+        "Ms. Nouf Al Marouii Entraineuse De Yoga, Ayat Hussein Saman"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=7vI9G-gedr8",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifqzfb5",
+      "videoOrder": 92,
+      "eventOrder": 16,
+      "eventDate": "2022-05-09",
+      "year": 2022,
+      "orderInEvent": 4,
+      "type": "session",
+      "title": "An inspiring patient dialogue session in the Arab world",
+      "speakers": [
+        "Dr. Hussein Halabi, Ms. Malak Aburas, Ms. Islam Shanti, Ms. Mezan Abdullah Al Farsi, Dr. Shaima Muhammad Al-Asfour, Mr. Muzammil Jaafar, Ms. Amal Al-Abdullah"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=WSvFiuBxxhw",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifqzgiy",
+      "videoOrder": 93,
+      "eventOrder": 16,
+      "eventDate": "2022-05-09",
+      "year": 2022,
+      "orderInEvent": 5,
+      "type": "qa",
+      "title": "Questions & Answers",
+      "speakers": [],
+      "videoUrl": "https://www.youtube.com/watch?v=aNNNXMIHJRA",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifyq6oq",
+      "videoOrder": 94,
+      "eventOrder": 17,
+      "eventDate": "2022-06-27",
+      "year": 2022,
+      "orderInEvent": 1,
+      "type": "session",
+      "title": "Opening of the ninth meeting: ”Together for You”",
+      "speakers": [
+        "Lina El Kibbi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=6CCwfCjIfuM",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifyq6ot",
+      "videoOrder": 95,
+      "eventOrder": 17,
+      "eventDate": "2022-06-27",
+      "year": 2022,
+      "orderInEvent": 2,
+      "type": "session",
+      "title": "Social Media & Patients",
+      "speakers": [
+        "Dr . Lina El Kibbi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=GlYMMgVSMkA",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifyq6ov2",
+      "videoOrder": 96,
+      "eventOrder": 17,
+      "eventDate": "2022-06-27",
+      "year": 2022,
+      "orderInEvent": 3,
+      "type": "session",
+      "title": "An exhibition of the talents of patients with rheumatic diseases in the Arab world",
+      "speakers": [
+        "Dr. Lina El Kebbi Mrs. Nada Samaha Aoun"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=gSt9bLo0uy8",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lifyq6p0",
+      "videoOrder": 97,
+      "eventOrder": 17,
+      "eventDate": "2022-06-27",
+      "year": 2022,
+      "orderInEvent": 4,
+      "type": "session",
+      "title": "Advice from doctors to patients about patient relationships and social media",
+      "speakers": [
+        "Dr. Nizar Abdullatif Dr. Manal Al Raqqawi Dr. Basel Masri Dr. Wafaa Hamdy Dr. Nelly Ziadé"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=pc_skMNgisQ",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lig0zsh5",
+      "videoOrder": 98,
+      "eventOrder": 17,
+      "eventDate": "2022-06-27",
+      "year": 2022,
+      "orderInEvent": 5,
+      "type": "session",
+      "title": "Advice about vacation and travel for patients with rheumatic disease",
+      "speakers": [
+        "Dr. Seema Abou Al Saoud Dr. Sahar Saad Dr. Manal Al Raqqawi Dr. Basel Masri"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=mE8sL2qM5Do",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lig14q57",
+      "videoOrder": 99,
+      "eventOrder": 17,
+      "eventDate": "2022-06-27",
+      "year": 2022,
+      "orderInEvent": 6,
+      "type": "session",
+      "title": "Patient Story 7: Inspiring Stories for Rheumatism Patients in the Arab World",
+      "speakers": [
+        "Dr. Lina El Kebbi Mr. Marwa Al-Sheikh"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=YI_zX8v4ZV0",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lig1ayoj3",
+      "videoOrder": 100,
+      "eventOrder": 18,
+      "eventDate": "2022-10-10",
+      "year": 2022,
+      "orderInEvent": 1,
+      "type": "session",
+      "title": "Opening the tenth meeting, \"Together for a better quality of life.\"",
+      "speakers": [
+        "Dr. Sahar Saad"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=AttTG5VXCoQ",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lig1ayop",
+      "videoOrder": 101,
+      "eventOrder": 18,
+      "eventDate": "2022-10-10",
+      "year": 2022,
+      "orderInEvent": 2,
+      "type": "session",
+      "title": "Rheumatoid - rheumatoid arthritis",
+      "speakers": [
+        "Dr. Shafia Daho Makhloufi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=bJCg7CjwRhA",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lig1ayos",
+      "videoOrder": 102,
+      "eventOrder": 18,
+      "eventDate": "2022-10-10",
+      "year": 2022,
+      "orderInEvent": 3,
+      "type": "session",
+      "title": "Osteoarthritis - Degenerative Arthritis Disease",
+      "speakers": [
+        "Dr. Nizar Abdullatif"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=-Wdw3i7mIvo",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lig1ayox",
+      "videoOrder": 103,
+      "eventOrder": 18,
+      "eventDate": "2022-10-10",
+      "year": 2022,
+      "orderInEvent": 4,
+      "type": "session",
+      "title": "Tai Chi for Arthritis Patients",
+      "speakers": [
+        "Trainer Ummatullah Bahadeeq"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=R24gWytjTwc",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lig1ayp2",
+      "videoOrder": 104,
+      "eventOrder": 18,
+      "eventDate": "2022-10-10",
+      "year": 2022,
+      "orderInEvent": 5,
+      "type": "qa",
+      "title": "Questions and answers session",
+      "speakers": [],
+      "videoUrl": "https://www.youtube.com/watch?v=-Hwxb0qXXzA",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lig1ayp41",
+      "videoOrder": 105,
+      "eventOrder": 18,
+      "eventDate": "2022-10-10",
+      "year": 2022,
+      "orderInEvent": 6,
+      "type": "session",
+      "title": "When should a rheumatologist refer a case diagnosed with roughness in the knee joint to an orthopedic surgeon?",
+      "speakers": [
+        "Dr. Nizar Abdullatif Dr. Tony Tannouri"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=8_j-JhCygVI",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lieqil141",
+      "videoOrder": 106,
+      "eventOrder": 19,
+      "eventDate": "2023-03-20",
+      "year": 2023,
+      "orderInEvent": 1,
+      "type": "session",
+      "title": "Which vaccines are suitable for patients with rheumatic diseases? What is Shingles, and how to prevent it",
+      "speakers": [
+        "Dr. Hussein Halabi Dr. Nizar Bahabri"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=HassVa1b4AM",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lieqil19",
+      "videoOrder": 107,
+      "eventOrder": 19,
+      "eventDate": "2023-03-20",
+      "year": 2023,
+      "orderInEvent": 2,
+      "type": "session",
+      "title": "Essential tips on nutrition and rheumatic diseases",
+      "speakers": [
+        "Dr. Lina Al Kebbi Dr. Yara Al Muhtadi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=a4mapxpzMjc",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lieqil1c3",
+      "videoOrder": 108,
+      "eventOrder": 19,
+      "eventDate": "2023-03-20",
+      "year": 2023,
+      "orderInEvent": 3,
+      "type": "session",
+      "title": "Rheumatologists' advice to patients in the month of Ramadan",
+      "speakers": [
+        "Dr. Basel Masri , Dr. Shafia Daho Al-Makhloufi , Dr. Fatima Boutaiban , Dr. Ihsan Hamamouchi , Dr. Manal Al Raqqawi , Dr. Mervat Issa , Dr. Nasra Al-Azoubi , Dr. Nelly Ziadeh Al Zoghbi , Dr. Nizar Abdullatif , Dr. Sahar Ahmed Saad , Dr. Laila Kazkaz , Dr. Seema Abu Alsaud , Dr. Wafaa Hamdy , Dr. Wafaa Hassan Albasheer"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=ctUvov0JReQ",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lih0u49n2",
+      "videoOrder": 109,
+      "eventOrder": 20,
+      "eventDate": "2023-05-08",
+      "year": 2023,
+      "orderInEvent": 1,
+      "type": "session",
+      "title": "Can a person with SLE get pregnant?",
+      "speakers": [
+        "Dr. Nizar Abdullatif Dr. Alaa Hazem"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=4CwnnKbUB2k",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lih0u49r4",
+      "videoOrder": 110,
+      "eventOrder": 20,
+      "eventDate": "2023-05-08",
+      "year": 2023,
+      "orderInEvent": 2,
+      "type": "session",
+      "title": "Cutaneous lupus erythematosus: What are its types?",
+      "speakers": [
+        "Dr Ihsane Hmamouchi Dr Najlaa El Ghalbazouri"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=3YSyooUaQH0",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lih0u49u2",
+      "videoOrder": 111,
+      "eventOrder": 20,
+      "eventDate": "2023-05-08",
+      "year": 2023,
+      "orderInEvent": 3,
+      "type": "session",
+      "title": "How do rheumatic diseases affect the psychological state?",
+      "speakers": [
+        "Dr. Lina Al Kebbi Dr. Meshal Al Aqeel"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=i_Y7hmEw1LM",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lih0u49w4",
+      "videoOrder": 112,
+      "eventOrder": 20,
+      "eventDate": "2023-05-08",
+      "year": 2023,
+      "orderInEvent": 4,
+      "type": "session",
+      "title": "An Inspiring Story: A Journey with SLE",
+      "speakers": [
+        "Dr. Souad Hashad Ms. Rehab Ramadan Ebdiwi"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=iG5-Yr1pZM4",
+      "startSeconds": 0
+    },
+    {
+      "id": "comp-lih0u49z1",
+      "videoOrder": 113,
+      "eventOrder": 20,
+      "eventDate": "2023-05-08",
+      "year": 2023,
+      "orderInEvent": 5,
+      "type": "session",
+      "title": "Patients' Voice = Inspiring Stories of Their Journey with SLE",
+      "speakers": [
+        "Dr. Lina Al-Kibbi Ms. Zeina Al-Qahtani Mr. Bushra Al-Hunaidi Mr. Nouf Al-Suwailem"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=hOl8NG_iRFE",
+      "startSeconds": 0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "exportedAt": "2026-08-15T17:52:07.673Z",
+  "records": [
+    {
+      "id": "a4b6912c-449e-480c-9bc0-1cafd5ddbbd0",
+      "label": "ArLAR25",
+      "slug": "arlar25",
+      "createdDate": "2025-01-29T08:31:25.282Z",
+      "updatedDate": "2025-01-29T08:31:25.282Z",
+      "postCount": 0,
+      "publishedPostCount": 0,
+      "language": "en"
+    }
+  ],
+  "pages": [
+    {
+      "request": {
+        "query": {
+          "paging": {
+            "limit": 100,
+            "offset": 0
+          }
+        }
+      },
+      "response": {
+        "tags": [
+          {
+            "id": "a4b6912c-449e-480c-9bc0-1cafd5ddbbd0",
+            "label": "ArLAR25",
+            "slug": "arlar25",
+            "createdDate": "2025-01-29T08:31:25.282Z",
+            "updatedDate": "2025-01-29T08:31:25.282Z",
+            "postCount": 0,
+            "publishedPostCount": 0,
+            "language": "en"
+          }
+        ],
+        "pagingMetadata": {
+          "count": 1,
+          "offset": 0,
+          "total": 1,
+          "hasNext": false
+        }
+      }
+    }
+  ],
+  "total": 1
+}

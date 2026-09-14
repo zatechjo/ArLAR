@@ -1,0 +1,357 @@
+{
+  "sourceUrl": "https://www.arabrheumatology.org/national-societies",
+  "retrievedDate": "2026-08-05",
+  "subheading": "Meet the Backbone of ArLAR",
+  "intro": [
+    "ArLAR brings together the premier rheumatology societies from across the Arab world. These esteemed organizations are committed to the advancement of rheumatology through clinical practice, research, and education.",
+    "Collectively, our member societies form the cornerstone of ArLAR's mission. They enable us to foster collaborative research, professional development, and higher standards of care in rheumatology throughout the region."
+  ],
+  "note": "All social links visible on the source page are published, except two Kuwait links (LinkedIn, YouTube) whose URLs returned HTTP 404 on 5 Aug 2026 and were removed rather than shipped broken. `verified: false` marks a link whose target was inferred from the society handle and still needs one manual click-check.",
+  "countries": [
+    {
+      "country": "Algeria",
+      "countryCode": "DZ",
+      "slug": "algeria",
+      "flag": "algeria.png",
+      "background": "algeria.jpg",
+      "backgroundCredit": "Walid Amghar",
+      "societies": [
+        {
+          "id": "dz-algerian-league-against-rheumatism",
+          "name": "Algerian League Against Rheumatism",
+          "abbreviation": "LAAR",
+          "websiteUrl": "http://www.laarhumato.org",
+          "websiteDisplay": "www.laarhumato.org",
+          "socials": []
+        },
+        {
+          "id": "dz-algerian-society-for-rheumatology",
+          "name": "Algerian Society for Rheumatology",
+          "abbreviation": "SAR",
+          "websiteUrl": "http://www.sarhumatologie-dz.org",
+          "websiteDisplay": "www.sarhumatologie-dz.org",
+          "socials": []
+        }
+      ]
+    },
+    {
+      "country": "Egypt",
+      "countryCode": "EG",
+      "slug": "egypt",
+      "flag": "egypt.png",
+      "background": "egypt.jpg",
+      "backgroundCredit": "Ahmed Ezzat",
+      "societies": [
+        {
+          "id": "eg-egyptian-society-of-rheumatic-diseases",
+          "name": "Egyptian Society of Rheumatic Diseases",
+          "abbreviation": "ESRD",
+          "websiteUrl": "http://www.esrdeg.com",
+          "websiteDisplay": "www.esrdeg.com",
+          "socials": []
+        }
+      ]
+    },
+    {
+      "country": "Iraq",
+      "countryCode": "IQ",
+      "slug": "iraq",
+      "flag": "iraq.png",
+      "background": "iraq.jpg",
+      "backgroundCredit": "Saad Salim",
+      "societies": [
+        {
+          "id": "iq-iraqi-league-for-bone-and-joint-health",
+          "name": "Iraqi League for Bone and Joint Health",
+          "abbreviation": "",
+          "websiteUrl": "http://www.ilbjh.org",
+          "websiteDisplay": "www.ilbjh.org",
+          "socials": []
+        }
+      ]
+    },
+    {
+      "country": "Jordan",
+      "countryCode": "JO",
+      "slug": "jordan",
+      "flag": "jordan.png",
+      "background": "jordan.jpg",
+      "backgroundCredit": "Daniel Qura",
+      "societies": [
+        {
+          "id": "jo-jordanian-society-of-rheumatology",
+          "name": "Jordanian Society of Rheumatology",
+          "abbreviation": "JSR",
+          "websiteUrl": "https://www.jsr-jo.org",
+          "websiteDisplay": "www.jsr-jo.org",
+          "socials": [
+            {
+              "platform": "Facebook",
+              "url": "https://www.facebook.com/JSRheumatology/",
+              "verified": false
+            },
+            {
+              "platform": "Instagram",
+              "url": "https://www.instagram.com/jsrheumatology/",
+              "verified": false
+            },
+            {
+              "platform": "X",
+              "url": "https://x.com/JSRheumatology",
+              "verified": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Kuwait",
+      "countryCode": "KW",
+      "slug": "kuwait",
+      "flag": "kuwait.png",
+      "background": "kuwait.jpg",
+      "backgroundCredit": "Jan Dommerholt",
+      "societies": [
+        {
+          "id": "kw-kuwait-association-for-rheumatology",
+          "name": "Kuwait Association for Rheumatology",
+          "abbreviation": "KAR",
+          "websiteUrl": "https://www.karkwt.org",
+          "websiteDisplay": "www.karkwt.org",
+          "socials": [
+            {
+              "platform": "Facebook",
+              "url": "https://www.facebook.com/KARKuwait/",
+              "verified": false
+            },
+            {
+              "platform": "Instagram",
+              "url": "https://www.instagram.com/kar.kwt/",
+              "verified": true
+            },
+            {
+              "platform": "X",
+              "url": "https://x.com/KARKuwait",
+              "verified": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Lebanon",
+      "countryCode": "LB",
+      "slug": "lebanon",
+      "flag": "lebanon.png",
+      "background": "lebanon.jpg",
+      "backgroundCredit": "Piotr Chrobot",
+      "societies": [
+        {
+          "id": "lb-lebanese-society-of-rheumatology",
+          "name": "Lebanese Society of Rheumatology",
+          "abbreviation": "LSR",
+          "websiteUrl": "https://lsrheumatology.lopbeirut.org",
+          "websiteDisplay": "lsrheumatology.lopbeirut.org",
+          "socials": [
+            {
+              "platform": "Facebook",
+              "url": "https://www.facebook.com/LSRheumatology/",
+              "verified": true
+            },
+            {
+              "platform": "X",
+              "url": "https://x.com/LSRheumatology",
+              "verified": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Libya",
+      "countryCode": "LY",
+      "slug": "libya",
+      "flag": "libya.png",
+      "background": "libya.jpg",
+      "backgroundCredit": "Mohamed Sadiq",
+      "societies": [
+        {
+          "id": "ly-libyan-rheumatology-society",
+          "name": "Libyan Rheumatology Society",
+          "abbreviation": "LRS",
+          "websiteUrl": null,
+          "websiteDisplay": "",
+          "socials": [
+            {
+              "platform": "Facebook",
+              "url": "https://www.facebook.com/LibyanRheumatologySociety/",
+              "verified": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Morocco",
+      "countryCode": "MA",
+      "slug": "morocco",
+      "flag": "morocco.png",
+      "background": "morocco.jpg",
+      "backgroundCredit": "Heidi Kaden",
+      "societies": [
+        {
+          "id": "ma-morocco-society-for-rheumatology",
+          "name": "Morocco Society for Rheumatology",
+          "abbreviation": "MSR",
+          "websiteUrl": "https://www.smr.ma",
+          "websiteDisplay": "www.smr.ma",
+          "socials": []
+        }
+      ]
+    },
+    {
+      "country": "Oman",
+      "countryCode": "OM",
+      "slug": "oman",
+      "flag": "oman.png",
+      "background": "oman.jpg",
+      "backgroundCredit": "Muhammad Shoaib",
+      "societies": [
+        {
+          "id": "om-oman-society-of-rheumatology",
+          "name": "Oman Society of Rheumatology",
+          "abbreviation": "OSR",
+          "websiteUrl": "https://www.omanrheumatology.org",
+          "websiteDisplay": "www.omanrheumatology.org",
+          "socials": []
+        }
+      ]
+    },
+    {
+      "country": "Palestine",
+      "countryCode": "PS",
+      "slug": "palestine",
+      "flag": "palestine.png",
+      "background": "palestine.jpg",
+      "backgroundCredit": "Raimond Klavins",
+      "societies": [
+        {
+          "id": "ps-palestinian-rheumatology-society",
+          "name": "Palestinian Rheumatology Society",
+          "abbreviation": "PSR",
+          "websiteUrl": null,
+          "websiteDisplay": "",
+          "socials": []
+        }
+      ]
+    },
+    {
+      "country": "Qatar",
+      "countryCode": "QA",
+      "slug": "qatar",
+      "flag": "qatar.png",
+      "background": "qatar.jpg",
+      "backgroundCredit": "Radoslaw Prekurat",
+      "societies": [
+        {
+          "id": "qa-qatar-rheumatology-society",
+          "name": "Qatar Rheumatology Society",
+          "abbreviation": "QRS",
+          "websiteUrl": null,
+          "websiteDisplay": "",
+          "socials": []
+        }
+      ]
+    },
+    {
+      "country": "Saudi Arabia",
+      "countryCode": "SA",
+      "slug": "saudi-arabia",
+      "flag": "ksa.png",
+      "background": "saudi-arabia.jpg",
+      "backgroundCredit": "Ekrem Osmanoglu",
+      "societies": [
+        {
+          "id": "sa-saudi-society-for-rheumatology",
+          "name": "Saudi Society for Rheumatology",
+          "abbreviation": "SSR",
+          "websiteUrl": "https://www.ssrsa.org",
+          "websiteDisplay": "www.ssrsa.org",
+          "socials": []
+        }
+      ]
+    },
+    {
+      "country": "Sudan",
+      "countryCode": "SD",
+      "slug": "sudan",
+      "flag": "sudan.png",
+      "background": "sudan.jpg",
+      "backgroundCredit": "Abdulaziz Mohammed",
+      "societies": [
+        {
+          "id": "sd-sudanese-association-of-rheumatology",
+          "name": "Sudanese Association of Rheumatology",
+          "abbreviation": "",
+          "websiteUrl": null,
+          "websiteDisplay": "",
+          "socials": []
+        }
+      ]
+    },
+    {
+      "country": "Syria",
+      "countryCode": "SY",
+      "slug": "syria",
+      "flag": "syria.png",
+      "background": "syria.jpg",
+      "backgroundCredit": "Bader Jaber",
+      "societies": [
+        {
+          "id": "sy-syrian-association-for-rheumatology",
+          "name": "Syrian Association for Rheumatology",
+          "abbreviation": "SAR",
+          "websiteUrl": "https://www.rheumatology-syria.com",
+          "websiteDisplay": "www.rheumatology-syria.com",
+          "socials": []
+        }
+      ]
+    },
+    {
+      "country": "Tunisia",
+      "countryCode": "TN",
+      "slug": "tunisia",
+      "flag": "tunisia.png",
+      "background": "tunisia.jpg",
+      "backgroundCredit": "JR Harris",
+      "societies": [
+        {
+          "id": "tn-ligue-tunisienne-anti-rhumatismale",
+          "name": "Ligue Tunisienne Anti Rhumatismale",
+          "abbreviation": "LITAR",
+          "websiteUrl": "https://www.litar.net",
+          "websiteDisplay": "www.litar.net",
+          "socials": []
+        }
+      ]
+    },
+    {
+      "country": "United Arab Emirates",
+      "countryCode": "AE",
+      "slug": "united-arab-emirates",
+      "flag": "uae.png",
+      "background": "united-arab-emirates.jpg",
+      "backgroundCredit": "ZQ Lee",
+      "societies": [
+        {
+          "id": "ae-emirates-society-of-rheumatology",
+          "name": "Emirates Society of Rheumatology",
+          "abbreviation": "ESR",
+          "websiteUrl": "https://www.esr.ae",
+          "websiteDisplay": "www.esr.ae",
+          "socials": []
+        }
+      ]
+    }
+  ]
+}

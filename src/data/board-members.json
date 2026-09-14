@@ -1,0 +1,872 @@
+{
+  "sourceUrl": "https://www.arabrheumatology.org/board-of-directors",
+  "generatedOn": "2026-07-30",
+  "recordCount": 21,
+  "counts": {
+    "executiveCouncil": 6,
+    "boardMembers": 15
+  },
+  "notes": [
+    "Clean fields standardize punctuation, capitalization, country names, abbreviations and obvious grammar.",
+    "Raw source fields preserve the page wording.",
+    "Do not invent missing biographies for records marked needsReview."
+  ],
+  "people": [
+    {
+      "id": "board-001",
+      "slug": "nizar-abdullateef-jasim",
+      "sortOrder": 1,
+      "group": "executive-council",
+      "groupLabel": "Executive Council",
+      "name": "Nizar AbdulLateef Jasim",
+      "credentials": [
+        "MD"
+      ],
+      "fullName": "Nizar AbdulLateef Jasim, MD",
+      "leadershipRole": "President",
+      "displayRole": "President",
+      "country": {
+        "name": "Iraq",
+        "sourceLabel": "Iraq",
+        "code": "IQ",
+        "flagFilename": "iq-iraq.png",
+        "flagUrl": "https://static.wixstatic.com/media/1f2182_845c99d393414b73b6da035866424774~mv2.png"
+      },
+      "bio": [
+        "Senior Consultant Rheumatologist at Baghdad Teaching Hospital, Medical City",
+        "Professor of Internal Medicine and Rheumatology at Baghdad College of Medicine",
+        "Chairman of the Scientific Council of Internal Medicine and the Scientific Committee for Rheumatic Diseases at the Iraqi Board for Medical Specializations",
+        "President of the Iraqi League for Bone and Joint Health"
+      ],
+      "bioText": "Senior Consultant Rheumatologist at Baghdad Teaching Hospital, Medical City\nProfessor of Internal Medicine and Rheumatology at Baghdad College of Medicine\nChairman of the Scientific Council of Internal Medicine and the Scientific Committee for Rheumatic Diseases at the Iraqi Board for Medical Specializations\nPresident of the Iraqi League for Bone and Joint Health",
+      "bioHtml": "<ul><li>Senior Consultant Rheumatologist at Baghdad Teaching Hospital, Medical City</li><li>Professor of Internal Medicine and Rheumatology at Baghdad College of Medicine</li><li>Chairman of the Scientific Council of Internal Medicine and the Scientific Committee for Rheumatic Diseases at the Iraqi Board for Medical Specializations</li><li>President of the Iraqi League for Bone and Joint Health</li></ul>",
+      "sourceBio": [
+        "Sr. Consultant Rheumatologist at Baghdad Teaching Hospital, Medical City",
+        "Professor in Internal Medicine & Rheumatology at Baghdad College of Medicine",
+        "Chairman of the Scientific Council of Internal Medicine & Scientific Committee for Rheumatic Diseases in Iraqi Board for Medical Specializations",
+        "President of the Iraqi League for Bone & Joint Health"
+      ],
+      "image": {
+        "filename": "nizar-abdullateef-jasim.png",
+        "sourceFilename": "WhatsApp_Image_2025-06-02_at_12.31_edited.png",
+        "url": "https://static.wixstatic.com/media/bba2f0_8d5bb5050cf54507902e2a9461955bd1~mv2.png",
+        "pageUrl": "https://static.wixstatic.com/media/bba2f0_8d5bb5050cf54507902e2a9461955bd1~mv2.png/v1/crop/x_4%2Cy_0%2Cw_212%2Ch_212/fill/w_160%2Ch_160%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/WhatsApp_Image_2025-06-02_at_12_31_edited.png"
+      },
+      "needsReview": false,
+      "reviewNotes": null,
+      "sourceUrl": "https://www.arabrheumatology.org/board-of-directors"
+    },
+    {
+      "id": "board-002",
+      "slug": "fatemah-baroun",
+      "sortOrder": 2,
+      "group": "executive-council",
+      "groupLabel": "Executive Council",
+      "name": "Fatemah Baroun",
+      "credentials": [
+        "MD"
+      ],
+      "fullName": "Fatemah Baroun, MD",
+      "leadershipRole": "Secretary General",
+      "displayRole": "Secretary General",
+      "country": {
+        "name": "Kuwait",
+        "sourceLabel": "Kuwait",
+        "code": "KW",
+        "flagFilename": "kw-kuwait.png",
+        "flagUrl": "https://static.wixstatic.com/media/1f2182_96aa46a3e72b4afb814aff926a3be7bc~mv2.png"
+      },
+      "bio": [
+        "Specialist in Adult Rheumatology and Internal Medicine at Jahra Hospital, Kuwait."
+      ],
+      "bioText": "Specialist in Adult Rheumatology and Internal Medicine at Jahra Hospital, Kuwait.",
+      "bioHtml": "<ul><li>Specialist in Adult Rheumatology and Internal Medicine at Jahra Hospital, Kuwait.</li></ul>",
+      "sourceBio": [
+        "Specialist in Adult rheumatology and internal medicine at Jahra Hospital in Kuwait."
+      ],
+      "image": {
+        "filename": "fatemah-baroun.jpg",
+        "sourceFilename": "Bouran_edited.jpg",
+        "url": "https://static.wixstatic.com/media/1f2182_c87ef38fc34244a88e516bbd9d0d7a3b~mv2.jpg",
+        "pageUrl": "https://static.wixstatic.com/media/1f2182_c87ef38fc34244a88e516bbd9d0d7a3b~mv2.jpg/v1/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Bouran_edited.jpg"
+      },
+      "needsReview": true,
+      "reviewNotes": "The source image filename says “Bouran_edited.jpg,” while the displayed name is Fatemah Baroun. Verify the image/name pairing.",
+      "sourceUrl": "https://www.arabrheumatology.org/board-of-directors"
+    },
+    {
+      "id": "board-003",
+      "slug": "shamma-al-nokhatha",
+      "sortOrder": 3,
+      "group": "executive-council",
+      "groupLabel": "Executive Council",
+      "name": "Shamma Al Nokhatha",
+      "credentials": [
+        "MD"
+      ],
+      "fullName": "Shamma Al Nokhatha, MD",
+      "leadershipRole": "President-Elect",
+      "displayRole": "President-Elect",
+      "country": {
+        "name": "United Arab Emirates",
+        "sourceLabel": "UAE",
+        "code": "AE",
+        "flagFilename": "ae-united-arab-emirates.png",
+        "flagUrl": "https://static.wixstatic.com/media/1f2182_8e66140f0a544a80aba8d4dbeccc11c4~mv2.png"
+      },
+      "bio": [
+        "Internal Medicine and Rheumatology Consultant at Tawam Hospital and Sheikh Tahnoon Bin Mohammed Medical City in Al Ain, United Arab Emirates",
+        "President of the Emirates Society of Rheumatology",
+        "Adjunct Assistant Professor at the College of Medicine and Health Sciences"
+      ],
+      "bioText": "Internal Medicine and Rheumatology Consultant at Tawam Hospital and Sheikh Tahnoon Bin Mohammed Medical City in Al Ain, United Arab Emirates\nPresident of the Emirates Society of Rheumatology\nAdjunct Assistant Professor at the College of Medicine and Health Sciences",
+      "bioHtml": "<ul><li>Internal Medicine and Rheumatology Consultant at Tawam Hospital and Sheikh Tahnoon Bin Mohammed Medical City in Al Ain, United Arab Emirates</li><li>President of the Emirates Society of Rheumatology</li><li>Adjunct Assistant Professor at the College of Medicine and Health Sciences</li></ul>",
+      "sourceBio": [
+        "Internal Medicine and Rheumatology Consultant at Tawam Hospital and Sh. Tahnoon Bin Mohammed Medical City in Al Ain, United Arab Emirates",
+        "President of Emirates Society of Rheumatology",
+        "Adjunct Assistant Professor in the College of Medicine and Health Sciences"
+      ],
+      "image": {
+        "filename": "shamma-al-nokhatha.jpg",
+        "sourceFilename": "Dr_edited.jpg",
+        "url": "https://static.wixstatic.com/media/bba2f0_ffebbeead0674e48a5dd9d8b3b81e36c~mv2.jpg",
+        "pageUrl": "https://static.wixstatic.com/media/bba2f0_ffebbeead0674e48a5dd9d8b3b81e36c~mv2.jpg/v1/crop/x_20%2Cy_0%2Cw_272%2Ch_272/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Dr_edited.jpg"
+      },
+      "needsReview": false,
+      "reviewNotes": null,
+      "sourceUrl": "https://www.arabrheumatology.org/board-of-directors"
+    },
+    {
+      "id": "board-004",
+      "slug": "manal-el-rakaawi",
+      "sortOrder": 4,
+      "group": "executive-council",
+      "groupLabel": "Executive Council",
+      "name": "Manal El Rakaawi",
+      "credentials": [
+        "MD"
+      ],
+      "fullName": "Manal El Rakaawi, MD",
+      "leadershipRole": "Past President",
+      "displayRole": "Past President",
+      "country": {
+        "name": "Algeria",
+        "sourceLabel": "Algeria",
+        "code": "DZ",
+        "flagFilename": "dz-algeria.png",
+        "flagUrl": "https://static.wixstatic.com/media/1f2182_a5e8c349f0554ed1a400aa86ae5177f6~mv2.png"
+      },
+      "bio": [
+        "Professor of Rheumatology at University Hospital Douera Algiers and Saad Dahlab University, Blida, Algeria"
+      ],
+      "bioText": "Professor of Rheumatology at University Hospital Douera Algiers and Saad Dahlab University, Blida, Algeria",
+      "bioHtml": "<ul><li>Professor of Rheumatology at University Hospital Douera Algiers and Saad Dahlab University, Blida, Algeria</li></ul>",
+      "sourceBio": [
+        "Professor of Rheumatology at University Hospital Douera Algiers; Saad Dahlab University Blida, Algeria"
+      ],
+      "image": {
+        "filename": "manal-el-rakaawi.jpg",
+        "sourceFilename": "Dr_edited.jpg",
+        "url": "https://static.wixstatic.com/media/1f2182_373e227c14c84f1d889ec802367a68fc~mv2.jpg",
+        "pageUrl": "https://static.wixstatic.com/media/1f2182_373e227c14c84f1d889ec802367a68fc~mv2.jpg/v1/crop/x_24%2Cy_0%2Cw_300%2Ch_300/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Dr_edited.jpg"
+      },
+      "needsReview": false,
+      "reviewNotes": null,
+      "sourceUrl": "https://www.arabrheumatology.org/board-of-directors"
+    },
+    {
+      "id": "board-005",
+      "slug": "imad-uthman",
+      "sortOrder": 5,
+      "group": "executive-council",
+      "groupLabel": "Executive Council",
+      "name": "Imad Uthman",
+      "credentials": [
+        "MD"
+      ],
+      "fullName": "Imad Uthman, MD",
+      "leadershipRole": "Chairman of the Scientific Committee",
+      "displayRole": "Chairman of the Scientific Committee",
+      "country": {
+        "name": "Lebanon",
+        "sourceLabel": "Lebanon",
+        "code": "LB",
+        "flagFilename": "lb-lebanon.png",
+        "flagUrl": "https://static.wixstatic.com/media/1f2182_bae809192ca94985a35f176b790d9e26~mv2.png"
+      },
+      "bio": [
+        "Professor and Head of the Rheumatology Department at the American University of Beirut Medical Center"
+      ],
+      "bioText": "Professor and Head of the Rheumatology Department at the American University of Beirut Medical Center",
+      "bioHtml": "<ul><li>Professor and Head of the Rheumatology Department at the American University of Beirut Medical Center</li></ul>",
+      "sourceBio": [
+        "Professor and head of rheumatology department at American University of Beirut Medical Center"
+      ],
+      "image": {
+        "filename": "imad-uthman.jpg",
+        "sourceFilename": "Imad Uthman_edited.jpg",
+        "url": "https://static.wixstatic.com/media/1f2182_b5ddb2bd0d994ca8ad08c53e74a6e0d6~mv2.jpg",
+        "pageUrl": "https://static.wixstatic.com/media/1f2182_b5ddb2bd0d994ca8ad08c53e74a6e0d6~mv2.jpg/v1/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Imad%2520Uthman_edited.jpg"
+      },
+      "needsReview": false,
+      "reviewNotes": null,
+      "sourceUrl": "https://www.arabrheumatology.org/board-of-directors"
+    },
+    {
+      "id": "board-006",
+      "slug": "basel-masri",
+      "sortOrder": 6,
+      "group": "executive-council",
+      "groupLabel": "Executive Council",
+      "name": "Basel Masri",
+      "credentials": [
+        "MD"
+      ],
+      "fullName": "Basel Masri, MD",
+      "leadershipRole": "Treasurer",
+      "displayRole": "Treasurer",
+      "country": {
+        "name": "Jordan",
+        "sourceLabel": "Jordan",
+        "code": "JO",
+        "flagFilename": "jo-jordan.png",
+        "flagUrl": "https://static.wixstatic.com/media/1f2182_53417f88eac041f9b170b3aa9187566f~mv2.png"
+      },
+      "bio": [
+        "Senior Consultant Rheumatologist at Jordan Hospital and Medical Center, Amman, Jordan",
+        "Secretary General of the Jordanian Society of Rheumatology (JSR)"
+      ],
+      "bioText": "Senior Consultant Rheumatologist at Jordan Hospital and Medical Center, Amman, Jordan\nSecretary General of the Jordanian Society of Rheumatology (JSR)",
+      "bioHtml": "<ul><li>Senior Consultant Rheumatologist at Jordan Hospital and Medical Center, Amman, Jordan</li><li>Secretary General of the Jordanian Society of Rheumatology (JSR)</li></ul>",
+      "sourceBio": [
+        "Sr. Consultant Rheumatologist, Jordan Hospital & Medical Center Amman, Jordan",
+        "Secretary General of the Jordanian Society of Rheumatology-JSR"
+      ],
+      "image": {
+        "filename": "basel-masri.jpg",
+        "sourceFilename": "7.jpg",
+        "url": "https://static.wixstatic.com/media/1f2182_f2ac6936e3734c058e935634f0913d8e~mv2.jpg",
+        "pageUrl": "https://static.wixstatic.com/media/1f2182_f2ac6936e3734c058e935634f0913d8e~mv2.jpg/v1/crop/x_0%2Cy_3%2Cw_3012%2Ch_3012/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/7.jpg"
+      },
+      "needsReview": false,
+      "reviewNotes": null,
+      "sourceUrl": "https://www.arabrheumatology.org/board-of-directors"
+    },
+    {
+      "id": "board-007",
+      "slug": "aicha-ladjouze-rezig",
+      "sortOrder": 7,
+      "group": "board-members",
+      "groupLabel": "Board Members",
+      "name": "Aicha Ladjouze-Rezig",
+      "credentials": [
+        "MD"
+      ],
+      "fullName": "Aicha Ladjouze-Rezig, MD",
+      "leadershipRole": null,
+      "displayRole": "Board Member",
+      "country": {
+        "name": "Algeria",
+        "sourceLabel": "Algeria",
+        "code": "DZ",
+        "flagFilename": "dz-algeria.png",
+        "flagUrl": "https://static.wixstatic.com/media/1f2182_a5e8c349f0554ed1a400aa86ae5177f6~mv2.png"
+      },
+      "bio": [
+        "Professor of Rheumatology",
+        "President of the Algerian League Against Rheumatism (LAAR)"
+      ],
+      "bioText": "Professor of Rheumatology\nPresident of the Algerian League Against Rheumatism (LAAR)",
+      "bioHtml": "<ul><li>Professor of Rheumatology</li><li>President of the Algerian League Against Rheumatism (LAAR)</li></ul>",
+      "sourceBio": [
+        "Professor of Rheumatology",
+        "President of the Algerian League Against Rheumatism-LAAR"
+      ],
+      "image": {
+        "filename": "aicha-ladjouze-rezig.jpeg",
+        "sourceFilename": "Aicha_Ladjouze-Rezig.jpeg",
+        "url": "https://static.wixstatic.com/media/7cc206_9e252d84a0524a31ad9982ef16c07ccb~mv2.jpeg",
+        "pageUrl": "https://static.wixstatic.com/media/7cc206_9e252d84a0524a31ad9982ef16c07ccb~mv2.jpeg/v1/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Aicha_Ladjouze-Rezig.jpeg"
+      },
+      "needsReview": false,
+      "reviewNotes": null,
+      "sourceUrl": "https://www.arabrheumatology.org/board-of-directors"
+    },
+    {
+      "id": "board-008",
+      "slug": "hachemi-djoudi",
+      "sortOrder": 8,
+      "group": "board-members",
+      "groupLabel": "Board Members",
+      "name": "Hachemi Djoudi",
+      "credentials": [
+        "MD"
+      ],
+      "fullName": "Hachemi Djoudi, MD",
+      "leadershipRole": null,
+      "displayRole": "Board Member",
+      "country": {
+        "name": "Algeria",
+        "sourceLabel": "Algeria",
+        "code": "DZ",
+        "flagFilename": "dz-algeria.png",
+        "flagUrl": "https://static.wixstatic.com/media/1f2182_a5e8c349f0554ed1a400aa86ae5177f6~mv2.png"
+      },
+      "bio": [
+        "Professor of Rheumatology",
+        "President of the Algerian Society for Rheumatology (SAR)"
+      ],
+      "bioText": "Professor of Rheumatology\nPresident of the Algerian Society for Rheumatology (SAR)",
+      "bioHtml": "<ul><li>Professor of Rheumatology</li><li>President of the Algerian Society for Rheumatology (SAR)</li></ul>",
+      "sourceBio": [
+        "Professor of Rheumatology",
+        "President of Algerian Society for Rheumatology-SAR"
+      ],
+      "image": {
+        "filename": "hachemi-djoudi.jpg",
+        "sourceFilename": "Hachemi Djoudi.jpg",
+        "url": "https://static.wixstatic.com/media/1f2182_85f1e9ae3fd8429ba97dbe3c14f64138~mv2.jpg",
+        "pageUrl": "https://static.wixstatic.com/media/1f2182_85f1e9ae3fd8429ba97dbe3c14f64138~mv2.jpg/v1/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Hachemi%20Djoudi.jpg"
+      },
+      "needsReview": false,
+      "reviewNotes": null,
+      "sourceUrl": "https://www.arabrheumatology.org/board-of-directors"
+    },
+    {
+      "id": "board-009",
+      "slug": "ayman-el-garf",
+      "sortOrder": 9,
+      "group": "board-members",
+      "groupLabel": "Board Members",
+      "name": "Ayman El Garf",
+      "credentials": [
+        "MD"
+      ],
+      "fullName": "Ayman El Garf, MD",
+      "leadershipRole": null,
+      "displayRole": "Board Member",
+      "country": {
+        "name": "Egypt",
+        "sourceLabel": "Egypt",
+        "code": "EG",
+        "flagFilename": "eg-egypt.png",
+        "flagUrl": "https://static.wixstatic.com/media/1f2182_8e51d190d3f24532961fe2d2609b5d6e~mv2.png"
+      },
+      "bio": [
+        "Professor Emeritus in the Rheumatology Department, Faculty of Medicine, Cairo University",
+        "President of the Egyptian Society for Joint Diseases and Arthritis (ESRD)",
+        "Founding Member of ArLAR"
+      ],
+      "bioText": "Professor Emeritus in the Rheumatology Department, Faculty of Medicine, Cairo University\nPresident of the Egyptian Society for Joint Diseases and Arthritis (ESRD)\nFounding Member of ArLAR",
+      "bioHtml": "<ul><li>Professor Emeritus in the Rheumatology Department, Faculty of Medicine, Cairo University</li><li>President of the Egyptian Society for Joint Diseases and Arthritis (ESRD)</li><li>Founding Member of ArLAR</li></ul>",
+      "sourceBio": [
+        "Professor Emeritus of Rheumatology Department, Faculty of Medicine, Cairo University",
+        "President of the Egyptian Society for Joint Diseases and Arthritis-ESRD",
+        "Founding member of the ArLAR"
+      ],
+      "image": {
+        "filename": "ayman-el-garf.jpg",
+        "sourceFilename": "Ayman Garf.jpg",
+        "url": "https://static.wixstatic.com/media/7cc206_463e0d6707794b11a4c7b980e2b2c596~mv2.jpg",
+        "pageUrl": "https://static.wixstatic.com/media/7cc206_463e0d6707794b11a4c7b980e2b2c596~mv2.jpg/v1/crop/x_0%2Cy_0%2Cw_448%2Ch_449/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Ayman%20Garf.jpg"
+      },
+      "needsReview": false,
+      "reviewNotes": null,
+      "sourceUrl": "https://www.arabrheumatology.org/board-of-directors"
+    },
+    {
+      "id": "board-010",
+      "slug": "wafa-madanat",
+      "sortOrder": 10,
+      "group": "board-members",
+      "groupLabel": "Board Members",
+      "name": "Wafa Madanat",
+      "credentials": [
+        "MD"
+      ],
+      "fullName": "Wafa Madanat, MD",
+      "leadershipRole": null,
+      "displayRole": "Board Member",
+      "country": {
+        "name": "Jordan",
+        "sourceLabel": "Jordan",
+        "code": "JO",
+        "flagFilename": "jo-jordan.png",
+        "flagUrl": "https://static.wixstatic.com/media/1f2182_53417f88eac041f9b170b3aa9187566f~mv2.png"
+      },
+      "bio": [
+        "Consultant Rheumatologist",
+        "President of the Jordanian Society of Rheumatology (JSR)",
+        "Chairman of the Scientific Committee from 2004 to 2010",
+        "Council Member of the International Society for Behçet’s Disease",
+        "Member of the Editorial Board of the Journal of the Royal Medical Services",
+        "Reviewer for local and international journals"
+      ],
+      "bioText": "Consultant Rheumatologist\nPresident of the Jordanian Society of Rheumatology (JSR)\nChairman of the Scientific Committee from 2004 to 2010\nCouncil Member of the International Society for Behçet’s Disease\nMember of the Editorial Board of the Journal of the Royal Medical Services\nReviewer for local and international journals",
+      "bioHtml": "<ul><li>Consultant Rheumatologist</li><li>President of the Jordanian Society of Rheumatology (JSR)</li><li>Chairman of the Scientific Committee from 2004 to 2010</li><li>Council Member of the International Society for Behçet’s Disease</li><li>Member of the Editorial Board of the Journal of the Royal Medical Services</li><li>Reviewer for local and international journals</li></ul>",
+      "sourceBio": [
+        "Consultant Rheumatologist",
+        "President of the Jordanian Society of Rheumatology - JSR",
+        "Chairman of Scientific Committee 2004-2010",
+        "Council Member of the International Society for Behcet's disease",
+        "Member of Editorial Board - Journal of the Royal Medical Services",
+        "Reviewer - Local and International Journals"
+      ],
+      "image": {
+        "filename": "wafa-madanat.jpg",
+        "sourceFilename": "Wafa Madanat_edited.jpg",
+        "url": "https://static.wixstatic.com/media/1f2182_7a8124fb8f4e4870a6501c439f005434~mv2.jpg",
+        "pageUrl": "https://static.wixstatic.com/media/1f2182_7a8124fb8f4e4870a6501c439f005434~mv2.jpg/v1/crop/x_51%2Cy_0%2Cw_1399%2Ch_1399/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Wafa%20Madanat_edited.jpg"
+      },
+      "needsReview": false,
+      "reviewNotes": null,
+      "sourceUrl": "https://www.arabrheumatology.org/board-of-directors"
+    },
+    {
+      "id": "board-011",
+      "slug": "hebah-al-hajeri",
+      "sortOrder": 11,
+      "group": "board-members",
+      "groupLabel": "Board Members",
+      "name": "Hebah Al-Hajeri",
+      "credentials": [
+        "MD"
+      ],
+      "fullName": "Hebah Al-Hajeri, MD",
+      "leadershipRole": null,
+      "displayRole": "Board Member",
+      "country": {
+        "name": "Kuwait",
+        "sourceLabel": "Kuwait",
+        "code": "KW",
+        "flagFilename": "kw-kuwait.png",
+        "flagUrl": "https://static.wixstatic.com/media/1f2182_96aa46a3e72b4afb814aff926a3be7bc~mv2.png"
+      },
+      "bio": [
+        "President of the Kuwait Association of Rheumatology (KAR)",
+        "Consultant in Internal Medicine and Rheumatology at Mubarak Al-Kabeer Hospital, Kuwait"
+      ],
+      "bioText": "President of the Kuwait Association of Rheumatology (KAR)\nConsultant in Internal Medicine and Rheumatology at Mubarak Al-Kabeer Hospital, Kuwait",
+      "bioHtml": "<ul><li>President of the Kuwait Association of Rheumatology (KAR)</li><li>Consultant in Internal Medicine and Rheumatology at Mubarak Al-Kabeer Hospital, Kuwait</li></ul>",
+      "sourceBio": [
+        "President of Kuwait Association of Rheumatology-KAR",
+        "Consultant Internal Medicine and Rheumatology Mubarak Al-Kabeer Hospital , Kuwait"
+      ],
+      "image": {
+        "filename": "hebah-al-hajeri.jpg",
+        "sourceFilename": "Dr. Heba.jpg",
+        "url": "https://static.wixstatic.com/media/1f2182_6e499b7fff1c4307b55038536df11c85~mv2.jpg",
+        "pageUrl": "https://static.wixstatic.com/media/1f2182_6e499b7fff1c4307b55038536df11c85~mv2.jpg/v1/crop/x_0%2Cy_0%2Cw_396%2Ch_396/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Dr_%20Heba.jpg"
+      },
+      "needsReview": false,
+      "reviewNotes": null,
+      "sourceUrl": "https://www.arabrheumatology.org/board-of-directors"
+    },
+    {
+      "id": "board-012",
+      "slug": "nelly-ziade-zoghbi",
+      "sortOrder": 12,
+      "group": "board-members",
+      "groupLabel": "Board Members",
+      "name": "Nelly Ziade Zoghbi",
+      "credentials": [
+        "MD"
+      ],
+      "fullName": "Nelly Ziade Zoghbi, MD",
+      "leadershipRole": null,
+      "displayRole": "Board Member",
+      "country": {
+        "name": "Lebanon",
+        "sourceLabel": "Lebanon",
+        "code": "LB",
+        "flagFilename": "lb-lebanon.png",
+        "flagUrl": "https://static.wixstatic.com/media/7cc206_a1e15183337e45c0aff420259139a98f~mv2.png"
+      },
+      "bio": [
+        "President of the Lebanese Society of Rheumatology (LSR)",
+        "Consultant Rheumatologist",
+        "Assistant Professor of Rheumatology, Public Health and Epidemiology at Hotel-Dieu de France Hospital and Saint-Joseph University of Beirut"
+      ],
+      "bioText": "President of the Lebanese Society of Rheumatology (LSR)\nConsultant Rheumatologist\nAssistant Professor of Rheumatology, Public Health and Epidemiology at Hotel-Dieu de France Hospital and Saint-Joseph University of Beirut",
+      "bioHtml": "<ul><li>President of the Lebanese Society of Rheumatology (LSR)</li><li>Consultant Rheumatologist</li><li>Assistant Professor of Rheumatology, Public Health and Epidemiology at Hotel-Dieu de France Hospital and Saint-Joseph University of Beirut</li></ul>",
+      "sourceBio": [
+        "President of the Lebanese Society of Rheumatology - LSR",
+        "Consultant Rheumatologist",
+        "Assistant Professor of Rheumatology Public Health and Epidemiology, Hotel-Dieu de France Hospital and Saint-Joseph University Beirut"
+      ],
+      "image": {
+        "filename": "nelly-ziade-zoghbi.jpg",
+        "sourceFilename": "Ziade_Nelly_Photo2020_ARLAR_edited.jpg",
+        "url": "https://static.wixstatic.com/media/1f2182_b36a79e49528450186faed162b457115~mv2.jpg",
+        "pageUrl": "https://static.wixstatic.com/media/1f2182_b36a79e49528450186faed162b457115~mv2.jpg/v1/crop/x_204%2Cy_0%2Cw_1767%2Ch_1767/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Ziade_Nelly_Photo2020_ARLAR_edited.jpg"
+      },
+      "needsReview": false,
+      "reviewNotes": null,
+      "sourceUrl": "https://www.arabrheumatology.org/board-of-directors"
+    },
+    {
+      "id": "board-013",
+      "slug": "soad-hashad",
+      "sortOrder": 13,
+      "group": "board-members",
+      "groupLabel": "Board Members",
+      "name": "Soad Hashad",
+      "credentials": [
+        "MD"
+      ],
+      "fullName": "Soad Hashad, MD",
+      "leadershipRole": null,
+      "displayRole": "Board Member",
+      "country": {
+        "name": "Libya",
+        "sourceLabel": "Libya",
+        "code": "LY",
+        "flagFilename": "ly-libya.png",
+        "flagUrl": "https://static.wixstatic.com/media/7cc206_abf091f43465474c89deec31650cf1dc~mv2.png"
+      },
+      "bio": [
+        "Consultant Pediatric Rheumatologist and one of the founders of the Pediatric Rheumatology Outpatient Department at Tripoli Children’s Hospital, established in 2008."
+      ],
+      "bioText": "Consultant Pediatric Rheumatologist and one of the founders of the Pediatric Rheumatology Outpatient Department at Tripoli Children’s Hospital, established in 2008.",
+      "bioHtml": "<ul><li>Consultant Pediatric Rheumatologist and one of the founders of the Pediatric Rheumatology Outpatient Department at Tripoli Children’s Hospital, established in 2008.</li></ul>",
+      "sourceBio": [
+        "Consultant pediatric rheumatologist and one of the founders of pediatric rheumatology O.P.D in Tripoli Children Hospital since 2008."
+      ],
+      "image": {
+        "filename": "soad-hashad.png",
+        "sourceFilename": "image1.png",
+        "url": "https://static.wixstatic.com/media/1f2182_6922da8398294cbda03a2e22bc96532a~mv2.png",
+        "pageUrl": "https://static.wixstatic.com/media/1f2182_6922da8398294cbda03a2e22bc96532a~mv2.png/v1/crop/x_0%2Cy_33%2Cw_180%2Ch_180/fill/w_160%2Ch_160%2Cal_c%2Cq_95%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/image1.png"
+      },
+      "needsReview": false,
+      "reviewNotes": null,
+      "sourceUrl": "https://www.arabrheumatology.org/board-of-directors"
+    },
+    {
+      "id": "board-014",
+      "slug": "abdellah-el-maghraoui",
+      "sortOrder": 14,
+      "group": "board-members",
+      "groupLabel": "Board Members",
+      "name": "Abdellah El Maghraoui",
+      "credentials": [
+        "MD"
+      ],
+      "fullName": "Abdellah El Maghraoui, MD",
+      "leadershipRole": null,
+      "displayRole": "Board Member",
+      "country": {
+        "name": "Morocco",
+        "sourceLabel": "Morocco",
+        "code": "MA",
+        "flagFilename": "ma-morocco.png",
+        "flagUrl": "https://static.wixstatic.com/media/7cc206_727d39dd8a6d4ace9db457f1f96c5d4e~mv2.png"
+      },
+      "bio": [
+        "Professor of Higher Education in Rheumatology",
+        "Former Lecturer and Researcher at the Faculty of Medicine and Pharmacy of Rabat",
+        "Lecturer at Mohammed VI University of Health Sciences",
+        "Former Head of the Rheumatology Department at Mohammed V Military Teaching Hospital, Rabat, Morocco",
+        "President of the Association of Private Rheumatologists of Rabat",
+        "President of the Moroccan Society of Rheumatology",
+        "Board Member of the International Osteoporosis Foundation (IOF)",
+        "Associate Member of the Assessment of SpondyloArthritis International Society (ASAS)"
+      ],
+      "bioText": "Professor of Higher Education in Rheumatology\nFormer Lecturer and Researcher at the Faculty of Medicine and Pharmacy of Rabat\nLecturer at Mohammed VI University of Health Sciences\nFormer Head of the Rheumatology Department at Mohammed V Military Teaching Hospital, Rabat, Morocco\nPresident of the Association of Private Rheumatologists of Rabat\nPresident of the Moroccan Society of Rheumatology\nBoard Member of the International Osteoporosis Foundation (IOF)\nAssociate Member of the Assessment of SpondyloArthritis International Society (ASAS)",
+      "bioHtml": "<ul><li>Professor of Higher Education in Rheumatology</li><li>Former Lecturer and Researcher at the Faculty of Medicine and Pharmacy of Rabat</li><li>Lecturer at Mohammed VI University of Health Sciences</li><li>Former Head of the Rheumatology Department at Mohammed V Military Teaching Hospital, Rabat, Morocco</li><li>President of the Association of Private Rheumatologists of Rabat</li><li>President of the Moroccan Society of Rheumatology</li><li>Board Member of the International Osteoporosis Foundation (IOF)</li><li>Associate Member of the Assessment of SpondyloArthritis International Society (ASAS)</li></ul>",
+      "sourceBio": [
+        "Professor of Higher Education in Rheumatology",
+        "Former Lecturer and Researcher at the Faculty of Medicine and Pharmacy of Rabat",
+        "Lecturer at Mohammed VI University of Health Sciences",
+        "Former Head of the Rheumatology Department at Mohammed V Military Teaching Hospital, Rabat, Morocco",
+        "President of the Association of Private Rheumatologists of Rabat",
+        "President of the Moroccan Society of Rheumatology",
+        "Board Member of the International Osteoporosis Foundation (IOF)",
+        "Associate Member of the Assessment of SpondyloArthritis International Society (ASAS)"
+      ],
+      "image": {
+        "filename": "abdellah-el-maghraoui.jpg",
+        "sourceFilename": "WhatsApp Image 2025-06-03 at 16.23_edited.jpg",
+        "url": "https://static.wixstatic.com/media/bba2f0_acd8b4f90d154206ab4a23ad23722919~mv2.jpg",
+        "pageUrl": "https://static.wixstatic.com/media/bba2f0_acd8b4f90d154206ab4a23ad23722919~mv2.jpg/v1/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/WhatsApp%20Image%202025-06-03%20at%2016_23_edited.jpg"
+      },
+      "needsReview": false,
+      "reviewNotes": null,
+      "sourceUrl": "https://www.arabrheumatology.org/board-of-directors"
+    },
+    {
+      "id": "board-015",
+      "slug": "humaid-al-wahshi",
+      "sortOrder": 15,
+      "group": "board-members",
+      "groupLabel": "Board Members",
+      "name": "Humaid Al Wahshi",
+      "credentials": [
+        "MD"
+      ],
+      "fullName": "Humaid Al Wahshi, MD",
+      "leadershipRole": null,
+      "displayRole": "Board Member",
+      "country": {
+        "name": "Oman",
+        "sourceLabel": "Oman",
+        "code": "OM",
+        "flagFilename": "om-oman.png",
+        "flagUrl": "https://static.wixstatic.com/media/7cc206_478f9da23c98442c8a773cef731b3f07~mv2.png"
+      },
+      "bio": [
+        "Senior Consultant Internist, Rheumatologist and Immunologist in Muscat, Oman",
+        "President of the Oman Society of Rheumatology (OSR)"
+      ],
+      "bioText": "Senior Consultant Internist, Rheumatologist and Immunologist in Muscat, Oman\nPresident of the Oman Society of Rheumatology (OSR)",
+      "bioHtml": "<ul><li>Senior Consultant Internist, Rheumatologist and Immunologist in Muscat, Oman</li><li>President of the Oman Society of Rheumatology (OSR)</li></ul>",
+      "sourceBio": [
+        "Senior Consultant Internist, Rheumatologist and Immunologist, Muscat, Oman",
+        "President of the Oman Society of Rheumatology-OSR"
+      ],
+      "image": {
+        "filename": "humaid-al-wahshi.jpeg",
+        "sourceFilename": "Humaid Al Wahshi.jpeg",
+        "url": "https://static.wixstatic.com/media/1f2182_a26a8a437d26479dbc5c04cc85bc8f80~mv2.jpeg",
+        "pageUrl": "https://static.wixstatic.com/media/1f2182_a26a8a437d26479dbc5c04cc85bc8f80~mv2.jpeg/v1/crop/x_0%2Cy_169%2Cw_687%2Ch_687/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Humaid%20Al%20Wahshi.jpeg"
+      },
+      "needsReview": false,
+      "reviewNotes": null,
+      "sourceUrl": "https://www.arabrheumatology.org/board-of-directors"
+    },
+    {
+      "id": "board-016",
+      "slug": "riad-eid",
+      "sortOrder": 16,
+      "group": "board-members",
+      "groupLabel": "Board Members",
+      "name": "Riad Eid",
+      "credentials": [
+        "MD"
+      ],
+      "fullName": "Riad Eid, MD",
+      "leadershipRole": null,
+      "displayRole": "Board Member",
+      "country": {
+        "name": "Palestine",
+        "sourceLabel": "Palestine",
+        "code": "PS",
+        "flagFilename": "ps-palestine.png",
+        "flagUrl": "https://static.wixstatic.com/media/1f2182_d49af3795ec84910a48d1c2e1df47fcb~mv2.png"
+      },
+      "bio": [
+        "Assistant Professor of Medicine and Rheumatology at Al-Quds University",
+        "Senior Consultant in Rheumatology and Internal Medicine at Jericho Hospital, Palestinian Ministry of Health",
+        "President of the Palestinian Rheumatology Society (PSR)"
+      ],
+      "bioText": "Assistant Professor of Medicine and Rheumatology at Al-Quds University\nSenior Consultant in Rheumatology and Internal Medicine at Jericho Hospital, Palestinian Ministry of Health\nPresident of the Palestinian Rheumatology Society (PSR)",
+      "bioHtml": "<ul><li>Assistant Professor of Medicine and Rheumatology at Al-Quds University</li><li>Senior Consultant in Rheumatology and Internal Medicine at Jericho Hospital, Palestinian Ministry of Health</li><li>President of the Palestinian Rheumatology Society (PSR)</li></ul>",
+      "sourceBio": [
+        "Assistant professor of Medicine and Rheumatology at Alquds university",
+        "Sr.consultant Rheumatologist and Internal disease’s at Jericho hospital - Palestinian Ministry Of Health.",
+        "President of the Palestinian Rheumatology Society - PSR"
+      ],
+      "image": {
+        "filename": "riad-eid.jpg",
+        "sourceFilename": "Riad Eid_edited.jpg",
+        "url": "https://static.wixstatic.com/media/1f2182_7e8ccd021c5548ed90478f9c68425ff7~mv2.jpg",
+        "pageUrl": "https://static.wixstatic.com/media/1f2182_7e8ccd021c5548ed90478f9c68425ff7~mv2.jpg/v1/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Riad%20Eid_edited.jpg"
+      },
+      "needsReview": false,
+      "reviewNotes": null,
+      "sourceUrl": "https://www.arabrheumatology.org/board-of-directors"
+    },
+    {
+      "id": "board-017",
+      "slug": "samar-al-emadi",
+      "sortOrder": 17,
+      "group": "board-members",
+      "groupLabel": "Board Members",
+      "name": "Samar Al Emadi",
+      "credentials": [
+        "MD"
+      ],
+      "fullName": "Samar Al Emadi, MD",
+      "leadershipRole": null,
+      "displayRole": "Board Member",
+      "country": {
+        "name": "Qatar",
+        "sourceLabel": "Qatar",
+        "code": "QA",
+        "flagFilename": "qa-qatar.svg",
+        "flagUrl": "https://static.wixstatic.com/media/1f2182_84dcb70f903640a699bc0554e3da35fc~mv2.png"
+      },
+      "bio": [
+        "Senior Consultant Rheumatologist in Doha, Qatar",
+        "President of the Qatar Rheumatology Society (QRS)",
+        "Head of the Rheumatology Division at Hamad Medical Corporation"
+      ],
+      "bioText": "Senior Consultant Rheumatologist in Doha, Qatar\nPresident of the Qatar Rheumatology Society (QRS)\nHead of the Rheumatology Division at Hamad Medical Corporation",
+      "bioHtml": "<ul><li>Senior Consultant Rheumatologist in Doha, Qatar</li><li>President of the Qatar Rheumatology Society (QRS)</li><li>Head of the Rheumatology Division at Hamad Medical Corporation</li></ul>",
+      "sourceBio": [
+        "Sr. Consultant Rheumatologist, Doha, Qatar",
+        "President of the Qatar Rheumatology Society-QRS",
+        "Head of Rheumatology Division at Hamad Medical Corporation"
+      ],
+      "image": {
+        "filename": "samar-al-emadi.jpg",
+        "sourceFilename": "Samar AlEmadi_edited.jpg",
+        "url": "https://static.wixstatic.com/media/1f2182_28b1ac960fa24ac9b0738fec71c74e40~mv2.jpg",
+        "pageUrl": "https://static.wixstatic.com/media/1f2182_28b1ac960fa24ac9b0738fec71c74e40~mv2.jpg/v1/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Samar%20AlEmadi_edited.jpg"
+      },
+      "needsReview": false,
+      "reviewNotes": null,
+      "sourceUrl": "https://www.arabrheumatology.org/board-of-directors"
+    },
+    {
+      "id": "board-018",
+      "slug": "hanan-al-rayes",
+      "sortOrder": 18,
+      "group": "board-members",
+      "groupLabel": "Board Members",
+      "name": "Hanan Al-Rayes",
+      "credentials": [
+        "MD"
+      ],
+      "fullName": "Hanan Al-Rayes, MD",
+      "leadershipRole": null,
+      "displayRole": "Board Member",
+      "country": {
+        "name": "Saudi Arabia",
+        "sourceLabel": "KSA",
+        "code": "SA",
+        "flagFilename": "sa-saudi-arabia.png",
+        "flagUrl": "https://static.wixstatic.com/media/1f2182_3f839088519a4e73bd6d5e67b6ffbe1b~mv2.png"
+      },
+      "bio": [
+        "Consultant Rheumatologist with a subspecialty in lupus",
+        "Associate Professor at King Faisal University College of Medicine",
+        "President of the Saudi Society for Rheumatology (SSR)"
+      ],
+      "bioText": "Consultant Rheumatologist with a subspecialty in lupus\nAssociate Professor at King Faisal University College of Medicine\nPresident of the Saudi Society for Rheumatology (SSR)",
+      "bioHtml": "<ul><li>Consultant Rheumatologist with a subspecialty in lupus</li><li>Associate Professor at King Faisal University College of Medicine</li><li>President of the Saudi Society for Rheumatology (SSR)</li></ul>",
+      "sourceBio": [
+        "Consultant Rheumatologist, Lupus subspecialty",
+        "Associate Professor King Faisal University, Medicine College",
+        "President of the Saudi Society for Rheumatology-SSR"
+      ],
+      "image": {
+        "filename": "hanan-al-rayes.jpg",
+        "sourceFilename": "Hanan Al Rayes_edited.jpg",
+        "url": "https://static.wixstatic.com/media/1f2182_948c2c7c877649adbc288c4e7f98191a~mv2.jpg",
+        "pageUrl": "https://static.wixstatic.com/media/1f2182_948c2c7c877649adbc288c4e7f98191a~mv2.jpg/v1/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Hanan%20Al%20Rayes_edited.jpg"
+      },
+      "needsReview": false,
+      "reviewNotes": null,
+      "sourceUrl": "https://www.arabrheumatology.org/board-of-directors"
+    },
+    {
+      "id": "board-019",
+      "slug": "wafa-hassan-al-bashir",
+      "sortOrder": 19,
+      "group": "board-members",
+      "groupLabel": "Board Members",
+      "name": "Wafa Hassan Al-Bashir",
+      "credentials": [
+        "MD"
+      ],
+      "fullName": "Wafa Hassan Al-Bashir, MD",
+      "leadershipRole": null,
+      "displayRole": "Board Member",
+      "country": {
+        "name": "Sudan",
+        "sourceLabel": "Sudan",
+        "code": "SD",
+        "flagFilename": "sd-sudan.png",
+        "flagUrl": "https://static.wixstatic.com/media/1f2182_da47fb5ec49e4247a83c3f17e2642c11~mv2.png"
+      },
+      "bio": [
+        "Consultant in Internal Medicine and Rheumatology",
+        "President of the Sudanese Society of Rheumatology",
+        "Affiliated with Friendship Teaching Hospital and Alia Specialized Hospital"
+      ],
+      "bioText": "Consultant in Internal Medicine and Rheumatology\nPresident of the Sudanese Society of Rheumatology\nAffiliated with Friendship Teaching Hospital and Alia Specialized Hospital",
+      "bioHtml": "<ul><li>Consultant in Internal Medicine and Rheumatology</li><li>President of the Sudanese Society of Rheumatology</li><li>Affiliated with Friendship Teaching Hospital and Alia Specialized Hospital</li></ul>",
+      "sourceBio": [
+        "Internal medicine and rheumatology consultant President of the Sudanese Society of Rheumatology Friendship Teaching Hospital Alia Specialized Hospital"
+      ],
+      "image": {
+        "filename": "wafa-hassan-al-bashir.jpg",
+        "sourceFilename": "WhatsApp Image 2021-04-14 at 4.5.jpg",
+        "url": "https://static.wixstatic.com/media/1f2182_bad0d0f26deb40c490cd8d05e35d914e~mv2.jpg",
+        "pageUrl": "https://static.wixstatic.com/media/1f2182_bad0d0f26deb40c490cd8d05e35d914e~mv2.jpg/v1/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/WhatsApp%2520Image%25202021-04-14%2520at%25204_5.jpg"
+      },
+      "needsReview": true,
+      "reviewNotes": "The source biography is one unpunctuated line. Confirm the cleaned separation of roles and affiliations.",
+      "sourceUrl": "https://www.arabrheumatology.org/board-of-directors"
+    },
+    {
+      "id": "board-020",
+      "slug": "majed-abboud",
+      "sortOrder": 20,
+      "group": "board-members",
+      "groupLabel": "Board Members",
+      "name": "Majed Abboud",
+      "credentials": [
+        "MD"
+      ],
+      "fullName": "Majed Abboud, MD",
+      "leadershipRole": null,
+      "displayRole": "Board Member",
+      "country": {
+        "name": "Syria",
+        "sourceLabel": "Syria",
+        "code": "SY",
+        "flagFilename": "sy-syria.webp",
+        "flagUrl": "https://static.wixstatic.com/media/bba2f0_337450a2ae334da9ae45a12417661586~mv2.webp"
+      },
+      "bio": [],
+      "bioText": "",
+      "bioHtml": "",
+      "sourceBio": [],
+      "image": {
+        "filename": "majed-abboud.jpg",
+        "sourceFilename": "WhatsApp Image 2025-04-09 at 11.16_edited.jpg",
+        "url": "https://static.wixstatic.com/media/bba2f0_9e8cc3a1b887476ba8e774a82817b707~mv2.jpg",
+        "pageUrl": "https://static.wixstatic.com/media/bba2f0_9e8cc3a1b887476ba8e774a82817b707~mv2.jpg/v1/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/WhatsApp%20Image%202025-04-09%20at%2011_16_edited.jpg"
+      },
+      "needsReview": true,
+      "reviewNotes": "No professional biography or society position is provided on the source page.",
+      "sourceUrl": "https://www.arabrheumatology.org/board-of-directors"
+    },
+    {
+      "id": "board-021",
+      "slug": "souheil-aloui",
+      "sortOrder": 21,
+      "group": "board-members",
+      "groupLabel": "Board Members",
+      "name": "Souheil Aloui",
+      "credentials": [
+        "MD"
+      ],
+      "fullName": "Souheil Aloui, MD",
+      "leadershipRole": null,
+      "displayRole": "Board Member",
+      "country": {
+        "name": "Tunisia",
+        "sourceLabel": "Tunisia",
+        "code": "TN",
+        "flagFilename": "tn-tunisia.png",
+        "flagUrl": "https://static.wixstatic.com/media/1f2182_eff4a4bdcc9348a1bcc6216bf954f2d8~mv2.png"
+      },
+      "bio": [],
+      "bioText": "",
+      "bioHtml": "",
+      "sourceBio": [],
+      "image": {
+        "filename": "souheil-aloui.jpg",
+        "sourceFilename": "WhatsApp Image 2025-04-08 at 14.38_edited.jpg",
+        "url": "https://static.wixstatic.com/media/bba2f0_65bbfefbe00645799bd930342d05c5e5~mv2.jpg",
+        "pageUrl": "https://static.wixstatic.com/media/bba2f0_65bbfefbe00645799bd930342d05c5e5~mv2.jpg/v1/fill/w_160%2Ch_160%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/WhatsApp%20Image%202025-04-08%20at%2014_38_edited.jpg"
+      },
+      "needsReview": true,
+      "reviewNotes": "No professional biography or society position is provided on the source page.",
+      "sourceUrl": "https://www.arabrheumatology.org/board-of-directors"
+    }
+  ]
+}
