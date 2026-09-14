@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 
-import { localizePath, locales, type Locale } from "@/i18n/config";
+import { defaultLocale, isLocale, localizePath, locales, type Locale } from "@/i18n/config";
 import { translate } from "@/i18n/messages";
 
 export const SITE_URL = "https://www.arabrheumatology.org";
@@ -254,9 +254,9 @@ export function buildLocalizedMetadata({
 }
 
 export function createStaticPageMetadata(path: StaticSeoPath) {
-  return async ({ params }: { params: Promise<{ lang: Locale }> }): Promise<Metadata> => {
+  return async ({ params }: { params: Promise<{ lang: string }> }): Promise<Metadata> => {
     const { lang } = await params;
     const entry = seoEntries[path];
-    return buildLocalizedMetadata({ locale: lang, path, ...entry });
+    return buildLocalizedMetadata({ locale: isLocale(lang) ? lang : defaultLocale, path, ...entry });
   };
 }
