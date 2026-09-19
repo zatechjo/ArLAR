@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useState } from "react";
 import {
   ArrowRight,
   BookOpen,
@@ -176,54 +176,6 @@ export function Hero() {
   const isRtl = locale === "ar";
   const [activeIndex, setActiveIndex] = useState(0);
   const [isPaused, setIsPaused] = useState(false);
-  const heroRef = useRef<HTMLElement>(null);
-
-  useEffect(() => {
-    let resolutionQuery: MediaQueryList | null = null;
-
-    const updateScale = () => {
-      const density = Math.max(1, window.devicePixelRatio || 1);
-      const isMac = /Macintosh|Mac OS X/.test(navigator.userAgent);
-      let nativeDensity = 1;
-
-      if (isMac && density >= 1.9) {
-        nativeDensity = 2;
-      } else if (density >= 1.9) {
-        const roundedDensity = Math.round(density);
-        nativeDensity = Math.abs(density - roundedDensity) < 0.04
-          ? roundedDensity
-          : Math.max(2, Math.floor(density));
-      }
-
-      const displayScale = Math.max(1, density / nativeDensity);
-      const scale = displayScale > 1.04
-        ? Math.max(0.64, 1 / displayScale)
-        : 1;
-
-      heroRef.current?.style.setProperty(
-        "--hero-browser-scale",
-        scale.toFixed(3),
-      );
-    };
-
-    const observeResolution = () => {
-      resolutionQuery?.removeEventListener("change", observeResolution);
-      updateScale();
-      resolutionQuery = window.matchMedia(
-        `(resolution: ${window.devicePixelRatio}dppx)`,
-      );
-      resolutionQuery.addEventListener("change", observeResolution);
-    };
-
-    observeResolution();
-    window.addEventListener("resize", updateScale, { passive: true });
-
-    return () => {
-      resolutionQuery?.removeEventListener("change", observeResolution);
-      window.removeEventListener("resize", updateScale);
-    };
-  }, []);
-
   useEffect(() => {
     if (isPaused) return;
 
@@ -242,7 +194,6 @@ export function Hero() {
 
   return (
     <section
-      ref={heroRef}
       aria-label={t("Featured ArLAR content")}
       aria-roledescription="carousel"
       onMouseEnter={() => setIsPaused(true)}
@@ -253,7 +204,7 @@ export function Hero() {
           setIsPaused(false);
         }
       }}
-      className="relative isolate grid min-h-[27rem] overflow-hidden bg-ink-950 text-white [--hero-browser-scale:1] sm:min-h-[31rem] xl:min-h-[calc(100svh-9rem)] min-[1700px]:min-h-[calc(100svh-13rem)]"
+      className="relative isolate grid min-h-[27rem] overflow-hidden bg-ink-950 text-white sm:min-h-[31rem] xl:min-h-[calc(100svh-9rem)] min-[1700px]:min-h-[calc(100svh-13rem)]"
     >
       {slides.map((slide, index) => {
         const isActive = index === activeIndex;
@@ -317,13 +268,13 @@ export function Hero() {
               </div>
             ) : null}
 
-            <div className="relative z-10 mx-auto flex w-full max-w-7xl items-start px-4 pb-10 pt-16 sm:items-center sm:px-6 sm:pb-28 sm:pt-9 xl:min-h-[calc(100svh-9rem)] xl:pb-16 xl:pt-7 min-[1400px]:pl-[max(1.5rem,calc(50rem-50vw))]! min-[1700px]:min-h-[calc(100svh-13rem)]">
+            <div className="relative z-10 mx-auto flex w-full max-w-7xl items-start px-4 pb-10 pt-16 sm:items-center sm:px-6 sm:pb-28 sm:pt-9 lg:max-xl:min-h-[31rem] lg:max-xl:pb-20 lg:max-xl:pt-4 xl:min-h-[calc(100svh-9rem)] xl:pb-16 xl:pt-7 min-[1400px]:pl-[max(1.5rem,calc(50rem-50vw))]! min-[1700px]:min-h-[calc(100svh-13rem)]">
               <div
-                className={`w-full transform-gpu [zoom:var(--hero-browser-scale)] transition-all duration-[1200ms] ease-[cubic-bezier(0.22,1,0.36,1)] ${
+                className={`w-full transform-gpu transition-all duration-[1200ms] ease-[cubic-bezier(0.22,1,0.36,1)] ${
                   slide.id === "arlar" ? "max-w-[56rem]" : "max-w-[50rem]"
                 } ${
                   isActive
-                    ? "-translate-y-1 opacity-100 sm:-translate-y-8"
+                    ? "-translate-y-1 opacity-100 sm:max-[1023px]:-translate-y-8 xl:-translate-y-8"
                     : "translate-y-4 opacity-0"
                 }`}
               >
@@ -342,8 +293,8 @@ export function Hero() {
                 ) : (
                   <p
                     className={`${isLight
-                      ? "inline-flex items-center gap-[clamp(0.4rem,0.55vw,0.5rem)] rounded-full border border-ink-200 bg-white/60 px-[clamp(0.7rem,0.95vw,0.875rem)] py-[clamp(0.3rem,0.42vw,0.375rem)] text-[clamp(0.6875rem,0.72vw,0.6875rem)] font-semibold text-ink-700 backdrop-blur-md"
-                      : "inline-flex items-center gap-[clamp(0.4rem,0.55vw,0.5rem)] rounded-full border border-white/15 bg-ink-950/30 px-[clamp(0.7rem,0.95vw,0.875rem)] py-[clamp(0.3rem,0.42vw,0.375rem)] text-[clamp(0.6875rem,0.72vw,0.6875rem)] font-semibold text-white/85 backdrop-blur-md"
+                      ? "inline-flex items-center gap-[clamp(0.4rem,0.55vw,0.5rem)] rounded-full border border-ink-200 bg-white/60 px-[clamp(0.7rem,0.95vw,0.875rem)] py-[clamp(0.3rem,0.42vw,0.375rem)] text-[clamp(0.6875rem,0.72vw,0.6875rem)] font-semibold text-ink-700 backdrop-blur-md min-[1700px]:text-[12px]"
+                      : "inline-flex items-center gap-[clamp(0.4rem,0.55vw,0.5rem)] rounded-full border border-white/15 bg-ink-950/30 px-[clamp(0.7rem,0.95vw,0.875rem)] py-[clamp(0.3rem,0.42vw,0.375rem)] text-[clamp(0.6875rem,0.72vw,0.6875rem)] font-semibold text-white/85 backdrop-blur-md min-[1700px]:text-[12px]"
                     } tracking-[0.025em]`}
                   >
                     <span className={`size-2 rounded-full ${slide.dotClass}`} />
@@ -354,10 +305,10 @@ export function Hero() {
 
                 <Heading
                   className={isLight
-                    ? `mt-[clamp(0.625rem,calc(-0.125rem+1.25vw),1rem)] font-display text-[clamp(2rem,calc(0.875rem+2.35vw),3rem)] max-[359px]:text-[1.75rem] font-extrabold leading-[1.1] text-ink-950 [text-wrap:balance] ${
+                    ? `mt-[clamp(0.625rem,calc(-0.125rem+1.25vw),1rem)] font-display text-[clamp(2rem,calc(0.875rem+2.35vw),3rem)] max-[359px]:text-[1.75rem] lg:max-xl:text-[2.25rem] min-[1700px]:text-[3.75rem] font-extrabold leading-[1.1] text-ink-950 [text-wrap:balance] ${
                         slide.id === "arlar" ? "max-w-[56rem]" : "max-w-[50rem]"
                       }`
-                    : `mt-[clamp(0.625rem,calc(-0.125rem+1.25vw),1rem)] font-display text-[clamp(2rem,calc(0.875rem+2.35vw),3rem)] max-[359px]:text-[1.75rem] font-extrabold leading-[1.1] text-white [text-wrap:balance] ${
+                    : `mt-[clamp(0.625rem,calc(-0.125rem+1.25vw),1rem)] font-display text-[clamp(2rem,calc(0.875rem+2.35vw),3rem)] max-[359px]:text-[1.75rem] lg:max-xl:text-[2.25rem] min-[1700px]:text-[3.75rem] font-extrabold leading-[1.1] text-white [text-wrap:balance] ${
                         slide.id === "arlar" ? "max-w-[56rem]" : "max-w-[50rem]"
                       }`}
                 >
@@ -367,8 +318,8 @@ export function Hero() {
 
                 <p
                   className={isLight
-                    ? "mt-[clamp(0.625rem,calc(-0.125rem+1.25vw),1rem)] max-w-2xl text-[clamp(0.9375rem,calc(0.55rem+0.5vw),1rem)] leading-[1.65] text-ink-800 sm:text-ink-700"
-                    : "mt-[clamp(0.625rem,calc(-0.125rem+1.25vw),1rem)] max-w-2xl text-[clamp(0.9375rem,calc(0.55rem+0.5vw),1rem)] leading-[1.65] text-white/75"}
+                    ? "mt-[clamp(0.625rem,calc(-0.125rem+1.25vw),1rem)] max-w-2xl text-[clamp(0.9375rem,calc(0.55rem+0.5vw),1rem)] leading-[1.65] text-ink-800 sm:text-ink-700 lg:max-xl:text-[14px] min-[1700px]:max-w-3xl min-[1700px]:text-lg"
+                    : "mt-[clamp(0.625rem,calc(-0.125rem+1.25vw),1rem)] max-w-2xl text-[clamp(0.9375rem,calc(0.55rem+0.5vw),1rem)] leading-[1.65] text-white/75 lg:max-xl:text-[14px] min-[1700px]:max-w-3xl min-[1700px]:text-lg"}
                 >
                   {t(slide.description)}
                 </p>
@@ -377,7 +328,7 @@ export function Hero() {
                   <Link
                     href={href(slide.primaryAction.href)}
                     tabIndex={isActive ? undefined : -1}
-                    className={`group inline-flex min-h-11 items-center justify-center gap-[clamp(0.4rem,0.55vw,0.5rem)] rounded-full px-[clamp(1rem,1.67vw,1.5rem)] font-display text-[clamp(0.8125rem,calc(0.65625rem+0.208vw),0.84375rem)] font-semibold text-white shadow-lg transition-all hover:-translate-y-0.5 ${slide.primaryClass}`}
+                    className={`group inline-flex min-h-11 items-center justify-center gap-[clamp(0.4rem,0.55vw,0.5rem)] rounded-full px-[clamp(1rem,1.67vw,1.5rem)] font-display text-[clamp(0.8125rem,calc(0.65625rem+0.208vw),0.84375rem)] font-semibold text-white shadow-lg transition-all hover:-translate-y-0.5 min-[1700px]:text-[15px] ${slide.primaryClass}`}
                   >
                     {t(slide.primaryAction.label)}
                     <ArrowRight className="rtl-flip size-4 transition-transform group-hover:translate-x-1" />
@@ -386,8 +337,8 @@ export function Hero() {
                     href={href(slide.secondaryAction.href)}
                     tabIndex={isActive ? undefined : -1}
                     className={isLight
-                      ? "inline-flex min-h-11 items-center justify-center rounded-full border border-ink-300 bg-white/55 px-[clamp(1rem,1.67vw,1.5rem)] font-display text-[clamp(0.8125rem,calc(0.65625rem+0.208vw),0.84375rem)] font-semibold text-ink-900 backdrop-blur-md transition-all hover:-translate-y-0.5 hover:bg-white/80"
-                      : "inline-flex min-h-11 items-center justify-center rounded-full border border-white/25 bg-white/10 px-[clamp(1rem,1.67vw,1.5rem)] font-display text-[clamp(0.8125rem,calc(0.65625rem+0.208vw),0.84375rem)] font-semibold text-white backdrop-blur-md transition-all hover:-translate-y-0.5 hover:bg-white/20"}
+                      ? "inline-flex min-h-11 items-center justify-center rounded-full border border-ink-300 bg-white/55 px-[clamp(1rem,1.67vw,1.5rem)] font-display text-[clamp(0.8125rem,calc(0.65625rem+0.208vw),0.84375rem)] font-semibold text-ink-900 backdrop-blur-md transition-all hover:-translate-y-0.5 hover:bg-white/80 min-[1700px]:text-[15px]"
+                      : "inline-flex min-h-11 items-center justify-center rounded-full border border-white/25 bg-white/10 px-[clamp(1rem,1.67vw,1.5rem)] font-display text-[clamp(0.8125rem,calc(0.65625rem+0.208vw),0.84375rem)] font-semibold text-white backdrop-blur-md transition-all hover:-translate-y-0.5 hover:bg-white/20 min-[1700px]:text-[15px]"}
                   >
                     {t(slide.secondaryAction.label)}
                   </Link>
@@ -528,8 +479,8 @@ export function Hero() {
         aria-label={t("Show previous hero")}
         onClick={() => moveSlide(-1)}
         className={slides[activeIndex].tone === "light"
-          ? "group absolute left-4 top-4 z-30 grid size-9 place-items-center rounded-full border border-ink-200 bg-white/65 text-ink-700 shadow-xl shadow-ink-900/10 [zoom:var(--hero-browser-scale)] backdrop-blur-xl transition-all hover:scale-105 hover:border-ink-300 hover:bg-white hover:text-ink-950 sm:max-[1400px]:bottom-16 sm:max-[1400px]:left-auto sm:max-[1400px]:right-[4.75rem] sm:max-[1400px]:top-auto sm:max-[1400px]:size-11 min-[1400px]:left-24 min-[1400px]:top-1/2 min-[1400px]:size-13 min-[1400px]:-translate-y-1/2"
-          : "group absolute left-4 top-4 z-30 grid size-9 place-items-center rounded-full border border-white/20 bg-ink-950/55 text-white shadow-xl shadow-black/20 [zoom:var(--hero-browser-scale)] backdrop-blur-xl transition-all hover:scale-105 hover:border-white/40 hover:bg-white hover:text-ink-950 sm:max-[1400px]:bottom-16 sm:max-[1400px]:left-auto sm:max-[1400px]:right-[4.75rem] sm:max-[1400px]:top-auto sm:max-[1400px]:size-11 min-[1400px]:left-24 min-[1400px]:top-1/2 min-[1400px]:size-13 min-[1400px]:-translate-y-1/2"}
+          ? "group absolute left-4 top-4 z-30 grid size-9 place-items-center rounded-full border border-ink-200 bg-white/65 text-ink-700 shadow-xl shadow-ink-900/10 backdrop-blur-xl transition-all hover:scale-105 hover:border-ink-300 hover:bg-white hover:text-ink-950 sm:max-[1400px]:bottom-16 sm:max-[1400px]:left-auto sm:max-[1400px]:right-[4.75rem] sm:max-[1400px]:top-auto sm:max-[1400px]:size-11 min-[1400px]:left-24 min-[1400px]:top-1/2 min-[1400px]:size-13 min-[1400px]:-translate-y-1/2"
+          : "group absolute left-4 top-4 z-30 grid size-9 place-items-center rounded-full border border-white/20 bg-ink-950/55 text-white shadow-xl shadow-black/20 backdrop-blur-xl transition-all hover:scale-105 hover:border-white/40 hover:bg-white hover:text-ink-950 sm:max-[1400px]:bottom-16 sm:max-[1400px]:left-auto sm:max-[1400px]:right-[4.75rem] sm:max-[1400px]:top-auto sm:max-[1400px]:size-11 min-[1400px]:left-24 min-[1400px]:top-1/2 min-[1400px]:size-13 min-[1400px]:-translate-y-1/2"}
       >
         <ArrowRight className="size-4 rotate-180 transition-transform group-hover:-translate-x-0.5 lg:size-5" />
       </button>
@@ -538,8 +489,8 @@ export function Hero() {
         aria-label={t("Show next hero")}
         onClick={() => moveSlide(1)}
         className={slides[activeIndex].tone === "light"
-          ? "group absolute right-4 top-4 z-30 grid size-9 place-items-center rounded-full border border-ink-200 bg-white/65 text-ink-700 shadow-xl shadow-ink-900/10 [zoom:var(--hero-browser-scale)] backdrop-blur-xl transition-all hover:scale-105 hover:border-ink-300 hover:bg-white hover:text-ink-950 sm:max-[1400px]:bottom-16 sm:max-[1400px]:right-6 sm:max-[1400px]:top-auto sm:max-[1400px]:size-11 min-[1400px]:right-24 min-[1400px]:top-1/2 min-[1400px]:size-13 min-[1400px]:-translate-y-1/2"
-          : "group absolute right-4 top-4 z-30 grid size-9 place-items-center rounded-full border border-white/20 bg-ink-950/55 text-white shadow-xl shadow-black/20 [zoom:var(--hero-browser-scale)] backdrop-blur-xl transition-all hover:scale-105 hover:border-white/40 hover:bg-white hover:text-ink-950 sm:max-[1400px]:bottom-16 sm:max-[1400px]:right-6 sm:max-[1400px]:top-auto sm:max-[1400px]:size-11 min-[1400px]:right-24 min-[1400px]:top-1/2 min-[1400px]:size-13 min-[1400px]:-translate-y-1/2"}
+          ? "group absolute right-4 top-4 z-30 grid size-9 place-items-center rounded-full border border-ink-200 bg-white/65 text-ink-700 shadow-xl shadow-ink-900/10 backdrop-blur-xl transition-all hover:scale-105 hover:border-ink-300 hover:bg-white hover:text-ink-950 sm:max-[1400px]:bottom-16 sm:max-[1400px]:right-6 sm:max-[1400px]:top-auto sm:max-[1400px]:size-11 min-[1400px]:right-24 min-[1400px]:top-1/2 min-[1400px]:size-13 min-[1400px]:-translate-y-1/2"
+          : "group absolute right-4 top-4 z-30 grid size-9 place-items-center rounded-full border border-white/20 bg-ink-950/55 text-white shadow-xl shadow-black/20 backdrop-blur-xl transition-all hover:scale-105 hover:border-white/40 hover:bg-white hover:text-ink-950 sm:max-[1400px]:bottom-16 sm:max-[1400px]:right-6 sm:max-[1400px]:top-auto sm:max-[1400px]:size-11 min-[1400px]:right-24 min-[1400px]:top-1/2 min-[1400px]:size-13 min-[1400px]:-translate-y-1/2"}
       >
         <ArrowRight className="size-4 transition-transform group-hover:translate-x-0.5 lg:size-5" />
       </button>

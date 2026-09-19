@@ -86,7 +86,7 @@ const featureIcons = {
 
 function navButtonClass(active: boolean) {
   return [
-    "group/nav relative inline-flex h-10 w-full items-center justify-center gap-1.5 px-3 font-display text-[13px] font-medium whitespace-nowrap transition-colors min-[1700px]:h-12 min-[1700px]:text-[13.5px]",
+    "group/nav relative inline-flex h-10 w-full items-center justify-center gap-1.5 px-3 font-display text-[13px] font-medium whitespace-nowrap transition-colors lg:max-xl:h-11 lg:max-xl:gap-1 lg:max-xl:px-1.5 lg:max-xl:text-center lg:max-xl:text-[11px] lg:max-xl:leading-tight lg:max-xl:whitespace-normal min-[1700px]:h-12 min-[1700px]:text-[15px]",
     active
       ? "text-jade-700"
       : "text-ink-950 hover:bg-ink-50/90 hover:text-crimson-700",
@@ -363,7 +363,7 @@ function DesktopDropdown({
 
   return (
     <div
-      className="relative flex flex-auto items-center border-r border-ink-100 first:border-l"
+      className="relative flex min-w-0 flex-auto items-center border-r border-ink-100 first:border-l"
       onMouseEnter={onOpen}
       onMouseLeave={onClose}
     >
@@ -457,7 +457,7 @@ function DesktopNav({
   return (
     <nav
       aria-label="Main navigation"
-      className="mx-auto hidden w-full max-w-7xl items-center px-6 xl:flex"
+      className="mx-auto hidden w-full max-w-7xl items-center lg:grid lg:grid-cols-8 lg:px-4 xl:flex xl:px-6"
     >
       {items.map((item) => (
         <DesktopDropdown
@@ -583,14 +583,14 @@ function FeatureButton({ link }: { link: (typeof featureLinks)[number] }) {
       </span>
       <span className="min-w-0 flex-1 text-start leading-none">
         <span
-          className={`block truncate text-[8px] font-bold uppercase tracking-[0.13em] min-[1700px]:text-[9px] ${
+          className={`block truncate text-[8px] font-bold uppercase tracking-[0.13em] min-[1700px]:text-[10px] ${
             isCongress ? "text-sky-100/65" : "text-ink-400"
           }`}
         >
           {t(link.eyebrow)}
         </span>
         <span
-          className={`mt-0.5 block truncate font-display text-[11.5px] font-bold min-[1700px]:mt-1 min-[1700px]:text-[12.5px] ${
+          className={`mt-0.5 block truncate font-display text-[11.5px] font-bold min-[1700px]:mt-1 min-[1700px]:text-[13px] ${
             isCongress
               ? "text-[#ffd45c]"
               : "text-ink-900 transition-colors group-hover:text-crimson-700"
@@ -770,7 +770,7 @@ function MobileMenu({
       id="mobile-site-menu"
       aria-hidden={!open}
       inert={open ? undefined : true}
-      className={`fixed inset-x-0 bottom-0 top-[7.0625rem] z-40 origin-top overscroll-y-contain overflow-y-auto border-t border-ink-100 bg-white shadow-2xl shadow-ink-950/12 transition-[clip-path,opacity,transform] duration-400 ease-[cubic-bezier(0.22,1,0.36,1)] motion-reduce:transition-none sm:top-[8.0625rem] xl:hidden ${
+      className={`fixed inset-x-0 bottom-0 top-[7.0625rem] z-40 origin-top overscroll-y-contain overflow-y-auto border-t border-ink-100 bg-white shadow-2xl shadow-ink-950/12 transition-[clip-path,opacity,transform] duration-400 ease-[cubic-bezier(0.22,1,0.36,1)] motion-reduce:transition-none sm:top-[8.0625rem] lg:hidden ${
         open
           ? "pointer-events-auto translate-y-0 opacity-100 [clip-path:inset(0_0_0_0)]"
           : "pointer-events-none -translate-y-2 opacity-0 [clip-path:inset(0_0_100%_0)]"
@@ -926,6 +926,15 @@ export function SiteHeader({ locale, latestNews }: { locale: Locale; latestNews:
     };
   }, [mobileOpen]);
 
+  useEffect(() => {
+    const desktop = window.matchMedia("(min-width: 1024px)");
+    const closeMobileMenu = () => {
+      if (desktop.matches) setMobileOpen(false);
+    };
+    desktop.addEventListener("change", closeMobileMenu);
+    return () => desktop.removeEventListener("change", closeMobileMenu);
+  }, []);
+
   const openWithIntent = (label: string) => {
     if (closeTimer.current) clearTimeout(closeTimer.current);
     setOpenMenu(label);
@@ -959,7 +968,7 @@ export function SiteHeader({ locale, latestNews }: { locale: Locale; latestNews:
               >
                 <div
                   dir="ltr"
-                  className="flex w-max motion-safe:animate-marquee-header motion-reduce:translate-x-0 items-center whitespace-nowrap text-[9px] text-white/90 sm:text-[11.5px]"
+                  className="flex w-max motion-safe:animate-marquee-header motion-reduce:translate-x-0 items-center whitespace-nowrap text-[9px] text-white/90 sm:text-[11.5px] min-[1700px]:text-[12.5px]"
                   style={{ animationPlayState: tickerPaused ? "paused" : "running" }}
                 >
                   {[0, 1].map((segmentCopy) => (
@@ -986,7 +995,7 @@ export function SiteHeader({ locale, latestNews }: { locale: Locale; latestNews:
               </div>
             </div>
 
-          <div className="flex h-full shrink-0 items-center text-[11.5px]">
+          <div className="flex h-full shrink-0 items-center text-[11.5px] min-[1700px]:text-[13px]">
             <div className="hidden h-full items-center divide-x divide-white/25 sm:flex">
             {utilityLinks.map((link) => (
               <Link
@@ -1057,7 +1066,36 @@ export function SiteHeader({ locale, latestNews }: { locale: Locale; latestNews:
         </div>
       </div>
 
-      <div className="grid h-20 grid-cols-[1fr_auto_1fr] items-center gap-2 px-2 sm:h-24 sm:px-4 xl:hidden">
+      <div className="relative hidden h-20 grid-cols-[1fr_auto_1fr] items-center gap-4 border-b border-ink-100 bg-white px-6 lg:grid xl:hidden">
+        <MiddleDecor />
+        <div className="relative flex justify-start">
+          <FeatureButton link={featureLinks[0]} />
+        </div>
+        <Link href={href("/")} className="relative flex items-center justify-center">
+          <Image
+            src="/arlar-logo-tight.png"
+            alt="ArLAR - Arab League of Associations for Rheumatology"
+            width={1743}
+            height={825}
+            priority
+            className="h-16 w-auto"
+          />
+        </Link>
+        <div className="relative flex items-center justify-end gap-3">
+          <FeatureButton link={featureLinks[3]} />
+          <button
+            type="button"
+            aria-label={t("Search")}
+            aria-expanded={searchOpen}
+            onClick={() => setSearchOpen(true)}
+            className="grid size-11 place-items-center rounded-full bg-crimson-600 text-white transition-colors hover:bg-crimson-700"
+          >
+            <Search className="size-5" />
+          </button>
+        </div>
+      </div>
+
+      <div className="grid h-20 grid-cols-[1fr_auto_1fr] items-center gap-2 px-2 sm:h-24 sm:px-4 lg:hidden">
         <div className="flex justify-start">
           <button
             type="button"
@@ -1108,7 +1146,7 @@ export function SiteHeader({ locale, latestNews }: { locale: Locale; latestNews:
         </div>
       </div>
 
-      <div className="hidden border-b border-ink-100 bg-white/95 backdrop-blur-xl xl:block">
+      <div className="hidden border-b border-ink-100 bg-white/95 backdrop-blur-xl lg:block">
         <DesktopNav
           items={navItems}
           locale={locale}

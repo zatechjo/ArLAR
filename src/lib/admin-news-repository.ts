@@ -24,6 +24,7 @@ import { createSupabasePublicDataClient, getCurrentAdminProfileId, reportSupabas
 import { createSupabaseServerClient } from "@/lib/supabase/server";
 import type { Locale } from "@/i18n/config";
 import { getImportedArabicTranslation } from "@/lib/wix-blog-translations";
+import { siteMediaUrl } from "@/lib/media-url";
 
 type NewsLifecycle = "active" | "trashed" | "deleted";
 
@@ -87,7 +88,8 @@ function listLocalNewsCategories(): AdminNewsCategory[] {
 }
 
 function localizePublicArticle(article: ManagedNewsArticle, locale: Locale): ManagedNewsArticle {
-  if (locale === "en") return article;
+  const publicArticle = { ...article, image: siteMediaUrl(article.image) };
+  if (locale === "en") return publicArticle;
   const importedArabic = locale === "ar" ? getImportedArabicTranslation(article.id, article.slug) : undefined;
   const savedArabic = article.translations?.arabic;
   const translated = locale === "ar"
@@ -100,7 +102,7 @@ function localizePublicArticle(article: ManagedNewsArticle, locale: Locale): Man
       }
     : article.translations?.french;
   return {
-    ...article,
+    ...publicArticle,
     title: translated?.title?.trim() || article.title,
     imageAlt: translated?.title?.trim() || article.imageAlt,
     dateLabel: formatNewsDate(article.publishedAt, locale),
@@ -339,7 +341,7 @@ async function loadSupabaseNews(client: SupabaseClient, slug?: string, includeDr
       publishedAt,
       dateLabel: storedArticle.dateLabel || source?.dateLabel || formatNewsDate(publishedAt),
       minutesToRead: storedArticle.minutesToRead || source?.minutesToRead || Math.max(1, Math.ceil(contentText.split(/\s+/).filter(Boolean).length / 200)),
-      image: asset?.public_url || storedArticle.image || source?.image || "/images/arlar-logo.png",
+      image: siteMediaUrl(asset?.public_url || storedArticle.image || source?.image || "/images/arlar-logo.png"),
       imageAlt: asset?.alt_text || storedArticle.imageAlt || source?.imageAlt || english?.title || "ArLAR news",
       imageWidth: asset?.width || storedArticle.imageWidth || source?.imageWidth || 1600,
       imageHeight: asset?.height || storedArticle.imageHeight || source?.imageHeight || 1000,

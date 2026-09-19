@@ -31,7 +31,7 @@ export function CountryFlag({
   const assetName = UNIFORM_FLAG_ASSETS[filename] ?? filename;
   const imageSrc = /^https?:\/\//i.test(assetName)
     ? assetName
-    : `/Arab Flags/${assetName}`;
+    : `/flags/${assetName}`;
 
   // Flag assets are normalized to a 3:2 canvas with no transparent padding, so
   // the frame sits flush against the artwork instead of floating around it.

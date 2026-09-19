@@ -17,7 +17,7 @@ const r2PublicBaseUrl = process.env.CLOUDFLARE_R2_PUBLIC_BASE_URL?.trim().replac
  * server invocation and would otherwise consume Fluid CPU on every public hit.
  */
 const LOCALE_REWRITE_EXCLUSIONS =
-  "(?!en$|en/|ar$|ar/|fr$|fr/|admin$|admin/|api$|api/|_next/|images/|documents/|Arab Flags/)(?!.*\\.)";
+  "(?!en$|en/|ar$|ar/|fr$|fr/|admin$|admin/|api$|api/|_next/|images/|documents/|flags/)(?!.*\\.)";
 
 const nextConfig: NextConfig = {
   experimental: {
@@ -64,7 +64,9 @@ const nextConfig: NextConfig = {
       ? [
           { source: "/images/:path*", destination: `${r2PublicBaseUrl}/images/:path*` },
           { source: "/documents/:path*", destination: `${r2PublicBaseUrl}/documents/:path*` },
-          { source: "/Arab Flags/:path*", destination: `${r2PublicBaseUrl}/Arab Flags/:path*` },
+          // Keep spaces out of the public route. A literal `/Arab Flags/...`
+          // source does not match reliably once Vercel normalizes the URL.
+          { source: "/flags/:path*", destination: `${r2PublicBaseUrl}/Arab%20Flags/:path*` },
         ]
       : [];
 
