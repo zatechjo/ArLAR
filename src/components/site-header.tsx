@@ -86,7 +86,7 @@ const featureIcons = {
 
 function navButtonClass(active: boolean) {
   return [
-    "group/nav relative inline-flex h-10 w-full items-center justify-center gap-1.5 px-3 font-display text-[13px] font-medium whitespace-nowrap transition-colors lg:max-xl:h-11 lg:max-xl:gap-1 lg:max-xl:px-1.5 lg:max-xl:text-center lg:max-xl:text-[11px] lg:max-xl:leading-tight lg:max-xl:whitespace-normal min-[1700px]:h-12 min-[1700px]:text-[15px]",
+    "group/nav relative inline-flex h-10 w-full items-center justify-center gap-1.5 px-3 font-display text-[12.5px] font-medium whitespace-nowrap transition-colors lg:max-xl:h-11 lg:max-xl:gap-1 lg:max-xl:px-1.5 lg:max-xl:text-center lg:max-xl:text-[10.5px] lg:max-xl:leading-tight lg:max-xl:whitespace-normal min-[1700px]:h-12 min-[1700px]:text-[14px]",
     active
       ? "text-jade-700"
       : "text-ink-950 hover:bg-ink-50/90 hover:text-crimson-700",
@@ -995,7 +995,7 @@ export function SiteHeader({ locale, latestNews }: { locale: Locale; latestNews:
               </div>
             </div>
 
-          <div className="flex h-full shrink-0 items-center text-[11.5px] min-[1700px]:text-[13px]">
+          <div className="flex h-full shrink-0 items-center text-[10.5px] min-[1700px]:text-[12px]">
             <div className="hidden h-full items-center divide-x divide-white/25 sm:flex">
             {utilityLinks.map((link) => (
               <Link
