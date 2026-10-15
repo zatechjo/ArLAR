@@ -104,7 +104,7 @@ export async function NewsSection({
                 <h3 className="mt-4 font-display text-[19px] font-semibold leading-snug tracking-[-0.015em] text-ink-950 transition-colors group-hover:text-crimson-600">
                   {post.title}
                 </h3>
-                <p className="mt-3 text-[13px] leading-6 text-ink-500">
+                <p className="mt-3 line-clamp-2 text-[13px] leading-6 text-ink-500">
                   {post.excerpt}
                 </p>
                 <span className="mt-5 inline-flex items-center gap-2 font-display text-[12px] font-semibold text-jade-700">
