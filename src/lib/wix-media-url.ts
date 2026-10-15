@@ -32,6 +32,7 @@ export function wixImageKey(source: string | null | undefined) {
   if (value.includes("static.wixstatic.com/media/")) return value.split("static.wixstatic.com/media/")[1].split(/[?#/]/)[0];
   if (value.startsWith("media/")) return value.slice(6).split(/[?#/]/)[0];
   if (value.startsWith("wix:image://v1/")) return value.slice(15).split(/[?#/]/)[0];
+  if (/^[a-z0-9]+_[a-f0-9]{20,}.*\.(?:jpe?g|png|webp|gif)$/i.test(value)) return value;
   return null;
 }
 
