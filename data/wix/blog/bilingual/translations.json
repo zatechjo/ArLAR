@@ -1,6 +1,136 @@
 {
-  "exportedAt": "2026-08-29T09:21:55.477Z",
+  "exportedAt": "2026-10-15T20:44:10.779Z",
   "translations": [
+    {
+      "id": "1381233d-697d-43a8-b27d-f53f70724233",
+      "slug": "world-arthritis-day-october-12",
+      "arabic": {
+        "title": "💜 اليوم العالمي لالتهاب المفاصل | 12 أكتوبر",
+        "body": "بمناسبة اليوم العالمي لالتهاب المفاصل، تؤكد الرابطة العربية لجمعيات الروماتيزم التزامها بنشر الوعي، وتعزيز التشخيص المبكر، ودعم المصابين بالتهاب المفاصل. 💙",
+        "richContent": {
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "h1dab6",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "nodes": [],
+                  "textData": {
+                    "text": "بمناسبة اليوم العالمي لالتهاب المفاصل، تؤكد الرابطة العربية لجمعيات الروماتيزم التزامها بنشر الوعي، وتعزيز التشخيص المبكر، ودعم المصابين بالتهاب المفاصل. 💙",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {
+                "textStyle": {
+                  "textAlignment": "AUTO"
+                }
+              }
+            },
+            {
+              "type": "PARAGRAPH",
+              "id": "kxjt69",
+              "nodes": [],
+              "paragraphData": {
+                "textStyle": {
+                  "textAlignment": "AUTO"
+                }
+              }
+            },
+            {
+              "type": "IMAGE",
+              "id": "ssup625",
+              "nodes": [],
+              "imageData": {
+                "containerData": {
+                  "width": {
+                    "size": "CONTENT"
+                  },
+                  "alignment": "CENTER",
+                  "textWrap": true
+                },
+                "image": {
+                  "src": {
+                    "id": "bba2f0_7a2ac68ba4e44977ac702eeb998d8b10~mv2.jpeg"
+                  },
+                  "width": 1080,
+                  "height": 1350
+                }
+              }
+            },
+            {
+              "type": "PARAGRAPH",
+              "id": "gie4035",
+              "nodes": [],
+              "paragraphData": {
+                "textStyle": {
+                  "textAlignment": "AUTO"
+                }
+              }
+            }
+          ],
+          "documentStyle": {}
+        },
+        "excerpt": "بمناسبة اليوم العالمي لالتهاب المفاصل، تؤكد الرابطة العربية لجمعيات الروماتيزم التزامها بنشر الوعي، وتعزيز التشخيص المبكر، ودعم المصابين بالتهاب المفاصل. 💙",
+        "sourcePostId": "8604b47c-f4b9-4e29-ae62-d3edfdc8ed1a",
+        "sourceSiteId": "0ecf6e73-a208-4a11-a004-ad174b958dd0",
+        "sourceSlug": "اليوم-العالمي-لالتهاب-المفاصل-12-أكتوبر",
+        "matchType": "publish-time",
+        "matchDeltaMs": 9586,
+        "firstPublishedDate": "2026-10-12T08:21:52.146Z",
+        "lastPublishedDate": "2026-10-12T08:21:52.146Z"
+      }
+    },
+    {
+      "id": "77d007a5-014b-4aa5-a27d-5c9ff2abad1d",
+      "slug": "the-first-official-iscd-course-to-be-held-in-baghdad-iraq",
+      "arabic": {
+        "title": "إقامة أول دورة رسمية لـ ISCD في بغداد، العراق",
+        "body": "",
+        "richContent": {
+          "nodes": [
+            {
+              "type": "IMAGE",
+              "id": "sxw9k1",
+              "nodes": [],
+              "imageData": {
+                "containerData": {
+                  "width": {
+                    "size": "CONTENT"
+                  },
+                  "alignment": "CENTER",
+                  "textWrap": true
+                },
+                "image": {
+                  "src": {
+                    "id": "bba2f0_52cd35caf3ef46ff996ab26a6733e14f~mv2.jpeg"
+                  },
+                  "width": 1020,
+                  "height": 1280
+                }
+              }
+            },
+            {
+              "type": "PARAGRAPH",
+              "id": "wv9wa4",
+              "nodes": [],
+              "paragraphData": {}
+            }
+          ],
+          "documentStyle": {}
+        },
+        "excerpt": "",
+        "sourcePostId": "c07eaa41-340c-45ee-b8c9-ae000e5a8f3b",
+        "sourceSiteId": "0ecf6e73-a208-4a11-a004-ad174b958dd0",
+        "sourceSlug": "إقامة-أول-دورة-رسمية-لـ-iscd-في-بغداد-العراق",
+        "matchType": "publish-time",
+        "matchDeltaMs": 3125,
+        "firstPublishedDate": "2026-09-22T15:34:53.802Z",
+        "lastPublishedDate": "2026-09-22T15:34:53.802Z"
+      }
+    },
     {
       "id": "46c14230-2972-4914-877f-0f41605c3156",
       "slug": "greetings-on-the-occasion-of-al-mawlid-al-nabawi-al-sharif",
@@ -3029,7 +3159,7 @@
                   "height": 2250
                 },
                 "link": {
-                  "url": "https://pub-2768431f8fd64f7b998c4e7d380e354d.r2.dev/documents/wix/bba2f0_c846a88d336642fd8b7ff30eff175820.pdf",
+                  "url": "https://8e338f2e-635d-4e06-8ebf-31089162dfcf.filesusr.com/ugd/bba2f0_c846a88d336642fd8b7ff30eff175820.pdf",
                   "target": "BLANK"
                 }
               }
@@ -3617,7 +3747,7 @@
                 },
                 "text": "انقر هنا لعرض النشرة الإلكترونية",
                 "link": {
-                  "url": "https://pub-2768431f8fd64f7b998c4e7d380e354d.r2.dev/documents/wix/bba2f0_c846a88d336642fd8b7ff30eff175820.pdf",
+                  "url": "https://8e338f2e-635d-4e06-8ebf-31089162dfcf.filesusr.com/ugd/bba2f0_c846a88d336642fd8b7ff30eff175820.pdf",
                   "target": "BLANK"
                 }
               }
@@ -3664,7 +3794,7 @@
                   "height": 1774
                 },
                 "link": {
-                  "url": "https://pub-2768431f8fd64f7b998c4e7d380e354d.r2.dev/documents/wix/bba2f0_c846a88d336642fd8b7ff30eff175820.pdf",
+                  "url": "https://8e338f2e-635d-4e06-8ebf-31089162dfcf.filesusr.com/ugd/bba2f0_c846a88d336642fd8b7ff30eff175820.pdf",
                   "target": "BLANK"
                 }
               }

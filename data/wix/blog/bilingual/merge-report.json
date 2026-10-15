@@ -1,6 +1,6 @@
 {
   "source": "Wix Blog REST API",
-  "exportedAt": "2026-08-29T09:21:55.477Z",
+  "exportedAt": "2026-10-15T20:44:10.779Z",
   "note": "Arabic and English are exported separately. The merged export attaches only Arabic-content pairs matched by exact slug/title or a strict two-minute publish-time window; English duplicates remain represented by the English canonical record.",
   "sites": {
     "en": {
@@ -14,15 +14,31 @@
   },
   "report": {
     "counts": {
-      "english": 290,
-      "arabic": 291,
-      "exactOrTitlePairs": 269,
-      "translationCandidates": 74,
+      "english": 292,
+      "arabic": 293,
+      "exactOrTitlePairs": 271,
+      "translationCandidates": 76,
       "duplicateOrEnglish": 195,
       "arabicOnly": 22,
       "arabicOnlyWithArabicContent": 17
     },
     "exactOrTitlePairs": [
+      {
+        "arabicId": "8604b47c-f4b9-4e29-ae62-d3edfdc8ed1a",
+        "englishId": "1381233d-697d-43a8-b27d-f53f70724233",
+        "arabicSlug": "اليوم-العالمي-لالتهاب-المفاصل-12-أكتوبر",
+        "englishSlug": "world-arthritis-day-october-12",
+        "matchType": "publish-time",
+        "deltaMs": 9586
+      },
+      {
+        "arabicId": "c07eaa41-340c-45ee-b8c9-ae000e5a8f3b",
+        "englishId": "77d007a5-014b-4aa5-a27d-5c9ff2abad1d",
+        "arabicSlug": "إقامة-أول-دورة-رسمية-لـ-iscd-في-بغداد-العراق",
+        "englishSlug": "the-first-official-iscd-course-to-be-held-in-baghdad-iraq",
+        "matchType": "publish-time",
+        "deltaMs": 3125
+      },
       {
         "arabicId": "790234c4-6df4-44dc-ae08-4f32273746d6",
         "englishId": "46c14230-2972-4914-877f-0f41605c3156",
@@ -2177,6 +2193,26 @@
       }
     ],
     "translationCandidates": [
+      {
+        "matchType": "publish-time",
+        "deltaMs": 9586,
+        "englishId": "1381233d-697d-43a8-b27d-f53f70724233",
+        "arabicId": "8604b47c-f4b9-4e29-ae62-d3edfdc8ed1a",
+        "englishSlug": "world-arthritis-day-october-12",
+        "arabicSlug": "اليوم-العالمي-لالتهاب-المفاصل-12-أكتوبر",
+        "englishTitle": "💜 World Arthritis Day | October 12",
+        "arabicTitle": "💜 اليوم العالمي لالتهاب المفاصل | 12 أكتوبر"
+      },
+      {
+        "matchType": "publish-time",
+        "deltaMs": 3125,
+        "englishId": "77d007a5-014b-4aa5-a27d-5c9ff2abad1d",
+        "arabicId": "c07eaa41-340c-45ee-b8c9-ae000e5a8f3b",
+        "englishSlug": "the-first-official-iscd-course-to-be-held-in-baghdad-iraq",
+        "arabicSlug": "إقامة-أول-دورة-رسمية-لـ-iscd-في-بغداد-العراق",
+        "englishTitle": "The First Official ISCD Course to Be Held in Baghdad, Iraq",
+        "arabicTitle": "إقامة أول دورة رسمية لـ ISCD في بغداد، العراق"
+      },
       {
         "matchType": "publish-time",
         "deltaMs": 2516,
@@ -4638,9 +4674,9 @@
     ]
   },
   "merged": {
-    "totalRecords": 312,
-    "canonicalEnglishRecords": 290,
-    "attachedArabicTranslations": 74,
+    "totalRecords": 314,
+    "canonicalEnglishRecords": 292,
+    "attachedArabicTranslations": 76,
     "standaloneArabicRecords": 22
   }
 }
