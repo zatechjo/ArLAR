@@ -143,7 +143,7 @@ export function QuickLinksSection() {
                 setIsPaused(false);
               }
             }}
-            className="group relative flex h-[370px] min-h-0 flex-col overflow-hidden rounded-[1.75rem] bg-ink-950 p-7 text-white shadow-xl shadow-ink-950/10 transition-transform duration-300 hover:-translate-y-1 sm:h-[388px] sm:p-9 lg:h-full lg:col-span-2 lg:row-span-2"
+            className="group relative flex h-[420px] min-h-0 flex-col overflow-hidden rounded-[1.75rem] bg-ink-950 p-7 text-white shadow-xl shadow-ink-950/10 transition-transform duration-300 hover:-translate-y-1 sm:h-[388px] sm:p-9 lg:h-full lg:col-span-2 lg:row-span-2"
           >
             <div
               key={featured.image}
