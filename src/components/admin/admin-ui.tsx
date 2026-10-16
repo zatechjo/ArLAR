@@ -25,18 +25,20 @@ export function AdminPageHeader({
   title,
   description,
   actions,
+  sticky = false,
 }: {
   eyebrow?: string;
   title: string;
   description: string;
   actions?: ReactNode;
+  sticky?: boolean;
 }) {
   const subtitle = conciseAdminDescriptions[title]
     ?? (description.includes("doctor’s canonical identity") ? "Manage this doctor’s profile and website placements." : null)
     ?? (description.includes("complete replay catalogue") ? "Manage congress details, replays, galleries, and faculty." : null)
     ?? description;
   return (
-    <header className="flex flex-wrap items-end justify-between gap-4 border-b border-slate-200 bg-white px-5 py-6 sm:px-8">
+    <header className={`flex flex-wrap items-end justify-between gap-4 border-b border-slate-200 bg-white px-5 py-6 sm:px-8 ${sticky ? "sticky top-0 z-30 shadow-sm" : ""}`}>
       <div className="max-w-3xl">
         <h1 className="text-xl font-bold tracking-tight text-slate-900 sm:text-2xl">{title}</h1>
         <p className="mt-1 max-w-2xl text-sm text-slate-500">{subtitle}</p>

@@ -30,6 +30,7 @@ export default async function AdminDoctorEditorPage({ params, searchParams }: { 
         title={doctor.fullName}
         description="Manage this doctor’s canonical identity, biography, artwork, flag, and every public website placement."
         actions={<DoctorHeaderActions doctorId={doctor.id} doctorName={doctor.fullName} formId="doctor-editor-form" />}
+        sticky
       />
       <AdminContent className="max-w-[1400px]">
         {query.saved === "1" ? <p className="mb-5 rounded-xl border border-jade-200 bg-jade-50 px-4 py-3 text-xs font-semibold text-jade-800">Doctor profile saved.</p> : null}

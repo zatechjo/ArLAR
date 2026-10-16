@@ -21,6 +21,7 @@ export default async function NewDoctorPage() {
         title="Add a doctor"
         description="Create one canonical identity, then choose every website section where the profile should appear."
         actions={<DoctorHeaderActions formId="doctor-editor-form" />}
+        sticky
       />
       <AdminContent className="max-w-[1400px]"><DoctorEditor media={media} action={saveDoctorAction.bind(null, "new")} formId="doctor-editor-form" placements={availablePlacements} duplicateCandidates={doctors.map(({ id, name, fullName, country }) => ({ id, name, fullName, country }))} /></AdminContent>
     </>

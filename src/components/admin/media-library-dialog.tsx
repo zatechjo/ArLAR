@@ -133,7 +133,23 @@ export function MediaLibraryDialog({
   return (
     <div className="fixed inset-0 z-[250] flex items-center justify-center bg-[#03101c]/70 p-3 backdrop-blur-sm sm:p-6" onMouseDown={(event) => event.target === event.currentTarget && onClose()}>
       <AdminPendingOverlay visible={isUploading} label="Uploading media…" />
-      <div ref={modalRef} tabIndex={-1} role="dialog" aria-modal="true" aria-label={title} className="flex max-h-[92vh] w-full max-w-6xl flex-col overflow-hidden rounded-3xl border border-white/10 bg-white shadow-[0_35px_120px_rgba(0,0,0,.35)]">
+      <div
+        ref={modalRef}
+        tabIndex={-1}
+        role="dialog"
+        aria-modal="true"
+        aria-label={title}
+        onKeyDownCapture={(event) => {
+          // This dialog may be opened inside an editor form. An Enter press in
+          // its search/file inputs must stay in the dialog rather than submit
+          // the underlying record form.
+          if (event.key === "Enter" && event.target instanceof HTMLInputElement) {
+            event.preventDefault();
+            event.stopPropagation();
+          }
+        }}
+        className="flex max-h-[92vh] w-full max-w-6xl flex-col overflow-hidden rounded-3xl border border-white/10 bg-white shadow-[0_35px_120px_rgba(0,0,0,.35)]"
+      >
         <header className="flex items-center justify-between border-b border-ink-100 px-5 py-4 sm:px-7">
           <div>
             <p className="text-[10px] font-bold uppercase tracking-[0.18em] text-crimson-600">Website media</p>
