@@ -16,6 +16,67 @@ export type IraqGalleryImage = {
  * whatever it is given until the track is wide enough to loop.
  */
 export const iraqGallery: IraqGalleryImage[] = [
+  // ArLAR27 Iraq destination photographs provided by the ArLAR team.
+  {
+    src: "/images/iraq-gallery/arlar27-iraq-photos/iraq-photo-01.jpg",
+    alt: "Iraq destination photograph 1",
+    shape: "square",
+  },
+  {
+    src: "/images/iraq-gallery/arlar27-iraq-photos/iraq-photo-02.jpg",
+    alt: "Iraq destination photograph 2",
+    shape: "square",
+  },
+  {
+    src: "/images/iraq-gallery/arlar27-iraq-photos/iraq-photo-03.jpg",
+    alt: "Iraq destination photograph 3",
+    shape: "wide",
+  },
+  {
+    src: "/images/iraq-gallery/arlar27-iraq-photos/iraq-photo-04.jpg",
+    alt: "Iraq destination photograph 4",
+    shape: "square",
+  },
+  {
+    src: "/images/iraq-gallery/arlar27-iraq-photos/iraq-photo-05.jpg",
+    alt: "Iraq destination photograph 5",
+    shape: "square",
+  },
+  {
+    src: "/images/iraq-gallery/arlar27-iraq-photos/iraq-photo-06.jpg",
+    alt: "Iraq destination photograph 6",
+    shape: "square",
+  },
+  {
+    src: "/images/iraq-gallery/arlar27-iraq-photos/iraq-photo-07.jpg",
+    alt: "Iraq destination photograph 7",
+    shape: "wide",
+  },
+  {
+    src: "/images/iraq-gallery/arlar27-iraq-photos/iraq-photo-08.jpg",
+    alt: "Iraq destination photograph 8",
+    shape: "tall",
+  },
+  {
+    src: "/images/iraq-gallery/arlar27-iraq-photos/iraq-photo-09.jpg",
+    alt: "Iraq destination photograph 9",
+    shape: "square",
+  },
+  {
+    src: "/images/iraq-gallery/arlar27-iraq-photos/iraq-photo-10.jpg",
+    alt: "Iraq destination photograph 10",
+    shape: "tall",
+  },
+  {
+    src: "/images/iraq-gallery/arlar27-iraq-photos/iraq-photo-11.jpg",
+    alt: "Iraq destination photograph 11",
+    shape: "square",
+  },
+  {
+    src: "/images/iraq-gallery/arlar27-iraq-photos/iraq-photo-12.jpg",
+    alt: "Iraq destination photograph 12",
+    shape: "square",
+  },
   {
     // Unsplash — Saad Salim
     src: "/images/iraq-gallery/erbil-fountain-square.jpg",
