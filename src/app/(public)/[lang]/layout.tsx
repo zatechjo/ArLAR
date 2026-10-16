@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
+import { Analytics } from "@vercel/analytics/next";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 import { display } from "@/app/fonts";
 import { SiteShell } from "@/components/site-shell";
@@ -115,6 +117,8 @@ export default async function PublicRootLayout({
           dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData).replaceAll("<", "\\u003c") }}
         />
         <SiteShell locale={locale} latestNews={latestNews} socialLinks={socialLinks} contactLinks={contactLinks}>{children}</SiteShell>
+        <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );

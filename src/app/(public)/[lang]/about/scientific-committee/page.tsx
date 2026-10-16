@@ -18,6 +18,9 @@ export default async function ScientificCommitteePage() {
     listAssignedDoctorsAsync("scientific-committee"),
   ]);
   const sourcePeople = managedCommittee.people;
+  const sectionsWithCompleteOrder = new Set([...new Set(assignedDoctors.map(({ placement }) => placement.section))]
+    .filter((section) => assignedDoctors.filter(({ placement }) => placement.section === section)
+      .every(({ placement }) => placement.sortOrderVersion === 1 && Number.isFinite(placement.sortOrder))));
   const people = assignedDoctors.map(
     ({ doctor, placement }, index): DirectoryPerson => {
       const person = sourcePeople.find((candidate) => findManagedDoctorByName([doctor], candidate.fullName));
@@ -26,7 +29,9 @@ export default async function ScientificCommitteePage() {
         doctorId: doctor.id,
         id: doctor.id,
         slug: doctor.slug,
-        sortOrder: person?.sortOrder ?? sourcePeople.length + index + 1,
+        sortOrder: sectionsWithCompleteOrder.has(placement.section)
+          ? placement.sortOrder!
+          : person?.sortOrder ?? sourcePeople.length + index + 1,
         group: (person?.group as DirectoryPerson["group"] | undefined) ?? (placement.role.toLowerCase().includes("president") ? "leadership" : "members"),
         fullName: doctor.fullName,
         nameAr: doctor.nameAr, nameFr: doctor.nameFr,

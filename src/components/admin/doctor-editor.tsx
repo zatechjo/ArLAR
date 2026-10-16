@@ -1,6 +1,7 @@
 "use client";
 
 import { Plus, Trash2 } from "lucide-react";
+import Link from "next/link";
 import { useState } from "react";
 import { AdminSavingForm } from "@/components/admin/admin-saving-form";
 
@@ -14,8 +15,12 @@ import { isCutoutPortrait } from "@/lib/portrait-fit";
 
 export type ArabicSuggestion = { nameAr: string; countryAr?: string; biographyAr: string[] };
 export type FrenchSuggestion = { nameFr: string; biographyFr: string[] };
+export type DuplicateDoctorCandidate = { id: string; name: string; fullName: string; country: string };
 
-export function DoctorEditor({ doctor, media, action, formId, arabicSuggestions = [], frenchSuggestions = [], placements = [] }: { doctor?: AdminDoctor; media: AdminMediaItem[]; action: (formData: FormData) => void | Promise<void>; formId: string; arabicSuggestions?: ArabicSuggestion[]; frenchSuggestions?: FrenchSuggestion[]; placements?: DoctorAppearance[] }) {
+export function DoctorEditor({ doctor, media, action, formId, arabicSuggestions = [], frenchSuggestions = [], placements = [], duplicateCandidates = [] }: { doctor?: AdminDoctor; media: AdminMediaItem[]; action: (formData: FormData) => void | Promise<void>; formId: string; arabicSuggestions?: ArabicSuggestion[]; frenchSuggestions?: FrenchSuggestion[]; placements?: DoctorAppearance[]; duplicateCandidates?: DuplicateDoctorCandidate[] }) {
+  const [name, setName] = useState(doctor?.name || "");
+  const [distinctPersonConfirmed, setDistinctPersonConfirmed] = useState(false);
+  const duplicate = doctor ? undefined : duplicateCandidates.find((candidate) => normalizeDoctorCandidate(candidate.name) === normalizeDoctorCandidate(name));
   const savedNameAr = doctor?.nameAr || "";
   const savedBiographyAr = (doctor?.biographyAr || []).join("\n");
   const [nameAr, setNameAr] = useState(savedNameAr);
@@ -89,12 +94,32 @@ export function DoctorEditor({ doctor, media, action, formId, arabicSuggestions 
   }
 
   return (
-    <AdminSavingForm id={formId} action={action} className="grid gap-6 xl:grid-cols-[minmax(0,1fr)_260px]" label="Saving doctor…">
+    <AdminSavingForm
+      id={formId}
+      action={action}
+      onSubmit={(event) => {
+        if (duplicate && !distinctPersonConfirmed) event.preventDefault();
+      }}
+      className="grid gap-6 xl:grid-cols-[minmax(0,1fr)_260px]"
+      label="Saving doctor…"
+    >
+      <input type="hidden" name="allow_duplicate" value={distinctPersonConfirmed ? "true" : "false"} />
       <div className="space-y-6">
         <SectionCard title="Canonical identity" description="This is the single profile used across every ArLAR board, committee, SIG, College, and congress page.">
           <div className="grid gap-5 p-5 sm:grid-cols-2 sm:p-7">
-            <label><FieldLabel>Public name</FieldLabel><input name="name" defaultValue={doctor?.name} required placeholder="Doctor's full name" className="admin-input" /></label>
+            <label><FieldLabel>Public name</FieldLabel><input name="name" value={name} onChange={(event) => { setName(event.target.value); setDistinctPersonConfirmed(false); }} required placeholder="Doctor's full name" className="admin-input" /></label>
             <label><FieldLabel>Source credentials</FieldLabel><input name="credentials" defaultValue={doctor?.credentials} placeholder="MD, PhD, FRCP" className="admin-input" /></label>
+            {duplicate ? (
+              <div role="alert" className="sm:col-span-2 rounded-xl border border-amber-300 bg-amber-50 p-4 text-sm text-amber-950">
+                <p className="font-semibold">A doctor with this name already exists.</p>
+                <p className="mt-1 text-xs leading-5 text-amber-800">{duplicate.fullName} · {duplicate.country}. Open that profile to add placements or update their information instead of creating a duplicate.</p>
+                <div className="mt-3 flex flex-wrap gap-2">
+                  <Link href={`/admin/doctors/${duplicate.id}`} className="inline-flex min-h-9 items-center rounded-lg bg-[#071421] px-3 text-xs font-semibold text-white hover:bg-[#142535]">Open existing doctor</Link>
+                  <button type="button" onClick={() => setDistinctPersonConfirmed(true)} className="min-h-9 rounded-lg border border-amber-400 bg-white px-3 text-xs font-semibold text-amber-950 hover:bg-amber-100">This is a different person</button>
+                </div>
+                {distinctPersonConfirmed ? <p className="mt-3 text-xs font-semibold text-amber-900">Confirmed as a separate person. Saving is now enabled.</p> : <p className="mt-3 text-xs font-semibold text-amber-900">Saving is paused until you open the existing profile or confirm this is a different person.</p>}
+              </div>
+            ) : null}
             <label className="sm:col-span-2"><FieldLabel>Country</FieldLabel><input name="country" defaultValue={doctor?.country} required placeholder="Jordan" className="admin-input" /></label>
             <label className="sm:col-span-2">
               <FieldLabel>Full biography</FieldLabel>
@@ -369,4 +394,14 @@ function getDoctorNameVariants(doctor?: AdminDoctor) {
 
 function cleanNameVariant(value: string) {
   return value.replace(/\u00a0/g, " ").replace(/\s+/g, " ").replace(/\s*,\s*/g, ", ").trim();
+}
+
+function normalizeDoctorCandidate(value: string) {
+  return value
+    .toLowerCase()
+    .normalize("NFKD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/\b(prof(?:essor)?|dr|md|phd|frcp|facr)\b\.?/g, "")
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
 }

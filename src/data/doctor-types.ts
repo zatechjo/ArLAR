@@ -14,6 +14,8 @@ export type DoctorAppearance = {
 export type DoctorRecord = {
   id: string;
   slug: string;
+  /** Explicitly allows a separately verified person to share another doctor's name. */
+  identityConfirmedDistinct?: boolean;
   name: string;
   credentials: string;
   fullName: string;

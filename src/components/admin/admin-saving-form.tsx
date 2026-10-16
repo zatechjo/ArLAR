@@ -21,6 +21,7 @@ export function AdminSavingForm({
   action,
   label = "Saving…",
   className = "",
+  onSubmit,
   children,
 }: {
   id?: string;
@@ -29,6 +30,7 @@ export function AdminSavingForm({
   label?: string;
   /** Layout classes for the form's contents. */
   className?: string;
+  onSubmit?: React.FormEventHandler<HTMLFormElement>;
   children: React.ReactNode;
 }) {
   const [isSaving, setIsSaving] = useState(false);
@@ -37,7 +39,10 @@ export function AdminSavingForm({
     <form
       id={id}
       action={action}
-      onSubmit={() => setIsSaving(true)}
+      onSubmit={(event) => {
+        onSubmit?.(event);
+        if (!event.defaultPrevented) setIsSaving(true);
+      }}
       aria-busy={isSaving}
       className="relative"
     >

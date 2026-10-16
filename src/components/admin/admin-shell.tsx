@@ -13,7 +13,7 @@ import { useModalAccessibility } from "@/components/ui/use-modal-accessibility";
 
 const sections = [
   { label: "Overview", links: [{ href: "/admin/dashboard", label: "Dashboard", icon: Globe }] },
-  { label: "Editorial", links: [{ href: "/admin/news", label: "Newsroom", icon: FileText }, { href: "/admin/doctors", label: "Doctor directory", icon: Users }] },
+  { label: "Editorial", links: [{ href: "/admin/news", label: "Newsroom", icon: FileText }, { href: "/admin/doctors", label: "Doctor directory", icon: Users }, { href: "/admin/leadership", label: "ArLAR leadership", icon: Users }] },
   { label: "Programmes", links: [
     { href: "/admin/arlar27", label: "ArLAR27", icon: CalendarDays },
     { href: "/admin/college", label: "ArLAR College", icon: Video },
@@ -42,6 +42,7 @@ const recycleBinReturnRoutes: Record<string, string> = {
 const routePermissions: Partial<Record<string, AdminPermission>> = {
   "/admin/news": "news",
   "/admin/doctors": "doctors",
+  "/admin/leadership": "doctors",
   "/admin/arlar27": "arlar27",
   "/admin/college": "college",
   "/admin/sigs": "sigs",

@@ -8,6 +8,8 @@ import type { DoctorRecord } from "@/data/doctor-types";
 import { getSupabasePublicConfig } from "@/lib/supabase/config";
 import { createSupabasePublicDataClient, getCurrentAdminProfileId, reportSupabaseReadFallback } from "@/lib/supabase/data";
 import { createSupabaseServerClient } from "@/lib/supabase/server";
+import { siteMediaUrl } from "@/lib/media-url";
+import { isMissingPortrait } from "@/lib/portrait-fit";
 
 type Store = { version: 1; records: Record<string, DoctorRecord> };
 const stateDirectory = path.join(process.cwd(), ".admin-data");
@@ -20,6 +22,7 @@ const statePath = path.join(stateDirectory, "doctor-records.json");
  * is not stranded on a dead id.
  */
 function canonicalStoredId(stored: DoctorRecord, baseIds: Set<string>): string {
+  if (stored.identityConfirmedDistinct) return stored.id;
   if (baseIds.has(stored.id)) return stored.id;
   const match = findManagedDoctorByName(doctorDatabase, stored.fullName || stored.name || "");
   return match?.id ?? stored.id;
@@ -73,7 +76,7 @@ export function listManagedDoctors(): DoctorRecord[] {
       return stored ? mergeArabicSourceProfile(stored, doctor) : doctor;
     }),
     ...[...overrides.values()].filter((doctor) => !baseIds.has(doctor.id)),
-  ].toSorted((a, b) => a.name.localeCompare(b.name));
+  ].map(normalizeDoctorMedia).toSorted((a, b) => a.name.localeCompare(b.name));
 }
 
 export function getManagedDoctor(id: string) { return listManagedDoctors().find((doctor) => doctor.id === id); }
@@ -106,7 +109,7 @@ export async function listManagedDoctorsAsync(): Promise<DoctorRecord[]> {
         return stored ? mergeArabicSourceProfile(stored, doctor) : doctor;
       }),
       ...[...overrides.values()].filter((doctor) => !baseIds.has(doctor.id)),
-    ].toSorted((a, b) => a.name.localeCompare(b.name));
+    ].map(normalizeDoctorMedia).toSorted((a, b) => a.name.localeCompare(b.name));
   } catch (error) {
     reportSupabaseReadFallback("admin-doctors", error);
     return listManagedDoctors();
@@ -146,11 +149,29 @@ function mergeArabicSourceProfile(stored: DoctorRecord, source?: DoctorRecord): 
 
 /** The placeholder is what an unset photo looks like, not a chosen one. */
 function isRealPortrait(image: string | undefined) {
-  return Boolean(image) && !image!.includes("profile-placeholder");
+  return !isMissingPortrait(image);
+}
+
+function normalizeDoctorMedia(doctor: DoctorRecord): DoctorRecord {
+  return {
+    ...doctor,
+    image: isMissingPortrait(doctor.image)
+      ? "/images/college-members/profile-placeholder.jpg"
+      : siteMediaUrl(doctor.image),
+  };
 }
 
 export async function getManagedDoctorAsync(id: string) {
   return (await listManagedDoctorsAsync()).find((doctor) => doctor.id === id);
+}
+
+/** Reads the exact persisted row without folding same-name legacy duplicates. */
+export async function getStoredManagedDoctorAsync(id: string): Promise<DoctorRecord | undefined> {
+  if (!getSupabasePublicConfig()) return readStore().records[id];
+  const supabase = await createSupabaseServerClient();
+  const { data, error } = await supabase.from("admin_doctors").select("data").eq("id", id).maybeSingle();
+  if (error) throw error;
+  return data?.data as DoctorRecord | undefined;
 }
 
 export async function saveManagedDoctorAsync(record: DoctorRecord) {
@@ -160,6 +181,19 @@ export async function saveManagedDoctorAsync(record: DoctorRecord) {
   const { error } = await supabase.from("admin_doctors").upsert({ id: record.id, name: record.fullName || record.name, status: "active", data: clone(record), created_by: createdBy });
   if (error) throw error;
   return record;
+}
+
+/** Deletes one exact override row. Callers must authorize and validate first. */
+export async function deleteManagedDoctorOverrideAsync(id: string) {
+  if (!getSupabasePublicConfig()) {
+    const store = readStore();
+    delete store.records[id];
+    writeStore(store);
+    return;
+  }
+  const supabase = await createSupabaseServerClient();
+  const { error } = await supabase.from("admin_doctors").delete().eq("id", id);
+  if (error) throw error;
 }
 
 export async function saveManagedDoctorsAsync(records: DoctorRecord[]) {

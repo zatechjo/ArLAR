@@ -25,6 +25,9 @@ export default async function BoardOfDirectorsPage({ params }: { params: Promise
     listAssignedDoctorsAsync("board-of-directors"),
   ]);
   const sourcePeople = managedBoard.people;
+  const sectionsWithCompleteOrder = new Set([...new Set(assignedDoctors.map(({ placement }) => placement.section))]
+    .filter((section) => assignedDoctors.filter(({ placement }) => placement.section === section)
+      .every(({ placement }) => placement.sortOrderVersion === 1 && Number.isFinite(placement.sortOrder))));
   const people: BoardMember[] = assignedDoctors.map(({ doctor, placement }, index) => {
     const person = sourcePeople.find((candidate) => findManagedDoctorByName([doctor], candidate.name));
     const group: BoardMember["group"] = placement.section.toLowerCase().includes("executive")
@@ -34,7 +37,9 @@ export default async function BoardOfDirectorsPage({ params }: { params: Promise
       doctorId: doctor.id,
       id: doctor.id,
       slug: doctor.slug,
-      sortOrder: person?.sortOrder ?? sourcePeople.length + index + 1,
+      sortOrder: sectionsWithCompleteOrder.has(placement.section)
+        ? placement.sortOrder!
+        : person?.sortOrder ?? sourcePeople.length + index + 1,
       group,
       fullName: doctor.fullName,
       nameAr: doctor.nameAr, nameFr: doctor.nameFr,
@@ -50,7 +55,10 @@ export default async function BoardOfDirectorsPage({ params }: { params: Promise
       appearances: doctor.appearances,
     };
   })
-  .sort((a, b) => a.sortOrder - b.sortOrder);
+  .sort((a, b) => {
+    const groupRank = (group: BoardMember["group"]) => group === "executive-council" ? 0 : 1;
+    return groupRank(a.group) - groupRank(b.group) || a.sortOrder - b.sortOrder;
+  });
   return (
     <main>
       <section className="relative isolate min-h-[18rem] overflow-hidden bg-[#07131f] text-white sm:min-h-[19rem] lg:min-h-[20rem]">

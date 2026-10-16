@@ -16,22 +16,29 @@ export default async function MediaGroupPage() {
   const [managedMedia, allDoctors] = await Promise.all([getPublishedSiteContent("people", "media-group", mediaData), listManagedDoctorsAsync()]);
   const doctors = await filterDeletedAdminRecordsAsync("doctors", allDoctors);
   const sourcePeople = managedMedia.people;
-  const assignedDoctors = doctors.filter((doctor) => doctor.appearances.some((appearance) => appearance.pageId === "media-group"));
+  const assignedDoctors = doctors.flatMap((doctor) => {
+    const placement = doctor.appearances.find((appearance) => appearance.pageId === "media-group");
+    return placement ? [{ doctor, placement }] : [];
+  });
+  const hasCompleteSavedOrder = assignedDoctors.length > 0 && assignedDoctors.every(
+    ({ placement }) => placement.sortOrderVersion === 1 && Number.isFinite(placement.sortOrder),
+  );
   const people = assignedDoctors.map(
-    (doctor, index): DirectoryPerson => {
+    ({ doctor, placement }, index): DirectoryPerson => {
       const person = sourcePeople.find((candidate) => findManagedDoctorByName([doctor], candidate.fullName));
-      const placement = doctor.appearances.find((appearance) => appearance.pageId === "media-group");
       return {
         ...person,
         doctorId: doctor.id,
         id: doctor.id,
         slug: doctor.slug,
-        sortOrder: person?.sortOrder ?? sourcePeople.length + index + 1,
+        sortOrder: hasCompleteSavedOrder
+          ? placement.sortOrder!
+          : person?.sortOrder ?? sourcePeople.length + index + 1,
         group: (person?.group as DirectoryPerson["group"] | undefined) ?? "members",
         fullName: doctor.fullName,
         nameAr: doctor.nameAr, nameFr: doctor.nameFr,
         credentials: doctor.credentials,
-        displayRole: placement?.role || person?.displayRole || "Media Group Member",
+        displayRole: placement.role || person?.displayRole || "Media Group Member",
         countryName: doctor.country,
         flagFilename: doctor.flagFilename,
         bio: doctor.biography,
