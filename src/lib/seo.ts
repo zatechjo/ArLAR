@@ -188,13 +188,8 @@ export function languageAlternates(path: string): Record<string, string> {
 }
 
 function socialImage(path: string) {
-  if (path.startsWith("/congresses/arlar27")) {
-    return { url: "/images/arlar27-save-the-date.jpg", width: 2048, height: 1152, alt: "ArLAR27 Iraq Congress — Baghdad, 24–27 March 2027" };
-  }
-  if (path.startsWith("/college")) {
-    return { url: "/images/arlar-college-hero-v2.png", width: 1717, height: 916, alt: "ArLAR College" };
-  }
-  return { url: "/images/arlar-core-hero-v3.png", width: 1672, height: 941, alt: "Arab League of Associations for Rheumatology" };
+  void path;
+  return { url: "/arlar-social-share.png", width: 1200, height: 630, alt: "ArLAR logo" };
 }
 
 function conciseMetadataText(value: string, maxLength: number): string {

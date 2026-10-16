@@ -50,12 +50,6 @@ export async function generateMetadata({
     path,
     title: article.title,
     description: article.excerpt,
-    image: {
-      url: article.image,
-      width: article.imageWidth,
-      height: article.imageHeight,
-      alt: article.imageAlt,
-    },
   });
 
   return {
