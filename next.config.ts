@@ -63,6 +63,7 @@ const nextConfig: NextConfig = {
     const mediaRewrites = r2PublicBaseUrl
       ? [
           { source: "/images/:path*", destination: `${r2PublicBaseUrl}/images/:path*` },
+          { source: "/uploads/:path*", destination: `${r2PublicBaseUrl}/uploads/:path*` },
           { source: "/documents/:path*", destination: `${r2PublicBaseUrl}/documents/:path*` },
           // Keep spaces out of the public route. A literal `/Arab Flags/...`
           // source does not match reliably once Vercel normalizes the URL.
