@@ -29,8 +29,8 @@ const tabs = [
 const aaaaSocialLinks = [
   {
     label: "Facebook",
-    handle: "https://www.facebook.com/aaaa.group/",
-    href: "https://www.facebook.com/aaaa.group/",
+    handle: "https://www.facebook.com/profile.php?id=100063568467262#",
+    href: "https://www.facebook.com/profile.php?id=100063568467262#",
     Icon: Facebook,
     color: "text-[#1877f2]",
   },
