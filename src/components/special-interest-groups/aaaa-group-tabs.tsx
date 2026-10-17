@@ -29,7 +29,7 @@ const tabs = [
 const aaaaSocialLinks = [
   {
     label: "Facebook",
-    handle: "AAAA Group",
+    handle: "https://www.facebook.com/aaaa.group/",
     href: "https://www.facebook.com/aaaa.group/",
     Icon: Facebook,
     color: "text-[#1877f2]",
@@ -49,7 +49,7 @@ const aaaaSocialLinks = [
     color: "text-[#ff0033]",
   },
   {
-    label: "X",
+    label: "X (Twitter)",
     handle: "@groupaaaa",
     href: "https://x.com/groupaaaa",
     Icon: X,
@@ -59,11 +59,13 @@ const aaaaSocialLinks = [
 
 type TabId = (typeof tabs)[number]["id"];
 
-function OverviewPanel({ data, memberCount }: { data: typeof aaaaData; memberCount: number }) {
+function OverviewPanel({ data }: { data: typeof aaaaData }) {
   const { locale, t } = useTranslations();
   const aboutParagraphs = data.page.aboutClean.split("\n\n");
   const visionParagraphs = data.page.visionSource.split("\n\n");
   const objectiveIntroParagraphs = data.page.objectivesIntroSource.split("\n\n");
+  const missionIntroSource = data.page.missionIntroSource || "The AAAA Group unifies awareness about RMDs using the official language of ArLAR: Arabic.";
+  const missionCommitmentSource = data.page.missionCommitmentSource || "The AAAA Group is committed to:";
   const mottoSource = data.page.mottoSource || "Purpose, Perseverance, Passion";
   const mottoTextSource = data.page.mottoTextSource || "AAAA Group members embrace this motto in their collective endeavor to raise awareness of rheumatic diseases in the Arab region.";
   const [openObjective, setOpenObjective] = useState<number | null>(null);
@@ -77,58 +79,17 @@ function OverviewPanel({ data, memberCount }: { data: typeof aaaaData; memberCou
             <h2 className={`font-display font-semibold tracking-[0.17em] text-ink-500 uppercase ${
               locale === "ar" ? "text-[13px]" : "text-[10px]"
             }`}>
-              {t("About AAAA Group")}
+              {t("About the Group")}
             </h2>
           </div>
+          <h3 className="mt-4 font-display text-2xl font-semibold tracking-[-0.025em] text-ink-950">
+            {t("The Creation of the AAAA Group")}
+          </h3>
           <div className="mt-6 grid gap-5 text-[14px] leading-7 text-ink-600 lg:grid-cols-3">
             {aboutParagraphs.map((paragraph) => {
-              const translated = t(paragraph);
-              const accurateText = paragraph.includes("brings together 19 doctors") || paragraph.includes("comprises 19 rheumatologists")
-                ? translated.replace(/\b19\b/, String(memberCount))
-                : translated;
-              return <p key={paragraph.slice(0, 36)}>{accurateText}</p>;
+              return <p key={paragraph.slice(0, 36)}>{t(paragraph)}</p>;
             })}
           </div>
-        </div>
-      </section>
-
-      <section className="rounded-[1.7rem] border border-ink-100 bg-white p-6 sm:p-8">
-        <div className="flex flex-wrap items-end justify-between gap-4">
-          <div>
-            <p className={`font-display font-semibold tracking-[0.17em] text-crimson-600 uppercase ${
-              locale === "ar" ? "text-[13px]" : "text-[10px]"
-            }`}>
-              {t("Connect with the group")}
-            </p>
-            <h2 className="mt-3 font-display text-2xl font-semibold tracking-[-0.025em] text-ink-950">
-              {t("Follow AAAA Group")}
-            </h2>
-          </div>
-          <p className="max-w-md text-[13px] leading-6 text-ink-500">
-            {t("Follow AAAA Group for patient education, awareness activities, and webinar updates.")}
-          </p>
-        </div>
-
-        <div className="mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
-          {aaaaSocialLinks.map(({ label, handle, href, Icon, color }) => (
-            <a
-              key={label}
-              href={href}
-              target="_blank"
-              rel="noreferrer"
-              aria-label={`${t("AAAA Group on")} ${label}`}
-              className="group flex min-h-20 items-center gap-4 rounded-2xl border border-ink-100 bg-[#f8faf9] px-5 py-4 transition-colors hover:border-ink-200 hover:bg-white"
-            >
-              <span className={`grid size-10 shrink-0 place-items-center rounded-xl bg-white shadow-sm ${color}`}>
-                <Icon className="size-5" />
-              </span>
-              <span className="min-w-0 flex-1">
-                <span className="block font-display text-[13px] font-semibold text-ink-900">{label}</span>
-                <span className="mt-0.5 block truncate text-[11px] text-ink-500">{handle}</span>
-              </span>
-              <ExternalLink className="size-4 shrink-0 text-ink-300 transition-colors group-hover:text-crimson-600" />
-            </a>
-          ))}
         </div>
       </section>
 
@@ -144,7 +105,9 @@ function OverviewPanel({ data, memberCount }: { data: typeof aaaaData; memberCou
           }`}>
               {t("Mission")}
             </p>
-            <ul className="mt-6 grid gap-4">
+            <p className="mt-6 text-[14px] leading-6 text-sky-50/75">{t(missionIntroSource)}</p>
+            <p className="mt-4 font-display text-[15px] font-semibold text-white">{t(missionCommitmentSource)}</p>
+            <ul className="mt-4 grid gap-4">
               {data.page.missionSource.map((item) => (
                 <li
                   key={item}
@@ -170,10 +133,6 @@ function OverviewPanel({ data, memberCount }: { data: typeof aaaaData; memberCou
                 {t(paragraph)}
               </p>
             ))}
-            <div className="border-t border-jade-200 pt-4">
-              <p className="font-display text-lg font-semibold text-jade-800">{t(mottoSource)}</p>
-              <p className="mt-2 text-[13px] leading-6 text-ink-600">{t(mottoTextSource)}</p>
-            </div>
           </div>
         </section>
       </div>
@@ -229,14 +188,51 @@ function OverviewPanel({ data, memberCount }: { data: typeof aaaaData; memberCou
                   }
                 >
                   <div className="min-h-0 overflow-hidden">
-                    <p className="pb-6 ps-8 pe-[3.25rem] text-[14px] leading-7 text-ink-500">
-                      {t(objective.sourceText)}
-                    </p>
+                    <div className="space-y-3 pb-6 ps-8 pe-[3.25rem] text-[14px] leading-7 text-ink-500">
+                      {objective.sourceText.split("\n\n").map((paragraph) => <p key={paragraph.slice(0, 36)}>{t(paragraph)}</p>)}
+                    </div>
                   </div>
                 </div>
               </div>
             );
           })}
+        </div>
+      </section>
+
+      <section className="rounded-[1.7rem] border border-jade-100 bg-jade-50/55 p-6 sm:p-8">
+        <p className={`font-display font-semibold tracking-[0.17em] text-jade-700 uppercase ${
+          locale === "ar" ? "text-[13px]" : "text-[10px]"
+        }`}>
+          {t("Motto")}
+        </p>
+        <p className="mt-4 font-display text-xl font-semibold text-jade-800">{t(mottoSource)}</p>
+        <p className="mt-3 text-[14px] leading-7 text-ink-600">{t(mottoTextSource)}</p>
+      </section>
+
+      <section className="rounded-[1.7rem] border border-ink-100 bg-white p-6 sm:p-8">
+        <h2 className="font-display text-2xl font-semibold tracking-[-0.025em] text-ink-950">
+          {t("Official Social Links")}
+        </h2>
+        <div className="mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+          {aaaaSocialLinks.map(({ label, handle, href, Icon, color }) => (
+            <a
+              key={label}
+              href={href}
+              target="_blank"
+              rel="noreferrer"
+              aria-label={`${t("AAAA Group on")} ${label}`}
+              className="group flex min-h-20 items-center gap-4 rounded-2xl border border-ink-100 bg-[#f8faf9] px-5 py-4 transition-colors hover:border-ink-200 hover:bg-white"
+            >
+              <span className={`grid size-10 shrink-0 place-items-center rounded-xl bg-white shadow-sm ${color}`}>
+                <Icon className="size-5" />
+              </span>
+              <span className="min-w-0 flex-1">
+                <span className="block font-display text-[13px] font-semibold text-ink-900">{label}</span>
+                <span className="mt-0.5 block truncate text-[11px] text-ink-500">{handle}</span>
+              </span>
+              <ExternalLink className="size-4 shrink-0 text-ink-300 transition-colors group-hover:text-crimson-600" />
+            </a>
+          ))}
         </div>
       </section>
     </div>
@@ -389,7 +385,7 @@ export function AaaaGroupTabs({
       </nav>
 
       <div id="aaaa-group-tabpanel" role="tabpanel" className="mt-6">
-        {activeTab === "overview" ? <OverviewPanel data={data} memberCount={memberPeople.length} /> : null}
+        {activeTab === "overview" ? <OverviewPanel data={data} /> : null}
         {activeTab === "board" ? <PeoplePanel mode="board" people={boardPeople} /> : null}
         {activeTab === "members" ? <PeoplePanel mode="members" people={memberPeople} /> : null}
         {activeTab === "webinars" ? <WebinarsPanel archiveData={archiveData} /> : null}
