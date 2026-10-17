@@ -15,7 +15,7 @@ import {
   Globe,
   Users,
 } from "@/components/icons";
-import { Instagram, X, YouTube } from "@/components/social-icons";
+import { Facebook, Instagram, X, YouTube } from "@/components/social-icons";
 import type aaaaData from "@/data/aaaa-group.json";
 import { useTranslations } from "@/i18n/locale-context";
 
@@ -27,6 +27,13 @@ const tabs = [
 ] as const;
 
 const aaaaSocialLinks = [
+  {
+    label: "Facebook",
+    handle: "AAAA Group",
+    href: "https://www.facebook.com/aaaa.group/",
+    Icon: Facebook,
+    color: "text-[#1877f2]",
+  },
   {
     label: "Instagram",
     handle: "@aaaa.group",
@@ -55,6 +62,10 @@ type TabId = (typeof tabs)[number]["id"];
 function OverviewPanel({ data, memberCount }: { data: typeof aaaaData; memberCount: number }) {
   const { locale, t } = useTranslations();
   const aboutParagraphs = data.page.aboutClean.split("\n\n");
+  const visionParagraphs = data.page.visionSource.split("\n\n");
+  const objectiveIntroParagraphs = data.page.objectivesIntroSource.split("\n\n");
+  const mottoSource = data.page.mottoSource || "Purpose, Perseverance, Passion";
+  const mottoTextSource = data.page.mottoTextSource || "AAAA Group members embrace this motto in their collective endeavor to raise awareness of rheumatic diseases in the Arab region.";
   const [openObjective, setOpenObjective] = useState<number | null>(null);
 
   return (
@@ -72,7 +83,7 @@ function OverviewPanel({ data, memberCount }: { data: typeof aaaaData; memberCou
           <div className="mt-6 grid gap-5 text-[14px] leading-7 text-ink-600 lg:grid-cols-3">
             {aboutParagraphs.map((paragraph) => {
               const translated = t(paragraph);
-              const accurateText = paragraph.includes("brings together 19 doctors")
+              const accurateText = paragraph.includes("brings together 19 doctors") || paragraph.includes("comprises 19 rheumatologists")
                 ? translated.replace(/\b19\b/, String(memberCount))
                 : translated;
               return <p key={paragraph.slice(0, 36)}>{accurateText}</p>;
@@ -98,7 +109,7 @@ function OverviewPanel({ data, memberCount }: { data: typeof aaaaData; memberCou
           </p>
         </div>
 
-        <div className="mt-6 grid gap-3 sm:grid-cols-3">
+        <div className="mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
           {aaaaSocialLinks.map(({ label, handle, href, Icon, color }) => (
             <a
               key={label}
@@ -153,9 +164,17 @@ function OverviewPanel({ data, memberCount }: { data: typeof aaaaData; memberCou
           }`}>
             {t("Vision")}
           </p>
-          <p className="mt-6 font-display text-2xl font-semibold leading-9 tracking-[-0.025em] text-ink-900">
-            {t(data.page.visionSource)}
-          </p>
+          <div className="mt-6 space-y-4">
+            {visionParagraphs.map((paragraph, index) => (
+              <p key={paragraph.slice(0, 36)} className={index === 0 ? "font-display text-xl font-semibold leading-8 tracking-[-0.02em] text-ink-900" : "text-[14px] leading-7 text-ink-600"}>
+                {t(paragraph)}
+              </p>
+            ))}
+            <div className="border-t border-jade-200 pt-4">
+              <p className="font-display text-lg font-semibold text-jade-800">{t(mottoSource)}</p>
+              <p className="mt-2 text-[13px] leading-6 text-ink-600">{t(mottoTextSource)}</p>
+            </div>
+          </div>
         </section>
       </div>
 
@@ -166,9 +185,9 @@ function OverviewPanel({ data, memberCount }: { data: typeof aaaaData; memberCou
           }`}>
             {t("Objectives")}
           </p>
-          <p className="mt-4 text-[14px] leading-7 text-ink-500">
-            {t(data.page.objectivesIntroSource)}
-          </p>
+          <div className="mt-4 space-y-3 text-[14px] leading-7 text-ink-500">
+            {objectiveIntroParagraphs.map((paragraph) => <p key={paragraph.slice(0, 36)}>{t(paragraph)}</p>)}
+          </div>
         </div>
 
         <div className="mt-7 divide-y divide-ink-100 border-y border-ink-100">
