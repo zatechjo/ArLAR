@@ -25,9 +25,14 @@ export default async function AdminSigEditorPage({ params, searchParams }: PageP
   const placementOrder = new Map<string, number>();
   for (const section of [...new Set(linkedPeople.map(({ appearance }) => appearance.section))]) {
     const sectionPeople = linkedPeople.filter(({ appearance }) => appearance.section === section);
-    const hasCompleteOrder = sectionPeople.every(({ appearance }) => appearance.sortOrderVersion === 1 && Number.isFinite(appearance.sortOrder));
     sectionPeople
-      .toSorted((a, b) => (hasCompleteOrder ? (a.appearance.sortOrder ?? 0) - (b.appearance.sortOrder ?? 0) : 0) || a.doctor.fullName.localeCompare(b.doctor.fullName))
+      .toSorted((a, b) => {
+        const aSaved = a.appearance.sortOrderVersion === 1 && Number.isFinite(a.appearance.sortOrder);
+        const bSaved = b.appearance.sortOrderVersion === 1 && Number.isFinite(b.appearance.sortOrder);
+        if (aSaved !== bSaved) return aSaved ? -1 : 1;
+        return (aSaved ? (a.appearance.sortOrder ?? 0) - (b.appearance.sortOrder ?? 0) : 0)
+          || a.doctor.fullName.localeCompare(b.doctor.fullName);
+      })
       .forEach(({ doctor, appearance }, index) => placementOrder.set(`${doctor.id}\u0000${appearance.id}`, index + 1));
   }
   const profileSections = profile?.tabs.filter((tab) => tab.kind === "people").map((tab) => tab.label) || [];

@@ -21,12 +21,13 @@ export async function listAssignedDoctorsAsync(pageId: string): Promise<Assigned
       .filter((placement) => placement.pageId === pageId)
       .map((placement) => ({ doctor, placement })),
   );
-  const sectionsWithCompleteOrder = new Set([...new Set(assigned.map(({ placement }) => placement.section))]
-    .filter((section) => assigned.filter(({ placement }) => placement.section === section)
-      .every(({ placement }) => placement.sortOrderVersion === 1 && Number.isFinite(placement.sortOrder))));
-  return assigned.toSorted((a, b) =>
-    a.placement.section.localeCompare(b.placement.section)
-    || (sectionsWithCompleteOrder.has(a.placement.section) ? (a.placement.sortOrder ?? 0) - (b.placement.sortOrder ?? 0) : 0)
-    || a.doctor.fullName.localeCompare(b.doctor.fullName),
-  );
+  return assigned.toSorted((a, b) => {
+    const sectionOrder = a.placement.section.localeCompare(b.placement.section);
+    if (sectionOrder) return sectionOrder;
+    const aSaved = a.placement.sortOrderVersion === 1 && Number.isFinite(a.placement.sortOrder);
+    const bSaved = b.placement.sortOrderVersion === 1 && Number.isFinite(b.placement.sortOrder);
+    if (aSaved !== bSaved) return aSaved ? -1 : 1;
+    return (aSaved ? (a.placement.sortOrder ?? 0) - (b.placement.sortOrder ?? 0) : 0)
+      || a.doctor.fullName.localeCompare(b.doctor.fullName);
+  });
 }
