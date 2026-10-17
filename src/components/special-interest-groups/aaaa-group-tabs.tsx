@@ -93,6 +93,33 @@ function OverviewPanel({ data }: { data: typeof aaaaData }) {
         </div>
       </section>
 
+      <section className="rounded-[1.7rem] border border-ink-100 bg-white p-6 sm:p-8">
+        <h2 className="font-display text-2xl font-semibold tracking-[-0.025em] text-ink-950">
+          {t("Official Social Links")}
+        </h2>
+        <div className="mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+          {aaaaSocialLinks.map(({ label, handle, href, Icon, color }) => (
+            <a
+              key={label}
+              href={href}
+              target="_blank"
+              rel="noreferrer"
+              aria-label={`${t("AAAA Group on")} ${label}`}
+              className="group flex min-h-20 items-center gap-4 rounded-2xl border border-ink-100 bg-[#f8faf9] px-5 py-4 transition-colors hover:border-ink-200 hover:bg-white"
+            >
+              <span className={`grid size-10 shrink-0 place-items-center rounded-xl bg-white shadow-sm ${color}`}>
+                <Icon className="size-5" />
+              </span>
+              <span className="min-w-0 flex-1">
+                <span className="block font-display text-[13px] font-semibold text-ink-900">{label}</span>
+                <span className="mt-0.5 block truncate text-[11px] text-ink-500">{handle}</span>
+              </span>
+              <ExternalLink className="size-4 shrink-0 text-ink-300 transition-colors group-hover:text-crimson-600" />
+            </a>
+          ))}
+        </div>
+      </section>
+
       <div className="grid gap-5 lg:grid-cols-2">
         <section className="relative isolate overflow-hidden rounded-[1.7rem] bg-[#07131f] p-6 text-white sm:p-8">
           <div
@@ -209,32 +236,6 @@ function OverviewPanel({ data }: { data: typeof aaaaData }) {
         <p className="mt-3 text-[14px] leading-7 text-ink-600">{t(mottoTextSource)}</p>
       </section>
 
-      <section className="rounded-[1.7rem] border border-ink-100 bg-white p-6 sm:p-8">
-        <h2 className="font-display text-2xl font-semibold tracking-[-0.025em] text-ink-950">
-          {t("Official Social Links")}
-        </h2>
-        <div className="mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
-          {aaaaSocialLinks.map(({ label, handle, href, Icon, color }) => (
-            <a
-              key={label}
-              href={href}
-              target="_blank"
-              rel="noreferrer"
-              aria-label={`${t("AAAA Group on")} ${label}`}
-              className="group flex min-h-20 items-center gap-4 rounded-2xl border border-ink-100 bg-[#f8faf9] px-5 py-4 transition-colors hover:border-ink-200 hover:bg-white"
-            >
-              <span className={`grid size-10 shrink-0 place-items-center rounded-xl bg-white shadow-sm ${color}`}>
-                <Icon className="size-5" />
-              </span>
-              <span className="min-w-0 flex-1">
-                <span className="block font-display text-[13px] font-semibold text-ink-900">{label}</span>
-                <span className="mt-0.5 block truncate text-[11px] text-ink-500">{handle}</span>
-              </span>
-              <ExternalLink className="size-4 shrink-0 text-ink-300 transition-colors group-hover:text-crimson-600" />
-            </a>
-          ))}
-        </div>
-      </section>
     </div>
   );
 }
